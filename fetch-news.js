@@ -6,7 +6,7 @@ const API_CONFIG = {
   ENDPOINT: 'https://api.gdeltproject.org/api/v2/doc/doc',
   TIMEOUT_MS: 15000,
   MAX_RETRIES: 2,
-  BATCH_SIZE: 6, // Reduzido para 6 domínios por lote (tamanho conservador testado com sucesso)
+  BATCH_SIZE: 6,
   BATCH_DELAY_MS: 7000, // 7 segundos padrão entre lotes
   OUTPUT_FILE: path.join(__dirname, 'news-data.json')
 };
@@ -107,9 +107,10 @@ function matchSourceByUrl(articleUrl, domainQuery) {
 
 async function fetchBatchGdelt(domainsBatch, timespanParam, retry = 0) {
   return new Promise((resolve) => {
+    // Adiciona o filtro de idioma sourcelang:portuguese à consulta do lote
     const domainQuery = domainsBatch.map(d => `domain:${d}`).join(' OR ');
     const params = new URLSearchParams({
-      query: `(${domainQuery})`,
+      query: `(${domainQuery}) sourcelang:portuguese`,
       mode: 'artlist',
       format: 'json',
       sort: 'datedesc',
@@ -152,6 +153,7 @@ async function fetchBatchGdelt(domainsBatch, timespanParam, retry = 0) {
             return;
           }
 
+          console.log(`📥 [DIAGNÓSTICO RESPOSTA] Lote finalizado com status HTTP ${res.statusCode} (0 artigos).`);
           resolve([]);
           return;
         }
@@ -169,6 +171,7 @@ async function fetchBatchGdelt(domainsBatch, timespanParam, retry = 0) {
           console.warn(`⚠️ [DIAGNÓSTICO PARSE ERROR]: ${e.message}. Resposta recebida: ${body.substring(0, 150)}`);
         }
 
+        console.log(`📥 [DIAGNÓSTICO RESPOSTA] 0 artigos recebidos para este lote.`);
         resolve([]);
       });
     });
@@ -179,6 +182,7 @@ async function fetchBatchGdelt(domainsBatch, timespanParam, retry = 0) {
         await sleep(API_CONFIG.BATCH_DELAY_MS + 3000);
         resolve(await fetchBatchGdelt(domainsBatch, timespanParam, retry + 1));
       } else {
+        console.log(`📥 [DIAGNÓSTICO RESPOSTA] Lote finalizado com erro de rede (0 artigos).`);
         resolve([]);
       }
     });
@@ -186,6 +190,7 @@ async function fetchBatchGdelt(domainsBatch, timespanParam, retry = 0) {
     req.on('timeout', () => {
       console.warn(`⚠️ [DIAGNÓSTICO TIMEOUT] Requisição excedeu ${API_CONFIG.TIMEOUT_MS}ms.`);
       req.destroy();
+      console.log(`📥 [DIAGNÓSTICO RESPOSTA] Lote finalizado por timeout (0 artigos).`);
       resolve([]);
     });
   });
