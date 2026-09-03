@@ -7,7 +7,7 @@ const API_CONFIG = {
   TIMEOUT_MS: 15000,
   MAX_RETRIES: 2,
   BATCH_SIZE: 12,
-  BATCH_DELAY_MS: 7000, // 7 segundos entre lotes para respeitar rigorosamente o rate-limit (429) da GDELT
+  BATCH_DELAY_MS: 7000, // 7 segundos padrão entre lotes
   OUTPUT_FILE: path.join(__dirname, 'news-data.json')
 };
 
@@ -47,10 +47,6 @@ const SOURCES_REGISTRY = [
   { id: 'guia-midia-china', name: 'Guia de Mídia (China)', url: 'https://www.guiademidia.com.br/jornais/asia/china.htm', country: 'China', type: 'Imprensa Internacional / Pública', editorial: 'Diretório de cobertura da imprensa asiática e chinesa' }
 ];
 
-/**
- * Extrai o hostname exato preservando subdomínios (ex: 'g1.globo.com', 'agenciabrasil.ebc.com.br')
- * e removendo unicamente o prefixo 'www.' caso presente.
- */
 function extractExactDomain(urlString) {
   try {
     const parsed = new URL(urlString);
@@ -64,7 +60,6 @@ function extractExactDomain(urlString) {
   }
 }
 
-// Associa o hostname exato a cada fonte no registro
 SOURCES_REGISTRY.forEach(src => {
   src.domain = extractExactDomain(src.url);
 });
@@ -88,7 +83,7 @@ function parseGdeltDate(seendateStr) {
     const month = seendateStr.substring(4, 6);
     const day = seendateStr.substring(6, 8);
     const hour = seendateStr.length >= 10 ? seendateStr.substring(8, 10) : '00';
-    const min = seendateStr.length >= 12 ? seendateStr.substring(10, 12) : '00';
+    const min = seendateStr.length >= 10 ? seendateStr.substring(10, 12) : '00';
     const sec = seendateStr.length >= 14 ? seendateStr.substring(12, 14) : '00';
 
     const isoStr = `${year}-${month}-${day}T${hour}:${min}:${sec}Z`;
@@ -112,7 +107,6 @@ function matchSourceByUrl(articleUrl, domainQuery) {
 
 async function fetchBatchGdelt(domainsBatch, timespanParam, retry = 0) {
   return new Promise((resolve) => {
-    // Uso do operador 'domain:' que é abrangente e aceita correspondência com subdomínios
     const domainQuery = domainsBatch.map(d => `domain:${d}`).join(' OR ');
     const params = new URLSearchParams({
       query: `(${domainQuery})`,
@@ -125,7 +119,6 @@ async function fetchBatchGdelt(domainsBatch, timespanParam, retry = 0) {
 
     const requestUrl = `${API_CONFIG.ENDPOINT}?${params.toString()}`;
 
-    // DIAGNÓSTICO: Log da URL completa enviada à GDELT
     console.log(`📡 [DIAGNÓSTICO REQUISIÇÃO] (Tentativa ${retry + 1}) URL: ${requestUrl}`);
 
     const req = https.get(requestUrl, {
@@ -133,25 +126,52 @@ async function fetchBatchGdelt(domainsBatch, timespanParam, retry = 0) {
       headers: {
         'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) Monitor-RI-Bot/2.0'
       }
-    }, (res) => {
+    }, async (res) => {
       let body = '';
       res.on('data', chunk => body += chunk);
-      res.on('end', () => {
+      res.on('end', async () => {
+        // Tratar status de erro HTTP (como 429 Too Many Requests) acionando a rotina de retry com espera
+        if (res.statusCode < 200 || res.statusCode >= 300) {
+          console.warn(`⚠️ [DIAGNÓSTICO AVISO] Resposta HTTP ${res.statusCode}: ${body.substring(0, 150)}`);
+
+          if (retry < API_CONFIG.MAX_RETRIES) {
+            // Verificar se a API devolveu o cabeçalho Retry-After
+            let retryWaitMs = API_CONFIG.BATCH_DELAY_MS + 3000; // 10 segundos de espera por padrão no retry
+            const retryAfterHeader = res.headers['retry-after'];
+            if (retryAfterHeader) {
+              const seconds = parseInt(retryAfterHeader, 10);
+              if (!isNaN(seconds) && seconds > 0) {
+                retryWaitMs = seconds * 1000;
+                console.log(`⏳ Cabeçalho Retry-After detectado: aguardando ${seconds}s antes da tentativa ${retry + 2}...`);
+              }
+            } else {
+              console.log(`⏳ Status HTTP ${res.statusCode} detectado. Aguardando ${retryWaitMs / 1000}s para tentativa ${retry + 2}...`);
+            }
+
+            await sleep(retryWaitMs);
+            const retryResults = await fetchBatchGdelt(domainsBatch, timespanParam, retry + 1);
+            resolve(retryResults);
+            return;
+          }
+
+          resolve([]);
+          return;
+        }
+
+        // Caso a resposta HTTP seja 200 OK
         try {
-          if (res.statusCode >= 200 && res.statusCode < 300 && body) {
+          if (body) {
             const json = JSON.parse(body);
             if (json && Array.isArray(json.articles)) {
-              // DIAGNÓSTICO: Log da resposta bruta da API antes dos filtros
               console.log(`📥 [DIAGNÓSTICO RESPOSTA] ${json.articles.length} artigos recebidos na resposta BRUTA da API GDELT.`);
               resolve(json.articles);
               return;
             }
-          } else {
-            console.warn(`⚠️ [DIAGNÓSTICO AVISO] Resposta HTTP ${res.statusCode}: ${body.substring(0, 150)}`);
           }
         } catch (e) {
           console.warn(`⚠️ [DIAGNÓSTICO PARSE ERROR]: ${e.message}. Resposta recebida: ${body.substring(0, 150)}`);
         }
+
         resolve([]);
       });
     });
@@ -159,7 +179,7 @@ async function fetchBatchGdelt(domainsBatch, timespanParam, retry = 0) {
     req.on('error', async (err) => {
       console.warn(`⚠️ [DIAGNÓSTICO ERRO REDE]: ${err.message}`);
       if (retry < API_CONFIG.MAX_RETRIES) {
-        await sleep(API_CONFIG.BATCH_DELAY_MS);
+        await sleep(API_CONFIG.BATCH_DELAY_MS + 3000);
         resolve(await fetchBatchGdelt(domainsBatch, timespanParam, retry + 1));
       } else {
         resolve([]);
@@ -167,7 +187,7 @@ async function fetchBatchGdelt(domainsBatch, timespanParam, retry = 0) {
     });
 
     req.on('timeout', () => {
-      console.warn(`⚠️ [DIAGNÓSTICO TIMEOUT] Requisicao excedeu ${API_CONFIG.TIMEOUT_MS}ms.`);
+      console.warn(`⚠️ [DIAGNÓSTICO TIMEOUT] Requisição excedeu ${API_CONFIG.TIMEOUT_MS}ms.`);
       req.destroy();
       resolve([]);
     });
