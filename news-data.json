@@ -1,10 +1,164 @@
 {
-  "updatedAt": "2026-09-03T13:49:13.372Z",
-  "periodUsed": "7d",
+  "updatedAt": "2026-09-03T14:14:05.743Z",
+  "periodUsed": "24h",
   "count": 75,
   "articles": [
     {
-      "id": "gdelt-55kvo59",
+      "id": "gdelt-u9j3u8n",
+      "title": "Обид за напад врз воен концерн во Минхен",
+      "sourceName": "DW Brasil",
+      "sourceUrl": "https://www.dw.com/pt-br/",
+      "sourceType": "Imprensa Internacional / Pública",
+      "sourceEditorial": "Emissora pública da Alemanha; foco em diplomacia e direitos humanos",
+      "country": "Alemanha",
+      "paywall": false,
+      "originalUrl": "https://www.dw.com/mk/obid-za-napad-vrz-voen-koncern-vo-minhen-uapseni-dvajca-bugari/a-78843983",
+      "publishedAtStr": "",
+      "publishedAtTs": null,
+      "rawContent": "Обид за напад врз воен концерн во Минхен"
+    },
+    {
+      "id": "gdelt-jhcxzoe",
+      "title": "Harry e Meghan matriculam filhos em escola de elite no Reino Unido ; veja quanto custa",
+      "sourceName": "G1 Mundo",
+      "sourceUrl": "https://g1.globo.com/mundo/",
+      "sourceType": "Imprensa Comercial Brasileira",
+      "sourceEditorial": "Portal de notícias mainstream do Grupo Globo",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://oglobo.globo.com/ela/noticia/2026/09/03/harry-e-meghan-matriculam-filhos-em-escola-de-elite-no-reino-unido-veja-quanto-custa.ghtml",
+      "publishedAtStr": "",
+      "publishedAtTs": null,
+      "rawContent": "Harry e Meghan matriculam filhos em escola de elite no Reino Unido ; veja quanto custa"
+    },
+    {
+      "id": "gdelt-xvs2bl2",
+      "title": "Мицкоски : Не се плашам од истрагата за унгарскиот кредит",
+      "sourceName": "DW Brasil",
+      "sourceUrl": "https://www.dw.com/pt-br/",
+      "sourceType": "Imprensa Internacional / Pública",
+      "sourceEditorial": "Emissora pública da Alemanha; foco em diplomacia e direitos humanos",
+      "country": "Alemanha",
+      "paywall": false,
+      "originalUrl": "https://www.dw.com/mk/mickoski-ne-se-plasam-od-istragata-za-ungarskiot-kredit-parite-se-potroseni-transparentno/a-78865487",
+      "publishedAtStr": "",
+      "publishedAtTs": null,
+      "rawContent": "Мицкоски : Не се плашам од истрагата за унгарскиот кредит"
+    },
+    {
+      "id": "gdelt-xz5yn87",
+      "title": "¿ Logrará Apple solucionar sus problemas con la IA ?",
+      "sourceName": "DW Brasil",
+      "sourceUrl": "https://www.dw.com/pt-br/",
+      "sourceType": "Imprensa Internacional / Pública",
+      "sourceEditorial": "Emissora pública da Alemanha; foco em diplomacia e direitos humanos",
+      "country": "Alemanha",
+      "paywall": false,
+      "originalUrl": "https://www.dw.com/es/lograr%C3%A1-apple-solucionar-sus-problemas-con-la-ia/a-78656654",
+      "publishedAtStr": "",
+      "publishedAtTs": null,
+      "rawContent": "¿ Logrará Apple solucionar sus problemas con la IA ?"
+    },
+    {
+      "id": "gdelt-dm92w3z",
+      "title": "De ce pierd partidele alegătorii cu trecut migraționist",
+      "sourceName": "DW Brasil",
+      "sourceUrl": "https://www.dw.com/pt-br/",
+      "sourceType": "Imprensa Internacional / Pública",
+      "sourceEditorial": "Emissora pública da Alemanha; foco em diplomacia e direitos humanos",
+      "country": "Alemanha",
+      "paywall": false,
+      "originalUrl": "https://www.dw.com/ro/de-ce-pierd-partidele-aleg%C4%83torii-cu-trecut-migra%C8%9Bionist/a-78877306",
+      "publishedAtStr": "",
+      "publishedAtTs": null,
+      "rawContent": "De ce pierd partidele alegătorii cu trecut migraționist"
+    },
+    {
+      "id": "gdelt-8s541tn",
+      "title": "Festival Ferrock é tema do Espaço Arte desta sexta - feira ( 4 )",
+      "sourceName": "Agência Brasil",
+      "sourceUrl": "https://agenciabrasil.ebc.com.br/internacional",
+      "sourceType": "Agência Estatal",
+      "sourceEditorial": "Agência pública de notícias da EBC (Governo Federal)",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://www.ebc.com.br/imprensa/2026/festival-ferrock-e-tema-do-espaco-arte-desta-sexta-feira-4",
+      "publishedAtStr": "",
+      "publishedAtTs": null,
+      "rawContent": "Festival Ferrock é tema do Espaço Arte desta sexta - feira ( 4 )"
+    },
+    {
+      "id": "gdelt-3kht2w5",
+      "title": "Трамп и Иран : Закана од војна без крај",
+      "sourceName": "DW Brasil",
+      "sourceUrl": "https://www.dw.com/pt-br/",
+      "sourceType": "Imprensa Internacional / Pública",
+      "sourceEditorial": "Emissora pública da Alemanha; foco em diplomacia e direitos humanos",
+      "country": "Alemanha",
+      "paywall": false,
+      "originalUrl": "https://www.dw.com/mk/trampovata-strategija-kon-iran-dali-sad-vleguvaat-vo-nov-voen-konflikt-bez-kraj/a-78829337",
+      "publishedAtStr": "",
+      "publishedAtTs": null,
+      "rawContent": "Трамп и Иран : Закана од војна без крај"
+    },
+    {
+      "id": "gdelt-py29vd8",
+      "title": "O que é  sexo por compaixão ? Estudo revela por que mulheres mantêm relaes sem desejo",
+      "sourceName": "G1 Mundo",
+      "sourceUrl": "https://g1.globo.com/mundo/",
+      "sourceType": "Imprensa Comercial Brasileira",
+      "sourceEditorial": "Portal de notícias mainstream do Grupo Globo",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://oglobo.globo.com/ela/noticia/2026/09/03/o-que-e-sexo-por-compaixao-estudo-revela-por-que-mulheres-mantem-relacoes-sem-desejo.ghtml",
+      "publishedAtStr": "",
+      "publishedAtTs": null,
+      "rawContent": "O que é  sexo por compaixão ? Estudo revela por que mulheres mantêm relaes sem desejo"
+    },
+    {
+      "id": "gdelt-ikkjhxr",
+      "title": "Brasileira é eleita pela 2ª vez a mais bonita entre criadoras de conteúdo adulto 60+ ; veja quem é",
+      "sourceName": "G1 Mundo",
+      "sourceUrl": "https://g1.globo.com/mundo/",
+      "sourceType": "Imprensa Comercial Brasileira",
+      "sourceEditorial": "Portal de notícias mainstream do Grupo Globo",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://oglobo.globo.com/ela/noticia/2026/09/03/brasileira-e-eleita-pela-2a-vez-a-mais-bonita-entre-criadoras-de-conteudo-adulto-60-veja-quem-e.ghtml",
+      "publishedAtStr": "",
+      "publishedAtTs": null,
+      "rawContent": "Brasileira é eleita pela 2ª vez a mais bonita entre criadoras de conteúdo adulto 60+ ; veja quem é"
+    },
+    {
+      "id": "gdelt-cd53rdf",
+      "title": "Временскиот феномен Ел Нињо ќе стане „ многу силен",
+      "sourceName": "DW Brasil",
+      "sourceUrl": "https://www.dw.com/pt-br/",
+      "sourceType": "Imprensa Internacional / Pública",
+      "sourceEditorial": "Emissora pública da Alemanha; foco em diplomacia e direitos humanos",
+      "country": "Alemanha",
+      "paywall": false,
+      "originalUrl": "https://www.dw.com/mk/el-nino-ke-stane-mnogu-silen-i-ke-donese-ekstremno-vreme-vo-narednite-meseci/a-78823053",
+      "publishedAtStr": "",
+      "publishedAtTs": null,
+      "rawContent": "Временскиот феномен Ел Нињо ќе стане „ многу силен"
+    },
+    {
+      "id": "gdelt-yifyy13",
+      "title": "Murilo Huff dá  diária  de R$ 50 ao filho de Marília Mendonça para ensinar educao financeira",
+      "sourceName": "G1 Mundo",
+      "sourceUrl": "https://g1.globo.com/mundo/",
+      "sourceType": "Imprensa Comercial Brasileira",
+      "sourceEditorial": "Portal de notícias mainstream do Grupo Globo",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://oglobo.globo.com/ela/noticia/2026/09/03/murilo-huff-da-diaria-de-r-50-ao-filho-de-marilia-mendonca-para-ensinar-educacao-financeira.ghtml",
+      "publishedAtStr": "",
+      "publishedAtTs": null,
+      "rawContent": "Murilo Huff dá  diária  de R$ 50 ao filho de Marília Mendonça para ensinar educao financeira"
+    },
+    {
+      "id": "gdelt-upgf65p",
       "title": "El Niño alimenta raro trio de furacões no Pacífico",
       "sourceName": "DW Brasil",
       "sourceUrl": "https://www.dw.com/pt-br/",
@@ -18,7 +172,7 @@
       "rawContent": "El Niño alimenta raro trio de furacões no Pacífico"
     },
     {
-      "id": "gdelt-rwx5cix",
+      "id": "gdelt-1enf2e0",
       "title": "Iran yakaidi vitisho vya Trump , yajibu mashambulizi",
       "sourceName": "DW Brasil",
       "sourceUrl": "https://www.dw.com/pt-br/",
@@ -32,7 +186,7 @@
       "rawContent": "Iran yakaidi vitisho vya Trump , yajibu mashambulizi"
     },
     {
-      "id": "gdelt-fs88wsb",
+      "id": "gdelt-wnt1ycx",
       "title": "Irán ataca objetivos de EE . UU . en Kuwait pese a amenazas",
       "sourceName": "DW Brasil",
       "sourceUrl": "https://www.dw.com/pt-br/",
@@ -46,7 +200,7 @@
       "rawContent": "Irán ataca objetivos de EE . UU . en Kuwait pese a amenazas"
     },
     {
-      "id": "gdelt-1fjp3ff",
+      "id": "gdelt-2ig5egi",
       "title": "Quem ama cuida : Ademir flagra Dora e André juntos na cama e parte para cima",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -60,7 +214,7 @@
       "rawContent": "Quem ama cuida : Ademir flagra Dora e André juntos na cama e parte para cima"
     },
     {
-      "id": "gdelt-ppr2k33",
+      "id": "gdelt-fdodn3w",
       "title": "Lavrov anuncia fechamento do Instituto Goethe na Rússia",
       "sourceName": "DW Brasil",
       "sourceUrl": "https://www.dw.com/pt-br/",
@@ -74,7 +228,7 @@
       "rawContent": "Lavrov anuncia fechamento do Instituto Goethe na Rússia"
     },
     {
-      "id": "gdelt-xh6zj4e",
+      "id": "gdelt-cty7vkw",
       "title": "Quiz : teste seus conhecimentos sobre músculos com 16 perguntas",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -88,7 +242,7 @@
       "rawContent": "Quiz : teste seus conhecimentos sobre músculos com 16 perguntas"
     },
     {
-      "id": "gdelt-ig0qsfe",
+      "id": "gdelt-qdxf1q2",
       "title": "На агентстве по вооружениям в Бонне - граффити  Война войне",
       "sourceName": "DW Brasil",
       "sourceUrl": "https://www.dw.com/pt-br/",
@@ -102,7 +256,7 @@
       "rawContent": "На агентстве по вооружениям в Бонне - граффити  Война войне"
     },
     {
-      "id": "gdelt-824ykgx",
+      "id": "gdelt-6dd9u2v",
       "title": "Картину Кандинского  Красочную жизнь  ждет аукцион в Лондоне",
       "sourceName": "DW Brasil",
       "sourceUrl": "https://www.dw.com/pt-br/",
@@ -116,7 +270,7 @@
       "rawContent": "Картину Кандинского  Красочную жизнь  ждет аукцион в Лондоне"
     },
     {
-      "id": "gdelt-q7o1l3n",
+      "id": "gdelt-7cbjhpt",
       "title": "Melih Gökçek Ankarada neden şüpheli olarak ifade verecek ?",
       "sourceName": "DW Brasil",
       "sourceUrl": "https://www.dw.com/pt-br/",
@@ -130,7 +284,7 @@
       "rawContent": "Melih Gökçek Ankarada neden şüpheli olarak ifade verecek ?"
     },
     {
-      "id": "gdelt-8kaf6o7",
+      "id": "gdelt-zc0ai97",
       "title": "Kenya President William Ruto orders crackdown on foreigners operating small businesses",
       "sourceName": "BBC News Brasil",
       "sourceUrl": "https://www.bbc.com/portuguese",
@@ -144,7 +298,7 @@
       "rawContent": "Kenya President William Ruto orders crackdown on foreigners operating small businesses"
     },
     {
-      "id": "gdelt-bkvpxli",
+      "id": "gdelt-2kr7ygc",
       "title": "Avrupa Şampiyonası : Filenin Sultanları Almanya karşısında",
       "sourceName": "DW Brasil",
       "sourceUrl": "https://www.dw.com/pt-br/",
@@ -158,7 +312,7 @@
       "rawContent": "Avrupa Şampiyonası : Filenin Sultanları Almanya karşısında"
     },
     {
-      "id": "gdelt-03mrlfu",
+      "id": "gdelt-z0fp11n",
       "title": "Almanyadan Rusyanın Goethe Enstitüsü misillemesine tepki",
       "sourceName": "DW Brasil",
       "sourceUrl": "https://www.dw.com/pt-br/",
@@ -172,7 +326,7 @@
       "rawContent": "Almanyadan Rusyanın Goethe Enstitüsü misillemesine tepki"
     },
     {
-      "id": "gdelt-l930ard",
+      "id": "gdelt-annsxn7",
       "title": "Carla Jeffery :  Beautiful , vibrant  Disney star dies at 33",
       "sourceName": "BBC News Brasil",
       "sourceUrl": "https://www.bbc.com/portuguese",
@@ -186,7 +340,7 @@
       "rawContent": "Carla Jeffery :  Beautiful , vibrant  Disney star dies at 33"
     },
     {
-      "id": "gdelt-653lc21",
+      "id": "gdelt-1wxahxq",
       "title": "MoD withheld information about nuclear test veteran records , ex - minister claims",
       "sourceName": "BBC News Brasil",
       "sourceUrl": "https://www.bbc.com/portuguese",
@@ -200,7 +354,7 @@
       "rawContent": "MoD withheld information about nuclear test veteran records , ex - minister claims"
     },
     {
-      "id": "gdelt-ysdfw06",
+      "id": "gdelt-1xnuab4",
       "title": "Robotaksi : Londrada otonom taksi dönemi başladı",
       "sourceName": "DW Brasil",
       "sourceUrl": "https://www.dw.com/pt-br/",
@@ -214,7 +368,7 @@
       "rawContent": "Robotaksi : Londrada otonom taksi dönemi başladı"
     },
     {
-      "id": "gdelt-5a8go08",
+      "id": "gdelt-zp03q1c",
       "title": "Indonesia fires : Toxic haze spreads across South East Asia amid  super  El Niño",
       "sourceName": "BBC News Brasil",
       "sourceUrl": "https://www.bbc.com/portuguese",
@@ -228,7 +382,7 @@
       "rawContent": "Indonesia fires : Toxic haze spreads across South East Asia amid  super  El Niño"
     },
     {
-      "id": "gdelt-tto8tof",
+      "id": "gdelt-njourer",
       "title": "Gloria Steinem : An icon of American feminism",
       "sourceName": "BBC News Brasil",
       "sourceUrl": "https://www.bbc.com/portuguese",
@@ -242,7 +396,7 @@
       "rawContent": "Gloria Steinem : An icon of American feminism"
     },
     {
-      "id": "gdelt-un41ok8",
+      "id": "gdelt-r1cvi75",
       "title": "India news : Jaishankar offers help to end war in Ukraine",
       "sourceName": "DW Brasil",
       "sourceUrl": "https://www.dw.com/pt-br/",
@@ -256,7 +410,7 @@
       "rawContent": "India news : Jaishankar offers help to end war in Ukraine"
     },
     {
-      "id": "gdelt-ywszhzo",
+      "id": "gdelt-b0xw1wg",
       "title": "Ahmet Davutoğluna  Cumhurbaşkanına hakaret  soruşturması",
       "sourceName": "DW Brasil",
       "sourceUrl": "https://www.dw.com/pt-br/",
@@ -270,7 +424,7 @@
       "rawContent": "Ahmet Davutoğluna  Cumhurbaşkanına hakaret  soruşturması"
     },
     {
-      "id": "gdelt-ocl9g3j",
+      "id": "gdelt-paz2g0s",
       "title": "BMden El Nino uyarısı :  Olağanüstü boyutlara  ulaşabilir",
       "sourceName": "DW Brasil",
       "sourceUrl": "https://www.dw.com/pt-br/",
@@ -284,7 +438,7 @@
       "rawContent": "BMden El Nino uyarısı :  Olağanüstü boyutlara  ulaşabilir"
     },
     {
-      "id": "gdelt-5lcllwq",
+      "id": "gdelt-hk9siee",
       "title": "ONU alerta que El Niño será  muito forte  e durará até fevereiro",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -298,7 +452,7 @@
       "rawContent": "ONU alerta que El Niño será  muito forte  e durará até fevereiro"
     },
     {
-      "id": "gdelt-qi2l1b9",
+      "id": "gdelt-9fr44wm",
       "title": "Só 100 minutos ? Quais foram os shows mais longos do Rock in Rio , com durao de mais de 3 horas",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -312,7 +466,7 @@
       "rawContent": "Só 100 minutos ? Quais foram os shows mais longos do Rock in Rio , com durao de mais de 3 horas"
     },
     {
-      "id": "gdelt-fv3cd76",
+      "id": "gdelt-ofrmhtr",
       "title": "Gloria Steinem , feminist activist and journalist , dies at 92",
       "sourceName": "DW Brasil",
       "sourceUrl": "https://www.dw.com/pt-br/",
@@ -326,7 +480,7 @@
       "rawContent": "Gloria Steinem , feminist activist and journalist , dies at 92"
     },
     {
-      "id": "gdelt-6nsba3u",
+      "id": "gdelt-915mmkg",
       "title": "Frente fria avança pelo país , com chuva e queda de temperatura , Nordeste terá calor de até 41°C ; veja previsão",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -340,7 +494,7 @@
       "rawContent": "Frente fria avança pelo país , com chuva e queda de temperatura , Nordeste terá calor de até 41°C ; veja previsão"
     },
     {
-      "id": "gdelt-egkdrrc",
+      "id": "gdelt-mjt8ica",
       "title": "Independentes , mulheres e baixa renda : o perfil do eleitor indeciso , segundo a Quaest",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -354,7 +508,7 @@
       "rawContent": "Independentes , mulheres e baixa renda : o perfil do eleitor indeciso , segundo a Quaest"
     },
     {
-      "id": "gdelt-94f72ka",
+      "id": "gdelt-zahuqo1",
       "title": "اسم غير معتاد .. محمد صلاح يرزق بمولود جديد",
       "sourceName": "DW Brasil",
       "sourceUrl": "https://www.dw.com/pt-br/",
@@ -368,7 +522,7 @@
       "rawContent": "اسم غير معتاد .. محمد صلاح يرزق بمولود جديد"
     },
     {
-      "id": "gdelt-tyw7n2s",
+      "id": "gdelt-k66ruul",
       "title": "Alemania : posible atentado contra empresa armamentística",
       "sourceName": "DW Brasil",
       "sourceUrl": "https://www.dw.com/pt-br/",
@@ -382,7 +536,7 @@
       "rawContent": "Alemania : posible atentado contra empresa armamentística"
     },
     {
-      "id": "gdelt-zp7gi6p",
+      "id": "gdelt-4ir5yx1",
       "title": "Донской мечтает спеть с Пугачевой",
       "sourceName": "DW Brasil",
       "sourceUrl": "https://www.dw.com/pt-br/",
@@ -396,7 +550,7 @@
       "rawContent": "Донской мечтает спеть с Пугачевой"
     },
     {
-      "id": "gdelt-llezpkg",
+      "id": "gdelt-stvkdcm",
       "title": "俄罗斯报复德国 宣布关闭俄境内歌德学院",
       "sourceName": "DW Brasil",
       "sourceUrl": "https://www.dw.com/pt-br/",
@@ -410,7 +564,7 @@
       "rawContent": "俄罗斯报复德国 宣布关闭俄境内歌德学院"
     },
     {
-      "id": "gdelt-677bpwc",
+      "id": "gdelt-lxlgo1s",
       "title": "Un asesinato literario : cómo  Life of M  desató un escándalo en Hollywood que involucra a Natalie Portman",
       "sourceName": "BBC News Brasil",
       "sourceUrl": "https://www.bbc.com/portuguese",
@@ -424,7 +578,7 @@
       "rawContent": "Un asesinato literario : cómo  Life of M  desató un escándalo en Hollywood que involucra a Natalie Portman"
     },
     {
-      "id": "gdelt-3jn3b8e",
+      "id": "gdelt-1miztol",
       "title": "„ Trampova ruta  na Kavkazu – investitor s ruskim korenima",
       "sourceName": "DW Brasil",
       "sourceUrl": "https://www.dw.com/pt-br/",
@@ -438,7 +592,7 @@
       "rawContent": "„ Trampova ruta  na Kavkazu – investitor s ruskim korenima"
     },
     {
-      "id": "gdelt-8cnhvta",
+      "id": "gdelt-fyntdit",
       "title": "Supersized  El Nino to persist into 2027 , UN says",
       "sourceName": "DW Brasil",
       "sourceUrl": "https://www.dw.com/pt-br/",
@@ -452,7 +606,7 @@
       "rawContent": "Supersized  El Nino to persist into 2027 , UN says"
     },
     {
-      "id": "gdelt-qc9otxp",
+      "id": "gdelt-rtpz70f",
       "title": "Ko je čovek koji bi mogao da dovede AfD na vlast ?",
       "sourceName": "DW Brasil",
       "sourceUrl": "https://www.dw.com/pt-br/",
@@ -466,7 +620,7 @@
       "rawContent": "Ko je čovek koji bi mogao da dovede AfD na vlast ?"
     },
     {
-      "id": "gdelt-g0ou5i7",
+      "id": "gdelt-khufrc2",
       "title": "IA - ja shtrenjton smartfonët , konsolat dhe pajisje të tjera",
       "sourceName": "DW Brasil",
       "sourceUrl": "https://www.dw.com/pt-br/",
@@ -480,7 +634,7 @@
       "rawContent": "IA - ja shtrenjton smartfonët , konsolat dhe pajisje të tjera"
     },
     {
-      "id": "gdelt-ympfzsl",
+      "id": "gdelt-vs8fpa7",
       "title": "Reakcja na decyzję Niemiec . Rosja zamyka Instytuty Goethego",
       "sourceName": "DW Brasil",
       "sourceUrl": "https://www.dw.com/pt-br/",
@@ -494,7 +648,7 @@
       "rawContent": "Reakcja na decyzję Niemiec . Rosja zamyka Instytuty Goethego"
     },
     {
-      "id": "gdelt-w46mpdy",
+      "id": "gdelt-eppsq0z",
       "title": "Próba zamachu w Lipsku . Media : ślad do Polski i Serbii",
       "sourceName": "DW Brasil",
       "sourceUrl": "https://www.dw.com/pt-br/",
@@ -508,7 +662,7 @@
       "rawContent": "Próba zamachu w Lipsku . Media : ślad do Polski i Serbii"
     },
     {
-      "id": "gdelt-d3mb1hu",
+      "id": "gdelt-6ukgymf",
       "title": "Kosovë : Marrëveshja për Presidentin në krizë",
       "sourceName": "DW Brasil",
       "sourceUrl": "https://www.dw.com/pt-br/",
@@ -522,7 +676,7 @@
       "rawContent": "Kosovë : Marrëveshja për Presidentin në krizë"
     },
     {
-      "id": "gdelt-c4hkewg",
+      "id": "gdelt-sqclurx",
       "title": "Ruski hibridni rat protiv Nemačke – i šta će sada Berlin ?",
       "sourceName": "DW Brasil",
       "sourceUrl": "https://www.dw.com/pt-br/",
@@ -536,7 +690,7 @@
       "rawContent": "Ruski hibridni rat protiv Nemačke – i šta će sada Berlin ?"
     },
     {
-      "id": "gdelt-mice1bj",
+      "id": "gdelt-hfyttgv",
       "title": "El mundo en  zona de peligro  de clima extremo por El Niño",
       "sourceName": "DW Brasil",
       "sourceUrl": "https://www.dw.com/pt-br/",
@@ -550,7 +704,7 @@
       "rawContent": "El mundo en  zona de peligro  de clima extremo por El Niño"
     },
     {
-      "id": "gdelt-k7oydup",
+      "id": "gdelt-lvay24f",
       "title": "India foreign minister begins Poland , Ukraine visit",
       "sourceName": "DW Brasil",
       "sourceUrl": "https://www.dw.com/pt-br/",
@@ -564,7 +718,7 @@
       "rawContent": "India foreign minister begins Poland , Ukraine visit"
     },
     {
-      "id": "gdelt-vhjfbbv",
+      "id": "gdelt-x9f33yn",
       "title": "Kako je jedan virus povezao Nemačku i Kosovo",
       "sourceName": "DW Brasil",
       "sourceUrl": "https://www.dw.com/pt-br/",
@@ -578,7 +732,7 @@
       "rawContent": "Kako je jedan virus povezao Nemačku i Kosovo"
     },
     {
-      "id": "gdelt-22clyci",
+      "id": "gdelt-0sec77e",
       "title": "Raif Dizdarević – antifašista i svedok jedne epohe",
       "sourceName": "DW Brasil",
       "sourceUrl": "https://www.dw.com/pt-br/",
@@ -592,7 +746,7 @@
       "rawContent": "Raif Dizdarević – antifašista i svedok jedne epohe"
     },
     {
-      "id": "gdelt-abcpxps",
+      "id": "gdelt-9we7w14",
       "title": "Alemania examina vínculos de incidente con drones en Leipzig",
       "sourceName": "DW Brasil",
       "sourceUrl": "https://www.dw.com/pt-br/",
@@ -606,7 +760,7 @@
       "rawContent": "Alemania examina vínculos de incidente con drones en Leipzig"
     },
     {
-      "id": "gdelt-ltzjvf3",
+      "id": "gdelt-sblbob9",
       "title": "George Michael  Faith  guitar to be auctioned",
       "sourceName": "BBC News Brasil",
       "sourceUrl": "https://www.bbc.com/portuguese",
@@ -620,7 +774,7 @@
       "rawContent": "George Michael  Faith  guitar to be auctioned"
     },
     {
-      "id": "gdelt-331ev5l",
+      "id": "gdelt-67okag7",
       "title": "Wiil dhalinyaro ah oo sameyay saabuun sida warqadda oo kale ah",
       "sourceName": "BBC News Brasil",
       "sourceUrl": "https://www.bbc.com/portuguese",
@@ -634,7 +788,7 @@
       "rawContent": "Wiil dhalinyaro ah oo sameyay saabuun sida warqadda oo kale ah"
     },
     {
-      "id": "gdelt-1r9k6gc",
+      "id": "gdelt-mx7wp9p",
       "title": "Лавров : Гете - институтот во Русија ќе биде затворен",
       "sourceName": "DW Brasil",
       "sourceUrl": "https://www.dw.com/pt-br/",
@@ -648,7 +802,7 @@
       "rawContent": "Лавров : Гете - институтот во Русија ќе биде затворен"
     },
     {
-      "id": "gdelt-eds4r7e",
+      "id": "gdelt-grtntjk",
       "title": "India GDP : Q1 growth defies oil shock but data faces credibility questions",
       "sourceName": "BBC News Brasil",
       "sourceUrl": "https://www.bbc.com/portuguese",
@@ -662,7 +816,7 @@
       "rawContent": "India GDP : Q1 growth defies oil shock but data faces credibility questions"
     },
     {
-      "id": "gdelt-ek3z48p",
+      "id": "gdelt-hyd455t",
       "title": "Ревизија : Бум на фотоволтаици , слабости со дозволите",
       "sourceName": "DW Brasil",
       "sourceUrl": "https://www.dw.com/pt-br/",
@@ -676,7 +830,7 @@
       "rawContent": "Ревизија : Бум на фотоволтаици , слабости со дозволите"
     },
     {
-      "id": "gdelt-5fgdqdv",
+      "id": "gdelt-lw322x7",
       "title": "Runaway emu in Australia sparks police chase",
       "sourceName": "BBC News Brasil",
       "sourceUrl": "https://www.bbc.com/portuguese",
@@ -690,7 +844,7 @@
       "rawContent": "Runaway emu in Australia sparks police chase"
     },
     {
-      "id": "gdelt-7ljxcqr",
+      "id": "gdelt-hdafq8b",
       "title": "Wizi wa sehemu nyeti : Jinsi mitandao ya kijamii ilivyochochea uvumi uliogeuka mauaji",
       "sourceName": "BBC News Brasil",
       "sourceUrl": "https://www.bbc.com/portuguese",
@@ -704,7 +858,7 @@
       "rawContent": "Wizi wa sehemu nyeti : Jinsi mitandao ya kijamii ilivyochochea uvumi uliogeuka mauaji"
     },
     {
-      "id": "gdelt-pexq484",
+      "id": "gdelt-bzlzn0u",
       "title": "TÜİKe göre enflasyon yüzde 31 , 51 , ENAGa göre yüzde 49 , 03",
       "sourceName": "DW Brasil",
       "sourceUrl": "https://www.dw.com/pt-br/",
@@ -718,7 +872,7 @@
       "rawContent": "TÜİKe göre enflasyon yüzde 31 , 51 , ENAGa göre yüzde 49 , 03"
     },
     {
-      "id": "gdelt-k5odycl",
+      "id": "gdelt-y27tda7",
       "title": "Вучиќ меѓу Москва и Брисел пред изборите",
       "sourceName": "DW Brasil",
       "sourceUrl": "https://www.dw.com/pt-br/",
@@ -732,7 +886,7 @@
       "rawContent": "Вучиќ меѓу Москва и Брисел пред изборите"
     },
     {
-      "id": "gdelt-urp9c1y",
+      "id": "gdelt-zgj8tgd",
       "title": "Хибридната војна на Русија против Германија : И што сега ?",
       "sourceName": "DW Brasil",
       "sourceUrl": "https://www.dw.com/pt-br/",
@@ -746,7 +900,7 @@
       "rawContent": "Хибридната војна на Русија против Германија : И што сега ?"
     },
     {
-      "id": "gdelt-5d16924",
+      "id": "gdelt-1tvn91k",
       "title": "Embattled Spanish PM Sánchez insists no prior warnings before Ceuta crisis",
       "sourceName": "BBC News Brasil",
       "sourceUrl": "https://www.bbc.com/portuguese",
@@ -760,7 +914,7 @@
       "rawContent": "Embattled Spanish PM Sánchez insists no prior warnings before Ceuta crisis"
     },
     {
-      "id": "gdelt-h1wtvki",
+      "id": "gdelt-xguw8e5",
       "title": "УНИЦЕФ : Секој петти тинејџер вознемируван онлајн",
       "sourceName": "DW Brasil",
       "sourceUrl": "https://www.dw.com/pt-br/",
@@ -774,7 +928,7 @@
       "rawContent": "УНИЦЕФ : Секој петти тинејџер вознемируван онлајн"
     },
     {
-      "id": "gdelt-hqyp7u5",
+      "id": "gdelt-m1wgys1",
       "title": "民调 ： 若AfD在东部州上台 ， 六成德国公民希望默茨下课",
       "sourceName": "DW Brasil",
       "sourceUrl": "https://www.dw.com/pt-br/",
@@ -788,7 +942,7 @@
       "rawContent": "民调 ： 若AfD在东部州上台 ， 六成德国公民希望默茨下课"
     },
     {
-      "id": "gdelt-mlf7qfe",
+      "id": "gdelt-zavarux",
       "title": "هل تُعيد الطائرات ذاتية القيادة رسم خريطة السماء ؟",
       "sourceName": "BBC News Brasil",
       "sourceUrl": "https://www.bbc.com/portuguese",
@@ -802,7 +956,7 @@
       "rawContent": "هل تُعيد الطائرات ذاتية القيادة رسم خريطة السماء ؟"
     },
     {
-      "id": "gdelt-27uao4n",
+      "id": "gdelt-nwg9b2q",
       "title": "پنتاگون خود را برای ادامه جنگ تا یک سال دیگر آماده می‌کند",
       "sourceName": "BBC News Brasil",
       "sourceUrl": "https://www.bbc.com/portuguese",
@@ -816,7 +970,7 @@
       "rawContent": "پنتاگون خود را برای ادامه جنگ تا یک سال دیگر آماده می‌کند"
     },
     {
-      "id": "gdelt-tiaqag6",
+      "id": "gdelt-m0yfujn",
       "title": "Portugal vê problema inédito com catadores atrás do reembolso de reciclagem",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -830,7 +984,7 @@
       "rawContent": "Portugal vê problema inédito com catadores atrás do reembolso de reciclagem"
     },
     {
-      "id": "gdelt-g1hzhcl",
+      "id": "gdelt-bjx9nd0",
       "title": "Redivisão do Azzas 2154 : como foram as 48 horas anteriores ao aperto de mãos entre Birman e Jatahy",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -844,7 +998,7 @@
       "rawContent": "Redivisão do Azzas 2154 : como foram as 48 horas anteriores ao aperto de mãos entre Birman e Jatahy"
     },
     {
-      "id": "gdelt-mvz817c",
+      "id": "gdelt-81f2uff",
       "title": "بازگشت « فیلدمارشال » به اتاق جنگ ؛ چرا مجتبی خامنه‌ای ، محسن رضایی را در مرکز تصمیم‌گیری قرار داد ؟",
       "sourceName": "BBC News Brasil",
       "sourceUrl": "https://www.bbc.com/portuguese",
@@ -858,7 +1012,7 @@
       "rawContent": "بازگشت « فیلدمارشال » به اتاق جنگ ؛ چرا مجتبی خامنه‌ای ، محسن رضایی را در مرکز تصمیم‌گیری قرار داد ؟"
     },
     {
-      "id": "gdelt-hz4jnqt",
+      "id": "gdelt-z5vagxg",
       "title": "Нафтова угода століття між США та Венесуелою : чи допоможе вона збити ціни",
       "sourceName": "BBC News Brasil",
       "sourceUrl": "https://www.bbc.com/portuguese",
@@ -872,7 +1026,7 @@
       "rawContent": "Нафтова угода століття між США та Венесуелою : чи допоможе вона збити ціни"
     },
     {
-      "id": "gdelt-aeydeef",
+      "id": "gdelt-v7orjtl",
       "title": "Балістика і шахеди падають , а сховатись ніде : чому в Києві досі немає укриттів на вулицях",
       "sourceName": "BBC News Brasil",
       "sourceUrl": "https://www.bbc.com/portuguese",
@@ -886,7 +1040,7 @@
       "rawContent": "Балістика і шахеди падають , а сховатись ніде : чому в Києві досі немає укриттів на вулицях"
     },
     {
-      "id": "gdelt-k9ugke2",
+      "id": "gdelt-726a5fu",
       "title": "Líderes de tecnologia pressionam G20 por  data center , mas divergem sobre risco da IA",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -898,160 +1052,6 @@
       "publishedAtStr": "",
       "publishedAtTs": null,
       "rawContent": "Líderes de tecnologia pressionam G20 por  data center , mas divergem sobre risco da IA"
-    },
-    {
-      "id": "gdelt-f55kiku",
-      "title": "Após divórcio selado , Azzas 2154 quer fazer da camiseta Hering o item de vestuário mais vendido do Brasil",
-      "sourceName": "G1 Mundo",
-      "sourceUrl": "https://g1.globo.com/mundo/",
-      "sourceType": "Imprensa Comercial Brasileira",
-      "sourceEditorial": "Portal de notícias mainstream do Grupo Globo",
-      "country": "Brasil",
-      "paywall": false,
-      "originalUrl": "https://oglobo.globo.com/economia/negocios/noticia/2026/09/03/apos-divorcio-selado-azzas-2154-quer-fazer-da-camiseta-hering-o-item-de-vestuario-mais-vendido-do-brasil.ghtml",
-      "publishedAtStr": "",
-      "publishedAtTs": null,
-      "rawContent": "Após divórcio selado , Azzas 2154 quer fazer da camiseta Hering o item de vestuário mais vendido do Brasil"
-    },
-    {
-      "id": "gdelt-8cxrnnm",
-      "title": "Coelho de estimao morre após ingerir veneno para ratos de pacote rasgado entregue pela Amazon na Inglaterra",
-      "sourceName": "G1 Mundo",
-      "sourceUrl": "https://g1.globo.com/mundo/",
-      "sourceType": "Imprensa Comercial Brasileira",
-      "sourceEditorial": "Portal de notícias mainstream do Grupo Globo",
-      "country": "Brasil",
-      "paywall": false,
-      "originalUrl": "https://oglobo.globo.com/economia/epoca/noticia/2026/09/03/coelho-de-estimacao-morre-apos-ingerir-veneno-para-ratos-de-pacote-rasgado-entregue-pela-amazon-na-inglaterra.ghtml",
-      "publishedAtStr": "",
-      "publishedAtTs": null,
-      "rawContent": "Coelho de estimao morre após ingerir veneno para ratos de pacote rasgado entregue pela Amazon na Inglaterra"
-    },
-    {
-      "id": "gdelt-vk4715a",
-      "title": "الاتحاد الأوروبي وحلف شمال الأطلسي يتعهدان بزيادة الضغط على روسيا بعد  تصعيد جديد  في ألمانيا",
-      "sourceName": "BBC News Brasil",
-      "sourceUrl": "https://www.bbc.com/portuguese",
-      "sourceType": "Imprensa Internacional / Pública",
-      "sourceEditorial": "Emissora pública do Reino Unido; jornalismo global independente",
-      "country": "Reino Unido",
-      "paywall": false,
-      "originalUrl": "https://www.bbc.com/arabic/articles/clyl4y55g11o",
-      "publishedAtStr": "",
-      "publishedAtTs": null,
-      "rawContent": "الاتحاد الأوروبي وحلف شمال الأطلسي يتعهدان بزيادة الضغط على روسيا بعد  تصعيد جديد  في ألمانيا"
-    },
-    {
-      "id": "gdelt-ylshudx",
-      "title": "Восьмий день дронової атаки Росії . 17 постраждалих в Одесі , пожежі на Київщині , реактивні шахеди в Тернополі і Хмельницькому",
-      "sourceName": "BBC News Brasil",
-      "sourceUrl": "https://www.bbc.com/portuguese",
-      "sourceType": "Imprensa Internacional / Pública",
-      "sourceEditorial": "Emissora pública do Reino Unido; jornalismo global independente",
-      "country": "Reino Unido",
-      "paywall": false,
-      "originalUrl": "https://www.bbc.com/ukrainian/articles/ce87v97zjjlo",
-      "publishedAtStr": "",
-      "publishedAtTs": null,
-      "rawContent": "Восьмий день дронової атаки Росії . 17 постраждалих в Одесі , пожежі на Київщині , реактивні шахеди в Тернополі і Хмельницькому"
-    },
-    {
-      "id": "gdelt-sihgm4r",
-      "title": "Rritje e theksuar e investimeve të huaja në Gjermani",
-      "sourceName": "DW Brasil",
-      "sourceUrl": "https://www.dw.com/pt-br/",
-      "sourceType": "Imprensa Internacional / Pública",
-      "sourceEditorial": "Emissora pública da Alemanha; foco em diplomacia e direitos humanos",
-      "country": "Alemanha",
-      "paywall": false,
-      "originalUrl": "https://www.dw.com/sq/rritje-e-theksuar-e-investimeve-t%C3%AB-huaja-n%C3%AB-gjermani/a-78579271",
-      "publishedAtStr": "",
-      "publishedAtTs": null,
-      "rawContent": "Rritje e theksuar e investimeve të huaja në Gjermani"
-    },
-    {
-      "id": "gdelt-y2vzjes",
-      "title": "Rusia cerrará todas las filiales del Instituto Goethe",
-      "sourceName": "DW Brasil",
-      "sourceUrl": "https://www.dw.com/pt-br/",
-      "sourceType": "Imprensa Internacional / Pública",
-      "sourceEditorial": "Emissora pública da Alemanha; foco em diplomacia e direitos humanos",
-      "country": "Alemanha",
-      "paywall": false,
-      "originalUrl": "https://www.dw.com/es/rusia-cerrar%C3%A1-todas-las-filiales-del-instituto-goethe-tras-cierre-de-la-casa-rusa-en-berl%C3%ADn/a-78815814",
-      "publishedAtStr": "",
-      "publishedAtTs": null,
-      "rawContent": "Rusia cerrará todas las filiales del Instituto Goethe"
-    },
-    {
-      "id": "gdelt-ne59b9h",
-      "title": "Fallece la cantante de jazz estadounidense Cassandra Wilson",
-      "sourceName": "DW Brasil",
-      "sourceUrl": "https://www.dw.com/pt-br/",
-      "sourceType": "Imprensa Internacional / Pública",
-      "sourceEditorial": "Emissora pública da Alemanha; foco em diplomacia e direitos humanos",
-      "country": "Alemanha",
-      "paywall": false,
-      "originalUrl": "https://www.dw.com/es/fallece-a-los-70-a%C3%B1os-la-cantante-de-jazz-estadounidense-cassandra-wilson/a-78816026",
-      "publishedAtStr": "",
-      "publishedAtTs": null,
-      "rawContent": "Fallece la cantante de jazz estadounidense Cassandra Wilson"
-    },
-    {
-      "id": "gdelt-ffw3lvp",
-      "title": "Sto procent bezpieczeństwa ? Niemcy po sabotażu",
-      "sourceName": "DW Brasil",
-      "sourceUrl": "https://www.dw.com/pt-br/",
-      "sourceType": "Imprensa Internacional / Pública",
-      "sourceEditorial": "Emissora pública da Alemanha; foco em diplomacia e direitos humanos",
-      "country": "Alemanha",
-      "paywall": false,
-      "originalUrl": "https://www.dw.com/pl/nie-istnieje-stuprocentowe-bezpiecze%C5%84stwo-jak-chroniona-jest-niemiecka-infrastruktura/a-78785696",
-      "publishedAtStr": "",
-      "publishedAtTs": null,
-      "rawContent": "Sto procent bezpieczeństwa ? Niemcy po sabotażu"
-    },
-    {
-      "id": "gdelt-zmb084b",
-      "title": "Ko je čovjek koji bi mogao da dovede AfD na vlast ?",
-      "sourceName": "DW Brasil",
-      "sourceUrl": "https://www.dw.com/pt-br/",
-      "sourceType": "Imprensa Internacional / Pública",
-      "sourceEditorial": "Emissora pública da Alemanha; foco em diplomacia e direitos humanos",
-      "country": "Alemanha",
-      "paywall": false,
-      "originalUrl": "https://www.dw.com/bs/ko-je-ulrich-siegmund-%C4%8Dovjek-koji-bi-mogao-da-dovede-afd-na-vlast/a-78743252",
-      "publishedAtStr": "",
-      "publishedAtTs": null,
-      "rawContent": "Ko je čovjek koji bi mogao da dovede AfD na vlast ?"
-    },
-    {
-      "id": "gdelt-yhtjomo",
-      "title": "जलवायु न्याय की मांग कर रहा है आपदा प्रभावित नेपाल",
-      "sourceName": "DW Brasil",
-      "sourceUrl": "https://www.dw.com/pt-br/",
-      "sourceType": "Imprensa Internacional / Pública",
-      "sourceEditorial": "Emissora pública da Alemanha; foco em diplomacia e direitos humanos",
-      "country": "Alemanha",
-      "paywall": false,
-      "originalUrl": "https://www.dw.com/hi/dw-hindi-live-news-and-updates-3-september/live-78815697",
-      "publishedAtStr": "",
-      "publishedAtTs": null,
-      "rawContent": "जलवायु न्याय की मांग कर रहा है आपदा प्रभावित नेपाल"
-    },
-    {
-      "id": "gdelt-7n0fub2",
-      "title": "TÜİK ağustos enflasyonunu % 31 , 51 ; ENAG % 49 , 03 olarak açıkladı",
-      "sourceName": "BBC News Brasil",
-      "sourceUrl": "https://www.bbc.com/portuguese",
-      "sourceType": "Imprensa Internacional / Pública",
-      "sourceEditorial": "Emissora pública do Reino Unido; jornalismo global independente",
-      "country": "Reino Unido",
-      "paywall": false,
-      "originalUrl": "https://www.bbc.com/turkce/articles/cn9wv9v881xo",
-      "publishedAtStr": "",
-      "publishedAtTs": null,
-      "rawContent": "TÜİK ağustos enflasyonunu % 31 , 51 ; ENAG % 49 , 03 olarak açıkladı"
     }
   ]
 }
