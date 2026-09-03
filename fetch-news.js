@@ -4,10 +4,10 @@ const https = require('https');
 
 const API_CONFIG = {
   ENDPOINT: 'https://api.gdeltproject.org/api/v2/doc/doc',
-  TIMEOUT_MS: 12000,
+  TIMEOUT_MS: 15000,
   MAX_RETRIES: 2,
-  BATCH_SIZE: 6,
-  BATCH_DELAY_MS: 1500,
+  BATCH_SIZE: 12,
+  BATCH_DELAY_MS: 6500, // 6.5 segundos para margem de segurança acima dos 5s exigidos
   OUTPUT_FILE: path.join(__dirname, 'news-data.json')
 };
 
@@ -96,7 +96,7 @@ async function fetchBatchGdelt(domainsBatch, timespanParam, retry = 0) {
       mode: 'artlist',
       format: 'json',
       sort: 'datedesc',
-      maxrecords: '75',
+      maxrecords: '250',
       timespan: timespanParam
     });
 
@@ -126,7 +126,8 @@ async function fetchBatchGdelt(domainsBatch, timespanParam, retry = 0) {
 
     req.on('error', async () => {
       if (retry < API_CONFIG.MAX_RETRIES) {
-        await sleep(1000);
+        // Pausa de 6.5 segundos antes de tentar a nova tentativa (retry) para respeitar o rate limit da GDELT
+        await sleep(API_CONFIG.BATCH_DELAY_MS);
         resolve(await fetchBatchGdelt(domainsBatch, timespanParam, retry + 1));
       } else {
         resolve([]);
@@ -155,6 +156,7 @@ async function queryGdeltForPeriod(timespanParam, maxHoursCutoff) {
       rawArticles = rawArticles.concat(batchResults);
     }
 
+    // Aguarda sempre 6.5 segundos após cada lote (respeitando o limite de 1 req a cada 5s da GDELT)
     if (i < domainBatches.length - 1) {
       await sleep(API_CONFIG.BATCH_DELAY_MS);
     }
@@ -212,7 +214,8 @@ async function runCronJob() {
   let articles = [];
   let periodUsed = '24h';
 
-  for (const period of periods) {
+  for (let pIdx = 0; pIdx < periods.length; pIdx++) {
+    const period = periods[pIdx];
     console.log(`🌐 Tentando busca no período: ${period.name}...`);
     articles = await queryGdeltForPeriod(period.timespan, period.maxHours);
     
@@ -222,6 +225,9 @@ async function runCronJob() {
       break;
     } else {
       console.log(`⚠️ Nenhuma notícia encontrada nas últimas ${period.name}. Ampliando período...`);
+      if (pIdx < periods.length - 1) {
+        await sleep(API_CONFIG.BATCH_DELAY_MS);
+      }
     }
   }
 
