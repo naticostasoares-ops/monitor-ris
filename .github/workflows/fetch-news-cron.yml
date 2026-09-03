@@ -1,0 +1,32 @@
+name: Cron Job - Coleta de Notícias RI (15 min)
+
+on:
+  schedule:
+    - cron: '*/15 * * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  fetch-and-publish:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout do Repositório
+        uses: actions/checkout@v4
+
+      - name: Configurar Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Executar Coleta em Tempo Real da API
+        run: node fetch-news.js
+
+      - name: Commit e Push das Notícias Atualizadas (news-data.json)
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add news-data.json
+          git commit -m "Auto-update news-data.json [skip ci]" || exit 0
+          git push
