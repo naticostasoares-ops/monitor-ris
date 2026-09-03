@@ -7,45 +7,67 @@ const API_CONFIG = {
   TIMEOUT_MS: 15000,
   MAX_RETRIES: 2,
   BATCH_SIZE: 12,
-  BATCH_DELAY_MS: 6500, // 6.5 segundos para margem de segurança acima dos 5s exigidos
+  BATCH_DELAY_MS: 7000, // 7 segundos entre lotes para respeitar rigorosamente o rate-limit (429) da GDELT
   OUTPUT_FILE: path.join(__dirname, 'news-data.json')
 };
 
-// As 34 fontes cadastradas com mapeamento de domínios exatos para a busca GDELT domainis:
+// As 34 fontes cadastradas no projeto
 const SOURCES_REGISTRY = [
-  { id: 'dw-brasil', name: 'DW Brasil', domain: 'dw.com', url: 'https://www.dw.com/pt-br/', country: 'Alemanha', type: 'Imprensa Internacional / Pública', editorial: 'Emissora pública da Alemanha; foco em diplomacia e direitos humanos' },
-  { id: 'bbc-brasil', name: 'BBC News Brasil', domain: 'bbc.com', url: 'https://www.bbc.com/portuguese', country: 'Reino Unido', type: 'Imprensa Internacional / Pública', editorial: 'Emissora pública do Reino Unido; jornalismo global independente' },
-  { id: 'agencia-brasil', name: 'Agência Brasil', domain: 'ebc.com.br', url: 'https://agenciabrasil.ebc.com.br/internacional', country: 'Brasil', type: 'Agência Estatal', editorial: 'Agência pública de notícias da EBC (Governo Federal)' },
-  { id: 'g1-mundo', name: 'G1 Mundo', domain: 'globo.com', url: 'https://g1.globo.com/mundo/', country: 'Brasil', type: 'Imprensa Comercial Brasileira', editorial: 'Portal de notícias mainstream do Grupo Globo' },
-  { id: 'cnn-brasil', name: 'CNN Brasil Internacional', domain: 'cnnbrasil.com.br', url: 'https://www.cnnbrasil.com.br/internacional/', country: 'Brasil', type: 'Imprensa Comercial Brasileira', editorial: 'Cobertura de notícias globais em tempo real' },
-  { id: 'o-globo', name: 'O Globo Mundo', domain: 'oglobo.globo.com', url: 'https://oglobo.globo.com/mundo/', country: 'Brasil', type: 'Imprensa Comercial (Assinatura/Paywall)', editorial: 'Jornal diário (Grupo Globo) - Conteúdo sob assinatura', paywall: true },
-  { id: 'estadao', name: 'Estadão Internacional', domain: 'estadao.com.br', url: 'https://www.estadao.com.br/internacional/', country: 'Brasil', type: 'Imprensa Comercial (Assinatura/Paywall)', editorial: 'Jornal tradicional de geopolítica - Conteúdo sob assinatura', paywall: true },
-  { id: 'uol', name: 'UOL Internacional', domain: 'uol.com.br', url: 'https://noticias.uol.com.br/internacional/', country: 'Brasil', type: 'Imprensa Comercial Brasileira', editorial: 'Portal de notícias e análises internacionais' },
-  { id: 'veja', name: 'Veja Mundo', domain: 'abril.com.br', url: 'https://veja.abril.com.br/mundo/', country: 'Brasil', type: 'Imprensa Comercial (Assinatura/Paywall)', editorial: 'Revista semanal - Conteúdo sob assinatura parcial', paywall: true },
-  { id: 'valor', name: 'Valor Econômico', domain: 'valor.globo.com', url: 'https://valor.globo.com/', country: 'Brasil', type: 'Imprensa Comercial (Assinatura/Paywall)', editorial: 'Jornal diário financeiro - Conteúdo sob assinatura', paywall: true },
-  { id: 'infomoney', name: 'InfoMoney', domain: 'infomoney.com.br', url: 'https://www.infomoney.com.br/', country: 'Brasil', type: 'Imprensa Comercial Brasileira', editorial: 'Portal especializado em mercados e economia global' },
-  { id: 'cartacapital', name: 'CartaCapital', domain: 'cartacapital.com.br', url: 'https://www.cartacapital.com.br/', country: 'Brasil', type: 'Imprensa Comercial (Assinatura/Paywall)', editorial: 'Jornalismo progressista - Conteúdo sob assinatura parcial', paywall: true },
-  { id: 'brasil-de-fato', name: 'Brasil de Fato', domain: 'brasildefato.com.br', url: 'https://www.brasildefato.com.br/', country: 'Brasil', type: 'Jornal / Movimentos Sociais', editorial: 'Mídia popular focada em Direitos Humanos e Sul Global' },
-  { id: 'icl-noticias', name: 'ICL Notícias', domain: 'iclnoticias.com.br', url: 'https://iclnoticias.com.br/', country: 'Brasil', type: 'Mídia Independente / Opinião', editorial: 'Jornalismo independente, política e economia' },
-  { id: 'opeu', name: 'OPEU', domain: 'opeu.org.br', url: 'https://www.opeu.org.br/', country: 'Brasil', type: 'Observatório Acadêmico / Pesquisa', editorial: 'Observatório de Política Externa dos EUA' },
-  { id: 'ineu', name: 'INEU', domain: 'ineu.org.br', url: 'https://www.ineu.org.br/', country: 'Brasil', type: 'Observatório Acadêmico / Pesquisa', editorial: 'Instituto Nacional para Estudos sobre os Estados Unidos' },
-  { id: 'diplomatique', name: 'Le Monde Diplomatique Brasil', domain: 'diplomatique.org.br', url: 'https://diplomatique.org.br/', country: 'Brasil', type: 'Análise Geopolítica / Ensaio', editorial: 'Análises aprofundadas e geopolítica crítica', paywall: true },
-  { id: 'a-terra-e-redonda', name: 'A Terra é Redonda', domain: 'aterraeredonda.com.br', url: 'https://aterraeredonda.com.br/', country: 'Brasil', type: 'Análise Geopolítica / Ensaio', editorial: 'Ensaios acadêmicos e filosofia política' },
-  { id: 'blog-boitempo', name: 'Blog da Boitempo', domain: 'blogdaboitempo.com.br', url: 'https://blogdaboitempo.com.br/', country: 'Brasil', type: 'Análise Geopolítica / Ensaio', editorial: 'Artigos opinativos e teóricos sobre geopolítica' },
-  { id: 'cebri', name: 'CEBRI', domain: 'cebri.org', url: 'https://cebri.org/', country: 'Brasil', type: 'Think Tank / Centro de Estudos', editorial: 'Centro Brasileiro de Relações Internacionais' },
-  { id: 'brics-policy', name: 'BRICS Policy Center', domain: 'bricspolicycenter.org', url: 'https://bricspolicycenter.org/', country: 'Brasil', type: 'Think Tank / Centro de Estudos', editorial: 'Pesquisa acadêmica sobre BRICS e cooperação Sul-Sul' },
-  { id: 'fgv', name: 'FGV', domain: 'portal.fgv.br', url: 'https://portal.fgv.br/', country: 'Brasil', type: 'Think Tank / Centro de Estudos', editorial: 'Fundação Getulio Vargas (pesquisa econômica e institucional)' },
-  { id: 'itamaraty', name: 'Ministério das Relações Exteriores (Itamaraty)', domain: 'gov.br', url: 'https://www.gov.br/mre/pt-br', country: 'Brasil', type: 'Órgão Governamental Oficial', editorial: 'Notas oficiais e diplomacia brasileira' },
-  { id: 'onu-brasil', name: 'ONU Brasil', domain: 'un.org', url: 'https://brasil.un.org/pt-br', country: 'Internacional / Multilateral', type: 'Organização Multilateral Oficial', editorial: 'Notícias do sistema das Nações Unidas no Brasil' },
-  { id: 'fmi-pt', name: 'FMI em Português', domain: 'imf.org', url: 'https://www.imf.org/pt/Home', country: 'Internacional / Multilateral', type: 'Organização Multilateral Oficial', editorial: 'Relatórios econômicos do Fundo Monetário Internacional' },
-  { id: 'banco-mundial', name: 'Banco Mundial Brasil', domain: 'worldbank.org', url: 'https://www.worldbank.org/pt/country/brazil', country: 'Internacional / Multilateral', type: 'Organização Multilateral Oficial', editorial: 'Projetos e relatórios de desenvolvimento global' },
-  { id: 'ue-brasil', name: 'União Europeia no Brasil', domain: 'europa.eu', url: 'https://www.eeas.europa.eu/delegations/brazil_pt-br', country: 'Internacional / Multilateral', type: 'Organização Multilateral Oficial', editorial: 'Delegação da União Europeia no Brasil' },
-  { id: 'defesanet', name: 'DefesaNet', domain: 'defesanet.com.br', url: 'https://www.defesanet.com.br/', country: 'Brasil', type: 'Portal Especializado (Defesa)', editorial: 'Notícias militares, compras de defesa e segurança internacional' },
-  { id: 'google-academico', name: 'Google Acadêmico', domain: 'scholar.google.com.br', url: 'https://scholar.google.com.br/', country: 'Brasil', type: 'Acervo Científico / Literatura Acadêmica', editorial: 'Indexador de artigos, teses e livros acadêmicos' },
-  { id: 'scielo', name: 'SciELO', domain: 'scielo.org', url: 'https://www.scielo.org/', country: 'Brasil', type: 'Acervo Científico / Literatura Acadêmica', editorial: 'Biblioteca científica de acesso aberto' },
-  { id: 'capes', name: 'Portal de Periódicos CAPES', domain: 'periodicos.capes.gov.br', url: 'https://www.periodicos.capes.gov.br/', country: 'Brasil', type: 'Acervo Científico / Literatura Acadêmica', editorial: 'Acervo de pesquisas universitárias do MEC' },
-  { id: 'guia-midia-china', name: 'Guia de Mídia (China)', domain: 'guiademidia.com.br', url: 'https://www.guiademidia.com.br/jornais/asia/china.htm', country: 'China', type: 'Imprensa Internacional / Pública', editorial: 'Diretório de cobertura da imprensa asiática e chinesa' }
+  { id: 'dw-brasil', name: 'DW Brasil', url: 'https://www.dw.com/pt-br/', country: 'Alemanha', type: 'Imprensa Internacional / Pública', editorial: 'Emissora pública da Alemanha; foco em diplomacia e direitos humanos' },
+  { id: 'bbc-brasil', name: 'BBC News Brasil', url: 'https://www.bbc.com/portuguese', country: 'Reino Unido', type: 'Imprensa Internacional / Pública', editorial: 'Emissora pública do Reino Unido; jornalismo global independente' },
+  { id: 'agencia-brasil', name: 'Agência Brasil', url: 'https://agenciabrasil.ebc.com.br/internacional', country: 'Brasil', type: 'Agência Estatal', editorial: 'Agência pública de notícias da EBC (Governo Federal)' },
+  { id: 'g1-mundo', name: 'G1 Mundo', url: 'https://g1.globo.com/mundo/', country: 'Brasil', type: 'Imprensa Comercial Brasileira', editorial: 'Portal de notícias mainstream do Grupo Globo' },
+  { id: 'cnn-brasil', name: 'CNN Brasil Internacional', url: 'https://www.cnnbrasil.com.br/internacional/', country: 'Brasil', type: 'Imprensa Comercial Brasileira', editorial: 'Cobertura de notícias globais em tempo real' },
+  { id: 'o-globo', name: 'O Globo Mundo', url: 'https://oglobo.globo.com/mundo/', country: 'Brasil', type: 'Imprensa Comercial (Assinatura/Paywall)', editorial: 'Jornal diário (Grupo Globo) - Conteúdo sob assinatura', paywall: true },
+  { id: 'estadao', name: 'Estadão Internacional', url: 'https://www.estadao.com.br/internacional/', country: 'Brasil', type: 'Imprensa Comercial (Assinatura/Paywall)', editorial: 'Jornal tradicional de geopolítica - Conteúdo sob assinatura', paywall: true },
+  { id: 'uol', name: 'UOL Internacional', url: 'https://noticias.uol.com.br/internacional/', country: 'Brasil', type: 'Imprensa Comercial Brasileira', editorial: 'Portal de notícias e análises internacionais' },
+  { id: 'veja', name: 'Veja Mundo', url: 'https://veja.abril.com.br/mundo/', country: 'Brasil', type: 'Imprensa Comercial (Assinatura/Paywall)', editorial: 'Revista semanal - Conteúdo sob assinatura parcial', paywall: true },
+  { id: 'valor', name: 'Valor Econômico', url: 'https://valor.globo.com/', country: 'Brasil', type: 'Imprensa Comercial (Assinatura/Paywall)', editorial: 'Jornal diário financeiro - Conteúdo sob assinatura', paywall: true },
+  { id: 'infomoney', name: 'InfoMoney', url: 'https://www.infomoney.com.br/', country: 'Brasil', type: 'Imprensa Comercial Brasileira', editorial: 'Portal especializado em mercados e economia global' },
+  { id: 'cartacapital', name: 'CartaCapital', url: 'https://www.cartacapital.com.br/', country: 'Brasil', type: 'Imprensa Comercial (Assinatura/Paywall)', editorial: 'Jornalismo progressista - Conteúdo sob assinatura parcial', paywall: true },
+  { id: 'brasil-de-fato', name: 'Brasil de Fato', url: 'https://www.brasildefato.com.br/', country: 'Brasil', type: 'Jornal / Movimentos Sociais', editorial: 'Mídia popular focada em Direitos Humanos e Sul Global' },
+  { id: 'icl-noticias', name: 'ICL Notícias', url: 'https://iclnoticias.com.br/', country: 'Brasil', type: 'Mídia Independente / Opinião', editorial: 'Jornalismo independente, política e economia' },
+  { id: 'opeu', name: 'OPEU', url: 'https://www.opeu.org.br/', country: 'Brasil', type: 'Observatório Acadêmico / Pesquisa', editorial: 'Observatório de Política Externa dos EUA' },
+  { id: 'ineu', name: 'INEU', url: 'https://www.ineu.org.br/', country: 'Brasil', type: 'Observatório Acadêmico / Pesquisa', editorial: 'Instituto Nacional para Estudos sobre os Estados Unidos' },
+  { id: 'diplomatique', name: 'Le Monde Diplomatique Brasil', url: 'https://diplomatique.org.br/', country: 'Brasil', type: 'Análise Geopolítica / Ensaio', editorial: 'Análises aprofundadas e geopolítica crítica', paywall: true },
+  { id: 'a-terra-e-redonda', name: 'A Terra é Redonda', url: 'https://aterraeredonda.com.br/', country: 'Brasil', type: 'Análise Geopolítica / Ensaio', editorial: 'Ensaios acadêmicos e filosofia política' },
+  { id: 'blog-boitempo', name: 'Blog da Boitempo', url: 'https://blogdaboitempo.com.br/', country: 'Brasil', type: 'Análise Geopolítica / Ensaio', editorial: 'Artigos opinativos e teóricos sobre geopolítica' },
+  { id: 'cebri', name: 'CEBRI', url: 'https://cebri.org/', country: 'Brasil', type: 'Think Tank / Centro de Estudos', editorial: 'Centro Brasileiro de Relações Internacionais' },
+  { id: 'brics-policy', name: 'BRICS Policy Center', url: 'https://bricspolicycenter.org/', country: 'Brasil', type: 'Think Tank / Centro de Estudos', editorial: 'Pesquisa acadêmica sobre BRICS e cooperação Sul-Sul' },
+  { id: 'fgv', name: 'FGV', url: 'https://portal.fgv.br/', country: 'Brasil', type: 'Think Tank / Centro de Estudos', editorial: 'Fundação Getulio Vargas (pesquisa econômica e institucional)' },
+  { id: 'itamaraty', name: 'Ministério das Relações Exteriores (Itamaraty)', url: 'https://www.gov.br/mre/pt-br', country: 'Brasil', type: 'Órgão Governamental Oficial', editorial: 'Notas oficiais e diplomacia brasileira' },
+  { id: 'onu-brasil', name: 'ONU Brasil', url: 'https://brasil.un.org/pt-br', country: 'Internacional / Multilateral', type: 'Organização Multilateral Oficial', editorial: 'Notícias do sistema das Nações Unidas no Brasil' },
+  { id: 'fmi-pt', name: 'FMI em Português', url: 'https://www.imf.org/pt/Home', country: 'Internacional / Multilateral', type: 'Organização Multilateral Oficial', editorial: 'Relatórios econômicos do Fundo Monetário Internacional' },
+  { id: 'banco-mundial', name: 'Banco Mundial Brasil', url: 'https://www.worldbank.org/pt/country/brazil', country: 'Internacional / Multilateral', type: 'Organização Multilateral Oficial', editorial: 'Projetos e relatórios de desenvolvimento global' },
+  { id: 'ue-brasil', name: 'União Europeia no Brasil', url: 'https://www.eeas.europa.eu/delegations/brazil_pt-br', country: 'Internacional / Multilateral', type: 'Organização Multilateral Oficial', editorial: 'Delegação da União Europeia no Brasil' },
+  { id: 'defesanet', name: 'DefesaNet', url: 'https://www.defesanet.com.br/', country: 'Brasil', type: 'Portal Especializado (Defesa)', editorial: 'Notícias militares, compras de defesa e segurança internacional' },
+  { id: 'google-academico', name: 'Google Acadêmico', url: 'https://scholar.google.com.br/', country: 'Brasil', type: 'Acervo Científico / Literatura Acadêmica', editorial: 'Indexador de artigos, teses e livros acadêmicos' },
+  { id: 'scielo', name: 'SciELO', url: 'https://www.scielo.org/', country: 'Brasil', type: 'Acervo Científico / Literatura Acadêmica', editorial: 'Biblioteca científica de acesso aberto' },
+  { id: 'capes', name: 'Portal de Periódicos CAPES', url: 'https://www.periodicos.capes.gov.br/', country: 'Brasil', type: 'Acervo Científico / Literatura Acadêmica', editorial: 'Acervo de pesquisas universitárias do MEC' },
+  { id: 'guia-midia-china', name: 'Guia de Mídia (China)', url: 'https://www.guiademidia.com.br/jornais/asia/china.htm', country: 'China', type: 'Imprensa Internacional / Pública', editorial: 'Diretório de cobertura da imprensa asiática e chinesa' }
 ];
+
+/**
+ * Extrai o hostname exato preservando subdomínios (ex: 'g1.globo.com', 'agenciabrasil.ebc.com.br')
+ * e removendo unicamente o prefixo 'www.' caso presente.
+ */
+function extractExactDomain(urlString) {
+  try {
+    const parsed = new URL(urlString);
+    let host = parsed.hostname.toLowerCase();
+    if (host.startsWith('www.')) {
+      host = host.substring(4);
+    }
+    return host;
+  } catch (e) {
+    return '';
+  }
+}
+
+// Associa o hostname exato a cada fonte no registro
+SOURCES_REGISTRY.forEach(src => {
+  src.domain = extractExactDomain(src.url);
+});
 
 function sleep(ms) {
   return new Promise(resolve => setTimeout(resolve, ms));
@@ -90,7 +112,8 @@ function matchSourceByUrl(articleUrl, domainQuery) {
 
 async function fetchBatchGdelt(domainsBatch, timespanParam, retry = 0) {
   return new Promise((resolve) => {
-    const domainQuery = domainsBatch.map(d => `domainis:${d}`).join(' OR ');
+    // Uso do operador 'domain:' que é abrangente e aceita correspondência com subdomínios
+    const domainQuery = domainsBatch.map(d => `domain:${d}`).join(' OR ');
     const params = new URLSearchParams({
       query: `(${domainQuery})`,
       mode: 'artlist',
@@ -101,6 +124,9 @@ async function fetchBatchGdelt(domainsBatch, timespanParam, retry = 0) {
     });
 
     const requestUrl = `${API_CONFIG.ENDPOINT}?${params.toString()}`;
+
+    // DIAGNÓSTICO: Log da URL completa enviada à GDELT
+    console.log(`📡 [DIAGNÓSTICO REQUISIÇÃO] (Tentativa ${retry + 1}) URL: ${requestUrl}`);
 
     const req = https.get(requestUrl, {
       timeout: API_CONFIG.TIMEOUT_MS,
@@ -115,18 +141,24 @@ async function fetchBatchGdelt(domainsBatch, timespanParam, retry = 0) {
           if (res.statusCode >= 200 && res.statusCode < 300 && body) {
             const json = JSON.parse(body);
             if (json && Array.isArray(json.articles)) {
+              // DIAGNÓSTICO: Log da resposta bruta da API antes dos filtros
+              console.log(`📥 [DIAGNÓSTICO RESPOSTA] ${json.articles.length} artigos recebidos na resposta BRUTA da API GDELT.`);
               resolve(json.articles);
               return;
             }
+          } else {
+            console.warn(`⚠️ [DIAGNÓSTICO AVISO] Resposta HTTP ${res.statusCode}: ${body.substring(0, 150)}`);
           }
-        } catch (e) {}
+        } catch (e) {
+          console.warn(`⚠️ [DIAGNÓSTICO PARSE ERROR]: ${e.message}. Resposta recebida: ${body.substring(0, 150)}`);
+        }
         resolve([]);
       });
     });
 
-    req.on('error', async () => {
+    req.on('error', async (err) => {
+      console.warn(`⚠️ [DIAGNÓSTICO ERRO REDE]: ${err.message}`);
       if (retry < API_CONFIG.MAX_RETRIES) {
-        // Pausa de 6.5 segundos antes de tentar a nova tentativa (retry) para respeitar o rate limit da GDELT
         await sleep(API_CONFIG.BATCH_DELAY_MS);
         resolve(await fetchBatchGdelt(domainsBatch, timespanParam, retry + 1));
       } else {
@@ -135,6 +167,7 @@ async function fetchBatchGdelt(domainsBatch, timespanParam, retry = 0) {
     });
 
     req.on('timeout', () => {
+      console.warn(`⚠️ [DIAGNÓSTICO TIMEOUT] Requisicao excedeu ${API_CONFIG.TIMEOUT_MS}ms.`);
       req.destroy();
       resolve([]);
     });
@@ -142,21 +175,21 @@ async function fetchBatchGdelt(domainsBatch, timespanParam, retry = 0) {
 }
 
 async function queryGdeltForPeriod(timespanParam, maxHoursCutoff) {
-  const uniqueDomains = Array.from(new Set(SOURCES_REGISTRY.map(s => s.domain)));
+  const uniqueDomains = Array.from(new Set(SOURCES_REGISTRY.map(s => s.domain).filter(Boolean)));
   const domainBatches = chunkArray(uniqueDomains, API_CONFIG.BATCH_SIZE);
 
   let rawArticles = [];
 
   for (let i = 0; i < domainBatches.length; i++) {
     const batch = domainBatches[i];
-    console.log(`🔍 [GDELT DOC 2.0] Consultando Lote ${i + 1}/${domainBatches.length} (${batch.join(', ')}) [Timespan: ${timespanParam}]...`);
+    console.log(`\n🔍 [GDELT DOC 2.0] Consultando Lote ${i + 1}/${domainBatches.length} [Timespan: ${timespanParam}]...`);
+    console.log(`📋 Domínios no Lote ${i + 1}: ${batch.join(', ')}`);
     
     const batchResults = await fetchBatchGdelt(batch, timespanParam);
     if (batchResults && batchResults.length > 0) {
       rawArticles = rawArticles.concat(batchResults);
     }
 
-    // Aguarda sempre 6.5 segundos após cada lote (respeitando o limite de 1 req a cada 5s da GDELT)
     if (i < domainBatches.length - 1) {
       await sleep(API_CONFIG.BATCH_DELAY_MS);
     }
@@ -167,7 +200,6 @@ async function queryGdeltForPeriod(timespanParam, maxHoursCutoff) {
   const now = Date.now();
   const cutoffTs = now - (maxHoursCutoff * 3600 * 1000);
 
-  // Mapear artigos retornados para o formato unificado do projeto
   const parsedMap = new Map();
 
   for (const item of rawArticles) {
@@ -176,10 +208,8 @@ async function queryGdeltForPeriod(timespanParam, maxHoursCutoff) {
     const sourceObj = matchSourceByUrl(item.url, item.domain || '');
     const dateObj = parseGdeltDate(item.seendate);
 
-    // Se o artigo tem data e for mais antigo que o corte do período, ignora
     if (dateObj.ts && dateObj.ts < cutoffTs) continue;
 
-    // Evita duplicados exatos pela URL real do artigo
     if (!parsedMap.has(item.url)) {
       parsedMap.set(item.url, {
         id: 'gdelt-' + Math.random().toString(36).substring(2, 9),
@@ -190,7 +220,7 @@ async function queryGdeltForPeriod(timespanParam, maxHoursCutoff) {
         sourceEditorial: sourceObj.editorial,
         country: sourceObj.country,
         paywall: !!sourceObj.paywall,
-        originalUrl: item.url, // URL real e específica do artigo devolvida pela API
+        originalUrl: item.url,
         publishedAtStr: dateObj.str,
         publishedAtTs: dateObj.ts,
         rawContent: item.title.trim()
@@ -204,7 +234,6 @@ async function queryGdeltForPeriod(timespanParam, maxHoursCutoff) {
 async function runCronJob() {
   console.log(`[${new Date().toISOString()}] 🕒 Executando Coleta Real de Notícias via GDELT DOC 2.0 API...`);
 
-  // Ampliação automática do período: 24h -> 7d -> 3M
   const periods = [
     { name: '24h', timespan: '24h', maxHours: 24 },
     { name: '7d', timespan: '7d', maxHours: 24 * 7 },
@@ -216,22 +245,24 @@ async function runCronJob() {
 
   for (let pIdx = 0; pIdx < periods.length; pIdx++) {
     const period = periods[pIdx];
-    console.log(`🌐 Tentando busca no período: ${period.name}...`);
+    console.log(`\n==================================================`);
+    console.log(`🌐 Tentando busca no período: ${period.name}`);
+    console.log(`==================================================`);
+
     articles = await queryGdeltForPeriod(period.timespan, period.maxHours);
     
     if (articles && articles.length > 0) {
       periodUsed = period.name;
-      console.log(`✅ Sucesso! ${articles.length} notícias reais encontradas no período de ${period.name}.`);
+      console.log(`\n✅ Sucesso! ${articles.length} notícias reais encontradas no período de ${period.name}.`);
       break;
     } else {
-      console.log(`⚠️ Nenhuma notícia encontrada nas últimas ${period.name}. Ampliando período...`);
+      console.log(`\n⚠️ Nenhuma notícia encontrada nas últimas ${period.name}. Ampliando período...`);
       if (pIdx < periods.length - 1) {
         await sleep(API_CONFIG.BATCH_DELAY_MS);
       }
     }
   }
 
-  // Se mesmo após 3M não houver nenhuma notícia real, NUNCA inventa notícias fictícias
   if (!articles) articles = [];
 
   const payload = {
@@ -242,7 +273,7 @@ async function runCronJob() {
   };
 
   fs.writeFileSync(API_CONFIG.OUTPUT_FILE, JSON.stringify(payload, null, 2), 'utf-8');
-  console.log(`💾 Processo concluído. ${articles.length} notícias reais salvas em ${API_CONFIG.OUTPUT_FILE}.`);
+  console.log(`\n💾 Processo concluído. ${articles.length} notícias reais salvas em ${API_CONFIG.OUTPUT_FILE}.`);
 }
 
 runCronJob();
