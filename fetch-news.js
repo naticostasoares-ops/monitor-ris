@@ -6,7 +6,7 @@ const API_CONFIG = {
   ENDPOINT: 'https://api.gdeltproject.org/api/v2/doc/doc',
   TIMEOUT_MS: 15000,
   MAX_RETRIES: 2,
-  BATCH_SIZE: 12,
+  BATCH_SIZE: 6, // Reduzido para 6 domínios por lote (tamanho conservador testado com sucesso)
   BATCH_DELAY_MS: 7000, // 7 segundos padrão entre lotes
   OUTPUT_FILE: path.join(__dirname, 'news-data.json')
 };
@@ -83,7 +83,7 @@ function parseGdeltDate(seendateStr) {
     const month = seendateStr.substring(4, 6);
     const day = seendateStr.substring(6, 8);
     const hour = seendateStr.length >= 10 ? seendateStr.substring(8, 10) : '00';
-    const min = seendateStr.length >= 10 ? seendateStr.substring(10, 12) : '00';
+    const min = seendateStr.length >= 12 ? seendateStr.substring(10, 12) : '00';
     const sec = seendateStr.length >= 14 ? seendateStr.substring(12, 14) : '00';
 
     const isoStr = `${year}-${month}-${day}T${hour}:${min}:${sec}Z`;
@@ -130,13 +130,11 @@ async function fetchBatchGdelt(domainsBatch, timespanParam, retry = 0) {
       let body = '';
       res.on('data', chunk => body += chunk);
       res.on('end', async () => {
-        // Tratar status de erro HTTP (como 429 Too Many Requests) acionando a rotina de retry com espera
         if (res.statusCode < 200 || res.statusCode >= 300) {
           console.warn(`⚠️ [DIAGNÓSTICO AVISO] Resposta HTTP ${res.statusCode}: ${body.substring(0, 150)}`);
 
           if (retry < API_CONFIG.MAX_RETRIES) {
-            // Verificar se a API devolveu o cabeçalho Retry-After
-            let retryWaitMs = API_CONFIG.BATCH_DELAY_MS + 3000; // 10 segundos de espera por padrão no retry
+            let retryWaitMs = API_CONFIG.BATCH_DELAY_MS + 3000;
             const retryAfterHeader = res.headers['retry-after'];
             if (retryAfterHeader) {
               const seconds = parseInt(retryAfterHeader, 10);
@@ -158,7 +156,6 @@ async function fetchBatchGdelt(domainsBatch, timespanParam, retry = 0) {
           return;
         }
 
-        // Caso a resposta HTTP seja 200 OK
         try {
           if (body) {
             const json = JSON.parse(body);
