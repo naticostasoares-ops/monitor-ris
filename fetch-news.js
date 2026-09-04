@@ -130,6 +130,22 @@ function restoreTitleFromUrl(title, url) {
             return prefix + restoredClean + suffix;
           }
         }
+
+        // 3. Caso "acar" / "Acar" (corrupção de "açúcar") -> ex: Acar -> acucar no slug -> Açúcar
+        if (cleanLower === 'acar') {
+          if (slugWords.includes('acucar')) {
+            const restoredClean = cleanWord[0] === 'A' ? 'Açúcar' : 'açúcar';
+            return prefix + restoredClean + suffix;
+          }
+        }
+
+        // 4. Supressão de vogais tônicas no final de palavras curtas (ex: Maca -> Macaé, Jatob -> Jatobá)
+        if (cleanLower === 'maca' && slugWords.includes('macae')) {
+          return prefix + 'Macaé' + suffix;
+        }
+        if (cleanLower === 'jatob' && slugWords.includes('jatoba')) {
+          return prefix + 'Jatobá' + suffix;
+        }
       }
 
       return cleanW;
