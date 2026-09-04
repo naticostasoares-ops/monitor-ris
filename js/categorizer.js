@@ -147,7 +147,9 @@ class NewsCategorizer {
     // Sintetiza em ~3 linhas claras
     let clean = content.replace(/(<([^>]+)>)/gi, '').trim();
     if (clean.length > 220) {
-      clean = clean.substring(0, 217) + '...';
+      const truncated = clean.substring(0, 217);
+      const lastSpace = truncated.lastIndexOf(' ');
+      clean = (lastSpace > 0 ? truncated.substring(0, lastSpace) : truncated) + '...';
     }
 
     return `Em acompanhamento à conjuntura internacional, a reportagem detalha que ${clean.toLowerCase()} As implicações estratégicas afetam a estabilidade regional e as relações bilaterais entre os blocos envolvidos.`;

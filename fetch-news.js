@@ -7,7 +7,7 @@ const API_CONFIG = {
   TIMEOUT_MS: 15000,
   MAX_RETRIES: 2,
   BATCH_SIZE: 6,
-  BATCH_DELAY_MS: 7000, // 7 segundos padrão entre lotes
+  BATCH_DELAY_MS: 7000,
   OUTPUT_FILE: path.join(__dirname, 'news-data.json')
 };
 
@@ -76,9 +76,32 @@ function chunkArray(array, size) {
   return chunks;
 }
 
+/**
+ * Parse correto de seendate da GDELT (Exemplo: "20260903T223704Z")
+ */
 function parseGdeltDate(seendateStr) {
   if (!seendateStr || seendateStr.length < 8) return { str: '', ts: null };
   try {
+    // Caso 1: Formato ISO com T (ex: 20260903T223704Z)
+    if (seendateStr.includes('T')) {
+      const parts = seendateStr.split('T');
+      const dPart = parts[0]; // 20260903
+      const tPart = parts[1].replace('Z', ''); // 223704
+
+      const year = dPart.substring(0, 4);
+      const month = dPart.substring(4, 6);
+      const day = dPart.substring(6, 8);
+
+      const hour = tPart.length >= 2 ? tPart.substring(0, 2) : '00';
+      const min = tPart.length >= 4 ? tPart.substring(2, 4) : '00';
+      const sec = tPart.length >= 6 ? tPart.substring(4, 6) : '00';
+
+      const isoStr = `${year}-${month}-${day}T${hour}:${min}:${sec}Z`;
+      const ts = new Date(isoStr).getTime();
+      return isNaN(ts) ? { str: '', ts: null } : { str: isoStr, ts };
+    }
+
+    // Caso 2: Formato Numérico Contínuo (ex: 20260903223704)
     const year = seendateStr.substring(0, 4);
     const month = seendateStr.substring(4, 6);
     const day = seendateStr.substring(6, 8);
@@ -107,7 +130,6 @@ function matchSourceByUrl(articleUrl, domainQuery) {
 
 async function fetchBatchGdelt(domainsBatch, timespanParam, retry = 0) {
   return new Promise((resolve) => {
-    // Adiciona o filtro de idioma sourcelang:portuguese à consulta do lote
     const domainQuery = domainsBatch.map(d => `domain:${d}`).join(' OR ');
     const params = new URLSearchParams({
       query: `(${domainQuery}) sourcelang:portuguese`,
@@ -250,7 +272,14 @@ async function queryGdeltForPeriod(timespanParam, maxHoursCutoff) {
     }
   }
 
-  return Array.from(parsedMap.values());
+  // PROBLEMA 3: Ordenar cronologicamente o array unificado (mais recente primeiro)
+  const sortedArticles = Array.from(parsedMap.values()).sort((a, b) => {
+    const tsA = a.publishedAtTs || 0;
+    const tsB = b.publishedAtTs || 0;
+    return tsB - tsA;
+  });
+
+  return sortedArticles;
 }
 
 async function runCronJob() {
@@ -294,6 +323,7 @@ async function runCronJob() {
     articles: articles
   };
 
+  // PROBLEMA 2: Garantir gravação com UTF-8 estrito
   fs.writeFileSync(API_CONFIG.OUTPUT_FILE, JSON.stringify(payload, null, 2), 'utf-8');
   console.log(`\n💾 Processo concluído. ${articles.length} notícias reais salvas em ${API_CONFIG.OUTPUT_FILE}.`);
 }

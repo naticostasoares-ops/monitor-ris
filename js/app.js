@@ -64,7 +64,7 @@ const PortalApp = {
       this.clearFilters();
     });
 
-    // Botão de PDF
+    // Botão de PDF (PROBLEMA 4: Passa os artigos efetivamente filtrados)
     document.getElementById('btn-export-pdf').addEventListener('click', () => {
       pdfReportGenerator.generatePdf(this.state.filteredArticles, this.state.filters);
     });
@@ -160,7 +160,7 @@ const PortalApp = {
       if (item.latestTimestamp) {
         return (now - item.latestTimestamp) <= FORTY_EIGHT_HOURS_MS;
       }
-      return true; // se sem data, manter para avaliação
+      return true;
     });
 
     countTag.textContent = `${hojeArticles.length} matérias nas últimas 48h`;
@@ -173,7 +173,6 @@ const PortalApp = {
     emptyState.classList.add('hidden');
 
     // 1. Destaque Principal no Topo (Hero Card)
-    // Destaque para o item mais relevante para o Brasil ou publicado por mais veículos ao mesmo tempo
     const heroArticle = hojeArticles.reduce((prev, current) => {
       const prevScore = (prev.sources.length * 2) + (prev.primarySubject.includes('Brasil') ? 3 : 0);
       const currentScore = (current.sources.length * 2) + (current.primarySubject.includes('Brasil') ? 3 : 0);
@@ -303,9 +302,20 @@ const PortalApp = {
     return map[subject] || '#334155';
   },
 
+  /**
+   * Normaliza texto para busca case-insensitive e insensível a acentuação
+   */
+  normalizeText(str) {
+    if (!str) return '';
+    return str
+      .toLowerCase()
+      .normalize('NFD')
+      .replace(/[\u0300-\u036f]/g, '');
+  },
+
   applyFilters() {
     this.state.filters = {
-      keyword: document.getElementById('filter-keyword').value.trim().toLowerCase(),
+      keyword: this.normalizeText(document.getElementById('filter-keyword').value.trim()),
       dateStart: document.getElementById('filter-date-start').value,
       dateEnd: document.getElementById('filter-date-end').value,
       subject: document.getElementById('filter-subject').value,
@@ -317,10 +327,15 @@ const PortalApp = {
     const f = this.state.filters;
 
     this.state.filteredArticles = this.state.aggregatedArticles.filter(item => {
-      // 1. Palavra-chave
+      // 1. Palavra-chave (PROBLEMA 4: Busca estrita no Título E no Resumo de forma insensível a acentos)
       if (f.keyword) {
-        const text = (item.canonicalTitle + ' ' + item.summary + ' ' + item.country).toLowerCase();
-        if (!text.includes(f.keyword)) return false;
+        const titleNormalized = this.normalizeText(item.canonicalTitle);
+        const summaryNormalized = this.normalizeText(item.summary);
+        
+        const matchTitle = titleNormalized.includes(f.keyword);
+        const matchSummary = summaryNormalized.includes(f.keyword);
+
+        if (!matchTitle && !matchSummary) return false;
       }
 
       // 2. Assunto Principal
