@@ -140,11 +140,10 @@ class NewsCategorizer {
    * Gera um resumo de 3 linhas sintético e analítico com palavras próprias
    */
   generateSummary(title = '', content = '') {
-    if (!content || content.length < 15) {
-      return `A matéria analisa desdobramentos diplomáticos e geopolíticos recentes. O acompanhamento em tempo real destaca o envolvimento das principais instituições internacionais na condução das diretrizes globais e negociações multinacionais.`;
+    if (!content || content.length < 15 || content.trim() === title.trim()) {
+      return '';
     }
 
-    // Sintetiza em ~3 linhas claras
     let clean = content.replace(/(<([^>]+)>)/gi, '').trim();
     if (clean.length > 220) {
       const truncated = clean.substring(0, 217);
@@ -152,7 +151,7 @@ class NewsCategorizer {
       clean = (lastSpace > 0 ? truncated.substring(0, lastSpace) : truncated) + '...';
     }
 
-    return `Em acompanhamento à conjuntura internacional, a reportagem detalha que ${clean.toLowerCase()} As implicações estratégicas afetam a estabilidade regional e as relações bilaterais entre os blocos envolvidos.`;
+    return clean;
   }
 }
 

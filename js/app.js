@@ -206,7 +206,7 @@ const PortalApp = {
         <a href="${item.originalUrl}" target="_blank" rel="noopener noreferrer">${item.canonicalTitle}</a>
       </h2>
 
-      <p class="hero-summary">${item.summary}</p>
+      ${item.summary ? `<p class="hero-summary">${item.summary}</p>` : ''}
 
       <div class="hero-sources-list">
         <strong>Publicado em simultâneo por ${item.sources.length} veículo(s):</strong> ${sourcesListText} | 
@@ -242,7 +242,7 @@ const PortalApp = {
         </h3>
       </div>
 
-      <p class="card-summary">${item.summary}</p>
+      ${item.summary ? `<p class="card-summary">${item.summary}</p>` : ''}
 
       <div class="card-source-info">
         <div class="card-sources-list">
@@ -327,9 +327,10 @@ const PortalApp = {
     const f = this.state.filters;
 
     this.state.filteredArticles = this.state.aggregatedArticles.filter(item => {
-      // 1. Palavra-chave (PROBLEMA 4: Busca estrita no Título E no Resumo de forma insensível a acentos)
+      // 1. Palavra-chave (Busca estrita no Título E no Resumo de forma insensível a acentos)
       if (f.keyword) {
-        const titleNormalized = this.normalizeText(item.canonicalTitle);
+        const titleText = item.canonicalTitle || item.title || '';
+        const titleNormalized = this.normalizeText(titleText);
         const summaryNormalized = this.normalizeText(item.summary);
         
         const matchTitle = titleNormalized.includes(f.keyword);
