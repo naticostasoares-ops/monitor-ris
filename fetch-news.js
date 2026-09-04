@@ -339,6 +339,25 @@ async function queryGdeltForPeriod(timespanParam, maxHoursCutoff) {
 
     if (dateObj.ts && dateObj.ts < cutoffTs) continue;
 
+    // Filtrar matérias fora da seção específica cadastrada para a fonte (ex: descarte de esporte/loteria/política nacional)
+    let isPathValid = true;
+    if (sourceObj && sourceObj.url) {
+      try {
+        const registryUrl = new URL(sourceObj.url);
+        let basePath = registryUrl.pathname;
+        if (basePath.endsWith('/')) basePath = basePath.slice(0, -1);
+
+        if (basePath && basePath !== '' && basePath !== '/') {
+          const artUrl = new URL(item.url);
+          const artPath = artUrl.pathname.toLowerCase();
+          const reqPath = basePath.toLowerCase();
+          isPathValid = artPath.startsWith(reqPath + '/') || artPath === reqPath;
+        }
+      } catch (e) {}
+    }
+
+    if (!isPathValid) continue;
+
     if (!parsedMap.has(item.url)) {
       const cleanedTitle = restoreTitleFromUrl(item.title.trim(), item.url);
       parsedMap.set(item.url, {
