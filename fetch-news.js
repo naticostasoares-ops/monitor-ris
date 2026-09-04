@@ -8,8 +8,10 @@ const API_CONFIG = {
   TIMEOUT_MS: 15000,
   MAX_RETRIES: 2,
   BATCH_SIZE: 6,
-  BATCH_DELAY_MS: 7000,
-  OUTPUT_FILE: path.join(__dirname, 'news-data.json')
+  BATCH_DELAY_MS: 9000,
+  OUTPUT_FILE: process.env.GITHUB_ACTIONS === 'true'
+    ? path.join(__dirname, 'news-data.json')
+    : path.join(__dirname, 'news-data.test.json')
 };
 
 // As 34 fontes cadastradas no projeto
@@ -209,7 +211,7 @@ async function fetchBatchGdelt(domainsBatch, timespanParam, retry = 0) {
           console.warn(`⚠️ [DIAGNÓSTICO AVISO] Resposta HTTP ${res.statusCode}: ${body.substring(0, 150)}`);
 
           if (retry < API_CONFIG.MAX_RETRIES) {
-            let retryWaitMs = API_CONFIG.BATCH_DELAY_MS + 3000;
+            let retryWaitMs = API_CONFIG.BATCH_DELAY_MS + 4000;
             const retryAfterHeader = res.headers['retry-after'];
             if (retryAfterHeader) {
               const seconds = parseInt(retryAfterHeader, 10);
@@ -218,7 +220,7 @@ async function fetchBatchGdelt(domainsBatch, timespanParam, retry = 0) {
                 console.log(`⏳ Cabeçalho Retry-After detectado: aguardando ${seconds}s antes da tentativa ${retry + 2}...`);
               }
             } else {
-              console.log(`⏳ Status HTTP ${res.statusCode} detectado. Aguardando ${retryWaitMs / 1000}s para tentativa ${retry + 2}...`);
+              console.log(`⏳ Status HTTP ${res.statusCode} (Rate Limit). Aguardando ${retryWaitMs / 1000}s para tentativa ${retry + 2}...`);
             }
 
             await sleep(retryWaitMs);
