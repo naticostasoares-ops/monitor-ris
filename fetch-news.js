@@ -150,6 +150,7 @@ async function fetchBatchGdelt(domainsBatch, timespanParam, retry = 0) {
         'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) Monitor-RI-Bot/2.0'
       }
     }, async (res) => {
+      res.setEncoding('utf8');
       let body = '';
       res.on('data', chunk => body += chunk);
       res.on('end', async () => {
