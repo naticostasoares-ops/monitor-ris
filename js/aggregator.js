@@ -51,6 +51,8 @@ class NewsAggregator {
           sourceType: article.sourceType,
           originalUrl: article.originalUrl,
           paywall: article.paywall,
+          linkStatus: article.linkStatus || 'unknown',
+          lastChecked: article.lastChecked || null,
           sources: [
             {
               name: article.sourceName,

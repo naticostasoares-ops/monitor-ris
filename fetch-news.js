@@ -1,6 +1,7 @@
 const fs = require('fs');
 const path = require('path');
 const https = require('https');
+const http = require('http');
 
 const API_CONFIG = {
   ENDPOINT: 'https://api.gdeltproject.org/api/v2/doc/doc',
@@ -77,16 +78,67 @@ function chunkArray(array, size) {
 }
 
 /**
+ * Restaura palavras corrompidas sem acentuação (ex: 'explicaes' -> 'explicações', 'construo' -> 'construção')
+ * utilizando o slug limpo da URL original do veículo de imprensa.
+ */
+function restoreTitleFromUrl(title, url) {
+  if (!title || !url) return title;
+
+  try {
+    const parsedUrl = new URL(url);
+    const pathname = parsedUrl.pathname;
+    const segments = pathname.split('/').filter(Boolean);
+    if (segments.length === 0) return title;
+
+    let slug = segments[segments.length - 1];
+    slug = slug.replace(/\.(ghtml|html|htm|php|amp)$/i, '').replace(/-npr$/i, '');
+
+    const slugWords = slug.split('-').filter(w => w.length > 2);
+    if (slugWords.length === 0) return title;
+
+    let words = title.split(' ');
+    let fixedWords = words.map(w => {
+      const cleanWord = w.toLowerCase().replace(/[^\wçáàâãéêíóôõúü]/gi, '');
+      if (cleanWord.length > 3) {
+        const matchSlug = slugWords.find(sw => {
+          if (sw.startsWith(cleanWord) || cleanWord.startsWith(sw)) return true;
+          const cleanWordNormalized = cleanWord.replace(/ao$/, 'cao').replace(/es$/, 'coes');
+          return sw === cleanWordNormalized || sw.includes(cleanWordNormalized);
+        });
+
+        if (matchSlug && matchSlug !== cleanWord) {
+          if (matchSlug.includes('cao') && w.toLowerCase().endsWith('ao')) {
+            return w.replace(/ao$/i, 'ção').replace(/ao$/g, 'ção');
+          }
+          if (matchSlug.includes('coes') && w.toLowerCase().endsWith('es')) {
+            return w.replace(/es$/i, 'ções').replace(/es$/g, 'ções');
+          }
+        }
+      }
+      return w;
+    });
+
+    let restored = fixedWords.join(' ');
+    if (restored.startsWith('ó ') && slug.startsWith('so-')) {
+      restored = 'Só ' + restored.substring(2);
+    }
+
+    return restored;
+  } catch (e) {
+    return title;
+  }
+}
+
+/**
  * Parse correto de seendate da GDELT (Exemplo: "20260903T223704Z")
  */
 function parseGdeltDate(seendateStr) {
   if (!seendateStr || seendateStr.length < 8) return { str: '', ts: null };
   try {
-    // Caso 1: Formato ISO com T (ex: 20260903T223704Z)
     if (seendateStr.includes('T')) {
       const parts = seendateStr.split('T');
-      const dPart = parts[0]; // 20260903
-      const tPart = parts[1].replace('Z', ''); // 223704
+      const dPart = parts[0];
+      const tPart = parts[1].replace('Z', '');
 
       const year = dPart.substring(0, 4);
       const month = dPart.substring(4, 6);
@@ -101,7 +153,6 @@ function parseGdeltDate(seendateStr) {
       return isNaN(ts) ? { str: '', ts: null } : { str: isoStr, ts };
     }
 
-    // Caso 2: Formato Numérico Contínuo (ex: 20260903223704)
     const year = seendateStr.substring(0, 4);
     const month = seendateStr.substring(4, 6);
     const day = seendateStr.substring(6, 8);
@@ -256,9 +307,10 @@ async function queryGdeltForPeriod(timespanParam, maxHoursCutoff) {
     if (dateObj.ts && dateObj.ts < cutoffTs) continue;
 
     if (!parsedMap.has(item.url)) {
+      const cleanedTitle = restoreTitleFromUrl(item.title.trim(), item.url);
       parsedMap.set(item.url, {
         id: 'gdelt-' + Math.random().toString(36).substring(2, 9),
-        title: item.title.trim(),
+        title: cleanedTitle,
         sourceName: sourceObj.name,
         sourceUrl: sourceObj.url,
         sourceType: sourceObj.type,
@@ -268,12 +320,13 @@ async function queryGdeltForPeriod(timespanParam, maxHoursCutoff) {
         originalUrl: item.url,
         publishedAtStr: dateObj.str,
         publishedAtTs: dateObj.ts,
-        rawContent: item.title.trim()
+        rawContent: cleanedTitle,
+        linkStatus: 'unknown',
+        lastChecked: null
       });
     }
   }
 
-  // PROBLEMA 3: Ordenar cronologicamente o array unificado (mais recente primeiro)
   const sortedArticles = Array.from(parsedMap.values()).sort((a, b) => {
     const tsA = a.publishedAtTs || 0;
     const tsB = b.publishedAtTs || 0;
@@ -283,8 +336,134 @@ async function queryGdeltForPeriod(timespanParam, maxHoursCutoff) {
   return sortedArticles;
 }
 
+/**
+ * Realiza a verificação HTTP HEAD de integridade para um lote limitado de links
+ */
+async function verifySingleLinkHead(url) {
+  return new Promise((resolve) => {
+    if (!url) {
+      resolve('unknown');
+      return;
+    }
+
+    try {
+      const parsedUrl = new URL(url);
+      const httpModule = parsedUrl.protocol === 'https:' ? https : http;
+
+      const req = httpModule.request(url, {
+        method: 'HEAD',
+        timeout: 6000, // Timeout curto de 6s
+        headers: {
+          'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) Monitor-RI-LinkChecker/1.0'
+        }
+      }, (res) => {
+        const code = res.statusCode;
+        if (code >= 200 && code < 300) {
+          resolve('active');
+        } else if (code === 404 || code === 410) {
+          resolve('broken');
+        } else {
+          // 403, 500, 429 etc tratamos como 'unknown' para não marcar link válido bloqueador de bot como quebrado
+          resolve('unknown');
+        }
+      });
+
+      req.on('error', () => {
+        resolve('broken'); // Erro de conexão/DNS/host inacessível
+      });
+
+      req.on('timeout', () => {
+        req.destroy();
+        resolve('unknown');
+      });
+
+      req.end();
+    } catch (e) {
+      resolve('unknown');
+    }
+  });
+}
+
+/**
+ * Orquestra a verificação diária de integridade de links no news-data.json
+ * Limita a no máximo 40 links não verificados nas últimas 24h por rodada.
+ */
+async function checkPendingLinks(articlesList) {
+  const ONE_DAY_MS = 24 * 60 * 60 * 1000;
+  const now = Date.now();
+  const MAX_LINKS_PER_RUN = 40;
+
+  // Filtrar links que precisam de checagem (não checados nas últimas 24h)
+  const pendingArticles = articlesList.filter(art => {
+    if (!art.lastChecked) return true;
+    return (now - art.lastChecked) > ONE_DAY_MS;
+  });
+
+  // Priorizar os mais antigos na fila de checagem
+  pendingArticles.sort((a, b) => (a.lastChecked || 0) - (b.lastChecked || 0));
+
+  const batchToCheck = pendingArticles.slice(0, MAX_LINKS_PER_RUN);
+  console.log(`\n🔍 [VERIFICAÇÃO DE LINKS] Iniciando checagem diária de integridade para ${batchToCheck.length} matérias...`);
+
+  let activeCount = 0;
+  let brokenCount = 0;
+  let unknownCount = 0;
+
+  const statsExamples = { active: null, broken: null, unknown: null };
+
+  for (let i = 0; i < batchToCheck.length; i++) {
+    const art = batchToCheck[i];
+    const status = await verifySingleLinkHead(art.originalUrl);
+    
+    art.linkStatus = status;
+    art.lastChecked = now;
+
+    if (status === 'active') {
+      activeCount++;
+      if (!statsExamples.active) statsExamples.active = art;
+    } else if (status === 'broken') {
+      brokenCount++;
+      if (!statsExamples.broken) statsExamples.broken = art;
+    } else {
+      unknownCount++;
+      if (!statsExamples.unknown) statsExamples.unknown = art;
+    }
+
+    // Pequena pausa entre requisições HEAD para evitar rajada
+    await sleep(200);
+  }
+
+  console.log(`✅ [VERIFICAÇÃO CONCLUÍDA] Resumo do Lote de ${batchToCheck.length} Links:`);
+  console.log(`   🟢 Active (200 OK): ${activeCount}`);
+  console.log(`   🔴 Broken (404/410/Erro Conexão): ${brokenCount}`);
+  console.log(`   🟡 Unknown (403/500/Timeout): ${unknownCount}\n`);
+
+  return {
+    checkedCount: batchToCheck.length,
+    activeCount,
+    brokenCount,
+    unknownCount,
+    examples: statsExamples
+  };
+}
+
 async function runCronJob() {
   console.log(`[${new Date().toISOString()}] 🕒 Executando Coleta Real de Notícias via GDELT DOC 2.0 API...`);
+
+  // Preservar estado prévio de links checados se o news-data.json já existir
+  let existingLinkMap = new Map();
+  if (fs.existsSync(API_CONFIG.OUTPUT_FILE)) {
+    try {
+      const prevData = JSON.parse(fs.readFileSync(API_CONFIG.OUTPUT_FILE, 'utf8'));
+      if (prevData && Array.isArray(prevData.articles)) {
+        prevData.articles.forEach(a => {
+          if (a.originalUrl) {
+            existingLinkMap.set(a.originalUrl, { linkStatus: a.linkStatus, lastChecked: a.lastChecked });
+          }
+        });
+      }
+    } catch (e) {}
+  }
 
   const periods = [
     { name: '24h', timespan: '24h', maxHours: 24 },
@@ -317,14 +496,31 @@ async function runCronJob() {
 
   if (!articles) articles = [];
 
+  // Restaurar dados de verificação prévia de links mantendo o histórico
+  articles.forEach(art => {
+    const prev = existingLinkMap.get(art.originalUrl);
+    if (prev) {
+      art.linkStatus = prev.linkStatus || 'unknown';
+      art.lastChecked = prev.lastChecked || null;
+    }
+  });
+
+  // Executar checagem diária de links (lote limitado de até 40 matérias por ciclo)
+  const linkCheckStats = await checkPendingLinks(articles);
+
   const payload = {
     updatedAt: new Date().toISOString(),
     periodUsed: periodUsed,
     count: articles.length,
+    linkVerificationStats: {
+      checkedThisRun: linkCheckStats.checkedCount,
+      active: linkCheckStats.activeCount,
+      broken: linkCheckStats.brokenCount,
+      unknown: linkCheckStats.unknownCount
+    },
     articles: articles
   };
 
-  // PROBLEMA 2: Garantir gravação com UTF-8 estrito
   fs.writeFileSync(API_CONFIG.OUTPUT_FILE, JSON.stringify(payload, null, 2), 'utf-8');
   console.log(`\n💾 Processo concluído. ${articles.length} notícias reais salvas em ${API_CONFIG.OUTPUT_FILE}.`);
 }

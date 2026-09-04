@@ -406,6 +406,7 @@ body {
 
 .link-ok { color: #15803d; }
 .link-warn { color: #b45309; background-color: #fef3c7; }
+.link-broken { color: #b91c1c; background-color: #fef2f2; font-weight: 700; border: 1px solid #fca5a5; }
 
 /* Empty States */
 .empty-state {

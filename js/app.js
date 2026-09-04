@@ -252,8 +252,8 @@ const PortalApp = {
           <span>Natureza: ${item.sourceType}</span>
           ${item.paywall ? '<span class="card-paywall-notice"> • ASSINATURA</span>' : ''}
         </div>
-        <div class="card-link-status ${linkStatus.status === 'ok' ? 'link-ok' : 'link-warn'}">
-          ${linkStatus.text}
+        <div class="card-link-status ${item.linkStatus === 'broken' ? 'link-broken' : 'link-ok'}">
+          ${item.linkStatus === 'broken' ? '⚠️ Link Indisponível' : 'Link Ativo'}
         </div>
       </div>
     `;
