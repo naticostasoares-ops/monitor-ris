@@ -1,16 +1,16 @@
 {
-  "updatedAt": "2026-09-04T14:17:24.586Z",
+  "updatedAt": "2026-09-04T14:32:05.609Z",
   "periodUsed": "24h",
-  "count": 34,
+  "count": 42,
   "linkVerificationStats": {
-    "checkedThisRun": 34,
-    "active": 34,
+    "checkedThisRun": 8,
+    "active": 8,
     "broken": 0,
     "unknown": 0
   },
   "articles": [
     {
-      "id": "gdelt-v0umydp",
+      "id": "gdelt-ocrw4oc",
       "title": "Pesquisa inédita mostra que , na política mundial , ninguém exerce mais influência do que Trump",
       "sourceName": "Veja Mundo",
       "sourceUrl": "https://veja.abril.com.br/mundo/",
@@ -26,7 +26,39 @@
       "lastChecked": 1788531431460
     },
     {
-      "id": "gdelt-imwgri7",
+      "id": "gdelt-3w5f1kz",
+      "title": "Movimentos do campo , florestas e águas se reúnem para debater desafios e estratégias para alimentar e defender o Brasil",
+      "sourceName": "Brasil de Fato",
+      "sourceUrl": "https://www.brasildefato.com.br/",
+      "sourceType": "Jornal / Movimentos Sociais",
+      "sourceEditorial": "Mídia popular focada em Direitos Humanos e Sul Global",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://www.brasildefato.com.br/2026/09/03/movimentos-do-campo-florestas-e-aguas-se-reunem-para-debater-desafios-e-estrategias-para-alimentar-e-defender-o-brasil/",
+      "publishedAtStr": "2026-09-04T06:00:00Z",
+      "publishedAtTs": 1788501600000,
+      "rawContent": "Movimentos do campo , florestas e águas se reúnem para debater desafios e estratégias para alimentar e defender o Brasil",
+      "linkStatus": "active",
+      "lastChecked": 1788532321830
+    },
+    {
+      "id": "gdelt-pln3jc3",
+      "title": "Cuba oficializa mudanças que ampliam espaço para o setor privado e flexibilizam investimentos",
+      "sourceName": "Brasil de Fato",
+      "sourceUrl": "https://www.brasildefato.com.br/",
+      "sourceType": "Jornal / Movimentos Sociais",
+      "sourceEditorial": "Mídia popular focada em Direitos Humanos e Sul Global",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://www.brasildefato.com.br/2026/09/03/cuba-oficializa-mudancas-que-ampliam-espaco-para-o-setor-privado-e-flexibilizam-investimentos/",
+      "publishedAtStr": "2026-09-04T06:00:00Z",
+      "publishedAtTs": 1788501600000,
+      "rawContent": "Cuba oficializa mudanças que ampliam espaço para o setor privado e flexibilizam investimentos",
+      "linkStatus": "active",
+      "lastChecked": 1788532321830
+    },
+    {
+      "id": "gdelt-zw8109i",
       "title": "Moraes pede a Fachin investigação de Mendonça no inquérito das fake news",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -42,7 +74,7 @@
       "lastChecked": 1788531431460
     },
     {
-      "id": "gdelt-4oo5ugo",
+      "id": "gdelt-wkxj8z3",
       "title": "Milei anuncia sanções e construo de base naval em meio à disputa por petróleo nas Ilhas Malvinas",
       "sourceName": "Estadão Internacional",
       "sourceUrl": "https://www.estadao.com.br/internacional/",
@@ -58,7 +90,7 @@
       "lastChecked": 1788531431460
     },
     {
-      "id": "gdelt-p8b6x6d",
+      "id": "gdelt-fasasgh",
       "title": "Argentino é suspeito de matar músico , mulher grávida , criança de 3 anos , empregada e cachorro",
       "sourceName": "Estadão Internacional",
       "sourceUrl": "https://www.estadao.com.br/internacional/",
@@ -74,7 +106,7 @@
       "lastChecked": 1788531431460
     },
     {
-      "id": "gdelt-slydl10",
+      "id": "gdelt-jfbjf1f",
       "title": "Justiça da Colômbia ordena suspensão de ataques a acampamentos da guerrilha com adolescentes",
       "sourceName": "Estadão Internacional",
       "sourceUrl": "https://www.estadao.com.br/internacional/",
@@ -90,7 +122,7 @@
       "lastChecked": 1788531431460
     },
     {
-      "id": "gdelt-co0asbu",
+      "id": "gdelt-brbcihn",
       "title": "Construo do  arco de Trump  deve começar nas próximas semanas",
       "sourceName": "Estadão Internacional",
       "sourceUrl": "https://www.estadao.com.br/internacional/",
@@ -106,7 +138,7 @@
       "lastChecked": 1788531431460
     },
     {
-      "id": "gdelt-cmnl50e",
+      "id": "gdelt-nj3iq4y",
       "title": "Trump deixa dúvidas sobre o apoio americano ao Reino Unido na disputa com a Argentina pelas Malvinas",
       "sourceName": "Estadão Internacional",
       "sourceUrl": "https://www.estadao.com.br/internacional/",
@@ -122,7 +154,7 @@
       "lastChecked": 1788531431460
     },
     {
-      "id": "gdelt-dkhz4q0",
+      "id": "gdelt-l0supq1",
       "title": "Casa Branca cria game em que jogador  caça  imigrantes na fronteira",
       "sourceName": "Estadão Internacional",
       "sourceUrl": "https://www.estadao.com.br/internacional/",
@@ -138,7 +170,7 @@
       "lastChecked": 1788531431460
     },
     {
-      "id": "gdelt-ifpj3wh",
+      "id": "gdelt-rrcpkqf",
       "title": "Datafolha : desaprovação de Lula vai a 51 % e aprovação cai para 45 %",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -154,7 +186,7 @@
       "lastChecked": 1788531431460
     },
     {
-      "id": "gdelt-zlgbk6a",
+      "id": "gdelt-vtwaxh6",
       "title": "Datafolha : Lula tem 38 % e Flávio , 33 % no primeiro turno ; distância cai a 5 pontos",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -170,7 +202,7 @@
       "lastChecked": 1788531431460
     },
     {
-      "id": "gdelt-rw2f0mq",
+      "id": "gdelt-pncilht",
       "title": "O que é matéria escura e por que sua possível descoberta agita cientistas ?",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -186,7 +218,7 @@
       "lastChecked": 1788531431460
     },
     {
-      "id": "gdelt-5yy80gh",
+      "id": "gdelt-kr8w87t",
       "title": "Conselho da Volkswagen aprova reestruturação e sinaliza cortes de 50 mil empregos",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -202,7 +234,7 @@
       "lastChecked": 1788531431460
     },
     {
-      "id": "gdelt-3q66bc9",
+      "id": "gdelt-5u0169k",
       "title": "STF fixa teto de R$ 5 mil de renda para acesso à Justiça gratuita trabalhista",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -218,7 +250,7 @@
       "lastChecked": 1788531431460
     },
     {
-      "id": "gdelt-zyxpeni",
+      "id": "gdelt-hsfyi9t",
       "title": "Lula e Flávio ficam a 2 pontos no 2º turno e acirram disputa , diz Datafolha",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -234,7 +266,7 @@
       "lastChecked": 1788531431460
     },
     {
-      "id": "gdelt-qpd4x92",
+      "id": "gdelt-giz7q1l",
       "title": "Alcolumbre afirma que PEC pelo fim da escala 6×1 deve ser votada apenas após eleições",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -250,7 +282,7 @@
       "lastChecked": 1788531431460
     },
     {
-      "id": "gdelt-xwxbsv1",
+      "id": "gdelt-319qqx9",
       "title": "Senado aprova fim da  taxa das blusinhas ; texto segue para sano de Lula",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -266,7 +298,7 @@
       "lastChecked": 1788531431460
     },
     {
-      "id": "gdelt-td2j2ko",
+      "id": "gdelt-pfw9k34",
       "title": "Por que  Cidade do Pecado  da Tailândia virou destino de 5 mil marinheiros dos EUA",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -282,7 +314,7 @@
       "lastChecked": 1788531431460
     },
     {
-      "id": "gdelt-m7tsh6x",
+      "id": "gdelt-272dicg",
       "title": "Startups : Poucos meses após chegar ao Brasil , Wonderful faz série C de US$ 550M",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -298,7 +330,7 @@
       "lastChecked": 1788531431460
     },
     {
-      "id": "gdelt-vllqeij",
+      "id": "gdelt-chd2fa7",
       "title": "Discordar não é sinônimo de odiar , diz Fachin sobre eleições em meio a crise no STF",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -314,7 +346,7 @@
       "lastChecked": 1788531431460
     },
     {
-      "id": "gdelt-fhjyt3y",
+      "id": "gdelt-l2cxgtd",
       "title": "Move Brasil : teto para financiamento a taxistas e motoristas de app vai a R$200 mil",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -330,7 +362,7 @@
       "lastChecked": 1788531431460
     },
     {
-      "id": "gdelt-f7rzvnj",
+      "id": "gdelt-octsyje",
       "title": "Dólar hoje recua com petróleo em alta , Treasuries em baixa e foco eleitoral",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -346,7 +378,7 @@
       "lastChecked": 1788531431460
     },
     {
-      "id": "gdelt-pnnpvnk",
+      "id": "gdelt-9gj3uyq",
       "title": "O preço do dinheiro subiu e  concorrência brutal  vai penalizar o Brasil , diz gestora",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -362,7 +394,7 @@
       "lastChecked": 1788531431460
     },
     {
-      "id": "gdelt-wpkyy1e",
+      "id": "gdelt-qenn9op",
       "title": "Renda Fixa Hoje : Confira as taxas de CDBs , LCIs e LCAs na XP nesta quinta - feira ( 3 )",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -378,7 +410,7 @@
       "lastChecked": 1788531431460
     },
     {
-      "id": "gdelt-7lr8n1b",
+      "id": "gdelt-oebucft",
       "title": "Carros e eletrodomésticos vão ficar mais baratos com IPI zero em 2027 ? Entenda",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -394,7 +426,7 @@
       "lastChecked": 1788531431460
     },
     {
-      "id": "gdelt-y2lhdwl",
+      "id": "gdelt-7vfkbry",
       "title": "Diretor do Fed diz estar aberto a deixar juros inalterados se inflação recuar",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -410,7 +442,7 @@
       "lastChecked": 1788531431460
     },
     {
-      "id": "gdelt-vb2zid9",
+      "id": "gdelt-g4eze4a",
       "title": "CSN ( CSNA3 ) dispara 16 % com anúncio de ex - CEO da Vale ( VALE3 ) ao comando",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -426,7 +458,7 @@
       "lastChecked": 1788531431460
     },
     {
-      "id": "gdelt-rj4ocl1",
+      "id": "gdelt-sa72fpc",
       "title": "Nvidia anuncia aquisio da Hugging Face por US$ 12 , 9 bilhões",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -442,7 +474,7 @@
       "lastChecked": 1788531431460
     },
     {
-      "id": "gdelt-j26647y",
+      "id": "gdelt-x9np4ae",
       "title": "Lula diz que PEC da 6×1 não avançou no Congresso por atuação de aliados de Flávio",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -458,7 +490,7 @@
       "lastChecked": 1788531431460
     },
     {
-      "id": "gdelt-k6xkc4n",
+      "id": "gdelt-v2euer8",
       "title": "Pedidos de auxílio - desemprego nos EUA sobem 2 mil na semana , a 206 mil",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -474,7 +506,7 @@
       "lastChecked": 1788531431460
     },
     {
-      "id": "gdelt-4ijbeym",
+      "id": "gdelt-rninyvr",
       "title": "Atividade de serviços no Brasil volta a crescer em agosto , mostra PMI",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -490,7 +522,7 @@
       "lastChecked": 1788531431460
     },
     {
-      "id": "gdelt-f6jine0",
+      "id": "gdelt-r3wivhy",
       "title": "Conselho da Axia Energia ( AXIA3 ) aprova resgate de mais R$ 6 , 2 bi em aes PNC",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -506,7 +538,7 @@
       "lastChecked": 1788531431460
     },
     {
-      "id": "gdelt-i56wjpj",
+      "id": "gdelt-ijr0dik",
       "title": "Estrangeiros tiram R$ 18 , 1 bilhões da Bolsa em agosto , em mês mais negativo de 2026",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -522,7 +554,7 @@
       "lastChecked": 1788531431460
     },
     {
-      "id": "gdelt-c0h8il1",
+      "id": "gdelt-vtz515g",
       "title": "FII da Kinea aprova 5ª emissão de cotas de até R$ 440 milhões ; confira detalhes",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -538,7 +570,7 @@
       "lastChecked": 1788531431460
     },
     {
-      "id": "gdelt-jm7kk8a",
+      "id": "gdelt-2e9p6ux",
       "title": "Morgan Stanley eleva Multiplan e rebaixa Plano & Plano em guinada para shoppings",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -552,6 +584,102 @@
       "rawContent": "Morgan Stanley eleva Multiplan e rebaixa Plano & Plano em guinada para shoppings",
       "linkStatus": "active",
       "lastChecked": 1788531431460
+    },
+    {
+      "id": "gdelt-uabz9lb",
+      "title": "Putin volta a rechaçar rumores de recrutamento de civis para a guerra na Ucrânia",
+      "sourceName": "Brasil de Fato",
+      "sourceUrl": "https://www.brasildefato.com.br/",
+      "sourceType": "Jornal / Movimentos Sociais",
+      "sourceEditorial": "Mídia popular focada em Direitos Humanos e Sul Global",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://www.brasildefato.com.br/2026/09/03/putin-volta-a-rechacar-rumores-de-recrutamento-de-civis-para-a-guerra-na-ucrania/",
+      "publishedAtStr": "2026-09-03T15:30:00Z",
+      "publishedAtTs": 1788449400000,
+      "rawContent": "Putin volta a rechaçar rumores de recrutamento de civis para a guerra na Ucrânia",
+      "linkStatus": "active",
+      "lastChecked": 1788532321830
+    },
+    {
+      "id": "gdelt-d9xrgqa",
+      "title": "Tarcísio lidera disputa pelo governo de SP ; criminalidade e educação são os problemas que mais preocupam , aponta Atlas / Estadão",
+      "sourceName": "Brasil de Fato",
+      "sourceUrl": "https://www.brasildefato.com.br/",
+      "sourceType": "Jornal / Movimentos Sociais",
+      "sourceEditorial": "Mídia popular focada em Direitos Humanos e Sul Global",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://www.brasildefato.com.br/2026/09/03/tarcisio-lidera-disputa-pelo-governo-de-sp-criminalidade-e-educacao-sao-os-problemas-que-mais-preocupam-aponta-atlasestadao/",
+      "publishedAtStr": "2026-09-03T15:30:00Z",
+      "publishedAtTs": 1788449400000,
+      "rawContent": "Tarcísio lidera disputa pelo governo de SP ; criminalidade e educação são os problemas que mais preocupam , aponta Atlas / Estadão",
+      "linkStatus": "active",
+      "lastChecked": 1788532321830
+    },
+    {
+      "id": "gdelt-kujjpo2",
+      "title": "Irã ataca bases no Kuwait e Emirados Árabes como retaliação a  crime de guerra  dos EUA",
+      "sourceName": "Brasil de Fato",
+      "sourceUrl": "https://www.brasildefato.com.br/",
+      "sourceType": "Jornal / Movimentos Sociais",
+      "sourceEditorial": "Mídia popular focada em Direitos Humanos e Sul Global",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://www.brasildefato.com.br/2026/09/03/ira-ataca-bases-no-kuwait-e-emirados-arabes-como-retaliacao-a-crime-de-guerra-dos-eua/",
+      "publishedAtStr": "2026-09-03T15:30:00Z",
+      "publishedAtTs": 1788449400000,
+      "rawContent": "Irã ataca bases no Kuwait e Emirados Árabes como retaliação a  crime de guerra  dos EUA",
+      "linkStatus": "active",
+      "lastChecked": 1788532321830
+    },
+    {
+      "id": "gdelt-dc9xjrv",
+      "title": "Em áudio , Nikolas Ferreira chama Daniel Vorcaro de  lindão  e pede liberação de ativo de minério",
+      "sourceName": "Brasil de Fato",
+      "sourceUrl": "https://www.brasildefato.com.br/",
+      "sourceType": "Jornal / Movimentos Sociais",
+      "sourceEditorial": "Mídia popular focada em Direitos Humanos e Sul Global",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://www.brasildefato.com.br/2026/09/03/em-audio-nikolas-ferreira-chama-daniel-vorcaro-de-lindao-e-pede-liberacao-de-ativo-de-minerio/",
+      "publishedAtStr": "2026-09-03T15:30:00Z",
+      "publishedAtTs": 1788449400000,
+      "rawContent": "Em áudio , Nikolas Ferreira chama Daniel Vorcaro de  lindão  e pede liberação de ativo de minério",
+      "linkStatus": "active",
+      "lastChecked": 1788532321830
+    },
+    {
+      "id": "gdelt-0gehxma",
+      "title": "Dark Horse : PGR fecha delação com operador de repasses para filme sobre Bolsonaro",
+      "sourceName": "Brasil de Fato",
+      "sourceUrl": "https://www.brasildefato.com.br/",
+      "sourceType": "Jornal / Movimentos Sociais",
+      "sourceEditorial": "Mídia popular focada em Direitos Humanos e Sul Global",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://www.brasildefato.com.br/2026/09/03/dark-horse-pgr-fecha-delacao-com-operador-de-repasses-para-filme-sobre-bolsonaro/",
+      "publishedAtStr": "2026-09-03T15:30:00Z",
+      "publishedAtTs": 1788449400000,
+      "rawContent": "Dark Horse : PGR fecha delação com operador de repasses para filme sobre Bolsonaro",
+      "linkStatus": "active",
+      "lastChecked": 1788532321830
+    },
+    {
+      "id": "gdelt-y4hq9c1",
+      "title": "Mais de 11 mil esperam por psiquiatra no DF ; fila tem pacientes desde 2019",
+      "sourceName": "Brasil de Fato",
+      "sourceUrl": "https://www.brasildefato.com.br/",
+      "sourceType": "Jornal / Movimentos Sociais",
+      "sourceEditorial": "Mídia popular focada em Direitos Humanos e Sul Global",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://www.brasildefato.com.br/2026/09/02/mais-de-11-mil-esperam-por-psiquiatra-no-df-fila-tem-pacientes-desde-2019/",
+      "publishedAtStr": "2026-09-03T15:30:00Z",
+      "publishedAtTs": 1788449400000,
+      "rawContent": "Mais de 11 mil esperam por psiquiatra no DF ; fila tem pacientes desde 2019",
+      "linkStatus": "active",
+      "lastChecked": 1788532321830
     }
   ]
 }
