@@ -1,16 +1,32 @@
 {
-  "updatedAt": "2026-09-04T17:15:34.462Z",
+  "updatedAt": "2026-09-04T17:28:25.104Z",
   "periodUsed": "24h",
-  "count": 37,
+  "count": 38,
   "linkVerificationStats": {
-    "checkedThisRun": 24,
-    "active": 24,
+    "checkedThisRun": 1,
+    "active": 1,
     "broken": 0,
     "unknown": 0
   },
   "articles": [
     {
-      "id": "gdelt-ctk4r4l",
+      "id": "gdelt-2z3kzur",
+      "title": "Fachin retira do inquérito das fake news pedido de Moraes para investigar Mendonça",
+      "sourceName": "InfoMoney",
+      "sourceUrl": "https://www.infomoney.com.br/",
+      "sourceType": "Imprensa Comercial Brasileira",
+      "sourceEditorial": "Portal especializado em mercados e economia global",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://www.infomoney.com.br/politica/fachin-retira-do-inquerito-das-fake-news-pedido-de-moraes-para-investigar-mendonca/",
+      "publishedAtStr": "2026-09-04T17:00:00Z",
+      "publishedAtTs": 1788541200000,
+      "rawContent": "Fachin retira do inquérito das fake news pedido de Moraes para investigar Mendonça",
+      "linkStatus": "active",
+      "lastChecked": 1788542904743
+    },
+    {
+      "id": "gdelt-maqwxz8",
       "title": "Crise no STF escala com guerra entre Moraes e Mendonça",
       "sourceName": "DW Brasil",
       "sourceUrl": "https://www.dw.com/pt-br/",
@@ -26,7 +42,7 @@
       "lastChecked": 1788542124148
     },
     {
-      "id": "gdelt-wym1tbh",
+      "id": "gdelt-a9cqvkh",
       "title": "Enfermeira que matou os 3 filhos : juiz diz que anulará julgamento após impasse no júri",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -42,7 +58,7 @@
       "lastChecked": 1788540812748
     },
     {
-      "id": "gdelt-szyehx7",
+      "id": "gdelt-882taih",
       "title": "Meloni celebra recorde de permanência no governo da Itália e lança campanha para 2027",
       "sourceName": "Veja Mundo",
       "sourceUrl": "https://veja.abril.com.br/mundo/",
@@ -58,7 +74,7 @@
       "lastChecked": 1788542124148
     },
     {
-      "id": "gdelt-r0bcy6v",
+      "id": "gdelt-hvnidm5",
       "title": "Ucrânia acusa Rússia de atacar QG do Serviço de Segurança em Kiev",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -74,7 +90,7 @@
       "lastChecked": 1788540812748
     },
     {
-      "id": "gdelt-s4lyp3w",
+      "id": "gdelt-lxke9tu",
       "title": "Marco Rubio prepara turnê pela América do Sul de direita na próxima semana",
       "sourceName": "Veja Mundo",
       "sourceUrl": "https://veja.abril.com.br/mundo/",
@@ -90,7 +106,7 @@
       "lastChecked": 1788542124148
     },
     {
-      "id": "gdelt-dckq528",
+      "id": "gdelt-n1eodcc",
       "title": "Com sanções a petroleiras , Milei intensifica disputa pelas Ilhas Malvinas com Inglaterra",
       "sourceName": "Veja Mundo",
       "sourceUrl": "https://veja.abril.com.br/mundo/",
@@ -106,7 +122,7 @@
       "lastChecked": 1788542124148
     },
     {
-      "id": "gdelt-m8mgwgw",
+      "id": "gdelt-2x0uy8t",
       "title": "Número de mortos em megaenchente no Nepal e Tibete passa de 1 . 300",
       "sourceName": "Veja Mundo",
       "sourceUrl": "https://veja.abril.com.br/mundo/",
@@ -122,7 +138,7 @@
       "lastChecked": 1788542124148
     },
     {
-      "id": "gdelt-d35609b",
+      "id": "gdelt-abl9you",
       "title": "Pesquisa inédita mostra que , na política mundial , ninguém exerce mais influência do que Trump",
       "sourceName": "Veja Mundo",
       "sourceUrl": "https://veja.abril.com.br/mundo/",
@@ -138,7 +154,7 @@
       "lastChecked": 1788542124148
     },
     {
-      "id": "gdelt-ayw4wjy",
+      "id": "gdelt-3hj4q9m",
       "title": "Quais países sobreviveriam melhor a uma catástrofe global ? Estudo aponta os mais resilientes",
       "sourceName": "O Globo Mundo",
       "sourceUrl": "https://oglobo.globo.com/mundo/",
@@ -154,7 +170,7 @@
       "lastChecked": 1788540812748
     },
     {
-      "id": "gdelt-dg9v8oc",
+      "id": "gdelt-jwnvy81",
       "title": "Ilha misteriosa aparece e desaparece em lago no Canadá",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -170,7 +186,7 @@
       "lastChecked": 1788540812748
     },
     {
-      "id": "gdelt-iwksnph",
+      "id": "gdelt-wh7vrib",
       "title": "Movimentos do campo , florestas e águas se reúnem para debater desafios e estratégias para alimentar e defender o Brasil",
       "sourceName": "Brasil de Fato",
       "sourceUrl": "https://www.brasildefato.com.br/",
@@ -186,7 +202,7 @@
       "lastChecked": 1788532321830
     },
     {
-      "id": "gdelt-nii1ru3",
+      "id": "gdelt-bb78rj4",
       "title": "Cuba oficializa mudanças que ampliam espaço para o setor privado e flexibilizam investimentos",
       "sourceName": "Brasil de Fato",
       "sourceUrl": "https://www.brasildefato.com.br/",
@@ -202,7 +218,7 @@
       "lastChecked": 1788532321830
     },
     {
-      "id": "gdelt-0uqbjeo",
+      "id": "gdelt-59ihr6r",
       "title": "Nepal resgata 2 trabalhadores com vida de túnel 9 dias após enchentes",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -218,7 +234,7 @@
       "lastChecked": 1788540812748
     },
     {
-      "id": "gdelt-93khfpp",
+      "id": "gdelt-trfgmvc",
       "title": "Menino de 6 anos sobrevive à chacina ao se esconder debaixo da cama",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -234,7 +250,7 @@
       "lastChecked": 1788540812748
     },
     {
-      "id": "gdelt-yiec6td",
+      "id": "gdelt-7yz3n2g",
       "title": "Casa Branca lança jogos em que imigrantes são caçados para deportação",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -250,7 +266,7 @@
       "lastChecked": 1788540812748
     },
     {
-      "id": "gdelt-48uxt7v",
+      "id": "gdelt-5og4qmh",
       "title": "Moraes pede a Fachin investigação de Mendonça no inquérito das fake news",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -266,7 +282,7 @@
       "lastChecked": 1788542124148
     },
     {
-      "id": "gdelt-0ag4itr",
+      "id": "gdelt-qhgyosr",
       "title": "Milei anuncia sanções e construo de base naval em meio à disputa por petróleo nas Ilhas Malvinas",
       "sourceName": "Estadão Internacional",
       "sourceUrl": "https://www.estadao.com.br/internacional/",
@@ -282,7 +298,7 @@
       "lastChecked": 1788542124148
     },
     {
-      "id": "gdelt-i3pfc8j",
+      "id": "gdelt-y9n4xj7",
       "title": "Argentino é suspeito de matar músico , mulher grávida , criança de 3 anos , empregada e cachorro",
       "sourceName": "Estadão Internacional",
       "sourceUrl": "https://www.estadao.com.br/internacional/",
@@ -298,7 +314,7 @@
       "lastChecked": 1788542124148
     },
     {
-      "id": "gdelt-iip062w",
+      "id": "gdelt-zib8d2x",
       "title": "General russo acusado de ordenar ataque a hospital infantil é baleado",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -314,7 +330,7 @@
       "lastChecked": 1788540812748
     },
     {
-      "id": "gdelt-t1nw0q5",
+      "id": "gdelt-ctq5ud0",
       "title": "Juiz recusa pedido da defesa de Lindsey Clancy , acusada de matar os três filhos nos EUA , de remover jurado no julgamento",
       "sourceName": "O Globo Mundo",
       "sourceUrl": "https://oglobo.globo.com/mundo/",
@@ -330,7 +346,7 @@
       "lastChecked": 1788540812748
     },
     {
-      "id": "gdelt-y0kojji",
+      "id": "gdelt-j3qhpi3",
       "title": "Justiça da Colômbia ordena suspensão de bombardeios contra guerrilheiros quando houver suspeita da presença de menores",
       "sourceName": "O Globo Mundo",
       "sourceUrl": "https://oglobo.globo.com/mundo/",
@@ -346,7 +362,7 @@
       "lastChecked": 1788540812748
     },
     {
-      "id": "gdelt-npateu7",
+      "id": "gdelt-nq4uej4",
       "title": "Unidades rivais de inteligência ucraniana trocam tiros em Kiev , e Zelensky chama embate de  vergonhoso",
       "sourceName": "O Globo Mundo",
       "sourceUrl": "https://oglobo.globo.com/mundo/",
@@ -362,7 +378,7 @@
       "lastChecked": 1788540812748
     },
     {
-      "id": "gdelt-aqqz30u",
+      "id": "gdelt-wpztn0v",
       "title": "Justiça da Colômbia ordena suspensão de ataques a acampamentos da guerrilha com adolescentes",
       "sourceName": "Estadão Internacional",
       "sourceUrl": "https://www.estadao.com.br/internacional/",
@@ -378,7 +394,7 @@
       "lastChecked": 1788542124148
     },
     {
-      "id": "gdelt-k551lzs",
+      "id": "gdelt-f7wgz65",
       "title": "Construo do  arco de Trump  deve começar nas próximas semanas",
       "sourceName": "Estadão Internacional",
       "sourceUrl": "https://www.estadao.com.br/internacional/",
@@ -394,7 +410,7 @@
       "lastChecked": 1788542124148
     },
     {
-      "id": "gdelt-oq2v50n",
+      "id": "gdelt-7eotd50",
       "title": "Trump deixa dúvidas sobre o apoio americano ao Reino Unido na disputa com a Argentina pelas Malvinas",
       "sourceName": "Estadão Internacional",
       "sourceUrl": "https://www.estadao.com.br/internacional/",
@@ -410,7 +426,7 @@
       "lastChecked": 1788542124148
     },
     {
-      "id": "gdelt-3pekuim",
+      "id": "gdelt-7h9noku",
       "title": "Casa Branca cria game em que jogador  caça  imigrantes na fronteira",
       "sourceName": "Estadão Internacional",
       "sourceUrl": "https://www.estadao.com.br/internacional/",
@@ -426,7 +442,7 @@
       "lastChecked": 1788542124148
     },
     {
-      "id": "gdelt-ccib4ld",
+      "id": "gdelt-54x1xg4",
       "title": "Datafolha : desaprovação de Lula vai a 51 % e aprovação cai para 45 %",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -442,7 +458,7 @@
       "lastChecked": 1788542124148
     },
     {
-      "id": "gdelt-7hbn66v",
+      "id": "gdelt-ikc71oj",
       "title": "Datafolha : Lula tem 38 % e Flávio , 33 % no primeiro turno ; distância cai a 5 pontos",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -458,7 +474,7 @@
       "lastChecked": 1788542124148
     },
     {
-      "id": "gdelt-ah5oqfg",
+      "id": "gdelt-z3l7w6t",
       "title": "O que é matéria escura e por que sua possível descoberta agita cientistas ?",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -474,7 +490,7 @@
       "lastChecked": 1788542124148
     },
     {
-      "id": "gdelt-89xgqva",
+      "id": "gdelt-m05twh4",
       "title": "Conselho da Volkswagen aprova reestruturação e sinaliza cortes de 50 mil empregos",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -490,7 +506,7 @@
       "lastChecked": 1788542124148
     },
     {
-      "id": "gdelt-7e1pjjn",
+      "id": "gdelt-lau1oyr",
       "title": "STF fixa teto de R$ 5 mil de renda para acesso à Justiça gratuita trabalhista",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -506,7 +522,7 @@
       "lastChecked": 1788542124148
     },
     {
-      "id": "gdelt-q6b4c9i",
+      "id": "gdelt-nqf5gj4",
       "title": "Lula e Flávio ficam a 2 pontos no 2º turno e acirram disputa , diz Datafolha",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -522,7 +538,7 @@
       "lastChecked": 1788542124148
     },
     {
-      "id": "gdelt-jb0iq86",
+      "id": "gdelt-e6mx306",
       "title": "Alcolumbre afirma que PEC pelo fim da escala 6×1 deve ser votada apenas após eleições",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -538,7 +554,7 @@
       "lastChecked": 1788542124148
     },
     {
-      "id": "gdelt-ymfdai7",
+      "id": "gdelt-7uk80wp",
       "title": "Senado aprova fim da  taxa das blusinhas ; texto segue para sano de Lula",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -554,7 +570,7 @@
       "lastChecked": 1788542124148
     },
     {
-      "id": "gdelt-anne16l",
+      "id": "gdelt-bolelfa",
       "title": "Por que  Cidade do Pecado  da Tailândia virou destino de 5 mil marinheiros dos EUA",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -570,7 +586,7 @@
       "lastChecked": 1788542124148
     },
     {
-      "id": "gdelt-i8jlqj1",
+      "id": "gdelt-izbblhn",
       "title": "Startups : Poucos meses após chegar ao Brasil , Wonderful faz série C de US$ 550M",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -586,7 +602,7 @@
       "lastChecked": 1788542124148
     },
     {
-      "id": "gdelt-7ncnvwu",
+      "id": "gdelt-1jg20rm",
       "title": "Discordar não é sinônimo de odiar , diz Fachin sobre eleições em meio a crise no STF",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
