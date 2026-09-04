@@ -1,16 +1,16 @@
 {
-  "updatedAt": "2026-09-04T17:42:57.365Z",
+  "updatedAt": "2026-09-04T17:55:42.701Z",
   "periodUsed": "24h",
-  "count": 24,
+  "count": 26,
   "linkVerificationStats": {
-    "checkedThisRun": 0,
-    "active": 0,
+    "checkedThisRun": 2,
+    "active": 2,
     "broken": 0,
     "unknown": 0
   },
   "articles": [
     {
-      "id": "gdelt-rw0rnla",
+      "id": "gdelt-eqj3cbm",
       "title": "Fachin retira do inquérito das fake news pedido de Moraes para investigar Mendonça",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -26,7 +26,7 @@
       "lastChecked": 1788542904743
     },
     {
-      "id": "gdelt-y48qlpu",
+      "id": "gdelt-ente5n1",
       "title": "Meloni celebra recorde de permanência no governo da Itália e lança campanha para 2027",
       "sourceName": "Veja Mundo",
       "sourceUrl": "https://veja.abril.com.br/mundo/",
@@ -42,7 +42,7 @@
       "lastChecked": 1788542124148
     },
     {
-      "id": "gdelt-ip8jmlo",
+      "id": "gdelt-e5eqp2o",
       "title": "Marco Rubio prepara turnê pela América do Sul de direita na próxima semana",
       "sourceName": "Veja Mundo",
       "sourceUrl": "https://veja.abril.com.br/mundo/",
@@ -58,7 +58,7 @@
       "lastChecked": 1788542124148
     },
     {
-      "id": "gdelt-ba4zhse",
+      "id": "gdelt-79i73l1",
       "title": "Com sanções a petroleiras , Milei intensifica disputa pelas Ilhas Malvinas com Inglaterra",
       "sourceName": "Veja Mundo",
       "sourceUrl": "https://veja.abril.com.br/mundo/",
@@ -74,7 +74,7 @@
       "lastChecked": 1788542124148
     },
     {
-      "id": "gdelt-nm28nei",
+      "id": "gdelt-xcl9a6a",
       "title": "Número de mortos em megaenchente no Nepal e Tibete passa de 1 . 300",
       "sourceName": "Veja Mundo",
       "sourceUrl": "https://veja.abril.com.br/mundo/",
@@ -90,7 +90,7 @@
       "lastChecked": 1788542124148
     },
     {
-      "id": "gdelt-3a6jbox",
+      "id": "gdelt-t2ln9ca",
       "title": "Pesquisa inédita mostra que , na política mundial , ninguém exerce mais influência do que Trump",
       "sourceName": "Veja Mundo",
       "sourceUrl": "https://veja.abril.com.br/mundo/",
@@ -106,7 +106,39 @@
       "lastChecked": 1788542124148
     },
     {
-      "id": "gdelt-tk2b8zx",
+      "id": "gdelt-9s8j5l7",
+      "title": "Movimentos do campo , florestas e águas se reúnem para debater desafios e estratégias para alimentar e defender o Brasil",
+      "sourceName": "Brasil de Fato",
+      "sourceUrl": "https://www.brasildefato.com.br/",
+      "sourceType": "Jornal / Movimentos Sociais",
+      "sourceEditorial": "Mídia popular focada em Direitos Humanos e Sul Global",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://www.brasildefato.com.br/2026/09/03/movimentos-do-campo-florestas-e-aguas-se-reunem-para-debater-desafios-e-estrategias-para-alimentar-e-defender-o-brasil/",
+      "publishedAtStr": "2026-09-04T06:00:00Z",
+      "publishedAtTs": 1788501600000,
+      "rawContent": "Movimentos do campo , florestas e águas se reúnem para debater desafios e estratégias para alimentar e defender o Brasil",
+      "linkStatus": "active",
+      "lastChecked": 1788544541744
+    },
+    {
+      "id": "gdelt-cakw1t6",
+      "title": "Cuba oficializa mudanças que ampliam espaço para o setor privado e flexibilizam investimentos",
+      "sourceName": "Brasil de Fato",
+      "sourceUrl": "https://www.brasildefato.com.br/",
+      "sourceType": "Jornal / Movimentos Sociais",
+      "sourceEditorial": "Mídia popular focada em Direitos Humanos e Sul Global",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://www.brasildefato.com.br/2026/09/03/cuba-oficializa-mudancas-que-ampliam-espaco-para-o-setor-privado-e-flexibilizam-investimentos/",
+      "publishedAtStr": "2026-09-04T06:00:00Z",
+      "publishedAtTs": 1788501600000,
+      "rawContent": "Cuba oficializa mudanças que ampliam espaço para o setor privado e flexibilizam investimentos",
+      "linkStatus": "active",
+      "lastChecked": 1788544541744
+    },
+    {
+      "id": "gdelt-usob6dd",
       "title": "Moraes pede a Fachin investigação de Mendonça no inquérito das fake news",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -122,7 +154,7 @@
       "lastChecked": 1788542124148
     },
     {
-      "id": "gdelt-00kll9h",
+      "id": "gdelt-v0xheld",
       "title": "Milei anuncia sanções e construo de base naval em meio à disputa por petróleo nas Ilhas Malvinas",
       "sourceName": "Estadão Internacional",
       "sourceUrl": "https://www.estadao.com.br/internacional/",
@@ -138,7 +170,7 @@
       "lastChecked": 1788542124148
     },
     {
-      "id": "gdelt-42olrtq",
+      "id": "gdelt-qahe1qx",
       "title": "Argentino é suspeito de matar músico , mulher grávida , criança de 3 anos , empregada e cachorro",
       "sourceName": "Estadão Internacional",
       "sourceUrl": "https://www.estadao.com.br/internacional/",
@@ -154,7 +186,7 @@
       "lastChecked": 1788542124148
     },
     {
-      "id": "gdelt-10v4phe",
+      "id": "gdelt-qi2j5u3",
       "title": "Justiça da Colômbia ordena suspensão de ataques a acampamentos da guerrilha com adolescentes",
       "sourceName": "Estadão Internacional",
       "sourceUrl": "https://www.estadao.com.br/internacional/",
@@ -170,7 +202,7 @@
       "lastChecked": 1788542124148
     },
     {
-      "id": "gdelt-ce4xdta",
+      "id": "gdelt-xmjsvlr",
       "title": "Construo do  arco de Trump  deve começar nas próximas semanas",
       "sourceName": "Estadão Internacional",
       "sourceUrl": "https://www.estadao.com.br/internacional/",
@@ -186,7 +218,7 @@
       "lastChecked": 1788542124148
     },
     {
-      "id": "gdelt-ijeij8w",
+      "id": "gdelt-05ad6zb",
       "title": "Trump deixa dúvidas sobre o apoio americano ao Reino Unido na disputa com a Argentina pelas Malvinas",
       "sourceName": "Estadão Internacional",
       "sourceUrl": "https://www.estadao.com.br/internacional/",
@@ -202,7 +234,7 @@
       "lastChecked": 1788542124148
     },
     {
-      "id": "gdelt-vekqsrj",
+      "id": "gdelt-jy9fdqw",
       "title": "Casa Branca cria game em que jogador  caça  imigrantes na fronteira",
       "sourceName": "Estadão Internacional",
       "sourceUrl": "https://www.estadao.com.br/internacional/",
@@ -218,7 +250,7 @@
       "lastChecked": 1788542124148
     },
     {
-      "id": "gdelt-zjzjpw4",
+      "id": "gdelt-7n8kvax",
       "title": "Datafolha : desaprovação de Lula vai a 51 % e aprovação cai para 45 %",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -234,7 +266,7 @@
       "lastChecked": 1788542124148
     },
     {
-      "id": "gdelt-nzgk91i",
+      "id": "gdelt-wzkpz5e",
       "title": "Datafolha : Lula tem 38 % e Flávio , 33 % no primeiro turno ; distância cai a 5 pontos",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -250,7 +282,7 @@
       "lastChecked": 1788542124148
     },
     {
-      "id": "gdelt-6fxv4pi",
+      "id": "gdelt-l6biyo9",
       "title": "O que é matéria escura e por que sua possível descoberta agita cientistas ?",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -266,7 +298,7 @@
       "lastChecked": 1788542124148
     },
     {
-      "id": "gdelt-ll4ekdf",
+      "id": "gdelt-0lbvvf5",
       "title": "Conselho da Volkswagen aprova reestruturação e sinaliza cortes de 50 mil empregos",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -282,7 +314,7 @@
       "lastChecked": 1788542124148
     },
     {
-      "id": "gdelt-m3azjvz",
+      "id": "gdelt-i2he1le",
       "title": "STF fixa teto de R$ 5 mil de renda para acesso à Justiça gratuita trabalhista",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -298,7 +330,7 @@
       "lastChecked": 1788542124148
     },
     {
-      "id": "gdelt-9azeicy",
+      "id": "gdelt-3pnjhm5",
       "title": "Lula e Flávio ficam a 2 pontos no 2º turno e acirram disputa , diz Datafolha",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -314,7 +346,7 @@
       "lastChecked": 1788542124148
     },
     {
-      "id": "gdelt-4u5r67b",
+      "id": "gdelt-5cc138y",
       "title": "Alcolumbre afirma que PEC pelo fim da escala 6×1 deve ser votada apenas após eleições",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -330,7 +362,7 @@
       "lastChecked": 1788542124148
     },
     {
-      "id": "gdelt-ov3kye0",
+      "id": "gdelt-mmrlox4",
       "title": "Senado aprova fim da  taxa das blusinhas ; texto segue para sano de Lula",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -346,7 +378,7 @@
       "lastChecked": 1788542124148
     },
     {
-      "id": "gdelt-mbzk0rl",
+      "id": "gdelt-9t6kt2y",
       "title": "Por que  Cidade do Pecado  da Tailândia virou destino de 5 mil marinheiros dos EUA",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -362,7 +394,7 @@
       "lastChecked": 1788542124148
     },
     {
-      "id": "gdelt-rm7pnjz",
+      "id": "gdelt-nfzsqrc",
       "title": "Startups : Poucos meses após chegar ao Brasil , Wonderful faz série C de US$ 550M",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -378,7 +410,7 @@
       "lastChecked": 1788542124148
     },
     {
-      "id": "gdelt-dmiz9gy",
+      "id": "gdelt-itflax7",
       "title": "Discordar não é sinônimo de odiar , diz Fachin sobre eleições em meio a crise no STF",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
