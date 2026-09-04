@@ -100,24 +100,39 @@ function restoreTitleFromUrl(title, url) {
 
     let words = title.split(' ');
     let fixedWords = words.map(w => {
-      const cleanWord = w.toLowerCase().replace(/[^\wçáàâãéêíóôõúü]/gi, '');
-      if (cleanWord.length > 3) {
-        const matchSlug = slugWords.find(sw => {
-          if (sw.startsWith(cleanWord) || cleanWord.startsWith(sw)) return true;
-          const cleanWordNormalized = cleanWord.replace(/ao$/, 'cao').replace(/es$/, 'coes');
-          return sw === cleanWordNormalized || sw.includes(cleanWordNormalized);
-        });
+      // Limpar duplicidades históricas acidentais (ex: "reaçõções", "informaçõções")
+      let cleanW = w.replace(/çõções/gi, 'ções').replace(/çãção/gi, 'ção');
 
-        if (matchSlug && matchSlug !== cleanWord) {
-          if (matchSlug.includes('cao') && w.toLowerCase().endsWith('ao')) {
-            return w.replace(/ao$/i, 'ção').replace(/ao$/g, 'ção');
+      const matchWord = cleanW.match(/^([^\wçáàâãéêíóôõúü]*)([\wçáàâãéêíóôõúü]+)([^\wçáàâãéêíóôõúü]*)$/i);
+      if (!matchWord) return cleanW;
+
+      const prefix = matchWord[1];
+      const cleanWord = matchWord[2];
+      const suffix = matchWord[3];
+
+      if (cleanWord.length > 3) {
+        const cleanLower = cleanWord.toLowerCase();
+
+        // 1. Caso palavra terminada em "ao" (corrupção de "ção") -> ex: operao -> operacao no slug -> operação
+        if (cleanLower.endsWith('ao') && !cleanLower.endsWith('ção') && !cleanLower.endsWith('não') && !cleanLower.endsWith('são')) {
+          const expectedSlugWord = cleanLower.slice(0, -1) + 'ca' + cleanLower.slice(-1);
+          if (slugWords.includes(expectedSlugWord)) {
+            const restoredClean = cleanWord.slice(0, -1) + 'ção';
+            return prefix + restoredClean + suffix;
           }
-          if (matchSlug.includes('coes') && w.toLowerCase().endsWith('es')) {
-            return w.replace(/es$/i, 'ções').replace(/es$/g, 'ções');
+        }
+
+        // 2. Caso palavra terminada em "es" (corrupção de "ções") -> ex: investigaes -> investigacoes no slug -> investigações
+        if (cleanLower.endsWith('es') && !cleanLower.endsWith('ções') && !cleanLower.endsWith('sões')) {
+          const expectedSlugWord = cleanLower.slice(0, -2) + 'co' + cleanLower.slice(-2);
+          if (slugWords.includes(expectedSlugWord)) {
+            const restoredClean = cleanWord.slice(0, -2) + 'ções';
+            return prefix + restoredClean + suffix;
           }
         }
       }
-      return w;
+
+      return cleanW;
     });
 
     let restored = fixedWords.join(' ');
