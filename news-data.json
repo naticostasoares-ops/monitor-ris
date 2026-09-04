@@ -1,16 +1,16 @@
 {
-  "updatedAt": "2026-09-04T10:02:06.450Z",
-  "periodUsed": "24h",
-  "count": 50,
+  "updatedAt": "2026-09-04T10:22:13.152Z",
+  "periodUsed": "7d",
+  "count": 59,
   "linkVerificationStats": {
-    "checkedThisRun": 16,
-    "active": 16,
+    "checkedThisRun": 24,
+    "active": 24,
     "broken": 0,
     "unknown": 0
   },
   "articles": [
     {
-      "id": "gdelt-jf1h3wj",
+      "id": "gdelt-msl9yyc",
       "title": "Pesquisa inédita mostra que , na política mundial , ninguém exerce mais influência do que Trump",
       "sourceName": "Veja Mundo",
       "sourceUrl": "https://veja.abril.com.br/mundo/",
@@ -26,87 +26,7 @@
       "lastChecked": 1788516102938
     },
     {
-      "id": "gdelt-cbwil81",
-      "title": "Quais países sobreviveriam melhor a uma catástrofe global ? Estudo aponta os mais resilientes",
-      "sourceName": "O Globo Mundo",
-      "sourceUrl": "https://oglobo.globo.com/mundo/",
-      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
-      "sourceEditorial": "Jornal diário (Grupo Globo) - Conteúdo sob assinatura",
-      "country": "Brasil",
-      "paywall": true,
-      "originalUrl": "https://oglobo.globo.com/mundo/clima-e-ciencia/noticia/2026/09/04/quais-paises-sobreviveriam-melhor-a-uma-catastrofe-global-estudo-aponta-os-mais-resilientes.ghtml",
-      "publishedAtStr": "2026-09-04T09:00:00Z",
-      "publishedAtTs": 1788512400000,
-      "rawContent": "Quais países sobreviveriam melhor a uma catástrofe global ? Estudo aponta os mais resilientes",
-      "linkStatus": "active",
-      "lastChecked": 1788516102938
-    },
-    {
-      "id": "gdelt-i957phj",
-      "title": "Ilha misteriosa aparece e desaparece em lago no Canadá",
-      "sourceName": "G1 Mundo",
-      "sourceUrl": "https://g1.globo.com/mundo/",
-      "sourceType": "Imprensa Comercial Brasileira",
-      "sourceEditorial": "Portal de notícias mainstream do Grupo Globo",
-      "country": "Brasil",
-      "paywall": false,
-      "originalUrl": "https://g1.globo.com/mundo/noticia/2026/09/04/ilha-misteriosa-aparece-e-desaparece-em-lago-no-canada.ghtml",
-      "publishedAtStr": "2026-09-04T07:15:00Z",
-      "publishedAtTs": 1788506100000,
-      "rawContent": "Ilha misteriosa aparece e desaparece em lago no Canadá",
-      "linkStatus": "active",
-      "lastChecked": 1788516102938
-    },
-    {
-      "id": "gdelt-ia21d9k",
-      "title": "Nepal resgata 2 trabalhadores com vida de túnel 9 dias após enchentes",
-      "sourceName": "G1 Mundo",
-      "sourceUrl": "https://g1.globo.com/mundo/",
-      "sourceType": "Imprensa Comercial Brasileira",
-      "sourceEditorial": "Portal de notícias mainstream do Grupo Globo",
-      "country": "Brasil",
-      "paywall": false,
-      "originalUrl": "https://g1.globo.com/mundo/noticia/2026/09/04/nepal-resgata-2-trabalhadores-com-vida-de-tunel-9-dias-apos-enchentes.ghtml",
-      "publishedAtStr": "2026-09-04T04:45:00Z",
-      "publishedAtTs": 1788497100000,
-      "rawContent": "Nepal resgata 2 trabalhadores com vida de túnel 9 dias após enchentes",
-      "linkStatus": "active",
-      "lastChecked": 1788516102938
-    },
-    {
-      "id": "gdelt-g03q71z",
-      "title": "Menino de 6 anos sobrevive à chacina ao se esconder debaixo da cama",
-      "sourceName": "G1 Mundo",
-      "sourceUrl": "https://g1.globo.com/mundo/",
-      "sourceType": "Imprensa Comercial Brasileira",
-      "sourceEditorial": "Portal de notícias mainstream do Grupo Globo",
-      "country": "Brasil",
-      "paywall": false,
-      "originalUrl": "https://g1.globo.com/mundo/noticia/2026/09/04/menino-de-6-anos-que-sobreviveu-a-chacina-da-familia-no-mexico-se-escondeu-debaixo-da-cama.ghtml",
-      "publishedAtStr": "2026-09-04T04:00:00Z",
-      "publishedAtTs": 1788494400000,
-      "rawContent": "Menino de 6 anos sobrevive à chacina ao se esconder debaixo da cama",
-      "linkStatus": "active",
-      "lastChecked": 1788516102938
-    },
-    {
-      "id": "gdelt-8mme7ef",
-      "title": "Casa Branca lança jogos em que imigrantes são caçados para deportação",
-      "sourceName": "G1 Mundo",
-      "sourceUrl": "https://g1.globo.com/mundo/",
-      "sourceType": "Imprensa Comercial Brasileira",
-      "sourceEditorial": "Portal de notícias mainstream do Grupo Globo",
-      "country": "Brasil",
-      "paywall": false,
-      "originalUrl": "https://g1.globo.com/mundo/noticia/2026/09/03/tetris-e-cobrinha-casa-branca-lanca-jogos-em-que-imigrantes-sao-cacados-para-deportacao.ghtml",
-      "publishedAtStr": "2026-09-04T02:30:00Z",
-      "publishedAtTs": 1788489000000,
-      "rawContent": "Casa Branca lança jogos em que imigrantes são caçados para deportação",
-      "linkStatus": "active",
-      "lastChecked": 1788516102938
-    },
-    {
-      "id": "gdelt-h6ca2bc",
+      "id": "gdelt-rebon04",
       "title": "Moraes pede a Fachin investigação de Mendonça no inquérito das fake news",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -122,7 +42,7 @@
       "lastChecked": 1788514427052
     },
     {
-      "id": "gdelt-vot7kiq",
+      "id": "gdelt-i6dxwus",
       "title": "Milei anuncia sanções e construo de base naval em meio à disputa por petróleo nas Ilhas Malvinas",
       "sourceName": "Estadão Internacional",
       "sourceUrl": "https://www.estadao.com.br/internacional/",
@@ -138,7 +58,7 @@
       "lastChecked": 1788514427052
     },
     {
-      "id": "gdelt-pv1lkha",
+      "id": "gdelt-19bm3wa",
       "title": "Argentino é suspeito de matar músico , mulher grávida , criança de 3 anos , empregada e cachorro",
       "sourceName": "Estadão Internacional",
       "sourceUrl": "https://www.estadao.com.br/internacional/",
@@ -154,71 +74,7 @@
       "lastChecked": 1788514427052
     },
     {
-      "id": "gdelt-3zeia20",
-      "title": "Unidades rivais de inteligência ucraniana trocam tiros em Kiev , e Zelensky chama embate de  vergonhoso",
-      "sourceName": "O Globo Mundo",
-      "sourceUrl": "https://oglobo.globo.com/mundo/",
-      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
-      "sourceEditorial": "Jornal diário (Grupo Globo) - Conteúdo sob assinatura",
-      "country": "Brasil",
-      "paywall": true,
-      "originalUrl": "https://oglobo.globo.com/mundo/noticia/2026/09/03/unidades-rivais-de-inteligencia-ucraniana-trocam-tiros-em-kiev-e-zelensky-chama-embate-de-vergonhoso.ghtml",
-      "publishedAtStr": "2026-09-04T01:45:00Z",
-      "publishedAtTs": 1788486300000,
-      "rawContent": "Unidades rivais de inteligência ucraniana trocam tiros em Kiev , e Zelensky chama embate de  vergonhoso",
-      "linkStatus": "active",
-      "lastChecked": 1788516102938
-    },
-    {
-      "id": "gdelt-q15hzc6",
-      "title": "General russo acusado de ordenar ataque a hospital infantil é baleado",
-      "sourceName": "G1 Mundo",
-      "sourceUrl": "https://g1.globo.com/mundo/",
-      "sourceType": "Imprensa Comercial Brasileira",
-      "sourceEditorial": "Portal de notícias mainstream do Grupo Globo",
-      "country": "Brasil",
-      "paywall": false,
-      "originalUrl": "https://g1.globo.com/mundo/ucrania-russia/noticia/2026/09/03/general-russo-acusado-de-ordenar-ataque-contra-hospital-infantil-na-ucrania-e-baleado-na-cabeca.ghtml",
-      "publishedAtStr": "2026-09-04T01:45:00Z",
-      "publishedAtTs": 1788486300000,
-      "rawContent": "General russo acusado de ordenar ataque a hospital infantil é baleado",
-      "linkStatus": "active",
-      "lastChecked": 1788516102938
-    },
-    {
-      "id": "gdelt-6doy1za",
-      "title": "Juiz recusa pedido da defesa de Lindsey Clancy , acusada de matar os três filhos nos EUA , de remover jurado no julgamento",
-      "sourceName": "O Globo Mundo",
-      "sourceUrl": "https://oglobo.globo.com/mundo/",
-      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
-      "sourceEditorial": "Jornal diário (Grupo Globo) - Conteúdo sob assinatura",
-      "country": "Brasil",
-      "paywall": true,
-      "originalUrl": "https://oglobo.globo.com/mundo/noticia/2026/09/03/juiz-recusa-pedido-da-defesa-de-lindsey-clancy-acusada-de-matar-os-tres-filhos-nos-eua-de-remover-jurado-no-julgamento.ghtml",
-      "publishedAtStr": "2026-09-04T01:45:00Z",
-      "publishedAtTs": 1788486300000,
-      "rawContent": "Juiz recusa pedido da defesa de Lindsey Clancy , acusada de matar os três filhos nos EUA , de remover jurado no julgamento",
-      "linkStatus": "active",
-      "lastChecked": 1788516102938
-    },
-    {
-      "id": "gdelt-w067gfy",
-      "title": "Justiça da Colômbia ordena suspensão de bombardeios contra guerrilheiros quando houver suspeita da presença de menores",
-      "sourceName": "O Globo Mundo",
-      "sourceUrl": "https://oglobo.globo.com/mundo/",
-      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
-      "sourceEditorial": "Jornal diário (Grupo Globo) - Conteúdo sob assinatura",
-      "country": "Brasil",
-      "paywall": true,
-      "originalUrl": "https://oglobo.globo.com/mundo/noticia/2026/09/03/justica-da-colombia-ordena-suspensao-de-bombardeios-contra-guerrilheiros-quando-houver-suspeita-da-presenca-de-menores.ghtml",
-      "publishedAtStr": "2026-09-04T01:45:00Z",
-      "publishedAtTs": 1788486300000,
-      "rawContent": "Justiça da Colômbia ordena suspensão de bombardeios contra guerrilheiros quando houver suspeita da presença de menores",
-      "linkStatus": "active",
-      "lastChecked": 1788516102938
-    },
-    {
-      "id": "gdelt-2kab5fx",
+      "id": "gdelt-o2g8xyu",
       "title": "Justiça da Colômbia ordena suspensão de ataques a acampamentos da guerrilha com adolescentes",
       "sourceName": "Estadão Internacional",
       "sourceUrl": "https://www.estadao.com.br/internacional/",
@@ -234,7 +90,7 @@
       "lastChecked": 1788514427052
     },
     {
-      "id": "gdelt-k4f4xth",
+      "id": "gdelt-dxn20gf",
       "title": "Construo do  arco de Trump  deve começar nas próximas semanas",
       "sourceName": "Estadão Internacional",
       "sourceUrl": "https://www.estadao.com.br/internacional/",
@@ -250,7 +106,7 @@
       "lastChecked": 1788514427052
     },
     {
-      "id": "gdelt-clk84yp",
+      "id": "gdelt-fzmr5ut",
       "title": "Trump deixa dúvidas sobre o apoio americano ao Reino Unido na disputa com a Argentina pelas Malvinas",
       "sourceName": "Estadão Internacional",
       "sourceUrl": "https://www.estadao.com.br/internacional/",
@@ -266,7 +122,7 @@
       "lastChecked": 1788514427052
     },
     {
-      "id": "gdelt-9y53th3",
+      "id": "gdelt-72w77n1",
       "title": "Casa Branca cria game em que jogador  caça  imigrantes na fronteira",
       "sourceName": "Estadão Internacional",
       "sourceUrl": "https://www.estadao.com.br/internacional/",
@@ -282,7 +138,7 @@
       "lastChecked": 1788514427052
     },
     {
-      "id": "gdelt-l8u5w3m",
+      "id": "gdelt-7tbgwhh",
       "title": "Datafolha : desaprovação de Lula vai a 51 % e aprovação cai para 45 %",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -298,7 +154,7 @@
       "lastChecked": 1788514427052
     },
     {
-      "id": "gdelt-ketlree",
+      "id": "gdelt-u38kd1j",
       "title": "Datafolha : Lula tem 38 % e Flávio , 33 % no primeiro turno ; distância cai a 5 pontos",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -314,7 +170,7 @@
       "lastChecked": 1788514427052
     },
     {
-      "id": "gdelt-5ezcu41",
+      "id": "gdelt-1v31n9m",
       "title": "O que é matéria escura e por que sua possível descoberta agita cientistas ?",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -330,7 +186,7 @@
       "lastChecked": 1788514427052
     },
     {
-      "id": "gdelt-fbue7tm",
+      "id": "gdelt-xtp5djb",
       "title": "Conselho da Volkswagen aprova reestruturação e sinaliza cortes de 50 mil empregos",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -346,7 +202,7 @@
       "lastChecked": 1788514427052
     },
     {
-      "id": "gdelt-1wj30z5",
+      "id": "gdelt-11rnlp6",
       "title": "STF fixa teto de R$ 5 mil de renda para acesso à Justiça gratuita trabalhista",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -362,7 +218,7 @@
       "lastChecked": 1788514427052
     },
     {
-      "id": "gdelt-uqh846v",
+      "id": "gdelt-aadcxil",
       "title": "Lula e Flávio ficam a 2 pontos no 2º turno e acirram disputa , diz Datafolha",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -378,7 +234,7 @@
       "lastChecked": 1788514427052
     },
     {
-      "id": "gdelt-bj41oqc",
+      "id": "gdelt-vzo65z8",
       "title": "Alcolumbre afirma que PEC pelo fim da escala 6×1 deve ser votada apenas após eleições",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -394,7 +250,7 @@
       "lastChecked": 1788514427052
     },
     {
-      "id": "gdelt-be67xjo",
+      "id": "gdelt-u1e1sr5",
       "title": "Senado aprova fim da  taxa das blusinhas ; texto segue para sano de Lula",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -410,7 +266,7 @@
       "lastChecked": 1788514427052
     },
     {
-      "id": "gdelt-rohljrw",
+      "id": "gdelt-k6rh9wz",
       "title": "Por que  Cidade do Pecado  da Tailândia virou destino de 5 mil marinheiros dos EUA",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -426,7 +282,7 @@
       "lastChecked": 1788514427052
     },
     {
-      "id": "gdelt-f202gif",
+      "id": "gdelt-y0cmehd",
       "title": "Startups : Poucos meses após chegar ao Brasil , Wonderful faz série C de US$ 550M",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -442,7 +298,7 @@
       "lastChecked": 1788514427052
     },
     {
-      "id": "gdelt-f5iiqwc",
+      "id": "gdelt-w2bxu8k",
       "title": "Discordar não é sinônimo de odiar , diz Fachin sobre eleições em meio a crise no STF",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -458,39 +314,7 @@
       "lastChecked": 1788514427052
     },
     {
-      "id": "gdelt-kmrvemp",
-      "title": "Vídeo mostra mãe e filha serem detidas pelo ICE em hospital após sofrerem acidente nos Estados Unidos",
-      "sourceName": "BBC News Brasil",
-      "sourceUrl": "https://www.bbc.com/portuguese",
-      "sourceType": "Imprensa Internacional / Pública",
-      "sourceEditorial": "Emissora pública do Reino Unido; jornalismo global independente",
-      "country": "Reino Unido",
-      "paywall": false,
-      "originalUrl": "https://www.bbc.com/portuguese/articles/c158v350n89o",
-      "publishedAtStr": "2026-09-03T15:45:00Z",
-      "publishedAtTs": 1788450300000,
-      "rawContent": "Vídeo mostra mãe e filha serem detidas pelo ICE em hospital após sofrerem acidente nos Estados Unidos",
-      "linkStatus": "active",
-      "lastChecked": 1788516102938
-    },
-    {
-      "id": "gdelt-fmsyagc",
-      "title": "EUA devolve ao Líbano fragmentos de antigos sarcófagos saqueados",
-      "sourceName": "G1 Mundo",
-      "sourceUrl": "https://g1.globo.com/mundo/",
-      "sourceType": "Imprensa Comercial Brasileira",
-      "sourceEditorial": "Portal de notícias mainstream do Grupo Globo",
-      "country": "Brasil",
-      "paywall": false,
-      "originalUrl": "https://g1.globo.com/mundo/noticia/2026/09/03/eua-devolve-ao-libano-fragmentos-de-antigos-sarcofagos-saqueados.ghtml",
-      "publishedAtStr": "2026-09-03T15:30:00Z",
-      "publishedAtTs": 1788449400000,
-      "rawContent": "EUA devolve ao Líbano fragmentos de antigos sarcófagos saqueados",
-      "linkStatus": "active",
-      "lastChecked": 1788516102938
-    },
-    {
-      "id": "gdelt-v01txon",
+      "id": "gdelt-6hyo1c5",
       "title": "Move Brasil : teto para financiamento a taxistas e motoristas de app vai a R$200 mil",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -506,7 +330,7 @@
       "lastChecked": 1788514427052
     },
     {
-      "id": "gdelt-jq6qjpo",
+      "id": "gdelt-xa6s984",
       "title": "Dólar hoje recua com petróleo em alta , Treasuries em baixa e foco eleitoral",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -522,7 +346,7 @@
       "lastChecked": 1788514427052
     },
     {
-      "id": "gdelt-46tp4jb",
+      "id": "gdelt-mg39hcb",
       "title": "O preço do dinheiro subiu e  concorrência brutal  vai penalizar o Brasil , diz gestora",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -538,7 +362,7 @@
       "lastChecked": 1788514427052
     },
     {
-      "id": "gdelt-r00joow",
+      "id": "gdelt-84cel49",
       "title": "Renda Fixa Hoje : Confira as taxas de CDBs , LCIs e LCAs na XP nesta quinta - feira ( 3 )",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -554,7 +378,7 @@
       "lastChecked": 1788514427052
     },
     {
-      "id": "gdelt-no6kcmz",
+      "id": "gdelt-1kphfd2",
       "title": "Carros e eletrodomésticos vão ficar mais baratos com IPI zero em 2027 ? Entenda",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -570,7 +394,7 @@
       "lastChecked": 1788514427052
     },
     {
-      "id": "gdelt-8t99m1c",
+      "id": "gdelt-ajyda9z",
       "title": "Diretor do Fed diz estar aberto a deixar juros inalterados se inflação recuar",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -586,7 +410,7 @@
       "lastChecked": 1788514427052
     },
     {
-      "id": "gdelt-4clht42",
+      "id": "gdelt-66k4lsb",
       "title": "CSN ( CSNA3 ) dispara 16 % com anúncio de ex - CEO da Vale ( VALE3 ) ao comando",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -602,7 +426,7 @@
       "lastChecked": 1788514427052
     },
     {
-      "id": "gdelt-1w2hqfc",
+      "id": "gdelt-75sxawf",
       "title": "Nvidia anuncia aquisio da Hugging Face por US$ 12 , 9 bilhões",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -618,7 +442,7 @@
       "lastChecked": 1788514427052
     },
     {
-      "id": "gdelt-nolelwq",
+      "id": "gdelt-n5lznsg",
       "title": "Lula diz que PEC da 6×1 não avançou no Congresso por atuação de aliados de Flávio",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -634,7 +458,7 @@
       "lastChecked": 1788514427052
     },
     {
-      "id": "gdelt-j47utcr",
+      "id": "gdelt-wxybfs8",
       "title": "Pedidos de auxílio - desemprego nos EUA sobem 2 mil na semana , a 206 mil",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -650,7 +474,7 @@
       "lastChecked": 1788514427052
     },
     {
-      "id": "gdelt-mj6g8hp",
+      "id": "gdelt-rrhgonf",
       "title": "Atividade de serviços no Brasil volta a crescer em agosto , mostra PMI",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -666,7 +490,7 @@
       "lastChecked": 1788514427052
     },
     {
-      "id": "gdelt-k3g77wl",
+      "id": "gdelt-0lu2r1x",
       "title": "Conselho da Axia Energia ( AXIA3 ) aprova resgate de mais R$ 6 , 2 bi em aes PNC",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -682,7 +506,7 @@
       "lastChecked": 1788514427052
     },
     {
-      "id": "gdelt-4yk6tg6",
+      "id": "gdelt-srjevyn",
       "title": "Estrangeiros tiram R$ 18 , 1 bilhões da Bolsa em agosto , em mês mais negativo de 2026",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -698,7 +522,7 @@
       "lastChecked": 1788514427052
     },
     {
-      "id": "gdelt-8d9avia",
+      "id": "gdelt-xowhrj9",
       "title": "FII da Kinea aprova 5ª emissão de cotas de até R$ 440 milhões ; confira detalhes",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -714,7 +538,7 @@
       "lastChecked": 1788514427052
     },
     {
-      "id": "gdelt-6wm11ad",
+      "id": "gdelt-ca86pgh",
       "title": "Morgan Stanley eleva Multiplan e rebaixa Plano & Plano em guinada para shoppings",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -730,39 +554,7 @@
       "lastChecked": 1788514427052
     },
     {
-      "id": "gdelt-4v485c7",
-      "title": "El Niño alimenta raro trio de furacões no Pacífico",
-      "sourceName": "DW Brasil",
-      "sourceUrl": "https://www.dw.com/pt-br/",
-      "sourceType": "Imprensa Internacional / Pública",
-      "sourceEditorial": "Emissora pública da Alemanha; foco em diplomacia e direitos humanos",
-      "country": "Alemanha",
-      "paywall": false,
-      "originalUrl": "https://www.dw.com/pt-br/el-ni%C3%B1o-alimenta-raro-trio-de-furac%C3%B5es-no-pac%C3%ADfico/a-78845825",
-      "publishedAtStr": "2026-09-03T12:45:00Z",
-      "publishedAtTs": 1788439500000,
-      "rawContent": "El Niño alimenta raro trio de furacões no Pacífico",
-      "linkStatus": "active",
-      "lastChecked": 1788516102938
-    },
-    {
-      "id": "gdelt-za9yqqt",
-      "title": "Lavrov anuncia fechamento do Instituto Goethe na Rússia",
-      "sourceName": "DW Brasil",
-      "sourceUrl": "https://www.dw.com/pt-br/",
-      "sourceType": "Imprensa Internacional / Pública",
-      "sourceEditorial": "Emissora pública da Alemanha; foco em diplomacia e direitos humanos",
-      "country": "Alemanha",
-      "paywall": false,
-      "originalUrl": "https://www.dw.com/pt-br/lavrov-anuncia-fechamento-do-instituto-goethe-na-r%C3%BAssia/a-78835355",
-      "publishedAtStr": "2026-09-03T12:45:00Z",
-      "publishedAtTs": 1788439500000,
-      "rawContent": "Lavrov anuncia fechamento do Instituto Goethe na Rússia",
-      "linkStatus": "active",
-      "lastChecked": 1788516102938
-    },
-    {
-      "id": "gdelt-mprdvlh",
+      "id": "gdelt-v203w7u",
       "title": "Dono do Arsenal é também o maior proprietário privado de terras dos EUA",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -778,36 +570,388 @@
       "lastChecked": 1788514427052
     },
     {
-      "id": "gdelt-x7ikyl8",
-      "title": "Grupo ajuda ex - simpatizantes de Trump a deixar o movimento MAGA",
-      "sourceName": "G1 Mundo",
-      "sourceUrl": "https://g1.globo.com/mundo/",
-      "sourceType": "Imprensa Comercial Brasileira",
-      "sourceEditorial": "Portal de notícias mainstream do Grupo Globo",
+      "id": "gdelt-scykf1z",
+      "title": "s vésperas de eleio decisiva , Netanyahu amplia ataques contra Hezbollah , Hamas e Síria",
+      "sourceName": "Estadão Internacional",
+      "sourceUrl": "https://www.estadao.com.br/internacional/",
+      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
+      "sourceEditorial": "Jornal tradicional de geopolítica - Conteúdo sob assinatura",
       "country": "Brasil",
-      "paywall": false,
-      "originalUrl": "https://g1.globo.com/mundo/blog/sandra-cohen/post/2026/09/03/da-veneracao-a-trump-ao-desencanto-grupo-ajuda-ex-simpatizantes-a-deixarem-o-maga.ghtml",
-      "publishedAtStr": "2026-09-03T12:15:00Z",
-      "publishedAtTs": 1788437700000,
-      "rawContent": "Grupo ajuda ex - simpatizantes de Trump a deixar o movimento MAGA",
+      "paywall": true,
+      "originalUrl": "https://www.estadao.com.br/internacional/as-vesperas-de-eleicao-decisiva-netanyahu-amplia-ataques-contra-hezbollah-hamas-e-siria/",
+      "publishedAtStr": "2026-09-03T09:00:00Z",
+      "publishedAtTs": 1788426000000,
+      "rawContent": "s vésperas de eleio decisiva , Netanyahu amplia ataques contra Hezbollah , Hamas e Síria",
       "linkStatus": "active",
-      "lastChecked": 1788516102938
+      "lastChecked": 1788517317829
     },
     {
-      "id": "gdelt-wdwg7vx",
-      "title": "Dinamarca acusa Rússia de preparar sabotagens em solo dinamarquês",
-      "sourceName": "G1 Mundo",
-      "sourceUrl": "https://g1.globo.com/mundo/",
+      "id": "gdelt-ucspiwl",
+      "title": "Governo Lula trava devoluo de canhão de guerra ao Paraguai",
+      "sourceName": "Estadão Internacional",
+      "sourceUrl": "https://www.estadao.com.br/internacional/",
+      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
+      "sourceEditorial": "Jornal tradicional de geopolítica - Conteúdo sob assinatura",
+      "country": "Brasil",
+      "paywall": true,
+      "originalUrl": "https://www.estadao.com.br/internacional/governo-lula-trava-devolucao-de-canhao-de-guerra-ao-paraguai/",
+      "publishedAtStr": "2026-09-03T02:30:00Z",
+      "publishedAtTs": 1788402600000,
+      "rawContent": "Governo Lula trava devoluo de canhão de guerra ao Paraguai",
+      "linkStatus": "active",
+      "lastChecked": 1788517317829
+    },
+    {
+      "id": "gdelt-f9nqjj1",
+      "title": "Tiroteio no centro de Minneapolis , nos EUA , deixa três mortos e policiais feridos",
+      "sourceName": "Estadão Internacional",
+      "sourceUrl": "https://www.estadao.com.br/internacional/",
+      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
+      "sourceEditorial": "Jornal tradicional de geopolítica - Conteúdo sob assinatura",
+      "country": "Brasil",
+      "paywall": true,
+      "originalUrl": "https://www.estadao.com.br/internacional/tiroteio-centro-minneapolis-eua-npr/",
+      "publishedAtStr": "2026-09-03T01:30:00Z",
+      "publishedAtTs": 1788399000000,
+      "rawContent": "Tiroteio no centro de Minneapolis , nos EUA , deixa três mortos e policiais feridos",
+      "linkStatus": "active",
+      "lastChecked": 1788517317829
+    },
+    {
+      "id": "gdelt-f0ury2x",
+      "title": "Associações médicas dos EUA divulgam próprias recomendações de vacinas após mudanças da gestão Trump",
+      "sourceName": "Estadão Internacional",
+      "sourceUrl": "https://www.estadao.com.br/internacional/",
+      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
+      "sourceEditorial": "Jornal tradicional de geopolítica - Conteúdo sob assinatura",
+      "country": "Brasil",
+      "paywall": true,
+      "originalUrl": "https://www.estadao.com.br/internacional/associacoes-medicas-eua-divulgam-proprias-recomendacoes-vacinas-apos-mudancas-gestao-trump-npr/",
+      "publishedAtStr": "2026-09-03T00:15:00Z",
+      "publishedAtTs": 1788394500000,
+      "rawContent": "Associações médicas dos EUA divulgam próprias recomendações de vacinas após mudanças da gestão Trump",
+      "linkStatus": "active",
+      "lastChecked": 1788517317829
+    },
+    {
+      "id": "gdelt-b7cjn67",
+      "title": "Ibovespa mira 200 mil pontos , mas eleio e correo podem testar o rali",
+      "sourceName": "InfoMoney",
+      "sourceUrl": "https://www.infomoney.com.br/",
       "sourceType": "Imprensa Comercial Brasileira",
-      "sourceEditorial": "Portal de notícias mainstream do Grupo Globo",
+      "sourceEditorial": "Portal especializado em mercados e economia global",
       "country": "Brasil",
       "paywall": false,
-      "originalUrl": "https://g1.globo.com/mundo/noticia/2026/09/03/dinamarca-acusa-russia-de-preparar-sabotagens-contra-sua-industria-de-defesa.ghtml",
-      "publishedAtStr": "2026-09-03T11:00:00Z",
-      "publishedAtTs": 1788433200000,
-      "rawContent": "Dinamarca acusa Rússia de preparar sabotagens em solo dinamarquês",
+      "originalUrl": "https://www.infomoney.com.br/mercados/ibovespa-mira-200-mil-pontos-mas-eleicao-e-correcao-podem-testar-o-rali/",
+      "publishedAtStr": "2026-09-03T00:00:00Z",
+      "publishedAtTs": 1788393600000,
+      "rawContent": "Ibovespa mira 200 mil pontos , mas eleio e correo podem testar o rali",
       "linkStatus": "active",
-      "lastChecked": 1788516102938
+      "lastChecked": 1788517317829
+    },
+    {
+      "id": "gdelt-2rausm0",
+      "title": "Broadcom decepciona mercado com guidance e vê pressão crescer na corrida da IA",
+      "sourceName": "InfoMoney",
+      "sourceUrl": "https://www.infomoney.com.br/",
+      "sourceType": "Imprensa Comercial Brasileira",
+      "sourceEditorial": "Portal especializado em mercados e economia global",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://www.infomoney.com.br/mercados/broadcom-decepciona-mercado-com-guidance-e-ve-pressao-crescer-na-corrida-da-ia/",
+      "publishedAtStr": "2026-09-03T00:00:00Z",
+      "publishedAtTs": 1788393600000,
+      "rawContent": "Broadcom decepciona mercado com guidance e vê pressão crescer na corrida da IA",
+      "linkStatus": "active",
+      "lastChecked": 1788517317829
+    },
+    {
+      "id": "gdelt-etswil9",
+      "title": "Leilão do Santander tem 200 imóveis com descontos de até 82 %; veja oportunidades",
+      "sourceName": "InfoMoney",
+      "sourceUrl": "https://www.infomoney.com.br/",
+      "sourceType": "Imprensa Comercial Brasileira",
+      "sourceEditorial": "Portal especializado em mercados e economia global",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://www.infomoney.com.br/minhas-financas/leilao-santander-imoveis/",
+      "publishedAtStr": "2026-09-03T00:00:00Z",
+      "publishedAtTs": 1788393600000,
+      "rawContent": "Leilão do Santander tem 200 imóveis com descontos de até 82 %; veja oportunidades",
+      "linkStatus": "active",
+      "lastChecked": 1788517317829
+    },
+    {
+      "id": "gdelt-ppu62zr",
+      "title": "CVM lança supervisão de mercados com IA este ano , diz presidente",
+      "sourceName": "InfoMoney",
+      "sourceUrl": "https://www.infomoney.com.br/",
+      "sourceType": "Imprensa Comercial Brasileira",
+      "sourceEditorial": "Portal especializado em mercados e economia global",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://www.infomoney.com.br/onde-investir/cvm-lanca-supervisao-de-mercados-com-ia-este-ano-diz-presidente/",
+      "publishedAtStr": "2026-09-03T00:00:00Z",
+      "publishedAtTs": 1788393600000,
+      "rawContent": "CVM lança supervisão de mercados com IA este ano , diz presidente",
+      "linkStatus": "active",
+      "lastChecked": 1788517317829
+    },
+    {
+      "id": "gdelt-zijwbo8",
+      "title": "Taxas dos DIs fecham em baixa após pesquisa expor distância menor entre Lula e Flávio",
+      "sourceName": "InfoMoney",
+      "sourceUrl": "https://www.infomoney.com.br/",
+      "sourceType": "Imprensa Comercial Brasileira",
+      "sourceEditorial": "Portal especializado em mercados e economia global",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://www.infomoney.com.br/mercados/taxas-dos-dis-fecham-em-baixa-apos-pesquisa-expor-distancia-menor-entre-lula-e-flavio/",
+      "publishedAtStr": "2026-09-02T21:30:00Z",
+      "publishedAtTs": 1788384600000,
+      "rawContent": "Taxas dos DIs fecham em baixa após pesquisa expor distância menor entre Lula e Flávio",
+      "linkStatus": "active",
+      "lastChecked": 1788517317829
+    },
+    {
+      "id": "gdelt-7v47qkv",
+      "title": "Investe na Azzas ( AZZA3 )? Entenda o que acontece com suas aes após acordo",
+      "sourceName": "InfoMoney",
+      "sourceUrl": "https://www.infomoney.com.br/",
+      "sourceType": "Imprensa Comercial Brasileira",
+      "sourceEditorial": "Portal especializado em mercados e economia global",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://www.infomoney.com.br/mercados/investe-em-azzas-azza3-entenda-o-que-acontece-com-suas-acoes-apos-acordo/",
+      "publishedAtStr": "2026-09-02T21:30:00Z",
+      "publishedAtTs": 1788384600000,
+      "rawContent": "Investe na Azzas ( AZZA3 )? Entenda o que acontece com suas aes após acordo",
+      "linkStatus": "active",
+      "lastChecked": 1788517317829
+    },
+    {
+      "id": "gdelt-c15z3fc",
+      "title": "Antes em Ormuz , porta - aviões dos EUA atraca na Tailândia após recorde de 9 meses no mar",
+      "sourceName": "Veja Mundo",
+      "sourceUrl": "https://veja.abril.com.br/mundo/",
+      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
+      "sourceEditorial": "Revista semanal - Conteúdo sob assinatura parcial",
+      "country": "Brasil",
+      "paywall": true,
+      "originalUrl": "https://veja.abril.com.br/mundo/antes-em-ormuz-porta-avioes-dos-eua-atraca-na-tailandia-apos-recorde-de-9-meses-no-mar/",
+      "publishedAtStr": "2026-09-02T21:30:00Z",
+      "publishedAtTs": 1788384600000,
+      "rawContent": "Antes em Ormuz , porta - aviões dos EUA atraca na Tailândia após recorde de 9 meses no mar",
+      "linkStatus": "active",
+      "lastChecked": 1788517317829
+    },
+    {
+      "id": "gdelt-2nw420l",
+      "title": "Startups : a16z amplia fundo de growth para US$ 8 , 5B dias após lançar novo fundo",
+      "sourceName": "InfoMoney",
+      "sourceUrl": "https://www.infomoney.com.br/",
+      "sourceType": "Imprensa Comercial Brasileira",
+      "sourceEditorial": "Portal especializado em mercados e economia global",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://www.infomoney.com.br/business/startups-a16z-amplia-fundo-de-growth-para-us-85b-dias-apos-lancar-novo-fundo/",
+      "publishedAtStr": "2026-09-02T21:30:00Z",
+      "publishedAtTs": 1788384600000,
+      "rawContent": "Startups : a16z amplia fundo de growth para US$ 8 , 5B dias após lançar novo fundo",
+      "linkStatus": "active",
+      "lastChecked": 1788517317829
+    },
+    {
+      "id": "gdelt-lut9vn9",
+      "title": "Google lança Gemini 3 . 8 Flash Cyber que encontra e corrige falhas de segurança",
+      "sourceName": "InfoMoney",
+      "sourceUrl": "https://www.infomoney.com.br/",
+      "sourceType": "Imprensa Comercial Brasileira",
+      "sourceEditorial": "Portal especializado em mercados e economia global",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://www.infomoney.com.br/consumo/google-lanca-gemini-3-8-flash-cyber/",
+      "publishedAtStr": "2026-09-02T21:30:00Z",
+      "publishedAtTs": 1788384600000,
+      "rawContent": "Google lança Gemini 3 . 8 Flash Cyber que encontra e corrige falhas de segurança",
+      "linkStatus": "active",
+      "lastChecked": 1788517317829
+    },
+    {
+      "id": "gdelt-8j1oyle",
+      "title": "Petróleo fecha em alta com tensões ainda elevadas no Oriente Médio",
+      "sourceName": "InfoMoney",
+      "sourceUrl": "https://www.infomoney.com.br/",
+      "sourceType": "Imprensa Comercial Brasileira",
+      "sourceEditorial": "Portal especializado em mercados e economia global",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://www.infomoney.com.br/mercados/petroleo-fecha-em-alta-com-tensoes-ainda-elevadas-no-oriente-medio/",
+      "publishedAtStr": "2026-09-02T21:30:00Z",
+      "publishedAtTs": 1788384600000,
+      "rawContent": "Petróleo fecha em alta com tensões ainda elevadas no Oriente Médio",
+      "linkStatus": "active",
+      "lastChecked": 1788517317829
+    },
+    {
+      "id": "gdelt-ckjioxs",
+      "title": "Anthropic aposta em IA mais poderosa e barata para disputar clientes corporativos",
+      "sourceName": "InfoMoney",
+      "sourceUrl": "https://www.infomoney.com.br/",
+      "sourceType": "Imprensa Comercial Brasileira",
+      "sourceEditorial": "Portal especializado em mercados e economia global",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://www.infomoney.com.br/business/anthropic-aposta-em-ia-mais-poderosa-e-barata-para-disputar-clientes-corporativos/",
+      "publishedAtStr": "2026-09-02T21:30:00Z",
+      "publishedAtTs": 1788384600000,
+      "rawContent": "Anthropic aposta em IA mais poderosa e barata para disputar clientes corporativos",
+      "linkStatus": "active",
+      "lastChecked": 1788517317829
+    },
+    {
+      "id": "gdelt-vtw8ozi",
+      "title": "CCJ avaliza PEC da Segurança com foco em facções e mais autonomia para Estados",
+      "sourceName": "InfoMoney",
+      "sourceUrl": "https://www.infomoney.com.br/",
+      "sourceType": "Imprensa Comercial Brasileira",
+      "sourceEditorial": "Portal especializado em mercados e economia global",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://www.infomoney.com.br/politica/ccj-avaliza-pec-da-seguranca-com-foco-em-faccoes-e-mais-autonomia-para-estados/",
+      "publishedAtStr": "2026-09-02T21:30:00Z",
+      "publishedAtTs": 1788384600000,
+      "rawContent": "CCJ avaliza PEC da Segurança com foco em facções e mais autonomia para Estados",
+      "linkStatus": "active",
+      "lastChecked": 1788517317829
+    },
+    {
+      "id": "gdelt-ubx7z9b",
+      "title": "T4F deixa a Bolsa após 15 anos , com perda de mais de 90 % das aes",
+      "sourceName": "InfoMoney",
+      "sourceUrl": "https://www.infomoney.com.br/",
+      "sourceType": "Imprensa Comercial Brasileira",
+      "sourceEditorial": "Portal especializado em mercados e economia global",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://www.infomoney.com.br/mercados/t4f-deixa-a-bolsa-apos-15-anos-com-perda-de-mais-de-90-das-acoes/",
+      "publishedAtStr": "2026-09-02T21:30:00Z",
+      "publishedAtTs": 1788384600000,
+      "rawContent": "T4F deixa a Bolsa após 15 anos , com perda de mais de 90 % das aes",
+      "linkStatus": "active",
+      "lastChecked": 1788517317829
+    },
+    {
+      "id": "gdelt-r0h3vx9",
+      "title": "Startups : Magalu põe a mochila azul e entra oficialmente na briga do delivery",
+      "sourceName": "InfoMoney",
+      "sourceUrl": "https://www.infomoney.com.br/",
+      "sourceType": "Imprensa Comercial Brasileira",
+      "sourceEditorial": "Portal especializado em mercados e economia global",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://www.infomoney.com.br/business/startups-magalu-poe-a-mochila-azul-e-entra-oficialmente-na-briga-do-delivery/",
+      "publishedAtStr": "2026-09-02T21:30:00Z",
+      "publishedAtTs": 1788384600000,
+      "rawContent": "Startups : Magalu põe a mochila azul e entra oficialmente na briga do delivery",
+      "linkStatus": "active",
+      "lastChecked": 1788517317829
+    },
+    {
+      "id": "gdelt-eecldiq",
+      "title": "Trump elogia relação com Brasil , e diz que América do Sul está virando  à direita",
+      "sourceName": "InfoMoney",
+      "sourceUrl": "https://www.infomoney.com.br/",
+      "sourceType": "Imprensa Comercial Brasileira",
+      "sourceEditorial": "Portal especializado em mercados e economia global",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://www.infomoney.com.br/mundo/trump-elogia-relacao-com-brasil-e-diz-que-america-do-sul-esta-virando-a-direita/",
+      "publishedAtStr": "2026-09-02T21:30:00Z",
+      "publishedAtTs": 1788384600000,
+      "rawContent": "Trump elogia relação com Brasil , e diz que América do Sul está virando  à direita",
+      "linkStatus": "active",
+      "lastChecked": 1788517317829
+    },
+    {
+      "id": "gdelt-mfzdhvb",
+      "title": "Moeda do Irã afunda após novos ataques e ultrapassa 2 , 2 milhões de riais por dólar",
+      "sourceName": "InfoMoney",
+      "sourceUrl": "https://www.infomoney.com.br/",
+      "sourceType": "Imprensa Comercial Brasileira",
+      "sourceEditorial": "Portal especializado em mercados e economia global",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://www.infomoney.com.br/mercados/moeda-do-ira-afunda-apos-novos-ataques-e-ultrapassa-22-milhoes-de-riais-por-dolar/",
+      "publishedAtStr": "2026-09-02T21:30:00Z",
+      "publishedAtTs": 1788384600000,
+      "rawContent": "Moeda do Irã afunda após novos ataques e ultrapassa 2 , 2 milhões de riais por dólar",
+      "linkStatus": "active",
+      "lastChecked": 1788517317829
+    },
+    {
+      "id": "gdelt-ho4yypz",
+      "title": "Noivos se casam em igreja totalmente alagada nas Filipinas",
+      "sourceName": "Veja Mundo",
+      "sourceUrl": "https://veja.abril.com.br/mundo/",
+      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
+      "sourceEditorial": "Revista semanal - Conteúdo sob assinatura parcial",
+      "country": "Brasil",
+      "paywall": true,
+      "originalUrl": "https://veja.abril.com.br/mundo/noivos-se-casam-em-igreja-totalmente-alagada-nas-filipinas/",
+      "publishedAtStr": "2026-09-02T21:30:00Z",
+      "publishedAtTs": 1788384600000,
+      "rawContent": "Noivos se casam em igreja totalmente alagada nas Filipinas",
+      "linkStatus": "active",
+      "lastChecked": 1788517317829
+    },
+    {
+      "id": "gdelt-h11v8ik",
+      "title": "Princesa de 22 anos é primeira mulher herdeira ao trono da Noruega em 600 anos",
+      "sourceName": "Veja Mundo",
+      "sourceUrl": "https://veja.abril.com.br/mundo/",
+      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
+      "sourceEditorial": "Revista semanal - Conteúdo sob assinatura parcial",
+      "country": "Brasil",
+      "paywall": true,
+      "originalUrl": "https://veja.abril.com.br/mundo/princesa-de-22-anos-e-primeira-mulher-herdeira-ao-trono-da-noruega-em-600-anos/",
+      "publishedAtStr": "2026-09-02T21:30:00Z",
+      "publishedAtTs": 1788384600000,
+      "rawContent": "Princesa de 22 anos é primeira mulher herdeira ao trono da Noruega em 600 anos",
+      "linkStatus": "active",
+      "lastChecked": 1788517317829
+    },
+    {
+      "id": "gdelt-tbrmlzx",
+      "title": "Após tragédia , Nepal acelera reconstruo de sistema de alerta na fronteira com China",
+      "sourceName": "InfoMoney",
+      "sourceUrl": "https://www.infomoney.com.br/",
+      "sourceType": "Imprensa Comercial Brasileira",
+      "sourceEditorial": "Portal especializado em mercados e economia global",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://www.infomoney.com.br/mundo/apos-tragedia-nepal-acelera-reconstrucao-de-sistema-de-alerta-na-fronteira-com-china/",
+      "publishedAtStr": "2026-09-02T21:30:00Z",
+      "publishedAtTs": 1788384600000,
+      "rawContent": "Após tragédia , Nepal acelera reconstruo de sistema de alerta na fronteira com China",
+      "linkStatus": "active",
+      "lastChecked": 1788517317829
+    },
+    {
+      "id": "gdelt-qtg6n5i",
+      "title": "Trump diz que ofensiva contra o Irã não deve durar muito , mas ameaça novos ataques",
+      "sourceName": "InfoMoney",
+      "sourceUrl": "https://www.infomoney.com.br/",
+      "sourceType": "Imprensa Comercial Brasileira",
+      "sourceEditorial": "Portal especializado em mercados e economia global",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://www.infomoney.com.br/mundo/trump-diz-que-ofensiva-contra-o-ira-nao-deve-durar-muito-mas-ameaca-novos-ataques/",
+      "publishedAtStr": "2026-09-02T21:30:00Z",
+      "publishedAtTs": 1788384600000,
+      "rawContent": "Trump diz que ofensiva contra o Irã não deve durar muito , mas ameaça novos ataques",
+      "linkStatus": "active",
+      "lastChecked": 1788517317829
     }
   ]
 }
