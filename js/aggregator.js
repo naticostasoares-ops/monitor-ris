@@ -16,8 +16,8 @@ class NewsAggregator {
     const clusters = [];
 
     for (const article of rawArticles) {
-      // Tentar encontrar um cluster existente com similaridade temática ou títulos parecidos
-      let matchedCluster = clusters.find(c => this.isSimilar(c.canonicalTitle, article.title));
+      // Tentar encontrar um cluster existente dentro da janela temporal de 12 horas e alta similaridade de títulos
+      let matchedCluster = clusters.find(c => this.isSimilarCluster(c, article));
 
       if (matchedCluster) {
         // Adicionar o veículo à lista de fontes publicadoras do mesmo evento
@@ -68,20 +68,38 @@ class NewsAggregator {
   }
 
   /**
-   * Verifica similaridade simplificada entre dois títulos para agrupamento de agência.
+   * Verifica se o artigo pertence ao mesmo cluster considerando proximidade temporal (janela de 12h) e texto.
    */
-  isSimilar(titleA = '', titleB = '') {
+  isSimilarCluster(cluster, article) {
+    const TWELVE_HOURS_MS = 12 * 60 * 60 * 1000;
+
+    // 1. Checagem de Proximidade Temporal: se ambos tiverem timestamp e a diferença for > 12 horas, NÃO agrupa
+    if (cluster.latestTimestamp && article.publishedAtTs) {
+      const timeDiff = Math.abs(cluster.latestTimestamp - article.publishedAtTs);
+      if (timeDiff > TWELVE_HOURS_MS) {
+        return false;
+      }
+    }
+
+    // 2. Checagem de Textualidade dos Títulos com limiar seguro (65%)
+    return this.isSimilarText(cluster.canonicalTitle, article.title);
+  }
+
+  /**
+   * Verifica similaridade textual entre dois títulos para agrupamento de agência.
+   */
+  isSimilarText(titleA = '', titleB = '') {
     const normalize = str => str.toLowerCase().replace(/[^\w\s]/gi, '').split(' ').filter(w => w.length > 3);
     const wordsA = normalize(titleA);
     const wordsB = normalize(titleB);
 
     if (wordsA.length === 0 || wordsB.length === 0) return false;
 
-    // Calcular quantas palavras-chave idênticas compartilham
     const common = wordsA.filter(w => wordsB.includes(w));
     const ratio = common.length / Math.min(wordsA.length, wordsB.length);
 
-    return ratio >= 0.55; // 55% de sobreposição de termos indica a mesma notícia de agência
+    // Limiar ajustado para 65% para evitar falsos positivos com entidades genéricas (ex: "Lula", "China")
+    return ratio >= 0.65;
   }
 }
 
