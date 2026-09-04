@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-09-04T02:15:04.165Z",
-  "periodUsed": "24h",
-  "count": 227,
+  "updatedAt": "2026-09-04T02:37:19.033Z",
+  "periodUsed": "7d",
+  "count": 295,
   "linkVerificationStats": {
     "checkedThisRun": 40,
     "active": 40,
@@ -10,7 +10,39 @@
   },
   "articles": [
     {
-      "id": "gdelt-n0bjwac",
+      "id": "gdelt-1n71x70",
+      "title": "Veja como foi a quinta - feira ( 3 ) dos candidatos a presidente",
+      "sourceName": "Agência Brasil",
+      "sourceUrl": "https://agenciabrasil.ebc.com.br/internacional",
+      "sourceType": "Agência Estatal",
+      "sourceEditorial": "Agência pública de notícias da EBC (Governo Federal)",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/veja-como-foi-quinta-feira-3-dos-candidatos-presidente",
+      "publishedAtStr": "2026-09-04T02:00:00Z",
+      "publishedAtTs": 1788487200000,
+      "rawContent": "Veja como foi a quinta - feira ( 3 ) dos candidatos a presidente",
+      "linkStatus": "active",
+      "lastChecked": 1788489406133
+    },
+    {
+      "id": "gdelt-6nanf4y",
+      "title": "INPE inicia operao de modelo próprio de previsão do tempo",
+      "sourceName": "Agência Brasil",
+      "sourceUrl": "https://agenciabrasil.ebc.com.br/internacional",
+      "sourceType": "Agência Estatal",
+      "sourceEditorial": "Agência pública de notícias da EBC (Governo Federal)",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-09/inpe-inicia-operacao-de-modelo-proprio-de-previsao-do-tempo",
+      "publishedAtStr": "2026-09-04T02:00:00Z",
+      "publishedAtTs": 1788487200000,
+      "rawContent": "INPE inicia operao de modelo próprio de previsão do tempo",
+      "linkStatus": "active",
+      "lastChecked": 1788489406133
+    },
+    {
+      "id": "gdelt-wls73rt",
       "title": "Unidades rivais de inteligência ucraniana trocam tiros em Kiev , e Zelensky chama embate de  vergonhoso",
       "sourceName": "O Globo Mundo",
       "sourceUrl": "https://oglobo.globo.com/mundo/",
@@ -26,7 +58,7 @@
       "lastChecked": 1788488078202
     },
     {
-      "id": "gdelt-lmd0sin",
+      "id": "gdelt-p372x9x",
       "title": "General russo acusado de ordenar ataque a hospital infantil é baleado",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -42,7 +74,7 @@
       "lastChecked": 1788488078202
     },
     {
-      "id": "gdelt-lb6ejhs",
+      "id": "gdelt-vlr4fel",
       "title": "Resumão diário do JN : Moraes united states inquérito das fake news para pedir investigao contra Mendonça ; Congresso aprova fim da taxa das blusinhas",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -58,7 +90,7 @@
       "lastChecked": 1788488078202
     },
     {
-      "id": "gdelt-vqle5eb",
+      "id": "gdelt-kol951s",
       "title": "Juiz recusa pedido da defesa de Lindsey Clancy , acusada de matar os três filhos nos EUA , de remover jurado no julgamento",
       "sourceName": "O Globo Mundo",
       "sourceUrl": "https://oglobo.globo.com/mundo/",
@@ -74,7 +106,7 @@
       "lastChecked": 1788488078202
     },
     {
-      "id": "gdelt-mm7zc78",
+      "id": "gdelt-wkdgeok",
       "title": "Justiça da Colômbia ordena suspensão de bombardeios contra guerrilheiros quando houver suspeita da presença de menores",
       "sourceName": "O Globo Mundo",
       "sourceUrl": "https://oglobo.globo.com/mundo/",
@@ -90,7 +122,7 @@
       "lastChecked": 1788488078202
     },
     {
-      "id": "gdelt-9rafw6b",
+      "id": "gdelt-bo075wm",
       "title": "Jovem desaparecido é encontrado morto em lagoa de Indaiatuba",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -106,7 +138,7 @@
       "lastChecked": 1788488078202
     },
     {
-      "id": "gdelt-n8029aa",
+      "id": "gdelt-xcpayxt",
       "title": "Candidatos ao governo do DF apresentam propostas para o comércio",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -122,7 +154,7 @@
       "lastChecked": 1788488078202
     },
     {
-      "id": "gdelt-wn4gpvd",
+      "id": "gdelt-wnsgye3",
       "title": "Renan Santos defende nova Constituio como resposta à crise no STF",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -138,7 +170,7 @@
       "lastChecked": 1788488078202
     },
     {
-      "id": "gdelt-o9pewal",
+      "id": "gdelt-6n5v0vb",
       "title": "Fachin dá 5 dias para Moraes , Mendonça , PGR e PF prestarem informaçõções sobre relatório do caso Master",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -154,7 +186,7 @@
       "lastChecked": 1788488078202
     },
     {
-      "id": "gdelt-05v8txw",
+      "id": "gdelt-dtru4za",
       "title": "Veja como foi a agenda dos candidatos ao governo de Goiás",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -170,7 +202,7 @@
       "lastChecked": 1788488078202
     },
     {
-      "id": "gdelt-hikzpd8",
+      "id": "gdelt-9rp63f1",
       "title": "Gilmar Mendes defende que delegados da PF sejam impedidos de trabalhar para ministros do STF",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -186,7 +218,7 @@
       "lastChecked": 1788488078202
     },
     {
-      "id": "gdelt-j688x3t",
+      "id": "gdelt-99una38",
       "title": "Decisão de Alexandre de Moraes pavimenta caminho para implodir investigaes do Master",
       "sourceName": "O Globo Mundo",
       "sourceUrl": "https://oglobo.globo.com/mundo/",
@@ -202,7 +234,7 @@
       "lastChecked": 1788488078202
     },
     {
-      "id": "gdelt-vzuvbk4",
+      "id": "gdelt-04ty2dz",
       "title": "Moraes diz que Mendonça queria direcionar investigaçõções para atingir Davi Alcolumbre",
       "sourceName": "O Globo Mundo",
       "sourceUrl": "https://oglobo.globo.com/mundo/",
@@ -218,7 +250,7 @@
       "lastChecked": 1788488078202
     },
     {
-      "id": "gdelt-ibu32zm",
+      "id": "gdelt-i3rvgux",
       "title": "PF diz que Mendonça tem  efetiva participao nas tratativas de colaborao premiada  dos casos Master e INSS",
       "sourceName": "O Globo Mundo",
       "sourceUrl": "https://oglobo.globo.com/mundo/",
@@ -234,7 +266,7 @@
       "lastChecked": 1788488078202
     },
     {
-      "id": "gdelt-oilpvzf",
+      "id": "gdelt-ipvcmbx",
       "title": "TRE indefere candidatura de José Roberto Arruda ao governo do DF",
       "sourceName": "Agência Brasil",
       "sourceUrl": "https://agenciabrasil.ebc.com.br/internacional",
@@ -250,7 +282,7 @@
       "lastChecked": 1788488078202
     },
     {
-      "id": "gdelt-47jlk0a",
+      "id": "gdelt-e4khv78",
       "title": "Suplente de vereador é preso por matar companheira e forjar suicídio",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -266,7 +298,7 @@
       "lastChecked": 1788488078202
     },
     {
-      "id": "gdelt-igriqrd",
+      "id": "gdelt-trovczg",
       "title": "Apple é processada nos EUA por patentes usadas em iPhones",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -282,7 +314,7 @@
       "lastChecked": 1788488078202
     },
     {
-      "id": "gdelt-prf9h2v",
+      "id": "gdelt-ac5vlly",
       "title": "Veja como foi o dia de campanha dos candidatos ao governo do Acre",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -298,7 +330,7 @@
       "lastChecked": 1788488078202
     },
     {
-      "id": "gdelt-ppwg49b",
+      "id": "gdelt-xq98el9",
       "title": "Lula defende aumento real para salário mínimo e questiona impacto fiscal :  O que isso vai quebrar o país ?",
       "sourceName": "O Globo Mundo",
       "sourceUrl": "https://oglobo.globo.com/mundo/",
@@ -314,7 +346,7 @@
       "lastChecked": 1788488078202
     },
     {
-      "id": "gdelt-vatf2pb",
+      "id": "gdelt-qhxht2p",
       "title": "Veja por dentro a mansão mais cara do Brasil que começou a ser demolida",
       "sourceName": "O Globo Mundo",
       "sourceUrl": "https://oglobo.globo.com/mundo/",
@@ -330,7 +362,7 @@
       "lastChecked": 1788488078202
     },
     {
-      "id": "gdelt-b7obhtm",
+      "id": "gdelt-l9cuap7",
       "title": "Associao de delegados critica Gilmar e diz que PF não é responsável por problemas do STF",
       "sourceName": "O Globo Mundo",
       "sourceUrl": "https://oglobo.globo.com/mundo/",
@@ -346,7 +378,7 @@
       "lastChecked": 1788488078202
     },
     {
-      "id": "gdelt-vv256h7",
+      "id": "gdelt-tvvzuuo",
       "title": "Datafolha : Lula tem 46 %, e Flávio Bolsonaro aparece com 44 % em eventual 2º turno",
       "sourceName": "O Globo Mundo",
       "sourceUrl": "https://oglobo.globo.com/mundo/",
@@ -362,7 +394,7 @@
       "lastChecked": 1788488078202
     },
     {
-      "id": "gdelt-t6mr7rq",
+      "id": "gdelt-0sjo6jo",
       "title": "Microsoft afirma que  busca por competitividade é positiva  após aprovao do Redata",
       "sourceName": "O Globo Mundo",
       "sourceUrl": "https://oglobo.globo.com/mundo/",
@@ -378,7 +410,7 @@
       "lastChecked": 1788488078202
     },
     {
-      "id": "gdelt-4bbka01",
+      "id": "gdelt-xwxwpks",
       "title": "Rock in Rio 2026 : Novos horários dos shows do dia 7 , com Elton John",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -394,7 +426,7 @@
       "lastChecked": 1788488078202
     },
     {
-      "id": "gdelt-a39fwpn",
+      "id": "gdelt-j3gjkho",
       "title": "Ministro da Previdência anuncia o fim da fila de espera no INSS",
       "sourceName": "Agência Brasil",
       "sourceUrl": "https://agenciabrasil.ebc.com.br/internacional",
@@ -410,7 +442,7 @@
       "lastChecked": 1788488078202
     },
     {
-      "id": "gdelt-caxjuv0",
+      "id": "gdelt-rr95dmf",
       "title": "Professores têm 8 mil vagas gratuitas para pós - graduao",
       "sourceName": "Agência Brasil",
       "sourceUrl": "https://agenciabrasil.ebc.com.br/internacional",
@@ -426,7 +458,7 @@
       "lastChecked": 1788488078202
     },
     {
-      "id": "gdelt-x3jhi8g",
+      "id": "gdelt-5xmfc98",
       "title": "Alcolumbre diz que Senado vota fim da escala 6x1 após as eleiçõções",
       "sourceName": "Agência Brasil",
       "sourceUrl": "https://agenciabrasil.ebc.com.br/internacional",
@@ -442,7 +474,7 @@
       "lastChecked": 1788488078202
     },
     {
-      "id": "gdelt-5hkmx3t",
+      "id": "gdelt-b7fpu96",
       "title": "Senado aprova MP da  taxa das blusinhas  e iseno se torna definitiva",
       "sourceName": "Agência Brasil",
       "sourceUrl": "https://agenciabrasil.ebc.com.br/internacional",
@@ -458,7 +490,7 @@
       "lastChecked": 1788488078202
     },
     {
-      "id": "gdelt-ws6vcih",
+      "id": "gdelt-5p2wfk7",
       "title": "Luciana Amorim fala sobre propostas de governo em Goiânia",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -474,7 +506,7 @@
       "lastChecked": 1788488078202
     },
     {
-      "id": "gdelt-w2j01eh",
+      "id": "gdelt-zdh3lhq",
       "title": "STF decide limitar gratuidade em aes na Justiça do Trabalho",
       "sourceName": "Agência Brasil",
       "sourceUrl": "https://agenciabrasil.ebc.com.br/internacional",
@@ -490,7 +522,7 @@
       "lastChecked": 1788488078202
     },
     {
-      "id": "gdelt-6m6vzx1",
+      "id": "gdelt-io8fhq3",
       "title": "Reino Unido anuncia £400 milhões para Fundo Florestas Tropicais",
       "sourceName": "Agência Brasil",
       "sourceUrl": "https://agenciabrasil.ebc.com.br/internacional",
@@ -506,7 +538,7 @@
       "lastChecked": 1788488078202
     },
     {
-      "id": "gdelt-ad6adr8",
+      "id": "gdelt-qsdesuz",
       "title": "São Paulo reúne especialistas em saúde mental e trabalho",
       "sourceName": "Agência Brasil",
       "sourceUrl": "https://agenciabrasil.ebc.com.br/internacional",
@@ -522,7 +554,7 @@
       "lastChecked": 1788488078202
     },
     {
-      "id": "gdelt-17k8d0y",
+      "id": "gdelt-06z6g1e",
       "title": "Há 37 anos , voo 254 da Varig caiu na Amazônia após erro de navegao ; relembre",
       "sourceName": "O Globo Mundo",
       "sourceUrl": "https://oglobo.globo.com/mundo/",
@@ -538,7 +570,7 @@
       "lastChecked": 1788488078202
     },
     {
-      "id": "gdelt-17rpu50",
+      "id": "gdelt-5c0cl4v",
       "title": "Enem PPL abre inscriçõções em 5 de outubro",
       "sourceName": "Agência Brasil",
       "sourceUrl": "https://agenciabrasil.ebc.com.br/internacional",
@@ -554,7 +586,7 @@
       "lastChecked": 1788488078202
     },
     {
-      "id": "gdelt-birmqov",
+      "id": "gdelt-tqtn1ng",
       "title": "Mineradoras elogiam , mas municípios criticam PL de minerais críticos",
       "sourceName": "Agência Brasil",
       "sourceUrl": "https://agenciabrasil.ebc.com.br/internacional",
@@ -570,7 +602,7 @@
       "lastChecked": 1788488078202
     },
     {
-      "id": "gdelt-bwxbzfd",
+      "id": "gdelt-89lp69u",
       "title": "MP da  taxa das blusinhas  é aprovada na Câmara e vai ao Senado",
       "sourceName": "Agência Brasil",
       "sourceUrl": "https://agenciabrasil.ebc.com.br/internacional",
@@ -586,7 +618,7 @@
       "lastChecked": 1788488078202
     },
     {
-      "id": "gdelt-zya6hht",
+      "id": "gdelt-g2l8nuo",
       "title": "Inep divulga gabarito oficial do Encceja 2026 ; saiba como conferir",
       "sourceName": "Agência Brasil",
       "sourceUrl": "https://agenciabrasil.ebc.com.br/internacional",
@@ -602,7 +634,7 @@
       "lastChecked": 1788488078202
     },
     {
-      "id": "gdelt-lwtuox2",
+      "id": "gdelt-zor93v8",
       "title": "Vídeo mostra mãe e filha serem detidas pelo ICE em hospital após sofrerem acidente nos Estados Unidos",
       "sourceName": "BBC News Brasil",
       "sourceUrl": "https://www.bbc.com/portuguese",
@@ -618,7 +650,7 @@
       "lastChecked": 1788488078202
     },
     {
-      "id": "gdelt-laig810",
+      "id": "gdelt-qzqs2aa",
       "title": "O que fazer em Campinas e região : agenda tem Angra , Roupa Nova , Diogo Nogueira , Vannick Belchior e mais",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -634,7 +666,7 @@
       "lastChecked": 1788488078202
     },
     {
-      "id": "gdelt-tqej7ps",
+      "id": "gdelt-99jhr01",
       "title": "Fogareiro : o utensílio que resolve mesa posta , camping e cozinha sem gás",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -650,7 +682,7 @@
       "lastChecked": 1788488078202
     },
     {
-      "id": "gdelt-cvrapod",
+      "id": "gdelt-o05su25",
       "title": "PC prende suspeito de invadir sistema de Alagoas no Ceará",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -662,11 +694,11 @@
       "publishedAtStr": "2026-09-03T15:30:00Z",
       "publishedAtTs": 1788449400000,
       "rawContent": "PC prende suspeito de invadir sistema de Alagoas no Ceará",
-      "linkStatus": "unknown",
-      "lastChecked": null
+      "linkStatus": "active",
+      "lastChecked": 1788489406133
     },
     {
-      "id": "gdelt-jjhobbg",
+      "id": "gdelt-0uafv1g",
       "title": "Delegado afastado nega envolvimento em esquema de desvio de cargas",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -678,11 +710,11 @@
       "publishedAtStr": "2026-09-03T15:30:00Z",
       "publishedAtTs": 1788449400000,
       "rawContent": "Delegado afastado nega envolvimento em esquema de desvio de cargas",
-      "linkStatus": "unknown",
-      "lastChecked": null
+      "linkStatus": "active",
+      "lastChecked": 1788489406133
     },
     {
-      "id": "gdelt-q2fct0r",
+      "id": "gdelt-c8s7wet",
       "title": "Sonegao fiscal no RN : acordo devolve R$ 11 , 2 milhões ao estado",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -694,11 +726,11 @@
       "publishedAtStr": "2026-09-03T15:30:00Z",
       "publishedAtTs": 1788449400000,
       "rawContent": "Sonegao fiscal no RN : acordo devolve R$ 11 , 2 milhões ao estado",
-      "linkStatus": "unknown",
-      "lastChecked": null
+      "linkStatus": "active",
+      "lastChecked": 1788489406133
     },
     {
-      "id": "gdelt-i15mfhp",
+      "id": "gdelt-ix0tmwt",
       "title": "Jorge Marra : novo júri por morte de Cássio Remis será em 2027",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -710,11 +742,11 @@
       "publishedAtStr": "2026-09-03T15:30:00Z",
       "publishedAtTs": 1788449400000,
       "rawContent": "Jorge Marra : novo júri por morte de Cássio Remis será em 2027",
-      "linkStatus": "unknown",
-      "lastChecked": null
+      "linkStatus": "active",
+      "lastChecked": 1788489406133
     },
     {
-      "id": "gdelt-fepa394",
+      "id": "gdelt-ad2huez",
       "title": "Conheça cãozinho que ajuda a aliviar a rotina no Batalhão da Rotan",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -726,11 +758,11 @@
       "publishedAtStr": "2026-09-03T15:30:00Z",
       "publishedAtTs": 1788449400000,
       "rawContent": "Conheça cãozinho que ajuda a aliviar a rotina no Batalhão da Rotan",
-      "linkStatus": "unknown",
-      "lastChecked": null
+      "linkStatus": "active",
+      "lastChecked": 1788489406133
     },
     {
-      "id": "gdelt-p4u13gj",
+      "id": "gdelt-pgo5f3b",
       "title": "EUA devolve ao Líbano fragmentos de antigos sarcófagos saqueados",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -742,11 +774,11 @@
       "publishedAtStr": "2026-09-03T15:30:00Z",
       "publishedAtTs": 1788449400000,
       "rawContent": "EUA devolve ao Líbano fragmentos de antigos sarcófagos saqueados",
-      "linkStatus": "unknown",
-      "lastChecked": null
+      "linkStatus": "active",
+      "lastChecked": 1788489406133
     },
     {
-      "id": "gdelt-x5tpou1",
+      "id": "gdelt-whmwb84",
       "title": "Márcio Jambo propõe banco estadual e corte de gastos em Alagoas",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -758,11 +790,11 @@
       "publishedAtStr": "2026-09-03T15:30:00Z",
       "publishedAtTs": 1788449400000,
       "rawContent": "Márcio Jambo propõe banco estadual e corte de gastos em Alagoas",
-      "linkStatus": "unknown",
-      "lastChecked": null
+      "linkStatus": "active",
+      "lastChecked": 1788489406133
     },
     {
-      "id": "gdelt-1k0ryu4",
+      "id": "gdelt-br6eodc",
       "title": "Putin volta a rechaçar rumores de recrutamento de civis para a guerra na Ucrânia",
       "sourceName": "Brasil de Fato",
       "sourceUrl": "https://www.brasildefato.com.br/",
@@ -774,11 +806,11 @@
       "publishedAtStr": "2026-09-03T15:30:00Z",
       "publishedAtTs": 1788449400000,
       "rawContent": "Putin volta a rechaçar rumores de recrutamento de civis para a guerra na Ucrânia",
-      "linkStatus": "unknown",
-      "lastChecked": null
+      "linkStatus": "active",
+      "lastChecked": 1788489406133
     },
     {
-      "id": "gdelt-qgyoozq",
+      "id": "gdelt-w8p5jc0",
       "title": "Tarcísio lidera disputa pelo governo de SP ; criminalidade e educao são os problemas que mais preocupam , aponta Atlas / Estadão",
       "sourceName": "Brasil de Fato",
       "sourceUrl": "https://www.brasildefato.com.br/",
@@ -790,11 +822,11 @@
       "publishedAtStr": "2026-09-03T15:30:00Z",
       "publishedAtTs": 1788449400000,
       "rawContent": "Tarcísio lidera disputa pelo governo de SP ; criminalidade e educao são os problemas que mais preocupam , aponta Atlas / Estadão",
-      "linkStatus": "unknown",
-      "lastChecked": null
+      "linkStatus": "active",
+      "lastChecked": 1788489406133
     },
     {
-      "id": "gdelt-8zmk5st",
+      "id": "gdelt-ryehrw7",
       "title": "Irã ataca bases no Kuwait e Emirados Árabes como retaliao a  crime de guerra  dos EUA",
       "sourceName": "Brasil de Fato",
       "sourceUrl": "https://www.brasildefato.com.br/",
@@ -806,11 +838,11 @@
       "publishedAtStr": "2026-09-03T15:30:00Z",
       "publishedAtTs": 1788449400000,
       "rawContent": "Irã ataca bases no Kuwait e Emirados Árabes como retaliao a  crime de guerra  dos EUA",
-      "linkStatus": "unknown",
-      "lastChecked": null
+      "linkStatus": "active",
+      "lastChecked": 1788489406133
     },
     {
-      "id": "gdelt-piyh3x6",
+      "id": "gdelt-mllwrzg",
       "title": "Em áudio , Nikolas Ferreira chama Daniel Vorcaro de  lindão  e pede liberao de ativo de minério",
       "sourceName": "Brasil de Fato",
       "sourceUrl": "https://www.brasildefato.com.br/",
@@ -822,11 +854,11 @@
       "publishedAtStr": "2026-09-03T15:30:00Z",
       "publishedAtTs": 1788449400000,
       "rawContent": "Em áudio , Nikolas Ferreira chama Daniel Vorcaro de  lindão  e pede liberao de ativo de minério",
-      "linkStatus": "unknown",
-      "lastChecked": null
+      "linkStatus": "active",
+      "lastChecked": 1788489406133
     },
     {
-      "id": "gdelt-duqo073",
+      "id": "gdelt-x06cwgc",
       "title": "Dark Horse : PGR fecha delao com operador de repasses para filme sobre Bolsonaro",
       "sourceName": "Brasil de Fato",
       "sourceUrl": "https://www.brasildefato.com.br/",
@@ -838,11 +870,11 @@
       "publishedAtStr": "2026-09-03T15:30:00Z",
       "publishedAtTs": 1788449400000,
       "rawContent": "Dark Horse : PGR fecha delao com operador de repasses para filme sobre Bolsonaro",
-      "linkStatus": "unknown",
-      "lastChecked": null
+      "linkStatus": "active",
+      "lastChecked": 1788489406133
     },
     {
-      "id": "gdelt-6ypluo3",
+      "id": "gdelt-su7koqj",
       "title": "Mais de 11 mil esperam por psiquiatra no DF ; fila tem pacientes desde 2019",
       "sourceName": "Brasil de Fato",
       "sourceUrl": "https://www.brasildefato.com.br/",
@@ -854,11 +886,11 @@
       "publishedAtStr": "2026-09-03T15:30:00Z",
       "publishedAtTs": 1788449400000,
       "rawContent": "Mais de 11 mil esperam por psiquiatra no DF ; fila tem pacientes desde 2019",
-      "linkStatus": "unknown",
-      "lastChecked": null
+      "linkStatus": "active",
+      "lastChecked": 1788489406133
     },
     {
-      "id": "gdelt-myp4sxg",
+      "id": "gdelt-wln0a7l",
       "title": "Prefeitura de Atibaia amplia acesso aos serviços públicos pelo Portal 1Doc",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -870,11 +902,11 @@
       "publishedAtStr": "2026-09-03T15:15:00Z",
       "publishedAtTs": 1788448500000,
       "rawContent": "Prefeitura de Atibaia amplia acesso aos serviços públicos pelo Portal 1Doc",
-      "linkStatus": "unknown",
-      "lastChecked": null
+      "linkStatus": "active",
+      "lastChecked": 1788489406133
     },
     {
-      "id": "gdelt-rrbw9dr",
+      "id": "gdelt-86a077u",
       "title": "Atibaia lança Programa Amigos do Espaço Público",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -886,11 +918,11 @@
       "publishedAtStr": "2026-09-03T15:15:00Z",
       "publishedAtTs": 1788448500000,
       "rawContent": "Atibaia lança Programa Amigos do Espaço Público",
-      "linkStatus": "unknown",
-      "lastChecked": null
+      "linkStatus": "active",
+      "lastChecked": 1788489406133
     },
     {
-      "id": "gdelt-xeylwtu",
+      "id": "gdelt-tnai3ot",
       "title": "Prefeitura promove modernizao da iluminao da pista de atletismo em Atibaia",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -902,11 +934,11 @@
       "publishedAtStr": "2026-09-03T15:15:00Z",
       "publishedAtTs": 1788448500000,
       "rawContent": "Prefeitura promove modernizao da iluminao da pista de atletismo em Atibaia",
-      "linkStatus": "unknown",
-      "lastChecked": null
+      "linkStatus": "active",
+      "lastChecked": 1788489406133
     },
     {
-      "id": "gdelt-t59a3zt",
+      "id": "gdelt-4zdzdjk",
       "title": "Médico suspeito de encomendar tortura e estupro participou dos crimes",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -918,11 +950,11 @@
       "publishedAtStr": "2026-09-03T15:15:00Z",
       "publishedAtTs": 1788448500000,
       "rawContent": "Médico suspeito de encomendar tortura e estupro participou dos crimes",
-      "linkStatus": "unknown",
-      "lastChecked": null
+      "linkStatus": "active",
+      "lastChecked": 1788489406133
     },
     {
-      "id": "gdelt-ucbj2ev",
+      "id": "gdelt-5nx61q2",
       "title": "MP prende suspeito de divulgar listas de pessoas marcadas para morrer",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -934,11 +966,11 @@
       "publishedAtStr": "2026-09-03T15:15:00Z",
       "publishedAtTs": 1788448500000,
       "rawContent": "MP prende suspeito de divulgar listas de pessoas marcadas para morrer",
-      "linkStatus": "unknown",
-      "lastChecked": null
+      "linkStatus": "active",
+      "lastChecked": 1788489406133
     },
     {
-      "id": "gdelt-rr9gmgy",
+      "id": "gdelt-tg9i6se",
       "title": "Trio é preso por furtar R$ 11 mil de shopping em Indaiatuba ( SP )",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -950,11 +982,11 @@
       "publishedAtStr": "2026-09-03T15:15:00Z",
       "publishedAtTs": 1788448500000,
       "rawContent": "Trio é preso por furtar R$ 11 mil de shopping em Indaiatuba ( SP )",
-      "linkStatus": "unknown",
-      "lastChecked": null
+      "linkStatus": "active",
+      "lastChecked": 1788489406133
     },
     {
-      "id": "gdelt-sjzw80g",
+      "id": "gdelt-1mr19ms",
       "title": "CSN anuncia novo presidente executivo após 24 anos de gestão",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -966,11 +998,11 @@
       "publishedAtStr": "2026-09-03T15:15:00Z",
       "publishedAtTs": 1788448500000,
       "rawContent": "CSN anuncia novo presidente executivo após 24 anos de gestão",
-      "linkStatus": "unknown",
-      "lastChecked": null
+      "linkStatus": "active",
+      "lastChecked": 1788489406133
     },
     {
-      "id": "gdelt-vgpnvrp",
+      "id": "gdelt-ahh3a0r",
       "title": "Motociclista morre após bater na lateral de ônibus em Petrópolis",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -982,11 +1014,11 @@
       "publishedAtStr": "2026-09-03T15:00:00Z",
       "publishedAtTs": 1788447600000,
       "rawContent": "Motociclista morre após bater na lateral de ônibus em Petrópolis",
-      "linkStatus": "unknown",
-      "lastChecked": null
+      "linkStatus": "active",
+      "lastChecked": 1788489406133
     },
     {
-      "id": "gdelt-bhm6ujz",
+      "id": "gdelt-7ax4eo3",
       "title": "E se suas férias não precisassem terminar em um único destino ?",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -998,11 +1030,11 @@
       "publishedAtStr": "2026-09-03T15:00:00Z",
       "publishedAtTs": 1788447600000,
       "rawContent": "E se suas férias não precisassem terminar em um único destino ?",
-      "linkStatus": "unknown",
-      "lastChecked": null
+      "linkStatus": "active",
+      "lastChecked": 1788489406133
     },
     {
-      "id": "gdelt-qqx8rq6",
+      "id": "gdelt-cukrzli",
       "title": "Receptao de fios de cobre em Ubatuba : dono de reciclagem é preso",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -1014,11 +1046,11 @@
       "publishedAtStr": "2026-09-03T15:00:00Z",
       "publishedAtTs": 1788447600000,
       "rawContent": "Receptao de fios de cobre em Ubatuba : dono de reciclagem é preso",
-      "linkStatus": "unknown",
-      "lastChecked": null
+      "linkStatus": "active",
+      "lastChecked": 1788489406133
     },
     {
-      "id": "gdelt-okug1zg",
+      "id": "gdelt-v1elomo",
       "title": "Mulher é esfaqueada 12 vezes pelo companheiro enquanto dormia em MG",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -1030,11 +1062,11 @@
       "publishedAtStr": "2026-09-03T15:00:00Z",
       "publishedAtTs": 1788447600000,
       "rawContent": "Mulher é esfaqueada 12 vezes pelo companheiro enquanto dormia em MG",
-      "linkStatus": "unknown",
-      "lastChecked": null
+      "linkStatus": "active",
+      "lastChecked": 1788489406133
     },
     {
-      "id": "gdelt-zbtf8hf",
+      "id": "gdelt-05lah89",
       "title": "Acidente em Lagoinha : motorista de 91 anos morre e gari fica ferida",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -1046,11 +1078,11 @@
       "publishedAtStr": "2026-09-03T14:30:00Z",
       "publishedAtTs": 1788445800000,
       "rawContent": "Acidente em Lagoinha : motorista de 91 anos morre e gari fica ferida",
-      "linkStatus": "unknown",
-      "lastChecked": null
+      "linkStatus": "active",
+      "lastChecked": 1788489406133
     },
     {
-      "id": "gdelt-kvasqx1",
+      "id": "gdelt-tp148sq",
       "title": "Mudança no topo da MedSênior , que fatura R$ 4 , 5 bi com plano de saúde para idoso",
       "sourceName": "O Globo Mundo",
       "sourceUrl": "https://oglobo.globo.com/mundo/",
@@ -1062,11 +1094,11 @@
       "publishedAtStr": "2026-09-03T14:00:00Z",
       "publishedAtTs": 1788444000000,
       "rawContent": "Mudança no topo da MedSênior , que fatura R$ 4 , 5 bi com plano de saúde para idoso",
-      "linkStatus": "unknown",
-      "lastChecked": null
+      "linkStatus": "active",
+      "lastChecked": 1788489406133
     },
     {
-      "id": "gdelt-hhy5tup",
+      "id": "gdelt-ensxuno",
       "title": "Policial salva bebê engasgado em Santarém com manobra de Heimlich",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -1078,11 +1110,11 @@
       "publishedAtStr": "2026-09-03T14:00:00Z",
       "publishedAtTs": 1788444000000,
       "rawContent": "Policial salva bebê engasgado em Santarém com manobra de Heimlich",
-      "linkStatus": "unknown",
-      "lastChecked": null
+      "linkStatus": "active",
+      "lastChecked": 1788489406133
     },
     {
-      "id": "gdelt-58w19kt",
+      "id": "gdelt-2l0rpcm",
       "title": "Empregadores domésticos podem ter valores a receber do chamado FGTS compensatório . Entenda",
       "sourceName": "O Globo Mundo",
       "sourceUrl": "https://oglobo.globo.com/mundo/",
@@ -1094,11 +1126,11 @@
       "publishedAtStr": "2026-09-03T14:00:00Z",
       "publishedAtTs": 1788444000000,
       "rawContent": "Empregadores domésticos podem ter valores a receber do chamado FGTS compensatório . Entenda",
-      "linkStatus": "unknown",
-      "lastChecked": null
+      "linkStatus": "active",
+      "lastChecked": 1788489406133
     },
     {
-      "id": "gdelt-nen8bg6",
+      "id": "gdelt-ilbee61",
       "title": "Brasil responde por um quarto das importaçõções europeias de carne . Bloco paga 50 % a mais do que a Ásia",
       "sourceName": "O Globo Mundo",
       "sourceUrl": "https://oglobo.globo.com/mundo/",
@@ -1110,11 +1142,11 @@
       "publishedAtStr": "2026-09-03T14:00:00Z",
       "publishedAtTs": 1788444000000,
       "rawContent": "Brasil responde por um quarto das importaçõções europeias de carne . Bloco paga 50 % a mais do que a Ásia",
-      "linkStatus": "unknown",
-      "lastChecked": null
+      "linkStatus": "active",
+      "lastChecked": 1788489406133
     },
     {
-      "id": "gdelt-nphl033",
+      "id": "gdelt-kaggrns",
       "title": "Polícia prende cinco pessoas suspeitas de roubar escola",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -1126,11 +1158,11 @@
       "publishedAtStr": "2026-09-03T14:00:00Z",
       "publishedAtTs": 1788444000000,
       "rawContent": "Polícia prende cinco pessoas suspeitas de roubar escola",
-      "linkStatus": "unknown",
-      "lastChecked": null
+      "linkStatus": "active",
+      "lastChecked": 1788489406133
     },
     {
-      "id": "gdelt-holmyqv",
+      "id": "gdelt-lahkas7",
       "title": "Músico é encontrado morto dentro de casa no Acre",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -1142,11 +1174,11 @@
       "publishedAtStr": "2026-09-03T14:00:00Z",
       "publishedAtTs": 1788444000000,
       "rawContent": "Músico é encontrado morto dentro de casa no Acre",
-      "linkStatus": "unknown",
-      "lastChecked": null
+      "linkStatus": "active",
+      "lastChecked": 1788489406133
     },
     {
-      "id": "gdelt-eioql4n",
+      "id": "gdelt-hse6krk",
       "title": "Harry e Meghan matriculam filhos em escola de elite no Reino Unido ; veja quanto custa",
       "sourceName": "O Globo Mundo",
       "sourceUrl": "https://oglobo.globo.com/mundo/",
@@ -1158,11 +1190,11 @@
       "publishedAtStr": "2026-09-03T13:30:00Z",
       "publishedAtTs": 1788442200000,
       "rawContent": "Harry e Meghan matriculam filhos em escola de elite no Reino Unido ; veja quanto custa",
-      "linkStatus": "unknown",
-      "lastChecked": null
+      "linkStatus": "active",
+      "lastChecked": 1788489406133
     },
     {
-      "id": "gdelt-1e5qxnq",
+      "id": "gdelt-8rgp39e",
       "title": "O que é  sexo por compaixão ? Estudo revela por que mulheres mantêm relaçõções sem desejo",
       "sourceName": "O Globo Mundo",
       "sourceUrl": "https://oglobo.globo.com/mundo/",
@@ -1174,11 +1206,11 @@
       "publishedAtStr": "2026-09-03T13:30:00Z",
       "publishedAtTs": 1788442200000,
       "rawContent": "O que é  sexo por compaixão ? Estudo revela por que mulheres mantêm relaçõções sem desejo",
-      "linkStatus": "unknown",
-      "lastChecked": null
+      "linkStatus": "active",
+      "lastChecked": 1788489406133
     },
     {
-      "id": "gdelt-ed1661w",
+      "id": "gdelt-exohrx5",
       "title": "Brasileira é eleita pela 2ª vez a mais bonita entre criadoras de conteúdo adulto 60+ ; veja quem é",
       "sourceName": "O Globo Mundo",
       "sourceUrl": "https://oglobo.globo.com/mundo/",
@@ -1190,11 +1222,11 @@
       "publishedAtStr": "2026-09-03T13:30:00Z",
       "publishedAtTs": 1788442200000,
       "rawContent": "Brasileira é eleita pela 2ª vez a mais bonita entre criadoras de conteúdo adulto 60+ ; veja quem é",
-      "linkStatus": "unknown",
-      "lastChecked": null
+      "linkStatus": "active",
+      "lastChecked": 1788489406133
     },
     {
-      "id": "gdelt-zy70vhg",
+      "id": "gdelt-w0kqhvo",
       "title": "Murilo Huff dá  diária  de R$ 50 ao filho de Marília Mendonça para ensinar educao financeira",
       "sourceName": "O Globo Mundo",
       "sourceUrl": "https://oglobo.globo.com/mundo/",
@@ -1206,11 +1238,11 @@
       "publishedAtStr": "2026-09-03T13:30:00Z",
       "publishedAtTs": 1788442200000,
       "rawContent": "Murilo Huff dá  diária  de R$ 50 ao filho de Marília Mendonça para ensinar educao financeira",
-      "linkStatus": "unknown",
-      "lastChecked": null
+      "linkStatus": "active",
+      "lastChecked": 1788489406133
     },
     {
-      "id": "gdelt-coi2mur",
+      "id": "gdelt-n0edbsj",
       "title": "Churrasqueira a bafo : o que muda na carne quando a tampa fecha",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -1222,11 +1254,11 @@
       "publishedAtStr": "2026-09-03T13:00:00Z",
       "publishedAtTs": 1788440400000,
       "rawContent": "Churrasqueira a bafo : o que muda na carne quando a tampa fecha",
-      "linkStatus": "unknown",
-      "lastChecked": null
+      "linkStatus": "active",
+      "lastChecked": 1788489406133
     },
     {
-      "id": "gdelt-zkr3s6i",
+      "id": "gdelt-69e2ceu",
       "title": "El Niño alimenta raro trio de furacões no Pacífico",
       "sourceName": "DW Brasil",
       "sourceUrl": "https://www.dw.com/pt-br/",
@@ -1238,11 +1270,11 @@
       "publishedAtStr": "2026-09-03T12:45:00Z",
       "publishedAtTs": 1788439500000,
       "rawContent": "El Niño alimenta raro trio de furacões no Pacífico",
-      "linkStatus": "unknown",
-      "lastChecked": null
+      "linkStatus": "active",
+      "lastChecked": 1788489406133
     },
     {
-      "id": "gdelt-9pttbxy",
+      "id": "gdelt-2fl5r49",
       "title": "Quem ama cuida : Ademir flagra Dora e André juntos na cama e parte para cima",
       "sourceName": "O Globo Mundo",
       "sourceUrl": "https://oglobo.globo.com/mundo/",
@@ -1254,11 +1286,11 @@
       "publishedAtStr": "2026-09-03T12:45:00Z",
       "publishedAtTs": 1788439500000,
       "rawContent": "Quem ama cuida : Ademir flagra Dora e André juntos na cama e parte para cima",
-      "linkStatus": "unknown",
-      "lastChecked": null
+      "linkStatus": "active",
+      "lastChecked": 1788489406133
     },
     {
-      "id": "gdelt-2o7zl0l",
+      "id": "gdelt-wkdi9j2",
       "title": "Lavrov anuncia fechamento do Instituto Goethe na Rússia",
       "sourceName": "DW Brasil",
       "sourceUrl": "https://www.dw.com/pt-br/",
@@ -1274,7 +1306,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-l44q97i",
+      "id": "gdelt-4ym1ndx",
       "title": "Quiz : teste seus conhecimentos sobre músculos com 16 perguntas",
       "sourceName": "O Globo Mundo",
       "sourceUrl": "https://oglobo.globo.com/mundo/",
@@ -1290,7 +1322,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-cvm21sk",
+      "id": "gdelt-eeng95z",
       "title": "Falsificao de bebidas em Artur Nogueira : dupla é presa pela DISE",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -1306,7 +1338,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-se7n77h",
+      "id": "gdelt-b17zn0p",
       "title": "Adolescente suspeito de matar estudante no MA tinha caderno com desenhos nazistas , diz polícia",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -1322,7 +1354,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-076qmcd",
+      "id": "gdelt-ljjul0r",
       "title": "Pé de Cerrado em Alter do Chão : show gratuito celebra 25 anos",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -1338,7 +1370,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-0oic6op",
+      "id": "gdelt-jqle60e",
       "title": "Apple enfrenta processo de R$ 15 bilhões no Reino Unido por regras de rastreamento de aplicativos",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -1354,7 +1386,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-k783ww4",
+      "id": "gdelt-otrcypb",
       "title": "Ufac prevê 1ª turma de Farmácia para 2028 ; VEJA detalhes",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -1370,7 +1402,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-5ncdym2",
+      "id": "gdelt-ikan7lo",
       "title": "3coraçõções conclui compra Yoki e Kitano por R$ 800 milhões",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -1386,7 +1418,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-tttvxs5",
+      "id": "gdelt-hfz6sep",
       "title": "Iseno da taxa de lixo em Taubaté : confira regras e quem pode pedir",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -1402,7 +1434,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-65az97y",
+      "id": "gdelt-dln5n7k",
       "title": "Vereador de Alvarães morre em acidente de lancha no Rio Solimões",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -1418,7 +1450,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-5l9odaq",
+      "id": "gdelt-fndx0bd",
       "title": "Menina de 8 anos é baleada durante operao da PM em Queimados",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -1434,7 +1466,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-ya1wulx",
+      "id": "gdelt-4uleug3",
       "title": "BC decreta liquidao de corretoras ligadas a ex - sócio do Banco Master",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -1450,7 +1482,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-akb111g",
+      "id": "gdelt-hp9s5ml",
       "title": "Patrus Ananias falta à entrevista do MG1 de quarta - feira em Uberlândia",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -1466,7 +1498,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-olm3jlc",
+      "id": "gdelt-8ux1uim",
       "title": "Incêndio atinge casa em Imperatriz , no MA ; bombeiros controlam chamas",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -1482,7 +1514,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-zhjkubh",
+      "id": "gdelt-bldtbck",
       "title": "Aeroporto de Feira de Santana tem atividades suspensas temporariamente",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -1498,7 +1530,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-exs7c5e",
+      "id": "gdelt-vyvkzd7",
       "title": "Incêndio atinge galpão no Porto do Açu , em São João da Barra",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -1514,7 +1546,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-12450zy",
+      "id": "gdelt-ut85o5m",
       "title": "Estudantes de Cuiabá terão ônibus de graça e sem limite de viagens",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -1530,7 +1562,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-vyrnf6y",
+      "id": "gdelt-stkynkh",
       "title": "Grupo ajuda ex - simpatizantes de Trump a deixar o movimento MAGA",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -1546,7 +1578,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-81tz12c",
+      "id": "gdelt-col129g",
       "title": "Semaglutida atrasou envelhecimento em ratos , aponta estudo",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -1562,7 +1594,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-v7lvm5r",
+      "id": "gdelt-gh9iywx",
       "title": "Alcides Fernandes defende leis mais rígidas contra criminosos",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -1578,7 +1610,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-n36here",
+      "id": "gdelt-wy4cc93",
       "title": "Polícia Penal RJ faz operao contra celulares e drogas em Bangu",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -1594,7 +1626,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-ipyxcx9",
+      "id": "gdelt-egbgyjo",
       "title": "Quem era músico com 20 anos de carreira que morreu a caminho de show",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -1610,7 +1642,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-ftp4t2q",
+      "id": "gdelt-csdsitc",
       "title": "Cabo Frio volta a receber voos de Belo Horizonte na alta temporada",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -1626,7 +1658,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-49dysne",
+      "id": "gdelt-6mfzjzx",
       "title": "Investigado por homicídio é preso em Teresina",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -1642,7 +1674,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-r9bg5nq",
+      "id": "gdelt-fggp7ub",
       "title": "Frente fria se aproxima e faz chuvas terem data para voltar ao Paraná ; veja previsão do tempo",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -1658,7 +1690,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-hexvquw",
+      "id": "gdelt-k78hs59",
       "title": "Suspeitos de serem mandates de homicídios em Maceió morrem em operao",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -1674,7 +1706,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-44x67oq",
+      "id": "gdelt-5vqsgz5",
       "title": "PMs condenados por morte de guarda têm pena convertida em multas",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -1690,7 +1722,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-cr9x6l9",
+      "id": "gdelt-5o5f4gc",
       "title": "Serra das Araras : trânsito é parcialmente liberado após vazamento",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -1706,7 +1738,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-3w301ar",
+      "id": "gdelt-xu8b3zr",
       "title": "Natal : Acidente entre carros e motos causa congestionamento na BR - 101",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -1722,7 +1754,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-pc47npy",
+      "id": "gdelt-z9lfmoy",
       "title": "Polícia mira núcleo ligado ao PCC suspeito de lavar R$ 1 bilhão",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -1738,7 +1770,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-l5179oz",
+      "id": "gdelt-8wr0w3y",
       "title": "Ciclista é flagrado pedalando em alta velocidade no Túnel Rebouças",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -1754,7 +1786,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-3fv13iv",
+      "id": "gdelt-ms9a2p7",
       "title": "Veja o plano de Laurez Moreira para o governo do Tocantins",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -1770,7 +1802,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-efc5ifx",
+      "id": "gdelt-zpfwn4k",
       "title": "Pão de Acar entra em situao de emergência por estiagem em AL",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -1786,7 +1818,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-aw6vbek",
+      "id": "gdelt-qky267o",
       "title": "Desenvolve SP : operao investiga fraude de R$ 70 , 4 mi em crédito",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -1802,7 +1834,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-17x98cx",
+      "id": "gdelt-74xh1tu",
       "title": "ONU alerta que El Niño será  muito forte  e durará até fevereiro",
       "sourceName": "O Globo Mundo",
       "sourceUrl": "https://oglobo.globo.com/mundo/",
@@ -1818,7 +1850,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-hmzi0ry",
+      "id": "gdelt-kmfe1t7",
       "title": "Só 100 minutos ? Quais foram os shows mais longos do Rock in Rio , com durao de mais de 3 horas",
       "sourceName": "O Globo Mundo",
       "sourceUrl": "https://oglobo.globo.com/mundo/",
@@ -1834,7 +1866,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-z82wp9s",
+      "id": "gdelt-bwz3fp4",
       "title": "Veja o plano de governo de Witer Naves para o Tocantins",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -1850,7 +1882,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-nkwvwmw",
+      "id": "gdelt-k8hiwob",
       "title": "Frente fria avança pelo país , com chuva e queda de temperatura , Nordeste terá calor de até 41°C ; veja previsão",
       "sourceName": "O Globo Mundo",
       "sourceUrl": "https://oglobo.globo.com/mundo/",
@@ -1866,7 +1898,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-k9pgsm7",
+      "id": "gdelt-95vvq21",
       "title": "Independentes , mulheres e baixa renda : o perfil do eleitor indeciso , segundo a Quaest",
       "sourceName": "O Globo Mundo",
       "sourceUrl": "https://oglobo.globo.com/mundo/",
@@ -1882,7 +1914,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-6mabxhd",
+      "id": "gdelt-jq8hmgh",
       "title": "Veja o plano da Professora Dorinha para o governo do Tocantins",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -1898,7 +1930,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-ef2b3mp",
+      "id": "gdelt-spv8fnd",
       "title": "Manuteno pode afetar abastecimento de água em Goiânia nesta quinta",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -1914,7 +1946,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-idqc8ax",
+      "id": "gdelt-bmkw9kb",
       "title": "Consórcio Bus+ vira alvo de processo que pode encerrar concessão",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -1930,7 +1962,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-zch61g0",
+      "id": "gdelt-7tvp5xt",
       "title": "Dinamarca acusa Rússia de preparar sabotagens em solo dinamarquês",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -1946,7 +1978,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-ngihn3h",
+      "id": "gdelt-21m7sxi",
       "title": "Cartas para Maduro e Cilia : Alba Movimentos promove campanha 8 meses após o sequestro",
       "sourceName": "Brasil de Fato",
       "sourceUrl": "https://www.brasildefato.com.br/",
@@ -1962,7 +1994,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-dbtoxik",
+      "id": "gdelt-5o4i9ot",
       "title": "Produo de cogumelos em Gansu é exemplo de envolvimento de empresas na estratégia de revitalizao rural da China",
       "sourceName": "Brasil de Fato",
       "sourceUrl": "https://www.brasildefato.com.br/",
@@ -1978,7 +2010,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-g475p9w",
+      "id": "gdelt-4phmsuu",
       "title": "Projeto de nova universidade federal na Bahia está em fase estudos",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -1994,7 +2026,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-t5oztms",
+      "id": "gdelt-4fo1ec2",
       "title": "PM trans de MG : Juliana Vittoria relata transio aos 49 anos",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -2010,7 +2042,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-chbkrjg",
+      "id": "gdelt-mdjjt7x",
       "title": "Mulher com mesma doença de Lito perde os movimentos em 60 dias e cruza fronteira para se tratar no SUS",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -2026,7 +2058,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-g2w7d6i",
+      "id": "gdelt-gfs1esl",
       "title": "Pedreiro desmaiou ao tentar salvar amigo morto em caixa - d  água de obra",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -2042,7 +2074,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-g79in6u",
+      "id": "gdelt-7uikbzv",
       "title": "Festival Internacional de Dança do Recife começa nesta quinta ; confira",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -2058,7 +2090,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-jm2qlkq",
+      "id": "gdelt-6zvyvqm",
       "title": "A  cidade do pecado  onde militares dos EUA atracaram",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -2074,7 +2106,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-g6uh2ll",
+      "id": "gdelt-4oupg4h",
       "title": "Mulher morta após receber alta de hospital queria viver nos EUA",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -2090,7 +2122,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-ovwsfnt",
+      "id": "gdelt-ijh6zhw",
       "title": "Homem preso por tentar matar mulher foi encontrado com arma e drogas",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -2106,7 +2138,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-93afpmb",
+      "id": "gdelt-ea6sykf",
       "title": "Mais de 10 , 8 mil eleitores pediram para votar no Vale e região",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -2122,7 +2154,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-2dealp4",
+      "id": "gdelt-ybjf1cb",
       "title": "Morto em  tribunal do crime  era pedreiro e deixou 5 filhos",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -2138,7 +2170,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-uzn0o5z",
+      "id": "gdelt-15ztazk",
       "title": "Músico morre a caminho de show após acidente em Porto Alegre",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -2154,7 +2186,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-8l40tqo",
+      "id": "gdelt-5zbiqzl",
       "title": "Portugal vê problema inédito com catadores atrás do reembolso de reciclagem",
       "sourceName": "O Globo Mundo",
       "sourceUrl": "https://oglobo.globo.com/mundo/",
@@ -2170,7 +2202,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-1nnkdr8",
+      "id": "gdelt-yjl5eg7",
       "title": "Redivisão do Azzas 2154 : como foram as 48 horas anteriores ao aperto de mãos entre Birman e Jatahy",
       "sourceName": "O Globo Mundo",
       "sourceUrl": "https://oglobo.globo.com/mundo/",
@@ -2186,7 +2218,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-kxuvdym",
+      "id": "gdelt-wnt6rc1",
       "title": "Líderes de tecnologia pressionam G20 por  data center , mas divergem sobre risco da IA",
       "sourceName": "O Globo Mundo",
       "sourceUrl": "https://oglobo.globo.com/mundo/",
@@ -2202,7 +2234,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-0qh98ks",
+      "id": "gdelt-7ss39a3",
       "title": "Após divórcio selado , Azzas 2154 quer fazer da camiseta Hering o item de vestuário mais vendido do Brasil",
       "sourceName": "O Globo Mundo",
       "sourceUrl": "https://oglobo.globo.com/mundo/",
@@ -2218,7 +2250,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-z5wavrf",
+      "id": "gdelt-ltg9yy9",
       "title": "Coelho de estimao morre após ingerir veneno para ratos de pacote rasgado entregue pela Amazon na Inglaterra",
       "sourceName": "O Globo Mundo",
       "sourceUrl": "https://oglobo.globo.com/mundo/",
@@ -2234,7 +2266,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-9ts4of1",
+      "id": "gdelt-wa9n6e6",
       "title": "De olho na longevidade ativa , Singapura também investe em aes voltadas para os jovens",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -2250,7 +2282,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-vam3a1w",
+      "id": "gdelt-8vigaib",
       "title": "As mãos nunca mentem : o que está por trás da tendência que viralizou",
       "sourceName": "O Globo Mundo",
       "sourceUrl": "https://oglobo.globo.com/mundo/",
@@ -2266,7 +2298,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-02xs0lu",
+      "id": "gdelt-i841q98",
       "title": "Pagode in Rio ? Belo revela conversa com curador do festival sobre chance no Palco Mundo",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -2282,7 +2314,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-gxu4cfw",
+      "id": "gdelt-dml9a7u",
       "title": "Escolas do Grupo Especial definem , a partir de sexta ( 4 ), os sambas que vão embalar desfiles de 2027",
       "sourceName": "O Globo Mundo",
       "sourceUrl": "https://oglobo.globo.com/mundo/",
@@ -2298,7 +2330,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-73ga9d9",
+      "id": "gdelt-tkfl5gv",
       "title": "Lado a lado e sem mençõções à crise : os registros do primeiro encontro entre Mendonça e Moraes após embate sobre Vorcaro",
       "sourceName": "O Globo Mundo",
       "sourceUrl": "https://oglobo.globo.com/mundo/",
@@ -2314,7 +2346,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-59avzul",
+      "id": "gdelt-cqxi7oi",
       "title": "Ilha  fantasma  aparece e desaparece em reservatório no Canadá ; veja o que se sabe",
       "sourceName": "O Globo Mundo",
       "sourceUrl": "https://oglobo.globo.com/mundo/",
@@ -2330,7 +2362,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-zk7xx38",
+      "id": "gdelt-vpbol7a",
       "title": "Simone Mendes : processo por muro que destruiu piano de R$ 400 mil",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -2346,7 +2378,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-lph7k7x",
+      "id": "gdelt-ysaze11",
       "title": "Uso de medicamentos contra obesidade por conta própria e de origem duvidosa é problema crescente de saúde pública",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -2362,7 +2394,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-o8hupkw",
+      "id": "gdelt-7v3rncg",
       "title": "Gonzaguinha , da maior liberdade : doc revela verve afiada , visão política e inconformismo do artista",
       "sourceName": "O Globo Mundo",
       "sourceUrl": "https://oglobo.globo.com/mundo/",
@@ -2378,7 +2410,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-ncz9zvw",
+      "id": "gdelt-upm9c1p",
       "title": "De  listening bar  a festas na calçada , febre de discotecagem em vinil contagia noite carioca",
       "sourceName": "O Globo Mundo",
       "sourceUrl": "https://oglobo.globo.com/mundo/",
@@ -2394,7 +2426,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-33xgfkg",
+      "id": "gdelt-8my5hhh",
       "title": "Por que Virginia Fonseca está dando desafios aos fãs em troca de engajamento ?",
       "sourceName": "O Globo Mundo",
       "sourceUrl": "https://oglobo.globo.com/mundo/",
@@ -2410,7 +2442,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-hwb5d8k",
+      "id": "gdelt-kgr5ml0",
       "title": "Edio genética controla colesterol alto por até um ano com dose única",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -2426,7 +2458,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-xs0b6zp",
+      "id": "gdelt-ghnpjcs",
       "title": "Canetas emagrecedoras podem mudar até a relao com perfumes ? Entenda o fenômeno",
       "sourceName": "O Globo Mundo",
       "sourceUrl": "https://oglobo.globo.com/mundo/",
@@ -2442,7 +2474,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-7aytqfi",
+      "id": "gdelt-w9m1rh7",
       "title": "Cemitério indígena de mil anos é achado em obras de rodovia no Amapá",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -2458,7 +2490,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-pcgz2uq",
+      "id": "gdelt-brxptzh",
       "title": "Governo notifica 115 empresas por irregularidades no VR ; entenda",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -2474,7 +2506,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-u7mn2xj",
+      "id": "gdelt-ikc0rg0",
       "title": "Lucas Inutilismo no Rock in Rio : Lvcas estreia show de metal",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -2490,7 +2522,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-bv2gwfq",
+      "id": "gdelt-khitpnz",
       "title": "Com 800 autores na programao , Bienal do Livro de SP espera receber mais de 700 mil visitantes ; veja destaques",
       "sourceName": "O Globo Mundo",
       "sourceUrl": "https://oglobo.globo.com/mundo/",
@@ -2506,7 +2538,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-ejgdj0x",
+      "id": "gdelt-s0arto1",
       "title": "Procurando creches e pré - escolas em Ipanema , Leblon , Jardim Botânico e Gávea ? Compare preços e estrutura em guia",
       "sourceName": "O Globo Mundo",
       "sourceUrl": "https://oglobo.globo.com/mundo/",
@@ -2522,7 +2554,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-pt49mex",
+      "id": "gdelt-m842ayi",
       "title": "Procurando creches e pré - escolas em Botafogo e Humaitá ? Compare preços e estrutura em guia",
       "sourceName": "O Globo Mundo",
       "sourceUrl": "https://oglobo.globo.com/mundo/",
@@ -2538,7 +2570,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-wl7vyyc",
+      "id": "gdelt-blthy44",
       "title": "Procurando creches e pré - escolas em Pinheiros , Alto de Pinheiros e Vila Madalena ? Compare preços e estrutura em guia",
       "sourceName": "O Globo Mundo",
       "sourceUrl": "https://oglobo.globo.com/mundo/",
@@ -2554,7 +2586,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-yumpgkx",
+      "id": "gdelt-kv34ydg",
       "title": "Procurando creches e pré - escolas em Santana e Tucuruvi ? Compare preços e estrutura em guia",
       "sourceName": "O Globo Mundo",
       "sourceUrl": "https://oglobo.globo.com/mundo/",
@@ -2570,7 +2602,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-fqof120",
+      "id": "gdelt-kfv43oc",
       "title": "Procurando creches e pré - escolas na Barra e Recreio ? Compare preços e estrutura em guia",
       "sourceName": "O Globo Mundo",
       "sourceUrl": "https://oglobo.globo.com/mundo/",
@@ -2586,7 +2618,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-uwz0be6",
+      "id": "gdelt-mi41ajg",
       "title": "Sem alarde , Leonardo DiCaprio cumpre maratona ambiental no Brasil e se reúne com Raoni e Lula ; veja como foi",
       "sourceName": "O Globo Mundo",
       "sourceUrl": "https://oglobo.globo.com/mundo/",
@@ -2602,7 +2634,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-pppujtk",
+      "id": "gdelt-5kocjvr",
       "title": "Procurando creches e pré - escolas em Laranjeiras , Flamengo e Catete ? Compare preços e estrutura em guia",
       "sourceName": "O Globo Mundo",
       "sourceUrl": "https://oglobo.globo.com/mundo/",
@@ -2618,7 +2650,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-usyuu5r",
+      "id": "gdelt-jnjtkyc",
       "title": "Só falta um passo , diz Lula após aprovao do fim da 6×1 em CCJ ; veja reaçõções nas redes sociais",
       "sourceName": "Brasil de Fato",
       "sourceUrl": "https://www.brasildefato.com.br/",
@@ -2634,7 +2666,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-sz6vbju",
+      "id": "gdelt-j1n8uub",
       "title": "Brasil de Fato lança política de uso de IA no jornalismo",
       "sourceName": "Brasil de Fato",
       "sourceUrl": "https://www.brasildefato.com.br/",
@@ -2650,7 +2682,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-6ph40ma",
+      "id": "gdelt-26mgj1u",
       "title": "Em resposta a bolsonaristas , Alcolumbre diz que  pediram R$ 130 milhões para filme , mas agora  culpado é só Moraes",
       "sourceName": "Brasil de Fato",
       "sourceUrl": "https://www.brasildefato.com.br/",
@@ -2666,7 +2698,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-np1f63c",
+      "id": "gdelt-n6qcdvo",
       "title": "Venezuela assina acordos com empresas estrangeiras para expandir produo de petróleo",
       "sourceName": "Brasil de Fato",
       "sourceUrl": "https://www.brasildefato.com.br/",
@@ -2682,7 +2714,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-c5wf1zf",
+      "id": "gdelt-bcczpje",
       "title": "Documentário  Minerao , Lucro e Devastao , do BdF e Rosalux , recebe meno honrosa em festival internacional",
       "sourceName": "Brasil de Fato",
       "sourceUrl": "https://www.brasildefato.com.br/",
@@ -2698,7 +2730,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-ykt7duh",
+      "id": "gdelt-x3fdrmk",
       "title": "Pesquisa de 2º turno serve para avaliar possibilidade de movimentos do eleitorado , afirma cientista política",
       "sourceName": "Brasil de Fato",
       "sourceUrl": "https://www.brasildefato.com.br/",
@@ -2714,7 +2746,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-t2ulhud",
+      "id": "gdelt-d2j7kmf",
       "title": "Predominância de figuras ligadas a Bolsonaro , diz jornalista sobre relao de Mendonça com Vorcaro",
       "sourceName": "Brasil de Fato",
       "sourceUrl": "https://www.brasildefato.com.br/",
@@ -2730,7 +2762,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-ntto0q4",
+      "id": "gdelt-a1jmo36",
       "title": "CCJ do Senado aprova texto - base da PEC da Segurança Pública",
       "sourceName": "Brasil de Fato",
       "sourceUrl": "https://www.brasildefato.com.br/",
@@ -2746,7 +2778,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-xpq2my0",
+      "id": "gdelt-n9pxjop",
       "title": "Destaque na Expointer , vaca atinge avaliao recorde de R$ 567 mil",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -2762,7 +2794,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-tyequno",
+      "id": "gdelt-famvv65",
       "title": "O que se sabe sobre o caso do patrão que filmou funcionária nua no banheiro em MG",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -2778,7 +2810,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-f3cfhjf",
+      "id": "gdelt-7l1n45v",
       "title": "Calor e seca : veja como idosos do DF podem se cuidar para evitar desidratao e outros riscos",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -2794,7 +2826,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-d061b6n",
+      "id": "gdelt-vc15s6q",
       "title": "Camaru 2026 : Confira a programao desta quinta - feira , 3 de setembro",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -2810,7 +2842,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-mecas86",
+      "id": "gdelt-klu6v0p",
       "title": "Previsão do tempo hoje para Belo Horizonte ( MG ): sol com muitas nuvens durante o dia e períodos de céu nublado ; noite com muitas nuvens",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -2826,7 +2858,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-iqmp6jh",
+      "id": "gdelt-ihs3r3q",
       "title": "Previsão do tempo hoje para Sete Lagoas ( MG ): sol com algumas nuvens ; não chove",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -2842,7 +2874,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-y7clojb",
+      "id": "gdelt-5w7n8op",
       "title": "Previsão do tempo hoje para Santo André ( SP ): sol com algumas nuvens ao longo do dia ; noite de céu limpo",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -2858,7 +2890,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-b2ib5lt",
+      "id": "gdelt-16k6je1",
       "title": "Previsão do tempo hoje para São Bernardo do Campo ( SP ): sol com algumas nuvens ao longo do dia ; noite de céu limpo",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -2874,7 +2906,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-qf5hqcc",
+      "id": "gdelt-78z2or6",
       "title": "Previsão do tempo hoje para Contagem ( MG ): sol com algumas nuvens ; não chove",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -2890,7 +2922,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-ktqssr7",
+      "id": "gdelt-9wp3w56",
       "title": "Previsão do tempo hoje para Duque de Caxias ( RJ ): sol com algumas nuvens ao longo do dia ; noite de céu limpo",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -2906,7 +2938,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-xfg4grm",
+      "id": "gdelt-ypijjy6",
       "title": "Previsão do tempo hoje para Cabo de Santo Agostinho ( PE ): sol com muitas nuvens de manhã e pancadas de chuva à tarde ; à noite , a chuva para",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -2922,7 +2954,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-vxahh0d",
+      "id": "gdelt-8sqc348",
       "title": "Previsão do tempo no RS : chuva e aviso de tempestade nesta quinta",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -2938,7 +2970,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-3zqa3x8",
+      "id": "gdelt-ljtli6e",
       "title": "Secretário de Energia nega que EUA estejam  roubando  petróleo venezuelano :  Prioridade é o povo",
       "sourceName": "O Globo Mundo",
       "sourceUrl": "https://oglobo.globo.com/mundo/",
@@ -2954,7 +2986,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-xzkbj3h",
+      "id": "gdelt-9o71y1g",
       "title": "Lula faz evento para dizer que  zerou  fila do INSS , mas conta desconsidera quem aguarda benefício há menos de 45 dias",
       "sourceName": "O Globo Mundo",
       "sourceUrl": "https://oglobo.globo.com/mundo/",
@@ -2970,7 +3002,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-ioic3w0",
+      "id": "gdelt-6avw17w",
       "title": "Fim da escala 6x1 : saiba próximos passos e quando proposta poderá ser votada no Senado",
       "sourceName": "O Globo Mundo",
       "sourceUrl": "https://oglobo.globo.com/mundo/",
@@ -2986,7 +3018,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-igq0mwr",
+      "id": "gdelt-5xify5k",
       "title": "Nestlé anuncia nova fábrica de fórmulas infantis no Brasil , projeto de R$ 600 milhões",
       "sourceName": "O Globo Mundo",
       "sourceUrl": "https://oglobo.globo.com/mundo/",
@@ -3002,7 +3034,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-sfjtihm",
+      "id": "gdelt-s5ea2lm",
       "title": "O que vai acontecer com as marcas após o divórcio no grupo Azzas ? Analistas avaliam quais serão os próximos passos",
       "sourceName": "O Globo Mundo",
       "sourceUrl": "https://oglobo.globo.com/mundo/",
@@ -3018,7 +3050,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-2vbm3ok",
+      "id": "gdelt-ho4t6gd",
       "title": "Câmara tem nova tentativa de votar fim da taxa das blusinhas a cinco dias de MP perder validade",
       "sourceName": "O Globo Mundo",
       "sourceUrl": "https://oglobo.globo.com/mundo/",
@@ -3034,7 +3066,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-df3vo8j",
+      "id": "gdelt-s7mannx",
       "title": "Mega - Sena sorteia prêmio de R$ 41 milhões nesta quinta - feira",
       "sourceName": "O Globo Mundo",
       "sourceUrl": "https://oglobo.globo.com/mundo/",
@@ -3050,7 +3082,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-ogxzh9v",
+      "id": "gdelt-auod21z",
       "title": "Conselhos Tutelares de Macaé passam a atender por novos telefones",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -3066,7 +3098,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-wdzuzk7",
+      "id": "gdelt-3x4pf2d",
       "title": "Mendonça vs . Moraes : as reaçõções do Supremo ao Caso Master - O Assunto # 1797",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -3082,7 +3114,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-a9249il",
+      "id": "gdelt-ql08gua",
       "title": "Vorcaro diz que proposta de delao se resume a pessoas do  atual governo , sem citar financiamento de  Dark Horse  e envolvimento com políticos",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -3098,7 +3130,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-jy0dd3d",
+      "id": "gdelt-vburie3",
       "title": "Filme com Bruna Linzmeyer abre festival de cinema mais antigo de SC",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -3114,7 +3146,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-0p4099g",
+      "id": "gdelt-ah0rqh6",
       "title": "Saque - aniversário FGTS setembro : veja calendário e quem pode sacar",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -3130,7 +3162,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-nlownlf",
+      "id": "gdelt-rn6ac5l",
       "title": "Água invadiu túnel e precisei correr por 20 minutos , diz trabalhador nepalês que sobreviveu a avalanche",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -3146,7 +3178,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-c8c28q2",
+      "id": "gdelt-i3vkh7k",
       "title": "Eleiçõções 2026 : Veja a agenda dos candidatos ao Governo do RJ na quinta",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -3162,7 +3194,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-ks26xt5",
+      "id": "gdelt-u7n65jm",
       "title": "UE compra pouca carne do Brasil , mas paga mais e funciona como  vitrine ; saiba por que o veto preocupa",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -3178,7 +3210,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-3nhrdoi",
+      "id": "gdelt-ci9gdft",
       "title": "Seminário promove integrao e qualificao da Saúde Mental",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -3194,7 +3226,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-rqkoi89",
+      "id": "gdelt-mgfbpng",
       "title": "g1 20 anos : da escola pública à Medicina na USP , a história de quem não sabia que poderia chegar lá",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -3210,7 +3242,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-p4jlhft",
+      "id": "gdelt-gqp5pwt",
       "title": "80 % dos brasileiros querem que candidatos priorizem alfabetizao",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -3226,7 +3258,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-hvsu2he",
+      "id": "gdelt-dqii5hb",
       "title": "HackTown começa com programao sobre tecnologia , IA e novos negócios em MG",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -3242,7 +3274,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-bu26i6c",
+      "id": "gdelt-48o8z2a",
       "title": "Banheiros inteligentes elevam conforto e tecnologia nos projetos residenciais",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -3258,7 +3290,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-84tb89i",
+      "id": "gdelt-csqr3yd",
       "title": "Corpo do ator e diretor Gracindo Jr . será velado no Rio",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -3274,7 +3306,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-nnhfzru",
+      "id": "gdelt-jtso4tu",
       "title": "Veja o que fizeram os candidatos ao governo do AM nesta quarta - feira ( 2 )",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -3290,7 +3322,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-4s5hs42",
+      "id": "gdelt-568ntmu",
       "title": "Kiko Dinucci expõe obra inédita da artista plástica Tatiana Blass na capa do terceiro álbum solo ,  Medusa",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -3306,7 +3338,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-j8pcy4l",
+      "id": "gdelt-qk9c636",
       "title": "Vestidos atrasados , invasão a loja e produo paralisada : entenda crise em ateliê de vestidos de noiva em SP",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -3322,7 +3354,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-ubdxeq5",
+      "id": "gdelt-7mdrh4c",
       "title": "Candidatos ao Senado pelo RJ criticam bets e citam pautas de segurança",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -3338,7 +3370,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-65j7188",
+      "id": "gdelt-r5wchbw",
       "title": "Eleiçõções 2026 : Veja propostas dos candidatos contra o feminicídio",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -3354,7 +3386,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-y5akc2a",
+      "id": "gdelt-8s46flf",
       "title": "10 pontos da nova pesquisa Quaest sobre a corrida presidencial",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -3370,7 +3402,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-tfna4e9",
+      "id": "gdelt-7581y9k",
       "title": "O que faz um deputado federal ?",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -3386,7 +3418,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-4y6l97i",
+      "id": "gdelt-l76zi42",
       "title": "Homem que enterrou companheira sob casa é condenado a 40 anos no RS",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -3402,7 +3434,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-b9sxauf",
+      "id": "gdelt-kw58vch",
       "title": "A um mês das eleiçõções , Lula marca evento no Planalto nesta quinta para anunciar fim da fila do INSS",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -3418,7 +3450,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-f32bfjf",
+      "id": "gdelt-4wawbye",
       "title": "Quinto dia útil de setembro de 2026 : veja a data do pagamento",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -3434,7 +3466,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-3q62qta",
+      "id": "gdelt-f07ktah",
       "title": "Calendário de setembro 2026 : veja datas do INSS , Bolsa Família e mais",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -3450,7 +3482,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-t1kqhwv",
+      "id": "gdelt-5amhq6q",
       "title": "Lei endurece fiscalizao contra venda de cigarros eletrônicos em Maca",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -3466,7 +3498,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-wd1ltg3",
+      "id": "gdelt-b4p3wso",
       "title": "Quem é o suspeito preso no RJ por se passar por técnico do Grêmio",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -3482,7 +3514,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-x3q4xku",
+      "id": "gdelt-oa1tdne",
       "title": "Entenda como bebê foi torturado pela mãe e pelo padrasto por 4 meses",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -3498,7 +3530,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-et2p377",
+      "id": "gdelt-32dkj7h",
       "title": "Quaest , 1º turno : veja inteno de voto por região , gênero , idade , identificao política , cor e religião no cenário sem Pablo Marçal",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -3514,7 +3546,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-ndmk9a8",
+      "id": "gdelt-fmhcka2",
       "title": "Montes Claros anuncia criao do Armazém Cultural",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -3530,7 +3562,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-d618f9l",
+      "id": "gdelt-ytwiz63",
       "title": "Debate do g1 com candidatos de MT ao Senado : horário e como assistir",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -3546,7 +3578,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-jt9tay7",
+      "id": "gdelt-8mv5xi9",
       "title": "Gêmea que vive trisal com irmã e agricultor tem lidado com críticas",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -3562,7 +3594,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-0isffhj",
+      "id": "gdelt-ykwv69e",
       "title": "Eleiçõções 2026 : Roberto Cidade realiza comício na Zona Oeste de Manaus e promete ampliar aes de inteligência",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -3578,7 +3610,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-js91x5y",
+      "id": "gdelt-rq0ynkh",
       "title": "STJ nega pedido de associao para voltar a prender Nardoni e Jatob",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -3594,7 +3626,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-v6lllms",
+      "id": "gdelt-i9tfae8",
       "title": "Relao Moraes e Vorcaro : veja os possíveis caminhos no STF do relatório que revelou diálogos entre os dois",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -3610,7 +3642,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-9hs6lw9",
+      "id": "gdelt-nm9i8de",
       "title": "Moradora e mototaxista são baleados durante tiroteio na Ilha do Govern",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -3626,7 +3658,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-6by2jab",
+      "id": "gdelt-tbm87va",
       "title": "Servidor com 40 anos de atuao na GM se aposenta aos 75 anos",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -3638,6 +3670,1062 @@
       "publishedAtStr": "2026-09-03T02:30:00Z",
       "publishedAtTs": 1788402600000,
       "rawContent": "Servidor com 40 anos de atuao na GM se aposenta aos 75 anos",
+      "linkStatus": "unknown",
+      "lastChecked": null
+    },
+    {
+      "id": "gdelt-q9oqaqh",
+      "title": "Alcolumbre sai em defesa de ministro e rebate Flávio :  Agora culpado de R$ 130 milhões para filme só é Moraes",
+      "sourceName": "O Globo Mundo",
+      "sourceUrl": "https://oglobo.globo.com/mundo/",
+      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
+      "sourceEditorial": "Jornal diário (Grupo Globo) - Conteúdo sob assinatura",
+      "country": "Brasil",
+      "paywall": true,
+      "originalUrl": "https://oglobo.globo.com/politica/noticia/2026/09/02/alcolumbre-sai-em-defesa-de-moraes-e-rebate-flavio-agora-culpado-de-r-130-milhoes-para-filme-sou-eu-e-moraes.ghtml",
+      "publishedAtStr": "2026-09-03T01:30:00Z",
+      "publishedAtTs": 1788399000000,
+      "rawContent": "Alcolumbre sai em defesa de ministro e rebate Flávio :  Agora culpado de R$ 130 milhões para filme só é Moraes",
+      "linkStatus": "unknown",
+      "lastChecked": null
+    },
+    {
+      "id": "gdelt-1jrsedm",
+      "title": "Em audiência com governo , Discord se compromete a apresentar medidas de proteo a menores em 10 dias",
+      "sourceName": "O Globo Mundo",
+      "sourceUrl": "https://oglobo.globo.com/mundo/",
+      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
+      "sourceEditorial": "Jornal diário (Grupo Globo) - Conteúdo sob assinatura",
+      "country": "Brasil",
+      "paywall": true,
+      "originalUrl": "https://oglobo.globo.com/brasil/noticia/2026/09/02/em-audiencia-com-governo-discord-se-compromete-a-apresentar-medidas-de-protecao-a-menores-em-10-dias.ghtml",
+      "publishedAtStr": "2026-09-03T01:30:00Z",
+      "publishedAtTs": 1788399000000,
+      "rawContent": "Em audiência com governo , Discord se compromete a apresentar medidas de proteo a menores em 10 dias",
+      "linkStatus": "unknown",
+      "lastChecked": null
+    },
+    {
+      "id": "gdelt-2dcgofq",
+      "title": "PGR pede arquivamento de relato de Vorcaro sobre supostas ameaças e diz que banqueiro não apresentou fato concreto",
+      "sourceName": "O Globo Mundo",
+      "sourceUrl": "https://oglobo.globo.com/mundo/",
+      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
+      "sourceEditorial": "Jornal diário (Grupo Globo) - Conteúdo sob assinatura",
+      "country": "Brasil",
+      "paywall": true,
+      "originalUrl": "https://oglobo.globo.com/politica/noticia/2026/09/02/pgr-pede-arquivamento-de-relato-de-vorcaro-sobre-supostas-ameacas-e-diz-que-banqueiro-nao-apresentou-fato-concreto.ghtml",
+      "publishedAtStr": "2026-09-03T01:30:00Z",
+      "publishedAtTs": 1788399000000,
+      "rawContent": "PGR pede arquivamento de relato de Vorcaro sobre supostas ameaças e diz que banqueiro não apresentou fato concreto",
+      "linkStatus": "unknown",
+      "lastChecked": null
+    },
+    {
+      "id": "gdelt-kjxrp2a",
+      "title": "Carla Jeffery , atriz da Disney , morre aos 33 anos",
+      "sourceName": "O Globo Mundo",
+      "sourceUrl": "https://oglobo.globo.com/mundo/",
+      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
+      "sourceEditorial": "Jornal diário (Grupo Globo) - Conteúdo sob assinatura",
+      "country": "Brasil",
+      "paywall": true,
+      "originalUrl": "https://oglobo.globo.com/cultura/noticia/2026/09/02/carla-jeffery-atriz-da-disney-morre-aos-33-anos.ghtml",
+      "publishedAtStr": "2026-09-03T01:30:00Z",
+      "publishedAtTs": 1788399000000,
+      "rawContent": "Carla Jeffery , atriz da Disney , morre aos 33 anos",
+      "linkStatus": "unknown",
+      "lastChecked": null
+    },
+    {
+      "id": "gdelt-l6yl99k",
+      "title": "Presidente da CCJ do Senado diz que PEC da Segurança vai ficar para depois do primeiro turno da eleio",
+      "sourceName": "O Globo Mundo",
+      "sourceUrl": "https://oglobo.globo.com/mundo/",
+      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
+      "sourceEditorial": "Jornal diário (Grupo Globo) - Conteúdo sob assinatura",
+      "country": "Brasil",
+      "paywall": true,
+      "originalUrl": "https://oglobo.globo.com/brasil/noticia/2026/09/02/presidente-da-ccj-do-senado-diz-que-pec-da-seguranca-vai-ficar-para-depois-do-primeiro-turno-da-eleicao.ghtml",
+      "publishedAtStr": "2026-09-03T01:30:00Z",
+      "publishedAtTs": 1788399000000,
+      "rawContent": "Presidente da CCJ do Senado diz que PEC da Segurança vai ficar para depois do primeiro turno da eleio",
+      "linkStatus": "unknown",
+      "lastChecked": null
+    },
+    {
+      "id": "gdelt-v3xl7hh",
+      "title": "Trump diz que Venezuela não está pronta para nova eleio , e Delcy Rodríguez garante que pleito acontecerá  quando chegar a hora",
+      "sourceName": "O Globo Mundo",
+      "sourceUrl": "https://oglobo.globo.com/mundo/",
+      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
+      "sourceEditorial": "Jornal diário (Grupo Globo) - Conteúdo sob assinatura",
+      "country": "Brasil",
+      "paywall": true,
+      "originalUrl": "https://oglobo.globo.com/mundo/noticia/2026/09/02/trump-diz-que-venezuela-nao-esta-pronta-para-nova-eleicao-e-delcy-rodriguez-garante-que-pleito-acontecera-quando-chegar-a-hora.ghtml",
+      "publishedAtStr": "2026-09-03T01:30:00Z",
+      "publishedAtTs": 1788399000000,
+      "rawContent": "Trump diz que Venezuela não está pronta para nova eleio , e Delcy Rodríguez garante que pleito acontecerá  quando chegar a hora",
+      "linkStatus": "unknown",
+      "lastChecked": null
+    },
+    {
+      "id": "gdelt-ahilmlj",
+      "title": "Disparos deixam vários feridos , incluindo dois policiais , em Minneapolis , nos EUA ; suspeito é baleado",
+      "sourceName": "O Globo Mundo",
+      "sourceUrl": "https://oglobo.globo.com/mundo/",
+      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
+      "sourceEditorial": "Jornal diário (Grupo Globo) - Conteúdo sob assinatura",
+      "country": "Brasil",
+      "paywall": true,
+      "originalUrl": "https://oglobo.globo.com/mundo/noticia/2026/09/02/disparos-deixma-varios-feridos-incluindo-dois-policiais-em-minneapolis-nos-eua-suspeito-e-baleado.ghtml",
+      "publishedAtStr": "2026-09-03T01:30:00Z",
+      "publishedAtTs": 1788399000000,
+      "rawContent": "Disparos deixam vários feridos , incluindo dois policiais , em Minneapolis , nos EUA ; suspeito é baleado",
+      "linkStatus": "unknown",
+      "lastChecked": null
+    },
+    {
+      "id": "gdelt-mcvfww0",
+      "title": "Senado aprova política das terras raras , uma das pautas prioritárias de Lula no Congresso antes das eleiçõções",
+      "sourceName": "O Globo Mundo",
+      "sourceUrl": "https://oglobo.globo.com/mundo/",
+      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
+      "sourceEditorial": "Jornal diário (Grupo Globo) - Conteúdo sob assinatura",
+      "country": "Brasil",
+      "paywall": true,
+      "originalUrl": "https://oglobo.globo.com/blogs/miriam-leitao/post/2026/09/senado-aprova-pl-das-terras-raras-uma-das-pautas-prioritarias-de-lula-no-congresso-antes-das-eleicoes.ghtml",
+      "publishedAtStr": "2026-09-03T01:30:00Z",
+      "publishedAtTs": 1788399000000,
+      "rawContent": "Senado aprova política das terras raras , uma das pautas prioritárias de Lula no Congresso antes das eleiçõções",
+      "linkStatus": "unknown",
+      "lastChecked": null
+    },
+    {
+      "id": "gdelt-zzkh7c1",
+      "title": "Paes sobe tom contra Ruas , o acusa de enriquecer na política e chama adversário de  filhinho de papai",
+      "sourceName": "O Globo Mundo",
+      "sourceUrl": "https://oglobo.globo.com/mundo/",
+      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
+      "sourceEditorial": "Jornal diário (Grupo Globo) - Conteúdo sob assinatura",
+      "country": "Brasil",
+      "paywall": true,
+      "originalUrl": "https://oglobo.globo.com/politica/noticia/2026/09/02/paes-sobe-tom-contra-ruas-o-acusa-de-enriquecer-na-politica-e-chama-adversario-de-filhinho-de-papai.ghtml",
+      "publishedAtStr": "2026-09-03T01:30:00Z",
+      "publishedAtTs": 1788399000000,
+      "rawContent": "Paes sobe tom contra Ruas , o acusa de enriquecer na política e chama adversário de  filhinho de papai",
+      "linkStatus": "unknown",
+      "lastChecked": null
+    },
+    {
+      "id": "gdelt-0dqfcpw",
+      "title": "Escala 6x1 : líder do governo reconhece não ter  garantia  de votos e análise deve ficar para depois das eleiçõções",
+      "sourceName": "O Globo Mundo",
+      "sourceUrl": "https://oglobo.globo.com/mundo/",
+      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
+      "sourceEditorial": "Jornal diário (Grupo Globo) - Conteúdo sob assinatura",
+      "country": "Brasil",
+      "paywall": true,
+      "originalUrl": "https://oglobo.globo.com/economia/noticia/2026/09/02/escala-6x1-lider-do-governo-reconhece-nao-ter-garantia-de-votos-e-analise-deve-ficar-para-depois-das-eleicoes.ghtml",
+      "publishedAtStr": "2026-09-03T01:30:00Z",
+      "publishedAtTs": 1788399000000,
+      "rawContent": "Escala 6x1 : líder do governo reconhece não ter  garantia  de votos e análise deve ficar para depois das eleiçõções",
+      "linkStatus": "unknown",
+      "lastChecked": null
+    },
+    {
+      "id": "gdelt-22crh5t",
+      "title": "Lotomania hoje : resultado do concurso 2971 e números sorteados",
+      "sourceName": "G1 Mundo",
+      "sourceUrl": "https://g1.globo.com/mundo/",
+      "sourceType": "Imprensa Comercial Brasileira",
+      "sourceEditorial": "Portal de notícias mainstream do Grupo Globo",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://g1.globo.com/loterias/lotomania/noticia/2026/09/02/lotomania-hoje-resultado-do-concurso-2971-e-numeros-sorteados.ghtml",
+      "publishedAtStr": "2026-09-03T01:15:00Z",
+      "publishedAtTs": 1788398100000,
+      "rawContent": "Lotomania hoje : resultado do concurso 2971 e números sorteados",
+      "linkStatus": "unknown",
+      "lastChecked": null
+    },
+    {
+      "id": "gdelt-n64j73w",
+      "title": "Dupla Sena hoje : resultado do concurso 3004 e números sorteados",
+      "sourceName": "G1 Mundo",
+      "sourceUrl": "https://g1.globo.com/mundo/",
+      "sourceType": "Imprensa Comercial Brasileira",
+      "sourceEditorial": "Portal de notícias mainstream do Grupo Globo",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://g1.globo.com/loterias/dupla-sena/noticia/2026/09/02/dupla-sena-hoje-resultado-do-concurso-3004-e-numeros-sorteados.ghtml",
+      "publishedAtStr": "2026-09-03T01:15:00Z",
+      "publishedAtTs": 1788398100000,
+      "rawContent": "Dupla Sena hoje : resultado do concurso 3004 e números sorteados",
+      "linkStatus": "unknown",
+      "lastChecked": null
+    },
+    {
+      "id": "gdelt-fytwf1o",
+      "title": "Quina hoje : resultado do concurso 7108 e números sorteados",
+      "sourceName": "G1 Mundo",
+      "sourceUrl": "https://g1.globo.com/mundo/",
+      "sourceType": "Imprensa Comercial Brasileira",
+      "sourceEditorial": "Portal de notícias mainstream do Grupo Globo",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://g1.globo.com/loterias/quina/noticia/2026/09/02/quina-hoje-resultado-do-concurso-7108-e-numeros-sorteados.ghtml",
+      "publishedAtStr": "2026-09-03T01:15:00Z",
+      "publishedAtTs": 1788398100000,
+      "rawContent": "Quina hoje : resultado do concurso 7108 e números sorteados",
+      "linkStatus": "unknown",
+      "lastChecked": null
+    },
+    {
+      "id": "gdelt-kwruloc",
+      "title": "Lotofácil hoje : resultado do concurso 3778 e números sorteados",
+      "sourceName": "G1 Mundo",
+      "sourceUrl": "https://g1.globo.com/mundo/",
+      "sourceType": "Imprensa Comercial Brasileira",
+      "sourceEditorial": "Portal de notícias mainstream do Grupo Globo",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://g1.globo.com/loterias/lotofacil/noticia/2026/09/02/lotofacil-hoje-resultado-do-concurso-3778-e-numeros-sorteados.ghtml",
+      "publishedAtStr": "2026-09-03T01:15:00Z",
+      "publishedAtTs": 1788398100000,
+      "rawContent": "Lotofácil hoje : resultado do concurso 3778 e números sorteados",
+      "linkStatus": "unknown",
+      "lastChecked": null
+    },
+    {
+      "id": "gdelt-2o15d6i",
+      "title": "Candidatos ao governo de PE : como foi a agenda desta quarta - feira",
+      "sourceName": "G1 Mundo",
+      "sourceUrl": "https://g1.globo.com/mundo/",
+      "sourceType": "Imprensa Comercial Brasileira",
+      "sourceEditorial": "Portal de notícias mainstream do Grupo Globo",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://g1.globo.com/pe/pernambuco/eleicoes/2026/noticia/2026/09/02/agenda-candidatos-governo-pernambuco-2-setembro.ghtml",
+      "publishedAtStr": "2026-09-03T01:15:00Z",
+      "publishedAtTs": 1788398100000,
+      "rawContent": "Candidatos ao governo de PE : como foi a agenda desta quarta - feira",
+      "linkStatus": "unknown",
+      "lastChecked": null
+    },
+    {
+      "id": "gdelt-d09unqj",
+      "title": "Carreatas e caminhadas : como foi o dia dos candidatos ao governo do CE",
+      "sourceName": "G1 Mundo",
+      "sourceUrl": "https://g1.globo.com/mundo/",
+      "sourceType": "Imprensa Comercial Brasileira",
+      "sourceEditorial": "Portal de notícias mainstream do Grupo Globo",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://g1.globo.com/ce/ceara/eleicoes/2026/noticia/2026/09/02/carreatas-e-caminhadas-como-foi-o-dia-dos-candidatos-ao-governo-do-ceara.ghtml",
+      "publishedAtStr": "2026-09-03T01:15:00Z",
+      "publishedAtTs": 1788398100000,
+      "rawContent": "Carreatas e caminhadas : como foi o dia dos candidatos ao governo do CE",
+      "linkStatus": "unknown",
+      "lastChecked": null
+    },
+    {
+      "id": "gdelt-800o3ia",
+      "title": "Construtora abre 30 vagas de emprego para oito cargos em Campinas",
+      "sourceName": "G1 Mundo",
+      "sourceUrl": "https://g1.globo.com/mundo/",
+      "sourceType": "Imprensa Comercial Brasileira",
+      "sourceEditorial": "Portal de notícias mainstream do Grupo Globo",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://g1.globo.com/sp/campinas-regiao/concursos-e-emprego/noticia/2026/09/02/construtora-abre-vagas-emprego-cargos-campinas.ghtml",
+      "publishedAtStr": "2026-09-03T01:00:00Z",
+      "publishedAtTs": 1788397200000,
+      "rawContent": "Construtora abre 30 vagas de emprego para oito cargos em Campinas",
+      "linkStatus": "unknown",
+      "lastChecked": null
+    },
+    {
+      "id": "gdelt-e9f6vuy",
+      "title": "Discord terá dez dias para apresentar proposta de proteo a usuários",
+      "sourceName": "Agência Brasil",
+      "sourceUrl": "https://agenciabrasil.ebc.com.br/internacional",
+      "sourceType": "Agência Estatal",
+      "sourceEditorial": "Agência pública de notícias da EBC (Governo Federal)",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/discord-tera-dez-dias-para-apresentar-proposta-de-protecao-usuarios",
+      "publishedAtStr": "2026-09-03T01:00:00Z",
+      "publishedAtTs": 1788397200000,
+      "rawContent": "Discord terá dez dias para apresentar proposta de proteo a usuários",
+      "linkStatus": "unknown",
+      "lastChecked": null
+    },
+    {
+      "id": "gdelt-uh0cu1o",
+      "title": "Justiça determina busca e apreensão no comitê de André Fernandes",
+      "sourceName": "G1 Mundo",
+      "sourceUrl": "https://g1.globo.com/mundo/",
+      "sourceType": "Imprensa Comercial Brasileira",
+      "sourceEditorial": "Portal de notícias mainstream do Grupo Globo",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://g1.globo.com/ce/ceara/eleicoes/2026/noticia/2026/09/02/justica-determina-busca-e-apreensao-no-comite-de-andre-fernandes-e-manda-remover-postagens.ghtml",
+      "publishedAtStr": "2026-09-03T01:00:00Z",
+      "publishedAtTs": 1788397200000,
+      "rawContent": "Justiça determina busca e apreensão no comitê de André Fernandes",
+      "linkStatus": "unknown",
+      "lastChecked": null
+    },
+    {
+      "id": "gdelt-snti7ar",
+      "title": "Como o uso de celular impacta a populao que tem mais de 60 anos ?",
+      "sourceName": "Brasil de Fato",
+      "sourceUrl": "https://www.brasildefato.com.br/",
+      "sourceType": "Jornal / Movimentos Sociais",
+      "sourceEditorial": "Mídia popular focada em Direitos Humanos e Sul Global",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://www.brasildefato.com.br/podcast/brasil-de-fato-entrevista/2026/09/02/como-o-uso-de-celular-impacta-a-populacao-que-tem-mais-de-60-anos/",
+      "publishedAtStr": "2026-09-03T00:45:00Z",
+      "publishedAtTs": 1788396300000,
+      "rawContent": "Como o uso de celular impacta a populao que tem mais de 60 anos ?",
+      "linkStatus": "unknown",
+      "lastChecked": null
+    },
+    {
+      "id": "gdelt-qzz87ih",
+      "title": "Caiado e extrema direita representam um retrocesso civilizatório , afirma vereador Bruno Pedralva ( PT )",
+      "sourceName": "Brasil de Fato",
+      "sourceUrl": "https://www.brasildefato.com.br/",
+      "sourceType": "Jornal / Movimentos Sociais",
+      "sourceEditorial": "Mídia popular focada em Direitos Humanos e Sul Global",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://www.brasildefato.com.br/2026/09/02/caiado-e-extrema-direita-representam-um-retrocesso-civilizatorio-afirma-vereador-bruno-pedralva-pt/",
+      "publishedAtStr": "2026-09-03T00:45:00Z",
+      "publishedAtTs": 1788396300000,
+      "rawContent": "Caiado e extrema direita representam um retrocesso civilizatório , afirma vereador Bruno Pedralva ( PT )",
+      "linkStatus": "unknown",
+      "lastChecked": null
+    },
+    {
+      "id": "gdelt-zt9yoi4",
+      "title": "TSE manda Eduardo Bolsonaro retirar posts de desinformao sobre urnas",
+      "sourceName": "Brasil de Fato",
+      "sourceUrl": "https://www.brasildefato.com.br/",
+      "sourceType": "Jornal / Movimentos Sociais",
+      "sourceEditorial": "Mídia popular focada em Direitos Humanos e Sul Global",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://www.brasildefato.com.br/2026/09/02/tse-manda-eduardo-bolsonaro-retirar-posts-de-desinformacao-sobre-urnas/",
+      "publishedAtStr": "2026-09-03T00:45:00Z",
+      "publishedAtTs": 1788396300000,
+      "rawContent": "TSE manda Eduardo Bolsonaro retirar posts de desinformao sobre urnas",
+      "linkStatus": "unknown",
+      "lastChecked": null
+    },
+    {
+      "id": "gdelt-3u7aa91",
+      "title": "Sistema carcerário transfere bilhões em custos para famílias de presos",
+      "sourceName": "Brasil de Fato",
+      "sourceUrl": "https://www.brasildefato.com.br/",
+      "sourceType": "Jornal / Movimentos Sociais",
+      "sourceEditorial": "Mídia popular focada em Direitos Humanos e Sul Global",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://www.brasildefato.com.br/2026/09/02/sistema-carcerario-transfere-bilhoes-em-custos-para-familias-de-presos/",
+      "publishedAtStr": "2026-09-03T00:45:00Z",
+      "publishedAtTs": 1788396300000,
+      "rawContent": "Sistema carcerário transfere bilhões em custos para famílias de presos",
+      "linkStatus": "unknown",
+      "lastChecked": null
+    },
+    {
+      "id": "gdelt-smayv0y",
+      "title": "Com ajuda russa e argelina , Níger barra tentativa de golpe : quem quer desestabilizar o Sahel ?",
+      "sourceName": "Brasil de Fato",
+      "sourceUrl": "https://www.brasildefato.com.br/",
+      "sourceType": "Jornal / Movimentos Sociais",
+      "sourceEditorial": "Mídia popular focada em Direitos Humanos e Sul Global",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://www.brasildefato.com.br/podcast/o-estrangeiro/2026/09/02/com-ajuda-russa-e-argelina-niger-barra-tentativa-de-golpe-quem-quer-desestabilizar-o-sahel/",
+      "publishedAtStr": "2026-09-03T00:45:00Z",
+      "publishedAtTs": 1788396300000,
+      "rawContent": "Com ajuda russa e argelina , Níger barra tentativa de golpe : quem quer desestabilizar o Sahel ?",
+      "linkStatus": "unknown",
+      "lastChecked": null
+    },
+    {
+      "id": "gdelt-uv6qqfj",
+      "title": "Justiça solta vereador preso em operao contra faco no Cear",
+      "sourceName": "G1 Mundo",
+      "sourceUrl": "https://g1.globo.com/mundo/",
+      "sourceType": "Imprensa Comercial Brasileira",
+      "sourceEditorial": "Portal de notícias mainstream do Grupo Globo",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://g1.globo.com/ce/ceara/noticia/2026/09/02/justica-solta-vereador-preso-em-operacao-contra-braco-financeiro-de-faccao-que-movimentou-r-500-milhoes.ghtml",
+      "publishedAtStr": "2026-09-03T00:15:00Z",
+      "publishedAtTs": 1788394500000,
+      "rawContent": "Justiça solta vereador preso em operao contra faco no Cear",
+      "linkStatus": "unknown",
+      "lastChecked": null
+    },
+    {
+      "id": "gdelt-coa5mpi",
+      "title": "Jerônimo Rodrigues destaca investimentos em bairro de Salvador",
+      "sourceName": "G1 Mundo",
+      "sourceUrl": "https://g1.globo.com/mundo/",
+      "sourceType": "Imprensa Comercial Brasileira",
+      "sourceEditorial": "Portal de notícias mainstream do Grupo Globo",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://g1.globo.com/ba/bahia/eleicoes/2026/noticia/2026/09/02/agenda-de-campanha-de-jeronimo-rodrigues.ghtml",
+      "publishedAtStr": "2026-09-03T00:15:00Z",
+      "publishedAtTs": 1788394500000,
+      "rawContent": "Jerônimo Rodrigues destaca investimentos em bairro de Salvador",
+      "linkStatus": "unknown",
+      "lastChecked": null
+    },
+    {
+      "id": "gdelt-edlodhd",
+      "title": "Candidatos ao Governo de MT cumprem agendas nesta quarta - feira ( 2 )",
+      "sourceName": "G1 Mundo",
+      "sourceUrl": "https://g1.globo.com/mundo/",
+      "sourceType": "Imprensa Comercial Brasileira",
+      "sourceEditorial": "Portal de notícias mainstream do Grupo Globo",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://g1.globo.com/mt/mato-grosso/eleicoes/2026/noticia/2026/09/02/candidatos-ao-governo-de-mt-cumprem-agendas-nesta-quarta-feira-2.ghtml",
+      "publishedAtStr": "2026-09-03T00:15:00Z",
+      "publishedAtTs": 1788394500000,
+      "rawContent": "Candidatos ao Governo de MT cumprem agendas nesta quarta - feira ( 2 )",
+      "linkStatus": "unknown",
+      "lastChecked": null
+    },
+    {
+      "id": "gdelt-w0nvnlg",
+      "title": "Eleiçõções 2026 : saiba como foi o dia do candidato André Luís ao governo do Maranhão",
+      "sourceName": "G1 Mundo",
+      "sourceUrl": "https://g1.globo.com/mundo/",
+      "sourceType": "Imprensa Comercial Brasileira",
+      "sourceEditorial": "Portal de notícias mainstream do Grupo Globo",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://g1.globo.com/ma/maranhao/eleicoes/2026/noticia/2026/09/02/eleicoes-2026-saiba-como-foi-o-dia-do-candidato-andre-luis-ao-governo-do-maranhao.ghtml",
+      "publishedAtStr": "2026-09-03T00:15:00Z",
+      "publishedAtTs": 1788394500000,
+      "rawContent": "Eleiçõções 2026 : saiba como foi o dia do candidato André Luís ao governo do Maranhão",
+      "linkStatus": "unknown",
+      "lastChecked": null
+    },
+    {
+      "id": "gdelt-4rvvdlz",
+      "title": "Condenado por atentado violento ao pudor é preso em Teresina",
+      "sourceName": "G1 Mundo",
+      "sourceUrl": "https://g1.globo.com/mundo/",
+      "sourceType": "Imprensa Comercial Brasileira",
+      "sourceEditorial": "Portal de notícias mainstream do Grupo Globo",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://g1.globo.com/pi/piaui/noticia/2026/09/02/condenado-preso-piaui.ghtml",
+      "publishedAtStr": "2026-09-03T00:15:00Z",
+      "publishedAtTs": 1788394500000,
+      "rawContent": "Condenado por atentado violento ao pudor é preso em Teresina",
+      "linkStatus": "unknown",
+      "lastChecked": null
+    },
+    {
+      "id": "gdelt-k7lb7ap",
+      "title": "João Campos promete ampliar Embarque Digital e escolas técnicas em PE",
+      "sourceName": "G1 Mundo",
+      "sourceUrl": "https://g1.globo.com/mundo/",
+      "sourceType": "Imprensa Comercial Brasileira",
+      "sourceEditorial": "Portal de notícias mainstream do Grupo Globo",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://g1.globo.com/pe/pernambuco/eleicoes/2026/noticia/2026/09/02/joao-campos-promete-ampliar-embarque-digital-e-duplicar-escolas-tecnicas-em-pernambuco.ghtml",
+      "publishedAtStr": "2026-09-03T00:15:00Z",
+      "publishedAtTs": 1788394500000,
+      "rawContent": "João Campos promete ampliar Embarque Digital e escolas técnicas em PE",
+      "linkStatus": "unknown",
+      "lastChecked": null
+    },
+    {
+      "id": "gdelt-wiivg1z",
+      "title": "Veja agenda de campanha dos candidatos ao governo de MG nesta quarta",
+      "sourceName": "G1 Mundo",
+      "sourceUrl": "https://g1.globo.com/mundo/",
+      "sourceType": "Imprensa Comercial Brasileira",
+      "sourceEditorial": "Portal de notícias mainstream do Grupo Globo",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://g1.globo.com/mg/minas-gerais/eleicoes/2026/noticia/2026/09/02/veja-agenda-de-campanha-dos-candidatos-ao-governo-de-mg-nesta-quarta-feira.ghtml",
+      "publishedAtStr": "2026-09-03T00:15:00Z",
+      "publishedAtTs": 1788394500000,
+      "rawContent": "Veja agenda de campanha dos candidatos ao governo de MG nesta quarta",
+      "linkStatus": "unknown",
+      "lastChecked": null
+    },
+    {
+      "id": "gdelt-e0i192q",
+      "title": "Candidatos ao Senado por PE divergem sobre atos de 8 / 1 em debate do g1",
+      "sourceName": "G1 Mundo",
+      "sourceUrl": "https://g1.globo.com/mundo/",
+      "sourceType": "Imprensa Comercial Brasileira",
+      "sourceEditorial": "Portal de notícias mainstream do Grupo Globo",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://g1.globo.com/pe/pernambuco/eleicoes/2026/noticia/2026/09/02/candidatos-ao-senado-divergem-sobre-atos-golpistas-de-8-de-janeiro-em-debate-do-g1.ghtml",
+      "publishedAtStr": "2026-09-03T00:15:00Z",
+      "publishedAtTs": 1788394500000,
+      "rawContent": "Candidatos ao Senado por PE divergem sobre atos de 8 / 1 em debate do g1",
+      "linkStatus": "unknown",
+      "lastChecked": null
+    },
+    {
+      "id": "gdelt-j0dirvb",
+      "title": "Empresa de e - commerce faz processo seletivo para 300 vagas em Sumaré",
+      "sourceName": "G1 Mundo",
+      "sourceUrl": "https://g1.globo.com/mundo/",
+      "sourceType": "Imprensa Comercial Brasileira",
+      "sourceEditorial": "Portal de notícias mainstream do Grupo Globo",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://g1.globo.com/sp/campinas-regiao/concursos-e-emprego/noticia/2026/09/02/multinacional-de-e-commerce-faz-processo-seletivo-para-300-vagas-de-auxiliar-de-logistica-em-sumare.ghtml",
+      "publishedAtStr": "2026-09-03T00:15:00Z",
+      "publishedAtTs": 1788394500000,
+      "rawContent": "Empresa de e - commerce faz processo seletivo para 300 vagas em Sumaré",
+      "linkStatus": "unknown",
+      "lastChecked": null
+    },
+    {
+      "id": "gdelt-2sqgn28",
+      "title": "Adolescente de 17 anos é enterrada em Caraguatatuba ; polícia analisa celular para esclarecer morte",
+      "sourceName": "G1 Mundo",
+      "sourceUrl": "https://g1.globo.com/mundo/",
+      "sourceType": "Imprensa Comercial Brasileira",
+      "sourceEditorial": "Portal de notícias mainstream do Grupo Globo",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/09/02/adolescente-de-17-anos-e-enterrada-em-caraguatatuba-policia-analisa-celular-para-esclarecer-morte.ghtml",
+      "publishedAtStr": "2026-09-03T00:15:00Z",
+      "publishedAtTs": 1788394500000,
+      "rawContent": "Adolescente de 17 anos é enterrada em Caraguatatuba ; polícia analisa celular para esclarecer morte",
+      "linkStatus": "unknown",
+      "lastChecked": null
+    },
+    {
+      "id": "gdelt-ofuxk5g",
+      "title": "Mulher é presa suspeita de se passar por fonoaudióloga",
+      "sourceName": "G1 Mundo",
+      "sourceUrl": "https://g1.globo.com/mundo/",
+      "sourceType": "Imprensa Comercial Brasileira",
+      "sourceEditorial": "Portal de notícias mainstream do Grupo Globo",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://g1.globo.com/pa/para/noticia/2026/09/02/mulher-e-presa-suspeita-de-se-passar-por-fonoaudiologa-e-usar-assinatura-de-profissional-sem-autorizacao-no-para.ghtml",
+      "publishedAtStr": "2026-09-03T00:15:00Z",
+      "publishedAtTs": 1788394500000,
+      "rawContent": "Mulher é presa suspeita de se passar por fonoaudióloga",
+      "linkStatus": "unknown",
+      "lastChecked": null
+    },
+    {
+      "id": "gdelt-m0p5xre",
+      "title": "Resumão diário do JN : Presidente do STF afirma que fatos revelados exigem firmeza e serenidade ; Vorcaro prestou depoimento ao gabinete de Mendonça sem a presença da PF",
+      "sourceName": "G1 Mundo",
+      "sourceUrl": "https://g1.globo.com/mundo/",
+      "sourceType": "Imprensa Comercial Brasileira",
+      "sourceEditorial": "Portal de notícias mainstream do Grupo Globo",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://g1.globo.com/jornal-nacional/noticia/2026/09/02/resumao-diario-do-jn-presidente-do-stf-afirma-que-fatos-revelados-exigem-firmeza-e-serenidade-vorcaro-prestou-depoimento-ao-gabinete-de-mendonca-sem-a-presenca-da-pf.ghtml",
+      "publishedAtStr": "2026-09-03T00:15:00Z",
+      "publishedAtTs": 1788394500000,
+      "rawContent": "Resumão diário do JN : Presidente do STF afirma que fatos revelados exigem firmeza e serenidade ; Vorcaro prestou depoimento ao gabinete de Mendonça sem a presença da PF",
+      "linkStatus": "unknown",
+      "lastChecked": null
+    },
+    {
+      "id": "gdelt-gpwrhgp",
+      "title": "STJ manda soltar ex - secretária e ex - superintendente da Saúde de Palmas",
+      "sourceName": "G1 Mundo",
+      "sourceUrl": "https://g1.globo.com/mundo/",
+      "sourceType": "Imprensa Comercial Brasileira",
+      "sourceEditorial": "Portal de notícias mainstream do Grupo Globo",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://g1.globo.com/to/tocantins/noticia/2026/09/02/stj-manda-soltar-ex-secretaria-e-ex-superintendente-da-saude-de-palmas-suspeitos-de-fraudes-na-gestao-de-upas.ghtml",
+      "publishedAtStr": "2026-09-03T00:15:00Z",
+      "publishedAtTs": 1788394500000,
+      "rawContent": "STJ manda soltar ex - secretária e ex - superintendente da Saúde de Palmas",
+      "linkStatus": "unknown",
+      "lastChecked": null
+    },
+    {
+      "id": "gdelt-s775de0",
+      "title": "Daniel Vilela fala sobre reflexos de reforma tributária em Goiás",
+      "sourceName": "G1 Mundo",
+      "sourceUrl": "https://g1.globo.com/mundo/",
+      "sourceType": "Imprensa Comercial Brasileira",
+      "sourceEditorial": "Portal de notícias mainstream do Grupo Globo",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://g1.globo.com/go/goias/eleicoes/2026/noticia/2026/09/02/daniel-vilela-fala-sobre-reflexos-de-reforma-tributaria-em-goias-durante-sabatina-organizada-por-forum-empresarial.ghtml",
+      "publishedAtStr": "2026-09-03T00:15:00Z",
+      "publishedAtTs": 1788394500000,
+      "rawContent": "Daniel Vilela fala sobre reflexos de reforma tributária em Goiás",
+      "linkStatus": "unknown",
+      "lastChecked": null
+    },
+    {
+      "id": "gdelt-782pvbm",
+      "title": "Veja como foi o dia dos candidatos ao Governo do PI nesta quarta ( 2 )",
+      "sourceName": "G1 Mundo",
+      "sourceUrl": "https://g1.globo.com/mundo/",
+      "sourceType": "Imprensa Comercial Brasileira",
+      "sourceEditorial": "Portal de notícias mainstream do Grupo Globo",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://g1.globo.com/pi/piaui/eleicoes/2026/noticia/2026/09/02/agenda-candidatos-ao-governo-do-piaui-quarta-2.ghtml",
+      "publishedAtStr": "2026-09-03T00:15:00Z",
+      "publishedAtTs": 1788394500000,
+      "rawContent": "Veja como foi o dia dos candidatos ao Governo do PI nesta quarta ( 2 )",
+      "linkStatus": "unknown",
+      "lastChecked": null
+    },
+    {
+      "id": "gdelt-l56zy0s",
+      "title": "Flica 2026 : confira programao",
+      "sourceName": "G1 Mundo",
+      "sourceUrl": "https://g1.globo.com/mundo/",
+      "sourceType": "Imprensa Comercial Brasileira",
+      "sourceEditorial": "Portal de notícias mainstream do Grupo Globo",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://g1.globo.com/ba/bahia/noticia/2026/09/02/programacao-flica-2026.ghtml",
+      "publishedAtStr": "2026-09-03T00:15:00Z",
+      "publishedAtTs": 1788394500000,
+      "rawContent": "Flica 2026 : confira programao",
+      "linkStatus": "unknown",
+      "lastChecked": null
+    },
+    {
+      "id": "gdelt-xq14n4q",
+      "title": "Acreana condenada a mais de 19 anos de prisão é recapturada no MS",
+      "sourceName": "G1 Mundo",
+      "sourceUrl": "https://g1.globo.com/mundo/",
+      "sourceType": "Imprensa Comercial Brasileira",
+      "sourceEditorial": "Portal de notícias mainstream do Grupo Globo",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://g1.globo.com/ac/acre/noticia/2026/09/02/acreana-condenada-a-mais-de-19-anos-de-prisao-e-recapturada-no-ms-apos-quase-2-anos-foragida.ghtml",
+      "publishedAtStr": "2026-09-03T00:15:00Z",
+      "publishedAtTs": 1788394500000,
+      "rawContent": "Acreana condenada a mais de 19 anos de prisão é recapturada no MS",
+      "linkStatus": "unknown",
+      "lastChecked": null
+    },
+    {
+      "id": "gdelt-8b9c35v",
+      "title": "Marconi Perillo propõe frente contra efeitos da reforma tributária",
+      "sourceName": "G1 Mundo",
+      "sourceUrl": "https://g1.globo.com/mundo/",
+      "sourceType": "Imprensa Comercial Brasileira",
+      "sourceEditorial": "Portal de notícias mainstream do Grupo Globo",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://g1.globo.com/go/goias/eleicoes/2026/noticia/2026/09/02/marconi-perillo-defende-articulacao-com-governadores-contra-efeitos-da-reforma-tributaria-em-sabatina-do-forum-empresarial.ghtml",
+      "publishedAtStr": "2026-09-03T00:15:00Z",
+      "publishedAtTs": 1788394500000,
+      "rawContent": "Marconi Perillo propõe frente contra efeitos da reforma tributária",
+      "linkStatus": "unknown",
+      "lastChecked": null
+    },
+    {
+      "id": "gdelt-xlyla81",
+      "title": "Trabalhadores pressionam Senado em dia de votao da PEC pelo fim da escala 6×1",
+      "sourceName": "Brasil de Fato",
+      "sourceUrl": "https://www.brasildefato.com.br/",
+      "sourceType": "Jornal / Movimentos Sociais",
+      "sourceEditorial": "Mídia popular focada em Direitos Humanos e Sul Global",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://www.brasildefato.com.br/2026/09/02/trabalhadores-pressionam-senado-em-dia-de-votacao-da-pec-pelo-fim-da-escala-61/",
+      "publishedAtStr": "2026-09-02T20:00:00Z",
+      "publishedAtTs": 1788379200000,
+      "rawContent": "Trabalhadores pressionam Senado em dia de votao da PEC pelo fim da escala 6×1",
+      "linkStatus": "unknown",
+      "lastChecked": null
+    },
+    {
+      "id": "gdelt-azqkqtp",
+      "title": "CCJ do Senado aprova fim da escala 6×1 ; proposta segue para o plenário",
+      "sourceName": "Brasil de Fato",
+      "sourceUrl": "https://www.brasildefato.com.br/",
+      "sourceType": "Jornal / Movimentos Sociais",
+      "sourceEditorial": "Mídia popular focada em Direitos Humanos e Sul Global",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://www.brasildefato.com.br/2026/09/02/ccj-do-senado-aprova-fim-da-escala-6x1-proposta-segue-para-o-plenario/",
+      "publishedAtStr": "2026-09-02T20:00:00Z",
+      "publishedAtTs": 1788379200000,
+      "rawContent": "CCJ do Senado aprova fim da escala 6×1 ; proposta segue para o plenário",
+      "linkStatus": "unknown",
+      "lastChecked": null
+    },
+    {
+      "id": "gdelt-gwl2k0m",
+      "title": "Além de encontro , Vorcaro prestou depoimento ao gabinete de Mendonça sem a presença da PF ; Moraes não foi citado",
+      "sourceName": "Brasil de Fato",
+      "sourceUrl": "https://www.brasildefato.com.br/",
+      "sourceType": "Jornal / Movimentos Sociais",
+      "sourceEditorial": "Mídia popular focada em Direitos Humanos e Sul Global",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://www.brasildefato.com.br/2026/09/02/alem-de-encontro-vorcaro-prestou-depoimento-ao-gabinete-de-mendonca-sem-a-presenca-da-pf-moraes-nao-foi-citado/",
+      "publishedAtStr": "2026-09-02T20:00:00Z",
+      "publishedAtTs": 1788379200000,
+      "rawContent": "Além de encontro , Vorcaro prestou depoimento ao gabinete de Mendonça sem a presença da PF ; Moraes não foi citado",
+      "linkStatus": "unknown",
+      "lastChecked": null
+    },
+    {
+      "id": "gdelt-efkkxos",
+      "title": "Após passar na CCJ , só depende de Davi Alcolumbre pautar fim da escala 6×1 , diz coordenador das Centrais Sindicais",
+      "sourceName": "Brasil de Fato",
+      "sourceUrl": "https://www.brasildefato.com.br/",
+      "sourceType": "Jornal / Movimentos Sociais",
+      "sourceEditorial": "Mídia popular focada em Direitos Humanos e Sul Global",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://www.brasildefato.com.br/2026/09/02/apos-passar-na-ccj-so-depende-de-davi-alcolumbre-pautar-fim-da-escala-6x1-diz-coordenador-das-centrais-sindicais/",
+      "publishedAtStr": "2026-09-02T20:00:00Z",
+      "publishedAtTs": 1788379200000,
+      "rawContent": "Após passar na CCJ , só depende de Davi Alcolumbre pautar fim da escala 6×1 , diz coordenador das Centrais Sindicais",
+      "linkStatus": "unknown",
+      "lastChecked": null
+    },
+    {
+      "id": "gdelt-umirjix",
+      "title": "Votar é justiça com as próprias mão , diz Sérgio Vaz sobre poder da  quebrada  nas eleiçõções",
+      "sourceName": "Brasil de Fato",
+      "sourceUrl": "https://www.brasildefato.com.br/",
+      "sourceType": "Jornal / Movimentos Sociais",
+      "sourceEditorial": "Mídia popular focada em Direitos Humanos e Sul Global",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://www.brasildefato.com.br/podcast/bem-viver/2026/09/02/votar-e-justica-com-as-proprias-maos-diz-sergio-vaz-sobre-poder-da-quebrada-nas-eleicoes/",
+      "publishedAtStr": "2026-09-02T20:00:00Z",
+      "publishedAtTs": 1788379200000,
+      "rawContent": "Votar é justiça com as próprias mão , diz Sérgio Vaz sobre poder da  quebrada  nas eleiçõções",
+      "linkStatus": "unknown",
+      "lastChecked": null
+    },
+    {
+      "id": "gdelt-7msi6ew",
+      "title": "Fim da escala 6×1 e PEC da Segurança Pública vão ser analisadas na CCJ do Senado nesta quarta",
+      "sourceName": "Brasil de Fato",
+      "sourceUrl": "https://www.brasildefato.com.br/",
+      "sourceType": "Jornal / Movimentos Sociais",
+      "sourceEditorial": "Mídia popular focada em Direitos Humanos e Sul Global",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://www.brasildefato.com.br/2026/09/02/fim-da-escala-6x1-e-pec-da-seguranca-publica-vao-ser-analisadas-na-ccj-do-senado-nesta-quarta/",
+      "publishedAtStr": "2026-09-02T10:15:00Z",
+      "publishedAtTs": 1788344100000,
+      "rawContent": "Fim da escala 6×1 e PEC da Segurança Pública vão ser analisadas na CCJ do Senado nesta quarta",
+      "linkStatus": "unknown",
+      "lastChecked": null
+    },
+    {
+      "id": "gdelt-zgvlnwi",
+      "title": "Principal qualidade do Pé - de - Meia é distribuir renda , avalia professor da USP",
+      "sourceName": "Brasil de Fato",
+      "sourceUrl": "https://www.brasildefato.com.br/",
+      "sourceType": "Jornal / Movimentos Sociais",
+      "sourceEditorial": "Mídia popular focada em Direitos Humanos e Sul Global",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://www.brasildefato.com.br/2026/08/31/principal-qualidade-do-pe-de-meia-e-distribuir-renda-avalia-professor-da-usp/",
+      "publishedAtStr": "2026-09-01T05:30:00Z",
+      "publishedAtTs": 1788240600000,
+      "rawContent": "Principal qualidade do Pé - de - Meia é distribuir renda , avalia professor da USP",
+      "linkStatus": "unknown",
+      "lastChecked": null
+    },
+    {
+      "id": "gdelt-mbmuyn5",
+      "title": "Orçamento de 2027 tem estimativa de superávit de R$ 83 , 4 bilhões",
+      "sourceName": "Brasil de Fato",
+      "sourceUrl": "https://www.brasildefato.com.br/",
+      "sourceType": "Jornal / Movimentos Sociais",
+      "sourceEditorial": "Mídia popular focada em Direitos Humanos e Sul Global",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://www.brasildefato.com.br/2026/08/31/orcamento-de-2027-tem-estimativa-de-superavit-de-r-834-bilhoes/",
+      "publishedAtStr": "2026-09-01T05:30:00Z",
+      "publishedAtTs": 1788240600000,
+      "rawContent": "Orçamento de 2027 tem estimativa de superávit de R$ 83 , 4 bilhões",
+      "linkStatus": "unknown",
+      "lastChecked": null
+    },
+    {
+      "id": "gdelt-2k0vlp2",
+      "title": "Nova ordem mundial não se reduz à economia e a tiros , diz historiador sobre Cooperao de Xangai",
+      "sourceName": "Brasil de Fato",
+      "sourceUrl": "https://www.brasildefato.com.br/",
+      "sourceType": "Jornal / Movimentos Sociais",
+      "sourceEditorial": "Mídia popular focada em Direitos Humanos e Sul Global",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://www.brasildefato.com.br/2026/08/31/nova-ordem-mundial-nao-se-reduz-a-economia-e-a-tiros-diz-historiador-sobre-cooperacao-de-xangai/",
+      "publishedAtStr": "2026-09-01T05:30:00Z",
+      "publishedAtTs": 1788240600000,
+      "rawContent": "Nova ordem mundial não se reduz à economia e a tiros , diz historiador sobre Cooperao de Xangai",
+      "linkStatus": "unknown",
+      "lastChecked": null
+    },
+    {
+      "id": "gdelt-bin82kq",
+      "title": "Presidente da comissão mista adia votao sobre fim da taxa das blusinhas para terça ( 1º )",
+      "sourceName": "Brasil de Fato",
+      "sourceUrl": "https://www.brasildefato.com.br/",
+      "sourceType": "Jornal / Movimentos Sociais",
+      "sourceEditorial": "Mídia popular focada em Direitos Humanos e Sul Global",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://www.brasildefato.com.br/2026/08/31/presidente-da-comissao-mista-adia-votacao-sobre-fim-da-taxa-das-blusinhas-para-terca-1o/",
+      "publishedAtStr": "2026-09-01T05:30:00Z",
+      "publishedAtTs": 1788240600000,
+      "rawContent": "Presidente da comissão mista adia votao sobre fim da taxa das blusinhas para terça ( 1º )",
+      "linkStatus": "unknown",
+      "lastChecked": null
+    },
+    {
+      "id": "gdelt-mrogq4c",
+      "title": "Fim da escala 6×1 leva trabalhadores a três dias de vigília no Senado",
+      "sourceName": "Brasil de Fato",
+      "sourceUrl": "https://www.brasildefato.com.br/",
+      "sourceType": "Jornal / Movimentos Sociais",
+      "sourceEditorial": "Mídia popular focada em Direitos Humanos e Sul Global",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://www.brasildefato.com.br/2026/08/31/fim-da-escala-6x1-leva-trabalhadores-a-tres-dias-de-vigilia-no-senado/",
+      "publishedAtStr": "2026-08-31T09:45:00Z",
+      "publishedAtTs": 1788169500000,
+      "rawContent": "Fim da escala 6×1 leva trabalhadores a três dias de vigília no Senado",
+      "linkStatus": "unknown",
+      "lastChecked": null
+    },
+    {
+      "id": "gdelt-44a3qbw",
+      "title": "Flávio recebe ministro de El Salvador em SP e defende política marcada por violaçõções de direitos humanos",
+      "sourceName": "Brasil de Fato",
+      "sourceUrl": "https://www.brasildefato.com.br/",
+      "sourceType": "Jornal / Movimentos Sociais",
+      "sourceEditorial": "Mídia popular focada em Direitos Humanos e Sul Global",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://www.brasildefato.com.br/2026/08/30/flavio-recebe-ministro-de-el-salvador-em-sp-e-defende-politica-marcada-por-violacoes-de-direitos-humanos/",
+      "publishedAtStr": "2026-08-31T00:00:00Z",
+      "publishedAtTs": 1788134400000,
+      "rawContent": "Flávio recebe ministro de El Salvador em SP e defende política marcada por violaçõções de direitos humanos",
+      "linkStatus": "unknown",
+      "lastChecked": null
+    },
+    {
+      "id": "gdelt-7k9ohnq",
+      "title": "MPF dá parecer para proibir imagem de Jair Bolsonaro em material de campanha em São Paulo",
+      "sourceName": "Brasil de Fato",
+      "sourceUrl": "https://www.brasildefato.com.br/",
+      "sourceType": "Jornal / Movimentos Sociais",
+      "sourceEditorial": "Mídia popular focada em Direitos Humanos e Sul Global",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://www.brasildefato.com.br/2026/08/30/mpf-da-parecer-para-proibir-imagem-de-jair-bolsonaro-em-material-de-campanha-em-sao-paulo/",
+      "publishedAtStr": "2026-08-31T00:00:00Z",
+      "publishedAtTs": 1788134400000,
+      "rawContent": "MPF dá parecer para proibir imagem de Jair Bolsonaro em material de campanha em São Paulo",
+      "linkStatus": "unknown",
+      "lastChecked": null
+    },
+    {
+      "id": "gdelt-l0u9fz8",
+      "title": "Estamos firme : perfil de Nicolás Maduro no Instagram publica fotos da prisão nos EUA",
+      "sourceName": "Brasil de Fato",
+      "sourceUrl": "https://www.brasildefato.com.br/",
+      "sourceType": "Jornal / Movimentos Sociais",
+      "sourceEditorial": "Mídia popular focada em Direitos Humanos e Sul Global",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://www.brasildefato.com.br/2026/08/30/estamos-firmes-perfil-de-nicolas-maduro-no-instagram-publica-fotos-da-prisao-nos-eua/",
+      "publishedAtStr": "2026-08-30T15:15:00Z",
+      "publishedAtTs": 1788102900000,
+      "rawContent": "Estamos firme : perfil de Nicolás Maduro no Instagram publica fotos da prisão nos EUA",
+      "linkStatus": "unknown",
+      "lastChecked": null
+    },
+    {
+      "id": "gdelt-h2vejo8",
+      "title": "Organizao popular e autogestão : como as comunas transformam a Venezuela e inspiram o mundo",
+      "sourceName": "Brasil de Fato",
+      "sourceUrl": "https://www.brasildefato.com.br/",
+      "sourceType": "Jornal / Movimentos Sociais",
+      "sourceEditorial": "Mídia popular focada em Direitos Humanos e Sul Global",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://www.brasildefato.com.br/2026/08/30/organizacao-popular-e-autogestao-como-as-comunas-transformam-a-venezuela-e-inspiram-o-mundo/",
+      "publishedAtStr": "2026-08-30T15:15:00Z",
+      "publishedAtTs": 1788102900000,
+      "rawContent": "Organizao popular e autogestão : como as comunas transformam a Venezuela e inspiram o mundo",
+      "linkStatus": "unknown",
+      "lastChecked": null
+    },
+    {
+      "id": "gdelt-08ygvne",
+      "title": "De Pernambuco ao Rio Grande do Sul : veja como está a disputa para governador em 23 estados",
+      "sourceName": "Brasil de Fato",
+      "sourceUrl": "https://www.brasildefato.com.br/",
+      "sourceType": "Jornal / Movimentos Sociais",
+      "sourceEditorial": "Mídia popular focada em Direitos Humanos e Sul Global",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://www.brasildefato.com.br/2026/08/30/de-pernambuco-ao-rio-grande-do-sul-veja-como-esta-a-disputa-para-governador-em-23-estados/",
+      "publishedAtStr": "2026-08-30T10:15:00Z",
+      "publishedAtTs": 1788084900000,
+      "rawContent": "De Pernambuco ao Rio Grande do Sul : veja como está a disputa para governador em 23 estados",
+      "linkStatus": "unknown",
+      "lastChecked": null
+    },
+    {
+      "id": "gdelt-eenykll",
+      "title": "Chuva de granizo destelha casas e deixa dois mortos em temporais no RS",
+      "sourceName": "Brasil de Fato",
+      "sourceUrl": "https://www.brasildefato.com.br/",
+      "sourceType": "Jornal / Movimentos Sociais",
+      "sourceEditorial": "Mídia popular focada em Direitos Humanos e Sul Global",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://www.brasildefato.com.br/2026/08/29/chuva-de-granizo-destelha-casas-e-deixa-dois-mortos-em-temporais-no-rs/",
+      "publishedAtStr": "2026-08-30T00:30:00Z",
+      "publishedAtTs": 1788049800000,
+      "rawContent": "Chuva de granizo destelha casas e deixa dois mortos em temporais no RS",
+      "linkStatus": "unknown",
+      "lastChecked": null
+    },
+    {
+      "id": "gdelt-7hd9t3k",
+      "title": "Por que vocês têm que ser representadas por homens ? questiona Lula em evento com mulheres em BH",
+      "sourceName": "Brasil de Fato",
+      "sourceUrl": "https://www.brasildefato.com.br/",
+      "sourceType": "Jornal / Movimentos Sociais",
+      "sourceEditorial": "Mídia popular focada em Direitos Humanos e Sul Global",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://www.brasildefato.com.br/2026/08/29/por-que-voces-tem-que-ser-representadas-por-homens-questiona-lula-em-evento-com-mulheres-em-bh/",
+      "publishedAtStr": "2026-08-30T00:30:00Z",
+      "publishedAtTs": 1788049800000,
+      "rawContent": "Por que vocês têm que ser representadas por homens ? questiona Lula em evento com mulheres em BH",
+      "linkStatus": "unknown",
+      "lastChecked": null
+    },
+    {
+      "id": "gdelt-twtepx7",
+      "title": "Polícia destrói cultivo de cannabis medicinal de associao em Itupeva e prende colaboradores",
+      "sourceName": "Brasil de Fato",
+      "sourceUrl": "https://www.brasildefato.com.br/",
+      "sourceType": "Jornal / Movimentos Sociais",
+      "sourceEditorial": "Mídia popular focada em Direitos Humanos e Sul Global",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://www.brasildefato.com.br/2026/08/29/policia-destroi-cultivo-de-cannabis-medicinal-de-associacao-em-itupeva-e-prende-colaboradores/",
+      "publishedAtStr": "2026-08-29T19:30:00Z",
+      "publishedAtTs": 1788031800000,
+      "rawContent": "Polícia destrói cultivo de cannabis medicinal de associao em Itupeva e prende colaboradores",
+      "linkStatus": "unknown",
+      "lastChecked": null
+    },
+    {
+      "id": "gdelt-2437lw3",
+      "title": "Médicos no Paraguai chegam ao quarto dia de greve , exigindo melhores condiçõções de trabalho",
+      "sourceName": "Brasil de Fato",
+      "sourceUrl": "https://www.brasildefato.com.br/",
+      "sourceType": "Jornal / Movimentos Sociais",
+      "sourceEditorial": "Mídia popular focada em Direitos Humanos e Sul Global",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://www.brasildefato.com.br/2026/08/27/medicos-no-paraguai-chegam-ao-quarto-dia-de-greve-exigindo-melhores-condicoes-de-trabalho/",
+      "publishedAtStr": "2026-08-28T06:00:00Z",
+      "publishedAtTs": 1787896800000,
+      "rawContent": "Médicos no Paraguai chegam ao quarto dia de greve , exigindo melhores condiçõções de trabalho",
+      "linkStatus": "unknown",
+      "lastChecked": null
+    },
+    {
+      "id": "gdelt-my7slje",
+      "title": "Queimar tudo : especialista aponta riscos socioambientais em projeto de Tarcísio para o lixo",
+      "sourceName": "Brasil de Fato",
+      "sourceUrl": "https://www.brasildefato.com.br/",
+      "sourceType": "Jornal / Movimentos Sociais",
+      "sourceEditorial": "Mídia popular focada em Direitos Humanos e Sul Global",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://www.brasildefato.com.br/podcast/brasil-de-fato-entrevista/2026/08/27/queimar-tudo-especialista-aponta-riscos-socioambientais-em-projeto-de-tarcisio-para-o-lixo/",
+      "publishedAtStr": "2026-08-28T06:00:00Z",
+      "publishedAtTs": 1787896800000,
+      "rawContent": "Queimar tudo : especialista aponta riscos socioambientais em projeto de Tarcísio para o lixo",
+      "linkStatus": "unknown",
+      "lastChecked": null
+    },
+    {
+      "id": "gdelt-ppjxj1n",
+      "title": "Como discurso de ódio impulsiona casos como do jovem acusado injustamente e morto em Copacabana",
+      "sourceName": "Brasil de Fato",
+      "sourceUrl": "https://www.brasildefato.com.br/",
+      "sourceType": "Jornal / Movimentos Sociais",
+      "sourceEditorial": "Mídia popular focada em Direitos Humanos e Sul Global",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://www.brasildefato.com.br/2026/08/27/como-discurso-de-odio-impulsiona-casos-como-do-jovem-acusado-injustamente-e-morto-em-copacabana/",
+      "publishedAtStr": "2026-08-28T06:00:00Z",
+      "publishedAtTs": 1787896800000,
+      "rawContent": "Como discurso de ódio impulsiona casos como do jovem acusado injustamente e morto em Copacabana",
+      "linkStatus": "unknown",
+      "lastChecked": null
+    },
+    {
+      "id": "gdelt-s8iq1rm",
+      "title": "Lula diz que  se sentiu no MP  em sabatina e cobra desculpas da imprensa pela Lava Jato",
+      "sourceName": "Brasil de Fato",
+      "sourceUrl": "https://www.brasildefato.com.br/",
+      "sourceType": "Jornal / Movimentos Sociais",
+      "sourceEditorial": "Mídia popular focada em Direitos Humanos e Sul Global",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://www.brasildefato.com.br/2026/08/27/lula-diz-que-se-sentiu-no-mp-em-sabatina-e-cobra-desculpas-da-imprensa-pela-lavajato/",
+      "publishedAtStr": "2026-08-28T06:00:00Z",
+      "publishedAtTs": 1787896800000,
+      "rawContent": "Lula diz que  se sentiu no MP  em sabatina e cobra desculpas da imprensa pela Lava Jato",
+      "linkStatus": "unknown",
+      "lastChecked": null
+    },
+    {
+      "id": "gdelt-t7476ox",
+      "title": "Pesquisa Quaest indica reeleio de Ricardo Ferraço para governo do Espírito Santo",
+      "sourceName": "Brasil de Fato",
+      "sourceUrl": "https://www.brasildefato.com.br/",
+      "sourceType": "Jornal / Movimentos Sociais",
+      "sourceEditorial": "Mídia popular focada em Direitos Humanos e Sul Global",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://www.brasildefato.com.br/2026/08/27/pesquisa-quaest-indica-reeleicao-de-ricardo-ferraco-para-governo-do-espirito-santo/",
+      "publishedAtStr": "2026-08-28T06:00:00Z",
+      "publishedAtTs": 1787896800000,
+      "rawContent": "Pesquisa Quaest indica reeleio de Ricardo Ferraço para governo do Espírito Santo",
       "linkStatus": "unknown",
       "lastChecked": null
     }
