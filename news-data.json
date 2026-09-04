@@ -1,16 +1,16 @@
 {
-  "updatedAt": "2026-09-04T19:15:06.682Z",
+  "updatedAt": "2026-09-04T19:27:32.794Z",
   "periodUsed": "24h",
-  "count": 26,
+  "count": 40,
   "linkVerificationStats": {
-    "checkedThisRun": 1,
-    "active": 1,
+    "checkedThisRun": 14,
+    "active": 14,
     "broken": 0,
     "unknown": 0
   },
   "articles": [
     {
-      "id": "gdelt-q6d940h",
+      "id": "gdelt-72z45u7",
       "title": "Rússia ataca QG do Serviço de Segurança da Ucrânia e Zelensky promete resposta",
       "sourceName": "Veja Mundo",
       "sourceUrl": "https://veja.abril.com.br/mundo/",
@@ -26,7 +26,7 @@
       "lastChecked": 1788549305761
     },
     {
-      "id": "gdelt-xb1snit",
+      "id": "gdelt-2dn067a",
       "title": "Ucrânia propõe cessar - fogo enquanto enviados de Trump negociam com a Rússia",
       "sourceName": "Estadão Internacional",
       "sourceUrl": "https://www.estadao.com.br/internacional/",
@@ -42,7 +42,7 @@
       "lastChecked": 1788548335703
     },
     {
-      "id": "gdelt-sr3jcpt",
+      "id": "gdelt-wpwkj8y",
       "title": "Fachin retira do inquérito das fake news pedido de Moraes para investigar Mendonça",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -58,7 +58,39 @@
       "lastChecked": 1788548335703
     },
     {
-      "id": "gdelt-rfjowit",
+      "id": "gdelt-tmoakdm",
+      "title": "Crise no STF escala com guerra entre Moraes e Mendonça",
+      "sourceName": "DW Brasil",
+      "sourceUrl": "https://www.dw.com/pt-br/",
+      "sourceType": "Imprensa Internacional / Pública",
+      "sourceEditorial": "Emissora pública da Alemanha; foco em diplomacia e direitos humanos",
+      "country": "Alemanha",
+      "paywall": false,
+      "originalUrl": "https://www.dw.com/pt-br/crise-no-stf-escala-com-guerra-entre-moraes-e-mendon%C3%A7a/a-78991438",
+      "publishedAtStr": "2026-09-04T16:45:00Z",
+      "publishedAtTs": 1788540300000,
+      "rawContent": "Crise no STF escala com guerra entre Moraes e Mendonça",
+      "linkStatus": "active",
+      "lastChecked": 1788550037956
+    },
+    {
+      "id": "gdelt-k15odfo",
+      "title": "Enfermeira que matou os 3 filhos : juiz diz que anulará julgamento após impasse no júri",
+      "sourceName": "G1 Mundo",
+      "sourceUrl": "https://g1.globo.com/mundo/",
+      "sourceType": "Imprensa Comercial Brasileira",
+      "sourceEditorial": "Portal de notícias mainstream do Grupo Globo",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://g1.globo.com/mundo/noticia/2026/09/04/enfermeira-que-matou-os-3-filhos-juiz-anula-julgamento-apos-juri-nao-chegar-a-consenso-sobre-se-houve-homicidio.ghtml",
+      "publishedAtStr": "2026-09-04T16:15:00Z",
+      "publishedAtTs": 1788538500000,
+      "rawContent": "Enfermeira que matou os 3 filhos : juiz diz que anulará julgamento após impasse no júri",
+      "linkStatus": "active",
+      "lastChecked": 1788550037956
+    },
+    {
+      "id": "gdelt-a2x38m1",
       "title": "Meloni celebra recorde de permanência no governo da Itália e lança campanha para 2027",
       "sourceName": "Veja Mundo",
       "sourceUrl": "https://veja.abril.com.br/mundo/",
@@ -74,7 +106,23 @@
       "lastChecked": 1788548335703
     },
     {
-      "id": "gdelt-54coi8h",
+      "id": "gdelt-5if1xhn",
+      "title": "Ucrânia acusa Rússia de atacar QG do Serviço de Segurança em Kiev",
+      "sourceName": "G1 Mundo",
+      "sourceUrl": "https://g1.globo.com/mundo/",
+      "sourceType": "Imprensa Comercial Brasileira",
+      "sourceEditorial": "Portal de notícias mainstream do Grupo Globo",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://g1.globo.com/mundo/noticia/2026/09/04/ucrania-acusa-russia-ataque-qg-servico-de-inteligencia-kiev.ghtml",
+      "publishedAtStr": "2026-09-04T14:45:00Z",
+      "publishedAtTs": 1788533100000,
+      "rawContent": "Ucrânia acusa Rússia de atacar QG do Serviço de Segurança em Kiev",
+      "linkStatus": "active",
+      "lastChecked": 1788550037956
+    },
+    {
+      "id": "gdelt-7ph4pq0",
       "title": "Marco Rubio prepara turnê pela América do Sul de direita na próxima semana",
       "sourceName": "Veja Mundo",
       "sourceUrl": "https://veja.abril.com.br/mundo/",
@@ -90,7 +138,7 @@
       "lastChecked": 1788548335703
     },
     {
-      "id": "gdelt-khkjmcl",
+      "id": "gdelt-lqz9351",
       "title": "Com sanções a petroleiras , Milei intensifica disputa pelas Ilhas Malvinas com Inglaterra",
       "sourceName": "Veja Mundo",
       "sourceUrl": "https://veja.abril.com.br/mundo/",
@@ -106,7 +154,7 @@
       "lastChecked": 1788548335703
     },
     {
-      "id": "gdelt-dceu7rv",
+      "id": "gdelt-iiua6et",
       "title": "Número de mortos em megaenchente no Nepal e Tibete passa de 1 . 300",
       "sourceName": "Veja Mundo",
       "sourceUrl": "https://veja.abril.com.br/mundo/",
@@ -122,7 +170,7 @@
       "lastChecked": 1788548335703
     },
     {
-      "id": "gdelt-1omr6iy",
+      "id": "gdelt-eb8h8ck",
       "title": "Pesquisa inédita mostra que , na política mundial , ninguém exerce mais influência do que Trump",
       "sourceName": "Veja Mundo",
       "sourceUrl": "https://veja.abril.com.br/mundo/",
@@ -138,7 +186,119 @@
       "lastChecked": 1788548335703
     },
     {
-      "id": "gdelt-qqzk0d4",
+      "id": "gdelt-4rnkmat",
+      "title": "Quais países sobreviveriam melhor a uma catástrofe global ? Estudo aponta os mais resilientes",
+      "sourceName": "O Globo Mundo",
+      "sourceUrl": "https://oglobo.globo.com/mundo/",
+      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
+      "sourceEditorial": "Jornal diário (Grupo Globo) - Conteúdo sob assinatura",
+      "country": "Brasil",
+      "paywall": true,
+      "originalUrl": "https://oglobo.globo.com/mundo/clima-e-ciencia/noticia/2026/09/04/quais-paises-sobreviveriam-melhor-a-uma-catastrofe-global-estudo-aponta-os-mais-resilientes.ghtml",
+      "publishedAtStr": "2026-09-04T09:00:00Z",
+      "publishedAtTs": 1788512400000,
+      "rawContent": "Quais países sobreviveriam melhor a uma catástrofe global ? Estudo aponta os mais resilientes",
+      "linkStatus": "active",
+      "lastChecked": 1788550037956
+    },
+    {
+      "id": "gdelt-jgw7tsz",
+      "title": "Ilha misteriosa aparece e desaparece em lago no Canadá",
+      "sourceName": "G1 Mundo",
+      "sourceUrl": "https://g1.globo.com/mundo/",
+      "sourceType": "Imprensa Comercial Brasileira",
+      "sourceEditorial": "Portal de notícias mainstream do Grupo Globo",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://g1.globo.com/mundo/noticia/2026/09/04/ilha-misteriosa-aparece-e-desaparece-em-lago-no-canada.ghtml",
+      "publishedAtStr": "2026-09-04T07:15:00Z",
+      "publishedAtTs": 1788506100000,
+      "rawContent": "Ilha misteriosa aparece e desaparece em lago no Canadá",
+      "linkStatus": "active",
+      "lastChecked": 1788550037956
+    },
+    {
+      "id": "gdelt-j0qrosu",
+      "title": "Movimentos do campo , florestas e águas se reúnem para debater desafios e estratégias para alimentar e defender o Brasil",
+      "sourceName": "Brasil de Fato",
+      "sourceUrl": "https://www.brasildefato.com.br/",
+      "sourceType": "Jornal / Movimentos Sociais",
+      "sourceEditorial": "Mídia popular focada em Direitos Humanos e Sul Global",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://www.brasildefato.com.br/2026/09/03/movimentos-do-campo-florestas-e-aguas-se-reunem-para-debater-desafios-e-estrategias-para-alimentar-e-defender-o-brasil/",
+      "publishedAtStr": "2026-09-04T06:00:00Z",
+      "publishedAtTs": 1788501600000,
+      "rawContent": "Movimentos do campo , florestas e águas se reúnem para debater desafios e estratégias para alimentar e defender o Brasil",
+      "linkStatus": "active",
+      "lastChecked": 1788550037956
+    },
+    {
+      "id": "gdelt-j8rw9dr",
+      "title": "Cuba oficializa mudanças que ampliam espaço para o setor privado e flexibilizam investimentos",
+      "sourceName": "Brasil de Fato",
+      "sourceUrl": "https://www.brasildefato.com.br/",
+      "sourceType": "Jornal / Movimentos Sociais",
+      "sourceEditorial": "Mídia popular focada em Direitos Humanos e Sul Global",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://www.brasildefato.com.br/2026/09/03/cuba-oficializa-mudancas-que-ampliam-espaco-para-o-setor-privado-e-flexibilizam-investimentos/",
+      "publishedAtStr": "2026-09-04T06:00:00Z",
+      "publishedAtTs": 1788501600000,
+      "rawContent": "Cuba oficializa mudanças que ampliam espaço para o setor privado e flexibilizam investimentos",
+      "linkStatus": "active",
+      "lastChecked": 1788550037956
+    },
+    {
+      "id": "gdelt-gc5pwio",
+      "title": "Nepal resgata 2 trabalhadores com vida de túnel 9 dias após enchentes",
+      "sourceName": "G1 Mundo",
+      "sourceUrl": "https://g1.globo.com/mundo/",
+      "sourceType": "Imprensa Comercial Brasileira",
+      "sourceEditorial": "Portal de notícias mainstream do Grupo Globo",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://g1.globo.com/mundo/noticia/2026/09/04/nepal-resgata-2-trabalhadores-com-vida-de-tunel-9-dias-apos-enchentes.ghtml",
+      "publishedAtStr": "2026-09-04T04:45:00Z",
+      "publishedAtTs": 1788497100000,
+      "rawContent": "Nepal resgata 2 trabalhadores com vida de túnel 9 dias após enchentes",
+      "linkStatus": "active",
+      "lastChecked": 1788550037956
+    },
+    {
+      "id": "gdelt-3z9esai",
+      "title": "Menino de 6 anos sobrevive à chacina ao se esconder debaixo da cama",
+      "sourceName": "G1 Mundo",
+      "sourceUrl": "https://g1.globo.com/mundo/",
+      "sourceType": "Imprensa Comercial Brasileira",
+      "sourceEditorial": "Portal de notícias mainstream do Grupo Globo",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://g1.globo.com/mundo/noticia/2026/09/04/menino-de-6-anos-que-sobreviveu-a-chacina-da-familia-no-mexico-se-escondeu-debaixo-da-cama.ghtml",
+      "publishedAtStr": "2026-09-04T04:00:00Z",
+      "publishedAtTs": 1788494400000,
+      "rawContent": "Menino de 6 anos sobrevive à chacina ao se esconder debaixo da cama",
+      "linkStatus": "active",
+      "lastChecked": 1788550037956
+    },
+    {
+      "id": "gdelt-13oo3gv",
+      "title": "Casa Branca lança jogos em que imigrantes são caçados para deportação",
+      "sourceName": "G1 Mundo",
+      "sourceUrl": "https://g1.globo.com/mundo/",
+      "sourceType": "Imprensa Comercial Brasileira",
+      "sourceEditorial": "Portal de notícias mainstream do Grupo Globo",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://g1.globo.com/mundo/noticia/2026/09/03/tetris-e-cobrinha-casa-branca-lanca-jogos-em-que-imigrantes-sao-cacados-para-deportacao.ghtml",
+      "publishedAtStr": "2026-09-04T02:30:00Z",
+      "publishedAtTs": 1788489000000,
+      "rawContent": "Casa Branca lança jogos em que imigrantes são caçados para deportação",
+      "linkStatus": "active",
+      "lastChecked": 1788550037956
+    },
+    {
+      "id": "gdelt-kpjeo0r",
       "title": "Moraes pede a Fachin investigação de Mendonça no inquérito das fake news",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -154,7 +314,7 @@
       "lastChecked": 1788548335703
     },
     {
-      "id": "gdelt-ystlc5l",
+      "id": "gdelt-dfn8hnh",
       "title": "Milei anuncia sanções e construo de base naval em meio à disputa por petróleo nas Ilhas Malvinas",
       "sourceName": "Estadão Internacional",
       "sourceUrl": "https://www.estadao.com.br/internacional/",
@@ -170,7 +330,7 @@
       "lastChecked": 1788548335703
     },
     {
-      "id": "gdelt-qo5a2c6",
+      "id": "gdelt-a1jgs7c",
       "title": "Argentino é suspeito de matar músico , mulher grávida , criança de 3 anos , empregada e cachorro",
       "sourceName": "Estadão Internacional",
       "sourceUrl": "https://www.estadao.com.br/internacional/",
@@ -186,7 +346,71 @@
       "lastChecked": 1788548335703
     },
     {
-      "id": "gdelt-mxf7bqf",
+      "id": "gdelt-4oupv35",
+      "title": "General russo acusado de ordenar ataque a hospital infantil é baleado",
+      "sourceName": "G1 Mundo",
+      "sourceUrl": "https://g1.globo.com/mundo/",
+      "sourceType": "Imprensa Comercial Brasileira",
+      "sourceEditorial": "Portal de notícias mainstream do Grupo Globo",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://g1.globo.com/mundo/ucrania-russia/noticia/2026/09/03/general-russo-acusado-de-ordenar-ataque-contra-hospital-infantil-na-ucrania-e-baleado-na-cabeca.ghtml",
+      "publishedAtStr": "2026-09-04T01:45:00Z",
+      "publishedAtTs": 1788486300000,
+      "rawContent": "General russo acusado de ordenar ataque a hospital infantil é baleado",
+      "linkStatus": "active",
+      "lastChecked": 1788550037956
+    },
+    {
+      "id": "gdelt-q1vr94x",
+      "title": "Juiz recusa pedido da defesa de Lindsey Clancy , acusada de matar os três filhos nos EUA , de remover jurado no julgamento",
+      "sourceName": "O Globo Mundo",
+      "sourceUrl": "https://oglobo.globo.com/mundo/",
+      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
+      "sourceEditorial": "Jornal diário (Grupo Globo) - Conteúdo sob assinatura",
+      "country": "Brasil",
+      "paywall": true,
+      "originalUrl": "https://oglobo.globo.com/mundo/noticia/2026/09/03/juiz-recusa-pedido-da-defesa-de-lindsey-clancy-acusada-de-matar-os-tres-filhos-nos-eua-de-remover-jurado-no-julgamento.ghtml",
+      "publishedAtStr": "2026-09-04T01:45:00Z",
+      "publishedAtTs": 1788486300000,
+      "rawContent": "Juiz recusa pedido da defesa de Lindsey Clancy , acusada de matar os três filhos nos EUA , de remover jurado no julgamento",
+      "linkStatus": "active",
+      "lastChecked": 1788550037956
+    },
+    {
+      "id": "gdelt-odm7a1g",
+      "title": "Justiça da Colômbia ordena suspensão de bombardeios contra guerrilheiros quando houver suspeita da presença de menores",
+      "sourceName": "O Globo Mundo",
+      "sourceUrl": "https://oglobo.globo.com/mundo/",
+      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
+      "sourceEditorial": "Jornal diário (Grupo Globo) - Conteúdo sob assinatura",
+      "country": "Brasil",
+      "paywall": true,
+      "originalUrl": "https://oglobo.globo.com/mundo/noticia/2026/09/03/justica-da-colombia-ordena-suspensao-de-bombardeios-contra-guerrilheiros-quando-houver-suspeita-da-presenca-de-menores.ghtml",
+      "publishedAtStr": "2026-09-04T01:45:00Z",
+      "publishedAtTs": 1788486300000,
+      "rawContent": "Justiça da Colômbia ordena suspensão de bombardeios contra guerrilheiros quando houver suspeita da presença de menores",
+      "linkStatus": "active",
+      "lastChecked": 1788550037956
+    },
+    {
+      "id": "gdelt-u5imvtj",
+      "title": "Unidades rivais de inteligência ucraniana trocam tiros em Kiev , e Zelensky chama embate de  vergonhoso",
+      "sourceName": "O Globo Mundo",
+      "sourceUrl": "https://oglobo.globo.com/mundo/",
+      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
+      "sourceEditorial": "Jornal diário (Grupo Globo) - Conteúdo sob assinatura",
+      "country": "Brasil",
+      "paywall": true,
+      "originalUrl": "https://oglobo.globo.com/mundo/noticia/2026/09/03/unidades-rivais-de-inteligencia-ucraniana-trocam-tiros-em-kiev-e-zelensky-chama-embate-de-vergonhoso.ghtml",
+      "publishedAtStr": "2026-09-04T01:45:00Z",
+      "publishedAtTs": 1788486300000,
+      "rawContent": "Unidades rivais de inteligência ucraniana trocam tiros em Kiev , e Zelensky chama embate de  vergonhoso",
+      "linkStatus": "active",
+      "lastChecked": 1788550037956
+    },
+    {
+      "id": "gdelt-hphp49m",
       "title": "Justiça da Colômbia ordena suspensão de ataques a acampamentos da guerrilha com adolescentes",
       "sourceName": "Estadão Internacional",
       "sourceUrl": "https://www.estadao.com.br/internacional/",
@@ -202,7 +426,7 @@
       "lastChecked": 1788548335703
     },
     {
-      "id": "gdelt-sx2w53h",
+      "id": "gdelt-iyihlh7",
       "title": "Construo do  arco de Trump  deve começar nas próximas semanas",
       "sourceName": "Estadão Internacional",
       "sourceUrl": "https://www.estadao.com.br/internacional/",
@@ -218,7 +442,7 @@
       "lastChecked": 1788548335703
     },
     {
-      "id": "gdelt-nade13x",
+      "id": "gdelt-qeqhd8x",
       "title": "Trump deixa dúvidas sobre o apoio americano ao Reino Unido na disputa com a Argentina pelas Malvinas",
       "sourceName": "Estadão Internacional",
       "sourceUrl": "https://www.estadao.com.br/internacional/",
@@ -234,7 +458,7 @@
       "lastChecked": 1788548335703
     },
     {
-      "id": "gdelt-ui4835c",
+      "id": "gdelt-agfk4uq",
       "title": "Casa Branca cria game em que jogador  caça  imigrantes na fronteira",
       "sourceName": "Estadão Internacional",
       "sourceUrl": "https://www.estadao.com.br/internacional/",
@@ -250,7 +474,7 @@
       "lastChecked": 1788548335703
     },
     {
-      "id": "gdelt-el86rdz",
+      "id": "gdelt-uz5iabf",
       "title": "Datafolha : desaprovação de Lula vai a 51 % e aprovação cai para 45 %",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -266,7 +490,7 @@
       "lastChecked": 1788548335703
     },
     {
-      "id": "gdelt-ws8vv8o",
+      "id": "gdelt-9d01yy3",
       "title": "Datafolha : Lula tem 38 % e Flávio , 33 % no primeiro turno ; distância cai a 5 pontos",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -282,7 +506,7 @@
       "lastChecked": 1788548335703
     },
     {
-      "id": "gdelt-drgqf6t",
+      "id": "gdelt-ux9j57n",
       "title": "O que é matéria escura e por que sua possível descoberta agita cientistas ?",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -298,7 +522,7 @@
       "lastChecked": 1788548335703
     },
     {
-      "id": "gdelt-e4zddn5",
+      "id": "gdelt-vp8mvk0",
       "title": "Conselho da Volkswagen aprova reestruturação e sinaliza cortes de 50 mil empregos",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -314,7 +538,7 @@
       "lastChecked": 1788548335703
     },
     {
-      "id": "gdelt-dg4rxw8",
+      "id": "gdelt-fh6fb5a",
       "title": "STF fixa teto de R$ 5 mil de renda para acesso à Justiça gratuita trabalhista",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -330,7 +554,7 @@
       "lastChecked": 1788548335703
     },
     {
-      "id": "gdelt-wcmojn3",
+      "id": "gdelt-rj0t9kd",
       "title": "Lula e Flávio ficam a 2 pontos no 2º turno e acirram disputa , diz Datafolha",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -346,7 +570,7 @@
       "lastChecked": 1788548335703
     },
     {
-      "id": "gdelt-ol3s799",
+      "id": "gdelt-o8wiy62",
       "title": "Alcolumbre afirma que PEC pelo fim da escala 6×1 deve ser votada apenas após eleições",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -362,7 +586,7 @@
       "lastChecked": 1788548335703
     },
     {
-      "id": "gdelt-46cynhe",
+      "id": "gdelt-jmecjh8",
       "title": "Senado aprova fim da  taxa das blusinhas ; texto segue para sano de Lula",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -378,7 +602,7 @@
       "lastChecked": 1788548335703
     },
     {
-      "id": "gdelt-8qxknmm",
+      "id": "gdelt-2cek7wn",
       "title": "Por que  Cidade do Pecado  da Tailândia virou destino de 5 mil marinheiros dos EUA",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -394,7 +618,7 @@
       "lastChecked": 1788548335703
     },
     {
-      "id": "gdelt-lq80qpe",
+      "id": "gdelt-drtjcmp",
       "title": "Startups : Poucos meses após chegar ao Brasil , Wonderful faz série C de US$ 550M",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -410,7 +634,7 @@
       "lastChecked": 1788548335703
     },
     {
-      "id": "gdelt-axyv222",
+      "id": "gdelt-03gwcz1",
       "title": "Discordar não é sinônimo de odiar , diz Fachin sobre eleições em meio a crise no STF",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
