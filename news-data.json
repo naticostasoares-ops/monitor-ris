@@ -1,16 +1,32 @@
 {
-  "updatedAt": "2026-09-05T18:32:19.444Z",
+  "updatedAt": "2026-09-05T18:48:19.472Z",
   "periodUsed": "24h",
-  "count": 58,
+  "count": 78,
   "linkVerificationStats": {
     "checkedThisRun": 21,
-    "active": 21,
-    "broken": 0,
+    "active": 20,
+    "broken": 1,
     "unknown": 0
   },
   "articles": [
     {
-      "id": "gdelt-u0ropa2",
+      "id": "gdelt-twac510",
+      "title": "Homem morre após carro atingir grupo de dez javalis e capotar nos EUA",
+      "sourceName": "O Globo Mundo",
+      "sourceUrl": "https://oglobo.globo.com/mundo/",
+      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
+      "sourceEditorial": "Jornal diário (Grupo Globo) - Conteúdo sob assinatura",
+      "country": "Brasil",
+      "paywall": true,
+      "originalUrl": "https://oglobo.globo.com/mundo/epoca/noticia/2026/09/05/homem-morre-apos-carro-atingir-grupo-de-dez-javalis-e-capotar-nos-eua.ghtml",
+      "publishedAtStr": "2026-09-05T16:45:00Z",
+      "publishedAtTs": 1788626700000,
+      "rawContent": "Homem morre após carro atingir grupo de dez javalis e capotar nos EUA",
+      "linkStatus": "active",
+      "lastChecked": 1788634073220
+    },
+    {
+      "id": "gdelt-ba3ecpm",
       "title": "Deslizamento na China deixa um morto e 11 desaparecidos após chuvas associadas ao tufão Saudel",
       "sourceName": "Estadão Internacional",
       "sourceUrl": "https://www.estadao.com.br/internacional/",
@@ -26,7 +42,7 @@
       "lastChecked": 1788632201629
     },
     {
-      "id": "gdelt-pfl2yqi",
+      "id": "gdelt-pkzfpxo",
       "title": "Duas pessoas são encontradas com vida no Nepal dez dias após inundações",
       "sourceName": "Veja Mundo",
       "sourceUrl": "https://veja.abril.com.br/mundo/",
@@ -42,7 +58,167 @@
       "lastChecked": 1788632201629
     },
     {
-      "id": "gdelt-y94670d",
+      "id": "gdelt-lx82nlb",
+      "title": "Kiev denuncia ataques a aeroportos antes de visita dos EUA",
+      "sourceName": "DW Brasil",
+      "sourceUrl": "https://www.dw.com/pt-br/",
+      "sourceType": "Imprensa Internacional / Pública",
+      "sourceEditorial": "Emissora pública da Alemanha; foco em diplomacia e direitos humanos",
+      "country": "Alemanha",
+      "paywall": false,
+      "originalUrl": "https://www.dw.com/pt-br/kiev-denuncia-ataques-a-aeroportos-antes-de-visita-dos-eua/a-79046887",
+      "publishedAtStr": "2026-09-05T13:45:00Z",
+      "publishedAtTs": 1788615900000,
+      "rawContent": "Kiev denuncia ataques a aeroportos antes de visita dos EUA",
+      "linkStatus": "active",
+      "lastChecked": 1788634073220
+    },
+    {
+      "id": "gdelt-90kpnib",
+      "title": "Explosão na Bolívia : o que que se sabe sobre incidente que deixou ao menos 2 mortos e 81 feridos",
+      "sourceName": "BBC News Brasil",
+      "sourceUrl": "https://www.bbc.com/portuguese",
+      "sourceType": "Imprensa Internacional / Pública",
+      "sourceEditorial": "Emissora pública do Reino Unido; jornalismo global independente",
+      "country": "Reino Unido",
+      "paywall": false,
+      "originalUrl": "https://www.bbc.com/portuguese/articles/cx2ze0nnn7do",
+      "publishedAtStr": "2026-09-05T13:45:00Z",
+      "publishedAtTs": 1788615900000,
+      "rawContent": "Explosão na Bolívia : o que que se sabe sobre incidente que deixou ao menos 2 mortos e 81 feridos",
+      "linkStatus": "active",
+      "lastChecked": 1788634073220
+    },
+    {
+      "id": "gdelt-quvm6x7",
+      "title": "Clima e escassez alimentar elevam risco de guerras no mundo",
+      "sourceName": "DW Brasil",
+      "sourceUrl": "https://www.dw.com/pt-br/",
+      "sourceType": "Imprensa Internacional / Pública",
+      "sourceEditorial": "Emissora pública da Alemanha; foco em diplomacia e direitos humanos",
+      "country": "Alemanha",
+      "paywall": false,
+      "originalUrl": "https://www.dw.com/pt-br/clima-e-escassez-alimentar-elevam-risco-de-guerras-no-mundo/a-79045932",
+      "publishedAtStr": "2026-09-05T13:15:00Z",
+      "publishedAtTs": 1788614100000,
+      "rawContent": "Clima e escassez alimentar elevam risco de guerras no mundo",
+      "linkStatus": "active",
+      "lastChecked": 1788634073220
+    },
+    {
+      "id": "gdelt-i1jvd8c",
+      "title": "Deslizamento de terra deixa pelo menos um morto e 11 desaparecidos após passagem de tufão na China ; 600 mil pessoas foram evacuadas",
+      "sourceName": "O Globo Mundo",
+      "sourceUrl": "https://oglobo.globo.com/mundo/",
+      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
+      "sourceEditorial": "Jornal diário (Grupo Globo) - Conteúdo sob assinatura",
+      "country": "Brasil",
+      "paywall": true,
+      "originalUrl": "https://oglobo.globo.com/mundo/noticia/2026/09/05/deslizamento-de-terra-deixa-pelo-menos-um-morto-e-11-desaparecidos-apos-passagem-de-tufao-na-china-600-mil-pessoas-foram-evacuadas.ghtml",
+      "publishedAtStr": "2026-09-05T12:00:00Z",
+      "publishedAtTs": 1788609600000,
+      "rawContent": "Deslizamento de terra deixa pelo menos um morto e 11 desaparecidos após passagem de tufão na China ; 600 mil pessoas foram evacuadas",
+      "linkStatus": "active",
+      "lastChecked": 1788634073220
+    },
+    {
+      "id": "gdelt-tis12wk",
+      "title": "Mãe orangotango e filhote são resgatados na Indonésia após incêndios se aproximarem de seu habitat",
+      "sourceName": "O Globo Mundo",
+      "sourceUrl": "https://oglobo.globo.com/mundo/",
+      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
+      "sourceEditorial": "Jornal diário (Grupo Globo) - Conteúdo sob assinatura",
+      "country": "Brasil",
+      "paywall": true,
+      "originalUrl": "https://oglobo.globo.com/mundo/epoca/noticia/2026/09/05/mae-orangotango-e-filhote-sao-resgatados-na-indonesia-apos-incendios-se-aproximarem-de-seu-habitat.ghtml",
+      "publishedAtStr": "2026-09-05T12:00:00Z",
+      "publishedAtTs": 1788609600000,
+      "rawContent": "Mãe orangotango e filhote são resgatados na Indonésia após incêndios se aproximarem de seu habitat",
+      "linkStatus": "active",
+      "lastChecked": 1788634073220
+    },
+    {
+      "id": "gdelt-1wjq9qq",
+      "title": "Candidato a deputado estadual é preso acusado de plantar drogas em carro de adversária política",
+      "sourceName": "O Globo Mundo",
+      "sourceUrl": "https://oglobo.globo.com/mundo/",
+      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
+      "sourceEditorial": "Jornal diário (Grupo Globo) - Conteúdo sob assinatura",
+      "country": "Brasil",
+      "paywall": true,
+      "originalUrl": "https://oglobo.globo.com/mundo/noticia/2026/09/05/candidato-a-deputado-estadual-e-preso-acusado-de-plantar-drogas-em-carro-de-adversaria-politica.ghtml",
+      "publishedAtStr": "2026-09-05T12:00:00Z",
+      "publishedAtTs": 1788609600000,
+      "rawContent": "Candidato a deputado estadual é preso acusado de plantar drogas em carro de adversária política",
+      "linkStatus": "active",
+      "lastChecked": 1788634073220
+    },
+    {
+      "id": "gdelt-8rs0k3v",
+      "title": "Troca de última hora salvou comissário de atentado que matou 107 pessoas em avião na Colômbia há 37 anos ; entenda",
+      "sourceName": "O Globo Mundo",
+      "sourceUrl": "https://oglobo.globo.com/mundo/",
+      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
+      "sourceEditorial": "Jornal diário (Grupo Globo) - Conteúdo sob assinatura",
+      "country": "Brasil",
+      "paywall": true,
+      "originalUrl": "https://oglobo.globo.com/mundo/epoca/noticia/2026/09/05/troca-de-ultima-hora-salvou-comissario-de-atentado-que-matou-107-pessoas-em-aviao-na-colombia-ha-37-anos-entenda.ghtml",
+      "publishedAtStr": "2026-09-05T12:00:00Z",
+      "publishedAtTs": 1788609600000,
+      "rawContent": "Troca de última hora salvou comissário de atentado que matou 107 pessoas em avião na Colômbia há 37 anos ; entenda",
+      "linkStatus": "active",
+      "lastChecked": 1788634073220
+    },
+    {
+      "id": "gdelt-ir8wkjt",
+      "title": "Quem são os dois trabalhadores resgatados com vida após ficarem nove dias presos em túnel no Nepal",
+      "sourceName": "O Globo Mundo",
+      "sourceUrl": "https://oglobo.globo.com/mundo/",
+      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
+      "sourceEditorial": "Jornal diário (Grupo Globo) - Conteúdo sob assinatura",
+      "country": "Brasil",
+      "paywall": true,
+      "originalUrl": "https://oglobo.globo.com/mundo/noticia/2026/09/05/quem-sao-os-dois-trabalhadores-resgatados-com-vida-apos-ficarem-nove-dias-presos-em-tunel-no-nepal.ghtml",
+      "publishedAtStr": "2026-09-05T11:30:00Z",
+      "publishedAtTs": 1788607800000,
+      "rawContent": "Quem são os dois trabalhadores resgatados com vida após ficarem nove dias presos em túnel no Nepal",
+      "linkStatus": "active",
+      "lastChecked": 1788634073220
+    },
+    {
+      "id": "gdelt-wdcspez",
+      "title": "Cidadão chinês é resgatado com vida após ficar preso por 10 dias em túnel soterrado no Nepal",
+      "sourceName": "O Globo Mundo",
+      "sourceUrl": "https://oglobo.globo.com/mundo/",
+      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
+      "sourceEditorial": "Jornal diário (Grupo Globo) - Conteúdo sob assinatura",
+      "country": "Brasil",
+      "paywall": true,
+      "originalUrl": "https://oglobo.globo.com/mundo/noticia/2026/09/05/cidadao-chines-e-resgatado-com-vida-apos-ficar-preso-por-10-dias-em-tunel-soterrado-no-nepal.ghtml",
+      "publishedAtStr": "2026-09-05T11:30:00Z",
+      "publishedAtTs": 1788607800000,
+      "rawContent": "Cidadão chinês é resgatado com vida após ficar preso por 10 dias em túnel soterrado no Nepal",
+      "linkStatus": "active",
+      "lastChecked": 1788634073220
+    },
+    {
+      "id": "gdelt-zwmbkxe",
+      "title": "Colonialismo cartográfico : Entenda por que mundo ainda united states mapa do século XVI e saiba quem o desenhou",
+      "sourceName": "O Globo Mundo",
+      "sourceUrl": "https://oglobo.globo.com/mundo/",
+      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
+      "sourceEditorial": "Jornal diário (Grupo Globo) - Conteúdo sob assinatura",
+      "country": "Brasil",
+      "paywall": true,
+      "originalUrl": "https://oglobo.globo.com/mundo/noticia/2026/09/05/colonialismo-cartografico-entenda-por-que-mundo-ainda-usa-mapa-do-seculo-xvi-e-saiba-quem-o-desenhou.ghtml",
+      "publishedAtStr": "2026-09-05T11:15:00Z",
+      "publishedAtTs": 1788606900000,
+      "rawContent": "Colonialismo cartográfico : Entenda por que mundo ainda united states mapa do século XVI e saiba quem o desenhou",
+      "linkStatus": "active",
+      "lastChecked": 1788634073220
+    },
+    {
+      "id": "gdelt-ja953g6",
       "title": "Nepal : trabalhador chinês e uma mulher são resgatados dez dias após enchentes ; veja vídeo",
       "sourceName": "Estadão Internacional",
       "sourceUrl": "https://www.estadao.com.br/internacional/",
@@ -58,7 +234,7 @@
       "lastChecked": 1788632201629
     },
     {
-      "id": "gdelt-dbhiarm",
+      "id": "gdelt-k4eem7d",
       "title": "Trump chama conflito no Irã de  insignificante  e defende fala de Vance sobre não ser uma  guerra",
       "sourceName": "Estadão Internacional",
       "sourceUrl": "https://www.estadao.com.br/internacional/",
@@ -74,7 +250,55 @@
       "lastChecked": 1788632201629
     },
     {
-      "id": "gdelt-jeiuhan",
+      "id": "gdelt-bu42x7f",
+      "title": "Número de feridos em explosão em quartel na Bolívia ultrapassa 80 ; prefeitura decreta luto de três dias",
+      "sourceName": "G1 Mundo",
+      "sourceUrl": "https://g1.globo.com/mundo/",
+      "sourceType": "Imprensa Comercial Brasileira",
+      "sourceEditorial": "Portal de notícias mainstream do Grupo Globo",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://g1.globo.com/mundo/noticia/2026/09/05/numero-de-feridos-em-explosao-em-quartel-na-bolivia-ultrapassa-80-prefeitura-decreta-luto-de-tres-dias.ghtml",
+      "publishedAtStr": "2026-09-05T11:00:00Z",
+      "publishedAtTs": 1788606000000,
+      "rawContent": "Número de feridos em explosão em quartel na Bolívia ultrapassa 80 ; prefeitura decreta luto de três dias",
+      "linkStatus": "active",
+      "lastChecked": 1788634073220
+    },
+    {
+      "id": "gdelt-azzt0kb",
+      "title": "Farmear  aura : batalha do Brasil se espalha pela América Latinha",
+      "sourceName": "G1 Mundo",
+      "sourceUrl": "https://g1.globo.com/mundo/",
+      "sourceType": "Imprensa Comercial Brasileira",
+      "sourceEditorial": "Portal de notícias mainstream do Grupo Globo",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://g1.globo.com/mundo/noticia/2026/09/05/farmear-aura-campeonato-criado-no-brasil-se-espalha-pela-america-latina.ghtml",
+      "publishedAtStr": "2026-09-05T10:00:00Z",
+      "publishedAtTs": 1788602400000,
+      "rawContent": "Farmear  aura : batalha do Brasil se espalha pela América Latinha",
+      "linkStatus": "active",
+      "lastChecked": 1788634073220
+    },
+    {
+      "id": "gdelt-j5fkoe0",
+      "title": "Rússia ataca aeroportos de Kiev antes de visita de enviados dos EUA , diz Zelensky",
+      "sourceName": "G1 Mundo",
+      "sourceUrl": "https://g1.globo.com/mundo/",
+      "sourceType": "Imprensa Comercial Brasileira",
+      "sourceEditorial": "Portal de notícias mainstream do Grupo Globo",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://g1.globo.com/mundo/noticia/2026/09/05/russia-ataca-aeroportos-de-kiev.ghtml",
+      "publishedAtStr": "2026-09-05T10:00:00Z",
+      "publishedAtTs": 1788602400000,
+      "rawContent": "Rússia ataca aeroportos de Kiev antes de visita de enviados dos EUA , diz Zelensky",
+      "linkStatus": "active",
+      "lastChecked": 1788634073220
+    },
+    {
+      "id": "gdelt-t4sdef1",
       "title": "Venezuela  precisa de muito mais que dinheiro , diz Corina Machado sobre acordo do país com os EUA",
       "sourceName": "Estadão Internacional",
       "sourceUrl": "https://www.estadao.com.br/internacional/",
@@ -90,7 +314,39 @@
       "lastChecked": 1788632201629
     },
     {
-      "id": "gdelt-0vtjaie",
+      "id": "gdelt-0gmtv9z",
+      "title": "O curioso museu alemão dedicado aos cães salsichinha",
+      "sourceName": "DW Brasil",
+      "sourceUrl": "https://www.dw.com/pt-br/",
+      "sourceType": "Imprensa Internacional / Pública",
+      "sourceEditorial": "Emissora pública da Alemanha; foco em diplomacia e direitos humanos",
+      "country": "Alemanha",
+      "paywall": false,
+      "originalUrl": "https://www.dw.com/pt-br/museu-na-alemanha-%C3%A9-dedicado-inteiramente-aos-c%C3%A3es-salsichinha/a-78624757",
+      "publishedAtStr": "2026-09-05T08:45:00Z",
+      "publishedAtTs": 1788597900000,
+      "rawContent": "O curioso museu alemão dedicado aos cães salsichinha",
+      "linkStatus": "broken",
+      "lastChecked": 1788634073220
+    },
+    {
+      "id": "gdelt-ajmgnp9",
+      "title": "Deslizamento deixa um morto e 11 desaparecidos em Jiangxi , na China",
+      "sourceName": "G1 Mundo",
+      "sourceUrl": "https://g1.globo.com/mundo/",
+      "sourceType": "Imprensa Comercial Brasileira",
+      "sourceEditorial": "Portal de notícias mainstream do Grupo Globo",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://g1.globo.com/mundo/noticia/2026/09/05/deslizamento-jiangxi-china.ghtml",
+      "publishedAtStr": "2026-09-05T05:30:00Z",
+      "publishedAtTs": 1788586200000,
+      "rawContent": "Deslizamento deixa um morto e 11 desaparecidos em Jiangxi , na China",
+      "linkStatus": "active",
+      "lastChecked": 1788634073220
+    },
+    {
+      "id": "gdelt-iil001c",
       "title": "Jaqueline Kambiwá :  Se nosso território sangra , nossos corpos , enquanto mulheres indígenas , são violados",
       "sourceName": "Brasil de Fato",
       "sourceUrl": "https://www.brasildefato.com.br/",
@@ -106,7 +362,7 @@
       "lastChecked": 1788633132562
     },
     {
-      "id": "gdelt-le968k8",
+      "id": "gdelt-jbb1mvb",
       "title": "Islândia é um dos países mais ricos da região e não tem interesse em entrar na União Europeia , diz analista",
       "sourceName": "Brasil de Fato",
       "sourceUrl": "https://www.brasildefato.com.br/",
@@ -122,7 +378,7 @@
       "lastChecked": 1788633132562
     },
     {
-      "id": "gdelt-gyob0rx",
+      "id": "gdelt-2dqfc91",
       "title": "Desfile de 7 de Setembro em Brasília começa às 9h na segunda - feira , com presença de Lula ; confira orientações",
       "sourceName": "Brasil de Fato",
       "sourceUrl": "https://www.brasildefato.com.br/",
@@ -138,7 +394,7 @@
       "lastChecked": 1788633132562
     },
     {
-      "id": "gdelt-9b4v04j",
+      "id": "gdelt-pzrbunx",
       "title": "Aleida Guevara relembra intimidade com Fidel e fala sobre futuro de Cuba em entrevista exclusiva ao BdF",
       "sourceName": "Brasil de Fato",
       "sourceUrl": "https://www.brasildefato.com.br/",
@@ -154,7 +410,7 @@
       "lastChecked": 1788633132562
     },
     {
-      "id": "gdelt-6u11mvk",
+      "id": "gdelt-v8it1e0",
       "title": "Através da linguagem poética podemos falar de temas urgentes , afirma Lirinha , do Cordel do Fogo Encantado",
       "sourceName": "Brasil de Fato",
       "sourceUrl": "https://www.brasildefato.com.br/",
@@ -170,7 +426,55 @@
       "lastChecked": 1788633132562
     },
     {
-      "id": "gdelt-i46tlbp",
+      "id": "gdelt-vwtzeyi",
+      "title": "Por que os EUA foram o único país a votar contra mudança do mapa - múndi",
+      "sourceName": "G1 Mundo",
+      "sourceUrl": "https://g1.globo.com/mundo/",
+      "sourceType": "Imprensa Comercial Brasileira",
+      "sourceEditorial": "Portal de notícias mainstream do Grupo Globo",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://g1.globo.com/mundo/noticia/2026/09/05/projeto-ideologico-radical-por-que-os-eua-foram-o-unico-pais-a-votar-contra-mudanca-do-mapa-mundi-para-corrigir-distorcoes-na-onu.ghtml",
+      "publishedAtStr": "2026-09-05T04:45:00Z",
+      "publishedAtTs": 1788583500000,
+      "rawContent": "Por que os EUA foram o único país a votar contra mudança do mapa - múndi",
+      "linkStatus": "active",
+      "lastChecked": 1788634073220
+    },
+    {
+      "id": "gdelt-rkvqeo3",
+      "title": "Petróleo da Venezuela : as polêmicas do acordo com os EUA anunciado por Trump",
+      "sourceName": "BBC News Brasil",
+      "sourceUrl": "https://www.bbc.com/portuguese",
+      "sourceType": "Imprensa Internacional / Pública",
+      "sourceEditorial": "Emissora pública do Reino Unido; jornalismo global independente",
+      "country": "Reino Unido",
+      "paywall": false,
+      "originalUrl": "https://www.bbc.com/portuguese/articles/cp932r2k9kpo",
+      "publishedAtStr": "2026-09-05T02:15:00Z",
+      "publishedAtTs": 1788574500000,
+      "rawContent": "Petróleo da Venezuela : as polêmicas do acordo com os EUA anunciado por Trump",
+      "linkStatus": "active",
+      "lastChecked": 1788634073220
+    },
+    {
+      "id": "gdelt-l78e6dp",
+      "title": "Tetris nega ter autorizado controverso jogo da Casa Branca contra imigrantes",
+      "sourceName": "O Globo Mundo",
+      "sourceUrl": "https://oglobo.globo.com/mundo/",
+      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
+      "sourceEditorial": "Jornal diário (Grupo Globo) - Conteúdo sob assinatura",
+      "country": "Brasil",
+      "paywall": true,
+      "originalUrl": "https://oglobo.globo.com/mundo/noticia/2026/09/04/tetris-nega-ter-autorizado-controverso-jogo-da-casa-branca-contra-imigrantes.ghtml",
+      "publishedAtStr": "2026-09-05T02:15:00Z",
+      "publishedAtTs": 1788574500000,
+      "rawContent": "Tetris nega ter autorizado controverso jogo da Casa Branca contra imigrantes",
+      "linkStatus": "active",
+      "lastChecked": 1788634073220
+    },
+    {
+      "id": "gdelt-3wx8god",
       "title": "Explosão em instalação militar na Bolívia deixa ao menos 58 feridos",
       "sourceName": "Estadão Internacional",
       "sourceUrl": "https://www.estadao.com.br/internacional/",
@@ -186,7 +490,39 @@
       "lastChecked": 1788632201629
     },
     {
-      "id": "gdelt-lgd9diy",
+      "id": "gdelt-0nuzjmx",
+      "title": "Caso Master : o que pode acontecer com Moraes após supostas mensagens que revelam sua ligao com Vorcaro",
+      "sourceName": "BBC News Brasil",
+      "sourceUrl": "https://www.bbc.com/portuguese",
+      "sourceType": "Imprensa Internacional / Pública",
+      "sourceEditorial": "Emissora pública do Reino Unido; jornalismo global independente",
+      "country": "Reino Unido",
+      "paywall": false,
+      "originalUrl": "https://www.bbc.com/portuguese/articles/cz0z10j4rd7o",
+      "publishedAtStr": "2026-09-05T01:15:00Z",
+      "publishedAtTs": 1788570900000,
+      "rawContent": "Caso Master : o que pode acontecer com Moraes após supostas mensagens que revelam sua ligao com Vorcaro",
+      "linkStatus": "active",
+      "lastChecked": 1788634073220
+    },
+    {
+      "id": "gdelt-kd7vd9o",
+      "title": "EUA fazem teste de polígrafo para investigar vazamentos , diz jornal",
+      "sourceName": "G1 Mundo",
+      "sourceUrl": "https://g1.globo.com/mundo/",
+      "sourceType": "Imprensa Comercial Brasileira",
+      "sourceEditorial": "Portal de notícias mainstream do Grupo Globo",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://g1.globo.com/mundo/noticia/2026/09/04/eua-fazem-teste-de-poligrafo-nas-forcas-armadas-apos-vazamentos-para-imprensa-diz-jornal.ghtml",
+      "publishedAtStr": "2026-09-05T01:00:00Z",
+      "publishedAtTs": 1788570000000,
+      "rawContent": "EUA fazem teste de polígrafo para investigar vazamentos , diz jornal",
+      "linkStatus": "active",
+      "lastChecked": 1788634073220
+    },
+    {
+      "id": "gdelt-ebrtx7n",
       "title": "Os limites da mensagem : o que está por trás do último discurso de Milei sobre as Malvinas ?",
       "sourceName": "Brasil de Fato",
       "sourceUrl": "https://www.brasildefato.com.br/",
@@ -202,7 +538,7 @@
       "lastChecked": 1788633132562
     },
     {
-      "id": "gdelt-njm9llp",
+      "id": "gdelt-xq1j2dl",
       "title": "Eleições de 2026 – o Brasil à beira do precipício outra vez",
       "sourceName": "Brasil de Fato",
       "sourceUrl": "https://www.brasildefato.com.br/",
@@ -218,7 +554,7 @@
       "lastChecked": 1788633132562
     },
     {
-      "id": "gdelt-3n3wvi3",
+      "id": "gdelt-wucu229",
       "title": "É preciso discutir segurança pública além da lógica punitivista , afirma coordenadora da Rede de Justiça Criminal",
       "sourceName": "Brasil de Fato",
       "sourceUrl": "https://www.brasildefato.com.br/",
@@ -234,7 +570,7 @@
       "lastChecked": 1788633132562
     },
     {
-      "id": "gdelt-jbbigvw",
+      "id": "gdelt-h6csejm",
       "title": "Jurado evita absolvio unânime e julgamento de mulher que matou 3 filhos nos EUA é anulado",
       "sourceName": "Estadão Internacional",
       "sourceUrl": "https://www.estadao.com.br/internacional/",
@@ -250,7 +586,7 @@
       "lastChecked": 1788632201629
     },
     {
-      "id": "gdelt-hleprge",
+      "id": "gdelt-pmja9jp",
       "title": "Exportações brasileiras à China caem 10 , 9 % em agosto ante igual mês de 2025",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -266,7 +602,7 @@
       "lastChecked": 1788632201629
     },
     {
-      "id": "gdelt-orl0wnl",
+      "id": "gdelt-z47dkdp",
       "title": "BB , Caixa e cooperativas firmam acordo para tokenizar crédito imobiliário",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -282,7 +618,7 @@
       "lastChecked": 1788632201629
     },
     {
-      "id": "gdelt-tlcc9l8",
+      "id": "gdelt-52h60k9",
       "title": "OpenAI reacende discussão sobre AGI ; entenda por que ainda não chegamos lá",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -298,7 +634,7 @@
       "lastChecked": 1788632201629
     },
     {
-      "id": "gdelt-jpq40fd",
+      "id": "gdelt-txvlrsk",
       "title": "ONU aprova mapa que mostra uma África muito maior do que você aprendeu na escola",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -314,7 +650,7 @@
       "lastChecked": 1788632201629
     },
     {
-      "id": "gdelt-98ei3vh",
+      "id": "gdelt-lvckkoo",
       "title": "Verde , de Stuhlberger , vê  primeiro sinal  de repressão financeira nos EUA",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -330,7 +666,7 @@
       "lastChecked": 1788632201629
     },
     {
-      "id": "gdelt-c8tf2q5",
+      "id": "gdelt-w3fjgln",
       "title": "Estou predestinado a transformar este País em um país de classe média alta , diz Lula",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -346,7 +682,7 @@
       "lastChecked": 1788632201629
     },
     {
-      "id": "gdelt-79bx82m",
+      "id": "gdelt-j90rloe",
       "title": "Empresários articulam novo manifesto para cobrar código de conduta no STF",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -362,7 +698,7 @@
       "lastChecked": 1788632201629
     },
     {
-      "id": "gdelt-tp7q1m2",
+      "id": "gdelt-hiqbkj6",
       "title": "Com novo tarifaço de Trump , exportações para os EUA caem quase 10 % no ano até agosto",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -378,7 +714,7 @@
       "lastChecked": 1788632201629
     },
     {
-      "id": "gdelt-gjaq2w8",
+      "id": "gdelt-odlm2zm",
       "title": "Aliados de Lula defendem nome de governador interino do Rio para vaga ao STF",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -394,7 +730,7 @@
       "lastChecked": 1788632201629
     },
     {
-      "id": "gdelt-2qriwpg",
+      "id": "gdelt-apcw0fn",
       "title": "Taxas dos DIs têm baixas leves com corrida eleitoral novamente no foco",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -410,7 +746,7 @@
       "lastChecked": 1788632201629
     },
     {
-      "id": "gdelt-0ggoqsp",
+      "id": "gdelt-iss5jtb",
       "title": "Auxílio Reconstruo 2026 ? Entenda golpe que united states benefício pago após enchentes no RS",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -426,7 +762,7 @@
       "lastChecked": 1788632201629
     },
     {
-      "id": "gdelt-9sijy57",
+      "id": "gdelt-bsgtz64",
       "title": "Petróleo da Venezuela vira novo campo de batalha entre Trump e Xi",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -442,7 +778,7 @@
       "lastChecked": 1788632201629
     },
     {
-      "id": "gdelt-xkjmhv5",
+      "id": "gdelt-vs4r91u",
       "title": "Governo prevê levantar R$ 22 , 4 bi com leilão extraordinário do pré - sal em 2027",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -458,7 +794,7 @@
       "lastChecked": 1788632201629
     },
     {
-      "id": "gdelt-v6mt2tb",
+      "id": "gdelt-vm3unzz",
       "title": "Blue Owl planeja criar REIT de data centers e levar veículo à bolsa",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -474,7 +810,7 @@
       "lastChecked": 1788632201629
     },
     {
-      "id": "gdelt-3t68xwv",
+      "id": "gdelt-ak5c4q0",
       "title": "Brasil vende mais para EUA apesar de tarifas e tem superávit comercial de US$7 , 394 bi",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -490,7 +826,7 @@
       "lastChecked": 1788632201629
     },
     {
-      "id": "gdelt-vodsd01",
+      "id": "gdelt-g8iad04",
       "title": "Países da UE concordam com modelo para retornar migrantes rejeitados a  centros",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -506,7 +842,7 @@
       "lastChecked": 1788632201629
     },
     {
-      "id": "gdelt-p46xjgt",
+      "id": "gdelt-m87k7wu",
       "title": "ByteDance obtém empréstimo de US$ 30 bilhões , o segundo maior da Ásia neste ano",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -522,7 +858,7 @@
       "lastChecked": 1788632201629
     },
     {
-      "id": "gdelt-wtbdpix",
+      "id": "gdelt-saw4rt3",
       "title": "Milei aposta nas Malvinas para unificar argentinos em meio a estagnação econômica",
       "sourceName": "Estadão Internacional",
       "sourceUrl": "https://www.estadao.com.br/internacional/",
@@ -538,7 +874,7 @@
       "lastChecked": 1788632201629
     },
     {
-      "id": "gdelt-j62j9dz",
+      "id": "gdelt-x3lrqzd",
       "title": "ONU adota novo mapa - múndi de interesse do Sul Global apesar de voto contrário dos EUA",
       "sourceName": "Veja Mundo",
       "sourceUrl": "https://veja.abril.com.br/mundo/",
@@ -554,7 +890,7 @@
       "lastChecked": 1788632201629
     },
     {
-      "id": "gdelt-969z780",
+      "id": "gdelt-mgb4vka",
       "title": "5 modelos de prompts para resumir textos sem perder informaes importantes",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -570,7 +906,7 @@
       "lastChecked": 1788632201629
     },
     {
-      "id": "gdelt-qp3vdan",
+      "id": "gdelt-7s4g484",
       "title": "Maioria das Bolsas da Europa fecha em queda pressionadas por payroll",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -586,7 +922,7 @@
       "lastChecked": 1788632201629
     },
     {
-      "id": "gdelt-si8k4fs",
+      "id": "gdelt-bm4osdu",
       "title": "IBGE : 2 milhões de pessoas trabalhavam em plataformas de serviços no Brasil em 2025",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -602,7 +938,7 @@
       "lastChecked": 1788632201629
     },
     {
-      "id": "gdelt-hr7i5ml",
+      "id": "gdelt-9xngm81",
       "title": "Aécio diz que MG saiu do jogo político nacional e aponta falta de experiência de Zema",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -618,7 +954,7 @@
       "lastChecked": 1788632201629
     },
     {
-      "id": "gdelt-wqc1odo",
+      "id": "gdelt-ds9uica",
       "title": "TRE - MG barra candidatura de Eduardo Cunha a deputado federal",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -634,7 +970,7 @@
       "lastChecked": 1788632201629
     },
     {
-      "id": "gdelt-08z78oq",
+      "id": "gdelt-c4w0i47",
       "title": "S & P 500 e Dow Jones caem após payroll alimentar apostas alta de juros",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -650,7 +986,7 @@
       "lastChecked": 1788632201629
     },
     {
-      "id": "gdelt-1kz1nmw",
+      "id": "gdelt-lrvok0r",
       "title": "Drone russo atinge sede do Serviço de Segurança da Ucrânia em Kiev",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -666,7 +1002,7 @@
       "lastChecked": 1788632201629
     },
     {
-      "id": "gdelt-vnmtf38",
+      "id": "gdelt-c4y6mes",
       "title": "Fundadora do Manas Investem estreia coluna no InfoMoney voltada à mulher investidora",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -682,7 +1018,7 @@
       "lastChecked": 1788632201629
     },
     {
-      "id": "gdelt-nb8pt0w",
+      "id": "gdelt-sm1ogd7",
       "title": "Em meio à crise no STF , Flávio critica Moraes e reforça atos de 7 de Setembro",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -698,7 +1034,7 @@
       "lastChecked": 1788632201629
     },
     {
-      "id": "gdelt-tfhxm5k",
+      "id": "gdelt-ejphiik",
       "title": "Nova Zelândia aprova MDMA para tratar transtorno de estresse pós - traumático",
       "sourceName": "Veja Mundo",
       "sourceUrl": "https://veja.abril.com.br/mundo/",
@@ -714,7 +1050,7 @@
       "lastChecked": 1788632201629
     },
     {
-      "id": "gdelt-jnrsetv",
+      "id": "gdelt-p3o3rk0",
       "title": "Estudantes e pesquisadores protestam na Fapesp contra novas regras de bolsas no exterior",
       "sourceName": "Brasil de Fato",
       "sourceUrl": "https://www.brasildefato.com.br/",
@@ -730,7 +1066,7 @@
       "lastChecked": 1788633132562
     },
     {
-      "id": "gdelt-2jpn5pm",
+      "id": "gdelt-gzonjmg",
       "title": "Precisamos de um projeto de país que não seja dinheiro , defende cientista climática do INPE",
       "sourceName": "Brasil de Fato",
       "sourceUrl": "https://www.brasildefato.com.br/",
@@ -746,7 +1082,7 @@
       "lastChecked": 1788633132562
     },
     {
-      "id": "gdelt-53ysnnq",
+      "id": "gdelt-66p7i4m",
       "title": "Grito dos Excluídos 2026 reivindica  Mulheres Vivas e Soberania  na próxima segunda ( 7 ), em BH",
       "sourceName": "Brasil de Fato",
       "sourceUrl": "https://www.brasildefato.com.br/",
@@ -762,7 +1098,7 @@
       "lastChecked": 1788633132562
     },
     {
-      "id": "gdelt-rmtx5uq",
+      "id": "gdelt-qrtpmwk",
       "title": "Projeo na Central do Brasil pressiona Prefeitura do Rio por tarifa zero no Enem",
       "sourceName": "Brasil de Fato",
       "sourceUrl": "https://www.brasildefato.com.br/",
@@ -778,7 +1114,7 @@
       "lastChecked": 1788633132562
     },
     {
-      "id": "gdelt-b6smii6",
+      "id": "gdelt-nhgmob5",
       "title": "Chico Science e Josué de Castro : como o autor de  Geografia da Fome  influenciou o Manguebeat",
       "sourceName": "Brasil de Fato",
       "sourceUrl": "https://www.brasildefato.com.br/",
@@ -794,7 +1130,7 @@
       "lastChecked": 1788633132562
     },
     {
-      "id": "gdelt-mp5w3rf",
+      "id": "gdelt-2yhno45",
       "title": "Guerra da Ucrânia : ataque de drone atinge prédio do Serviço de Segurança ucraniano em Kiev",
       "sourceName": "Brasil de Fato",
       "sourceUrl": "https://www.brasildefato.com.br/",
@@ -810,7 +1146,7 @@
       "lastChecked": 1788633132562
     },
     {
-      "id": "gdelt-cy3i8ww",
+      "id": "gdelt-b4wx84v",
       "title": "O que abre e o que fecha no feriado de 7 de Setembro ; rodízio de veículos fica suspenso em São Paulo",
       "sourceName": "Brasil de Fato",
       "sourceUrl": "https://www.brasildefato.com.br/",
@@ -826,7 +1162,7 @@
       "lastChecked": 1788633132562
     },
     {
-      "id": "gdelt-hy49r2u",
+      "id": "gdelt-5dbt38j",
       "title": "Mulheres do campo , da floresta e das águas ocupam Alagoa Grande para lançar a 8ª Marcha das Margaridas na PB nesta quinta ( 3 )",
       "sourceName": "Brasil de Fato",
       "sourceUrl": "https://www.brasildefato.com.br/",
@@ -842,7 +1178,7 @@
       "lastChecked": 1788633132562
     },
     {
-      "id": "gdelt-37amddu",
+      "id": "gdelt-i5frxhx",
       "title": "Nova conjuntura mais adversa",
       "sourceName": "Brasil de Fato",
       "sourceUrl": "https://www.brasildefato.com.br/",
@@ -858,7 +1194,7 @@
       "lastChecked": 1788633132562
     },
     {
-      "id": "gdelt-q9iq24d",
+      "id": "gdelt-33l5ukz",
       "title": "Não aprendemos a guardar dinheiro porque nossos pais foram ensinados a pagar conta , afirma Nath Finanças em palestra",
       "sourceName": "Brasil de Fato",
       "sourceUrl": "https://www.brasildefato.com.br/",
@@ -874,7 +1210,7 @@
       "lastChecked": 1788633132562
     },
     {
-      "id": "gdelt-pbmirn3",
+      "id": "gdelt-kyf9d4d",
       "title": "Augusto Cury cresce também em Pernambuco e Lula é o mais afetado , indica Real Time Big Data",
       "sourceName": "Brasil de Fato",
       "sourceUrl": "https://www.brasildefato.com.br/",
@@ -890,7 +1226,7 @@
       "lastChecked": 1788633132562
     },
     {
-      "id": "gdelt-hz4yfef",
+      "id": "gdelt-7buhm5r",
       "title": "União Europeia suspende importação de carnes e produtos do Brasil e ameaça US$ 2 bi em exportações",
       "sourceName": "Brasil de Fato",
       "sourceUrl": "https://www.brasildefato.com.br/",
@@ -906,7 +1242,7 @@
       "lastChecked": 1788633132562
     },
     {
-      "id": "gdelt-7v1yjn9",
+      "id": "gdelt-pmakyly",
       "title": "Empresa contratada pelo governo do DF repassou R$ 1 , 4 milhão a negócio ligado à família de Celina Leão",
       "sourceName": "Brasil de Fato",
       "sourceUrl": "https://www.brasildefato.com.br/",
@@ -920,22 +1256,6 @@
       "rawContent": "Empresa contratada pelo governo do DF repassou R$ 1 , 4 milhão a negócio ligado à família de Celina Leão",
       "linkStatus": "active",
       "lastChecked": 1788633132562
-    },
-    {
-      "id": "gdelt-72iooy5",
-      "title": "Rússia ataca QG do Serviço de Segurança da Ucrânia e Zelensky promete resposta",
-      "sourceName": "Veja Mundo",
-      "sourceUrl": "https://veja.abril.com.br/mundo/",
-      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
-      "sourceEditorial": "Revista semanal - Conteúdo sob assinatura parcial",
-      "country": "Brasil",
-      "paywall": true,
-      "originalUrl": "https://veja.abril.com.br/mundo/russia-ataca-qg-do-servico-de-seguranca-da-ucrania-e-zelensky-promete-resposta/",
-      "publishedAtStr": "2026-09-04T18:45:00Z",
-      "publishedAtTs": 1788547500000,
-      "rawContent": "Rússia ataca QG do Serviço de Segurança da Ucrânia e Zelensky promete resposta",
-      "linkStatus": "active",
-      "lastChecked": 1788632201629
     }
   ]
 }
