@@ -1,16 +1,32 @@
 {
-  "updatedAt": "2026-09-05T01:27:40.218Z",
+  "updatedAt": "2026-09-05T01:44:31.247Z",
   "periodUsed": "24h",
   "count": 32,
   "linkVerificationStats": {
-    "checkedThisRun": 0,
-    "active": 0,
+    "checkedThisRun": 1,
+    "active": 1,
     "broken": 0,
     "unknown": 0
   },
   "articles": [
     {
-      "id": "gdelt-80h66le",
+      "id": "gdelt-6nr83xp",
+      "title": "Caso Master : o que pode acontecer com Moraes após supostas mensagens que revelam sua ligao com Vorcaro",
+      "sourceName": "BBC News Brasil",
+      "sourceUrl": "https://www.bbc.com/portuguese",
+      "sourceType": "Imprensa Internacional / Pública",
+      "sourceEditorial": "Emissora pública do Reino Unido; jornalismo global independente",
+      "country": "Reino Unido",
+      "paywall": false,
+      "originalUrl": "https://www.bbc.com/portuguese/articles/cz0z10j4rd7o",
+      "publishedAtStr": "2026-09-05T01:15:00Z",
+      "publishedAtTs": 1788570900000,
+      "rawContent": "Caso Master : o que pode acontecer com Moraes após supostas mensagens que revelam sua ligao com Vorcaro",
+      "linkStatus": "active",
+      "lastChecked": 1788572669794
+    },
+    {
+      "id": "gdelt-6wqgrk8",
       "title": "EUA fazem teste de polígrafo para investigar vazamentos , diz jornal",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -26,7 +42,7 @@
       "lastChecked": 1788570891251
     },
     {
-      "id": "gdelt-kssshhl",
+      "id": "gdelt-ze3uaqa",
       "title": "Os limites da mensagem : o que está por trás do último discurso de Milei sobre as Malvinas ?",
       "sourceName": "Brasil de Fato",
       "sourceUrl": "https://www.brasildefato.com.br/",
@@ -42,7 +58,7 @@
       "lastChecked": 1788570034563
     },
     {
-      "id": "gdelt-yscq4dt",
+      "id": "gdelt-wo99spf",
       "title": "Eleições de 2026 – o Brasil à beira do precipício outra vez",
       "sourceName": "Brasil de Fato",
       "sourceUrl": "https://www.brasildefato.com.br/",
@@ -58,7 +74,7 @@
       "lastChecked": 1788570034563
     },
     {
-      "id": "gdelt-wy6463z",
+      "id": "gdelt-v5rjh68",
       "title": "É preciso discutir segurança pública além da lógica punitivista , afirma coordenadora da Rede de Justiça Criminal",
       "sourceName": "Brasil de Fato",
       "sourceUrl": "https://www.brasildefato.com.br/",
@@ -74,7 +90,7 @@
       "lastChecked": 1788570034563
     },
     {
-      "id": "gdelt-0namve8",
+      "id": "gdelt-k5v9qi1",
       "title": "Quadro roubado por nazistas que reapareceu na Argentina será devolvido",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -90,7 +106,7 @@
       "lastChecked": 1788570034563
     },
     {
-      "id": "gdelt-y88srnu",
+      "id": "gdelt-06d11r0",
       "title": "Ataques à infraestrutura elevam alerta na Alemanha",
       "sourceName": "DW Brasil",
       "sourceUrl": "https://www.dw.com/pt-br/",
@@ -106,7 +122,7 @@
       "lastChecked": 1788570034563
     },
     {
-      "id": "gdelt-mc6rl44",
+      "id": "gdelt-2ghrh7a",
       "title": "ONU aprova novo mapa mais fiel e que mostra África  maior",
       "sourceName": "DW Brasil",
       "sourceUrl": "https://www.dw.com/pt-br/",
@@ -122,7 +138,7 @@
       "lastChecked": 1788570034563
     },
     {
-      "id": "gdelt-hjr19fj",
+      "id": "gdelt-pyioy0t",
       "title": "Sob aplausos e protestos , Giorgia Meloni celebra longevidade recorde no poder e defende  estabilidade  como sua maior conquista",
       "sourceName": "O Globo Mundo",
       "sourceUrl": "https://oglobo.globo.com/mundo/",
@@ -138,7 +154,7 @@
       "lastChecked": 1788570034563
     },
     {
-      "id": "gdelt-bvyybil",
+      "id": "gdelt-ibayyii",
       "title": "Caso Lindsay Clancy : julgamento de mulher acusada de matar os três filhos nos EUA chega a impasse e juiz deve declarar processo anulado",
       "sourceName": "O Globo Mundo",
       "sourceUrl": "https://oglobo.globo.com/mundo/",
@@ -154,7 +170,7 @@
       "lastChecked": 1788570034563
     },
     {
-      "id": "gdelt-262rk2s",
+      "id": "gdelt-jvpjx0k",
       "title": "Votação sobre novo mapa - múndi se soma a série de aes da ONU contra o legado da escravidão e injustiças históricas ; entenda",
       "sourceName": "O Globo Mundo",
       "sourceUrl": "https://oglobo.globo.com/mundo/",
@@ -170,7 +186,7 @@
       "lastChecked": 1788570034563
     },
     {
-      "id": "gdelt-9wnp5s8",
+      "id": "gdelt-ky2frht",
       "title": "Trump planeja usar jato doado pelo Catar em viagem à Irlanda , apesar de dúvidas sobre segurança",
       "sourceName": "O Globo Mundo",
       "sourceUrl": "https://oglobo.globo.com/mundo/",
@@ -186,7 +202,7 @@
       "lastChecked": 1788570034563
     },
     {
-      "id": "gdelt-ut3o4be",
+      "id": "gdelt-j0tmy6w",
       "title": "Juiz declara julgamento de Lindsay Clancy nulo ; saiba o que ocorre agora com caso de acusada de matar os três filhos",
       "sourceName": "O Globo Mundo",
       "sourceUrl": "https://oglobo.globo.com/mundo/",
@@ -202,7 +218,7 @@
       "lastChecked": 1788570034563
     },
     {
-      "id": "gdelt-tj857k6",
+      "id": "gdelt-vq12iya",
       "title": "Testemunhas dizem que equipes ouviram outras vozes após resgate de dois trabalhadores vivos em túnel no Nepal ; buscas continuam",
       "sourceName": "O Globo Mundo",
       "sourceUrl": "https://oglobo.globo.com/mundo/",
@@ -218,7 +234,7 @@
       "lastChecked": 1788570034563
     },
     {
-      "id": "gdelt-tnskso5",
+      "id": "gdelt-vqwvc0v",
       "title": "Homem descreve sensao de ser atingido por raio nos EUA",
       "sourceName": "BBC News Brasil",
       "sourceUrl": "https://www.bbc.com/portuguese",
@@ -234,7 +250,7 @@
       "lastChecked": 1788570034563
     },
     {
-      "id": "gdelt-7kypn2p",
+      "id": "gdelt-apwucwv",
       "title": "Influenciador da  machosfera  é denunciado por abuso sexual",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -250,7 +266,7 @@
       "lastChecked": 1788570034563
     },
     {
-      "id": "gdelt-tuursag",
+      "id": "gdelt-7u0g59f",
       "title": "Deputado federal é encontrado morto dentro de carro com ferimento de bala no México",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -266,7 +282,7 @@
       "lastChecked": 1788570034563
     },
     {
-      "id": "gdelt-rqpeelb",
+      "id": "gdelt-hgbzico",
       "title": "O que abre e o que fecha no feriado de 7 de Setembro ; rodízio de veículos fica suspenso em São Paulo",
       "sourceName": "Brasil de Fato",
       "sourceUrl": "https://www.brasildefato.com.br/",
@@ -282,7 +298,7 @@
       "lastChecked": 1788570034563
     },
     {
-      "id": "gdelt-pcv1h7j",
+      "id": "gdelt-5t0jfh9",
       "title": "Mulheres do campo , da floresta e das águas ocupam Alagoa Grande para lançar a 8ª Marcha das Margaridas na PB nesta quinta ( 3 )",
       "sourceName": "Brasil de Fato",
       "sourceUrl": "https://www.brasildefato.com.br/",
@@ -298,7 +314,7 @@
       "lastChecked": 1788570034563
     },
     {
-      "id": "gdelt-jp7l2k4",
+      "id": "gdelt-2cmjcrx",
       "title": "Nova conjuntura mais adversa",
       "sourceName": "Brasil de Fato",
       "sourceUrl": "https://www.brasildefato.com.br/",
@@ -314,7 +330,7 @@
       "lastChecked": 1788570034563
     },
     {
-      "id": "gdelt-i232e3u",
+      "id": "gdelt-umsd5gf",
       "title": "Não aprendemos a guardar dinheiro porque nossos pais foram ensinados a pagar conta , afirma Nath Finanças em palestra",
       "sourceName": "Brasil de Fato",
       "sourceUrl": "https://www.brasildefato.com.br/",
@@ -330,7 +346,7 @@
       "lastChecked": 1788570034563
     },
     {
-      "id": "gdelt-scik2k4",
+      "id": "gdelt-iefhco6",
       "title": "Augusto Cury cresce também em Pernambuco e Lula é o mais afetado , indica Real Time Big Data",
       "sourceName": "Brasil de Fato",
       "sourceUrl": "https://www.brasildefato.com.br/",
@@ -346,7 +362,7 @@
       "lastChecked": 1788570034563
     },
     {
-      "id": "gdelt-rvuo2k5",
+      "id": "gdelt-rwkpxtp",
       "title": "União Europeia suspende importação de carnes e produtos do Brasil e ameaça US$ 2 bi em exportações",
       "sourceName": "Brasil de Fato",
       "sourceUrl": "https://www.brasildefato.com.br/",
@@ -362,7 +378,7 @@
       "lastChecked": 1788570034563
     },
     {
-      "id": "gdelt-3rtl5fv",
+      "id": "gdelt-gfoq4fn",
       "title": "Empresa contratada pelo governo do DF repassou R$ 1 , 4 milhão a negócio ligado à família de Celina Leão",
       "sourceName": "Brasil de Fato",
       "sourceUrl": "https://www.brasildefato.com.br/",
@@ -378,7 +394,7 @@
       "lastChecked": 1788570034563
     },
     {
-      "id": "gdelt-g1btu0t",
+      "id": "gdelt-d2k4tdr",
       "title": "Estudantes e pesquisadores protestam na Fapesp contra novas regras de bolsas no exterior",
       "sourceName": "Brasil de Fato",
       "sourceUrl": "https://www.brasildefato.com.br/",
@@ -394,7 +410,7 @@
       "lastChecked": 1788570034563
     },
     {
-      "id": "gdelt-f7ql1r5",
+      "id": "gdelt-ik3iwtz",
       "title": "Precisamos de um projeto de país que não seja dinheiro , defende cientista climática do INPE",
       "sourceName": "Brasil de Fato",
       "sourceUrl": "https://www.brasildefato.com.br/",
@@ -410,7 +426,7 @@
       "lastChecked": 1788570034563
     },
     {
-      "id": "gdelt-57n2ixw",
+      "id": "gdelt-vwjhwjs",
       "title": "Grito dos Excluídos 2026 reivindica  Mulheres Vivas e Soberania  na próxima segunda ( 7 ), em BH",
       "sourceName": "Brasil de Fato",
       "sourceUrl": "https://www.brasildefato.com.br/",
@@ -426,7 +442,7 @@
       "lastChecked": 1788570034563
     },
     {
-      "id": "gdelt-rma42uf",
+      "id": "gdelt-zupfscg",
       "title": "Projeo na Central do Brasil pressiona Prefeitura do Rio por tarifa zero no Enem",
       "sourceName": "Brasil de Fato",
       "sourceUrl": "https://www.brasildefato.com.br/",
@@ -442,7 +458,7 @@
       "lastChecked": 1788570034563
     },
     {
-      "id": "gdelt-2lmb1b3",
+      "id": "gdelt-npg08u4",
       "title": "Chico Science e Josué de Castro : como o autor de  Geografia da Fome  influenciou o Manguebeat",
       "sourceName": "Brasil de Fato",
       "sourceUrl": "https://www.brasildefato.com.br/",
@@ -458,7 +474,7 @@
       "lastChecked": 1788570034563
     },
     {
-      "id": "gdelt-0hsqzeq",
+      "id": "gdelt-b3z0gyk",
       "title": "Guerra da Ucrânia : ataque de drone atinge prédio do Serviço de Segurança ucraniano em Kiev",
       "sourceName": "Brasil de Fato",
       "sourceUrl": "https://www.brasildefato.com.br/",
@@ -474,23 +490,7 @@
       "lastChecked": 1788570034563
     },
     {
-      "id": "gdelt-zxia6ia",
-      "title": "Crise no STF escala com guerra entre Moraes e Mendonça",
-      "sourceName": "DW Brasil",
-      "sourceUrl": "https://www.dw.com/pt-br/",
-      "sourceType": "Imprensa Internacional / Pública",
-      "sourceEditorial": "Emissora pública da Alemanha; foco em diplomacia e direitos humanos",
-      "country": "Alemanha",
-      "paywall": false,
-      "originalUrl": "https://www.dw.com/pt-br/crise-no-stf-escala-com-guerra-entre-moraes-e-mendon%C3%A7a/a-78991438",
-      "publishedAtStr": "2026-09-04T16:45:00Z",
-      "publishedAtTs": 1788540300000,
-      "rawContent": "Crise no STF escala com guerra entre Moraes e Mendonça",
-      "linkStatus": "active",
-      "lastChecked": 1788570034563
-    },
-    {
-      "id": "gdelt-wkx1von",
+      "id": "gdelt-512gmji",
       "title": "Movimentos do campo , florestas e águas se reúnem para debater desafios e estratégias para alimentar e defender o Brasil",
       "sourceName": "Brasil de Fato",
       "sourceUrl": "https://www.brasildefato.com.br/",
@@ -506,7 +506,7 @@
       "lastChecked": 1788570034563
     },
     {
-      "id": "gdelt-rylmsyi",
+      "id": "gdelt-a7sk1ir",
       "title": "Cuba oficializa mudanças que ampliam espaço para o setor privado e flexibilizam investimentos",
       "sourceName": "Brasil de Fato",
       "sourceUrl": "https://www.brasildefato.com.br/",
