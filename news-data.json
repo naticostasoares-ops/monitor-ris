@@ -1,16 +1,32 @@
 {
-  "updatedAt": "2026-09-06T01:14:41.057Z",
+  "updatedAt": "2026-09-06T01:29:44.027Z",
   "periodUsed": "24h",
-  "count": 17,
+  "count": 24,
   "linkVerificationStats": {
-    "checkedThisRun": 0,
-    "active": 0,
+    "checkedThisRun": 7,
+    "active": 7,
     "broken": 0,
     "unknown": 0
   },
   "articles": [
     {
-      "id": "gdelt-9xnd46k",
+      "id": "gdelt-bxdrkjs",
+      "title": "Plano de Trump para a Venezuela ameaça repetir modelo de interveno na América Latina",
+      "sourceName": "Estadão Internacional",
+      "sourceUrl": "https://www.estadao.com.br/internacional/",
+      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
+      "sourceEditorial": "Jornal tradicional de geopolítica - Conteúdo sob assinatura",
+      "country": "Brasil",
+      "paywall": true,
+      "originalUrl": "https://www.estadao.com.br/internacional/lourival-santanna/plano-de-trump-para-a-venezuela-ameaca-repetir-modelo-de-intervencao-na-america-latina/",
+      "publishedAtStr": "2026-09-05T21:15:00Z",
+      "publishedAtTs": 1788642900000,
+      "rawContent": "Plano de Trump para a Venezuela ameaça repetir modelo de interveno na América Latina",
+      "linkStatus": "active",
+      "lastChecked": 1788658178502
+    },
+    {
+      "id": "gdelt-qyd08bo",
       "title": "Mestres Assis e Damião Calixto lançam álbum de toadas gravado em assentamento de Arcoverde",
       "sourceName": "Brasil de Fato",
       "sourceUrl": "https://www.brasildefato.com.br/",
@@ -26,7 +42,7 @@
       "lastChecked": 1788655913253
     },
     {
-      "id": "gdelt-4qguolt",
+      "id": "gdelt-kj1hrqf",
       "title": "Governo do DF prevê R$ 40 , 8 milhões para comunicação digital ; valor inferior para cultura é alvo de críticas",
       "sourceName": "Brasil de Fato",
       "sourceUrl": "https://www.brasildefato.com.br/",
@@ -42,7 +58,7 @@
       "lastChecked": 1788655913253
     },
     {
-      "id": "gdelt-t9f5k3n",
+      "id": "gdelt-o1g3jvu",
       "title": "Feira da Reforma Agrária tem Linn da Quebrada , Sarah Sampp e blocos de carnaval em BH",
       "sourceName": "Brasil de Fato",
       "sourceUrl": "https://www.brasildefato.com.br/",
@@ -58,7 +74,7 @@
       "lastChecked": 1788655913253
     },
     {
-      "id": "gdelt-nmljm3s",
+      "id": "gdelt-f293osv",
       "title": "Caviar , adega e reforma de imóveis integram vantagens de Cláudio Castro no caso Refit , diz PF",
       "sourceName": "Brasil de Fato",
       "sourceUrl": "https://www.brasildefato.com.br/",
@@ -74,7 +90,7 @@
       "lastChecked": 1788655913253
     },
     {
-      "id": "gdelt-keulj72",
+      "id": "gdelt-od3krkn",
       "title": "Grito dos Excluídos vai às ruas de João Pessoa neste 7 de setembro na defesa do trabalho e da soberania",
       "sourceName": "Brasil de Fato",
       "sourceUrl": "https://www.brasildefato.com.br/",
@@ -90,7 +106,7 @@
       "lastChecked": 1788655913253
     },
     {
-      "id": "gdelt-cyt5ttp",
+      "id": "gdelt-gdkm4tz",
       "title": "No Dia da Amazônia , campanha pede que eleitor vote por floresta em pé",
       "sourceName": "Brasil de Fato",
       "sourceUrl": "https://www.brasildefato.com.br/",
@@ -106,7 +122,7 @@
       "lastChecked": 1788655913253
     },
     {
-      "id": "gdelt-xsowiqw",
+      "id": "gdelt-y2y0akq",
       "title": "Enviados dos EUA chegam a Moscou para negociações de paz",
       "sourceName": "Brasil de Fato",
       "sourceUrl": "https://www.brasildefato.com.br/",
@@ -122,7 +138,7 @@
       "lastChecked": 1788655913253
     },
     {
-      "id": "gdelt-u5roztr",
+      "id": "gdelt-5akba44",
       "title": "Movimentos do campo constroem plataforma comum para enfrentar agronegócio e defender territórios",
       "sourceName": "Brasil de Fato",
       "sourceUrl": "https://www.brasildefato.com.br/",
@@ -138,7 +154,7 @@
       "lastChecked": 1788655913253
     },
     {
-      "id": "gdelt-nt2bwon",
+      "id": "gdelt-v30ap0b",
       "title": "Grito dos Excluídos e Excluídas terá caminhada por moradia e vida das mulheres em Porto Alegre",
       "sourceName": "Brasil de Fato",
       "sourceUrl": "https://www.brasildefato.com.br/",
@@ -154,7 +170,7 @@
       "lastChecked": 1788655913253
     },
     {
-      "id": "gdelt-eleqmii",
+      "id": "gdelt-qq3hkv3",
       "title": "Projeto de palhaçaria leva arte e humanização à saúde pública de Curitiba",
       "sourceName": "Brasil de Fato",
       "sourceUrl": "https://www.brasildefato.com.br/",
@@ -170,7 +186,7 @@
       "lastChecked": 1788655913253
     },
     {
-      "id": "gdelt-u56yvlh",
+      "id": "gdelt-3yz3aff",
       "title": "China intensifica a ajuda de emergência ao Nepal com terceiro envio aéreo e equipes de resgate",
       "sourceName": "Brasil de Fato",
       "sourceUrl": "https://www.brasildefato.com.br/",
@@ -186,7 +202,7 @@
       "lastChecked": 1788655913253
     },
     {
-      "id": "gdelt-7q8u0wc",
+      "id": "gdelt-6jqoarp",
       "title": "Ministro Edson Fachin deve levar crise do STF a julgamento no plenário",
       "sourceName": "Brasil de Fato",
       "sourceUrl": "https://www.brasildefato.com.br/",
@@ -202,7 +218,87 @@
       "lastChecked": 1788655913253
     },
     {
-      "id": "gdelt-lz7rn1m",
+      "id": "gdelt-3u79l8b",
+      "title": "Deslizamento na China deixa um morto e 11 desaparecidos após chuvas associadas ao tufão Saudel",
+      "sourceName": "Estadão Internacional",
+      "sourceUrl": "https://www.estadao.com.br/internacional/",
+      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
+      "sourceEditorial": "Jornal tradicional de geopolítica - Conteúdo sob assinatura",
+      "country": "Brasil",
+      "paywall": true,
+      "originalUrl": "https://www.estadao.com.br/internacional/deslizamento-na-china-deixa-desaparecidos-apos-chuvas-associadas-ao-tufao-saudel-npr/",
+      "publishedAtStr": "2026-09-05T16:45:00Z",
+      "publishedAtTs": 1788626700000,
+      "rawContent": "Deslizamento na China deixa um morto e 11 desaparecidos após chuvas associadas ao tufão Saudel",
+      "linkStatus": "active",
+      "lastChecked": 1788658178502
+    },
+    {
+      "id": "gdelt-8gnasv8",
+      "title": "Duas pessoas são encontradas com vida no Nepal dez dias após inundações",
+      "sourceName": "Veja Mundo",
+      "sourceUrl": "https://veja.abril.com.br/mundo/",
+      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
+      "sourceEditorial": "Revista semanal - Conteúdo sob assinatura parcial",
+      "country": "Brasil",
+      "paywall": true,
+      "originalUrl": "https://veja.abril.com.br/mundo/duas-pessoas-sao-encontradas-com-vida-no-nepal-dez-dias-apos-inundacoes/",
+      "publishedAtStr": "2026-09-05T15:00:00Z",
+      "publishedAtTs": 1788620400000,
+      "rawContent": "Duas pessoas são encontradas com vida no Nepal dez dias após inundações",
+      "linkStatus": "active",
+      "lastChecked": 1788658178502
+    },
+    {
+      "id": "gdelt-27kvr88",
+      "title": "Nepal : trabalhador chinês e uma mulher são resgatados dez dias após enchentes ; veja vídeo",
+      "sourceName": "Estadão Internacional",
+      "sourceUrl": "https://www.estadao.com.br/internacional/",
+      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
+      "sourceEditorial": "Jornal tradicional de geopolítica - Conteúdo sob assinatura",
+      "country": "Brasil",
+      "paywall": true,
+      "originalUrl": "https://www.estadao.com.br/internacional/nepal-trabalhador-chines-e-uma-mulher-sao-resgatados-dez-dias-apos-enchentes/",
+      "publishedAtStr": "2026-09-05T11:15:00Z",
+      "publishedAtTs": 1788606900000,
+      "rawContent": "Nepal : trabalhador chinês e uma mulher são resgatados dez dias após enchentes ; veja vídeo",
+      "linkStatus": "active",
+      "lastChecked": 1788658178502
+    },
+    {
+      "id": "gdelt-x8kxnh0",
+      "title": "Trump chama conflito no Irã de  insignificante  e defende fala de Vance sobre não ser uma  guerra",
+      "sourceName": "Estadão Internacional",
+      "sourceUrl": "https://www.estadao.com.br/internacional/",
+      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
+      "sourceEditorial": "Jornal tradicional de geopolítica - Conteúdo sob assinatura",
+      "country": "Brasil",
+      "paywall": true,
+      "originalUrl": "https://www.estadao.com.br/internacional/trump-chama-conflito-no-ira-de-insignificante-e-defende-fala-de-jd-vance-sobre-nao-ser-uma-guerra-npr/",
+      "publishedAtStr": "2026-09-05T11:15:00Z",
+      "publishedAtTs": 1788606900000,
+      "rawContent": "Trump chama conflito no Irã de  insignificante  e defende fala de Vance sobre não ser uma  guerra",
+      "linkStatus": "active",
+      "lastChecked": 1788658178502
+    },
+    {
+      "id": "gdelt-rsjncti",
+      "title": "Venezuela  precisa de muito mais que dinheiro , diz Corina Machado sobre acordo do país com os EUA",
+      "sourceName": "Estadão Internacional",
+      "sourceUrl": "https://www.estadao.com.br/internacional/",
+      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
+      "sourceEditorial": "Jornal tradicional de geopolítica - Conteúdo sob assinatura",
+      "country": "Brasil",
+      "paywall": true,
+      "originalUrl": "https://www.estadao.com.br/internacional/venezuela-precisa-de-muito-mais-que-dinheiro-diz-corina-machado-sobre-acordo-do-pais-com-os-eua-npr/",
+      "publishedAtStr": "2026-09-05T09:45:00Z",
+      "publishedAtTs": 1788601500000,
+      "rawContent": "Venezuela  precisa de muito mais que dinheiro , diz Corina Machado sobre acordo do país com os EUA",
+      "linkStatus": "active",
+      "lastChecked": 1788658178502
+    },
+    {
+      "id": "gdelt-4tknj3x",
       "title": "Jaqueline Kambiwá :  Se nosso território sangra , nossos corpos , enquanto mulheres indígenas , são violados",
       "sourceName": "Brasil de Fato",
       "sourceUrl": "https://www.brasildefato.com.br/",
@@ -218,7 +314,7 @@
       "lastChecked": 1788655913253
     },
     {
-      "id": "gdelt-yrzhxqb",
+      "id": "gdelt-fh0rhoa",
       "title": "Islândia é um dos países mais ricos da região e não tem interesse em entrar na União Europeia , diz analista",
       "sourceName": "Brasil de Fato",
       "sourceUrl": "https://www.brasildefato.com.br/",
@@ -234,7 +330,7 @@
       "lastChecked": 1788655913253
     },
     {
-      "id": "gdelt-2oqjp47",
+      "id": "gdelt-y9jzvfc",
       "title": "Desfile de 7 de Setembro em Brasília começa às 9h na segunda - feira , com presença de Lula ; confira orientações",
       "sourceName": "Brasil de Fato",
       "sourceUrl": "https://www.brasildefato.com.br/",
@@ -250,7 +346,7 @@
       "lastChecked": 1788655913253
     },
     {
-      "id": "gdelt-3jbgaw3",
+      "id": "gdelt-uhbk8mp",
       "title": "Aleida Guevara relembra intimidade com Fidel e fala sobre futuro de Cuba em entrevista exclusiva ao BdF",
       "sourceName": "Brasil de Fato",
       "sourceUrl": "https://www.brasildefato.com.br/",
@@ -266,7 +362,7 @@
       "lastChecked": 1788655913253
     },
     {
-      "id": "gdelt-cdwgng8",
+      "id": "gdelt-bv5qafr",
       "title": "Através da linguagem poética podemos falar de temas urgentes , afirma Lirinha , do Cordel do Fogo Encantado",
       "sourceName": "Brasil de Fato",
       "sourceUrl": "https://www.brasildefato.com.br/",
@@ -280,6 +376,22 @@
       "rawContent": "Através da linguagem poética podemos falar de temas urgentes , afirma Lirinha , do Cordel do Fogo Encantado",
       "linkStatus": "active",
       "lastChecked": 1788655913253
+    },
+    {
+      "id": "gdelt-cdr99jb",
+      "title": "Explosão em instalação militar na Bolívia deixa ao menos 58 feridos",
+      "sourceName": "Estadão Internacional",
+      "sourceUrl": "https://www.estadao.com.br/internacional/",
+      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
+      "sourceEditorial": "Jornal tradicional de geopolítica - Conteúdo sob assinatura",
+      "country": "Brasil",
+      "paywall": true,
+      "originalUrl": "https://www.estadao.com.br/internacional/explosao-em-instalacao-militar-na-bolivia-deixa-feridos-npr/",
+      "publishedAtStr": "2026-09-05T01:30:00Z",
+      "publishedAtTs": 1788571800000,
+      "rawContent": "Explosão em instalação militar na Bolívia deixa ao menos 58 feridos",
+      "linkStatus": "active",
+      "lastChecked": 1788658178502
     }
   ]
 }
