@@ -1,16 +1,16 @@
 {
-  "updatedAt": "2026-09-06T18:46:56.972Z",
+  "updatedAt": "2026-09-06T18:57:56.221Z",
   "periodUsed": "24h",
-  "count": 38,
+  "count": 70,
   "linkVerificationStats": {
-    "checkedThisRun": 26,
-    "active": 26,
+    "checkedThisRun": 32,
+    "active": 32,
     "broken": 0,
     "unknown": 0
   },
   "articles": [
     {
-      "id": "gdelt-nh451dh",
+      "id": "gdelt-tfqkwet",
       "title": "Oriente Médio : Gaza enterra 100 corpos recuperados nos últimos dias",
       "sourceName": "Agência Brasil",
       "sourceUrl": "https://agenciabrasil.ebc.com.br/internacional",
@@ -26,7 +26,7 @@
       "lastChecked": 1788720013071
     },
     {
-      "id": "gdelt-k3nidix",
+      "id": "gdelt-a123yjj",
       "title": "Mulher é encontrada viva no Nepal após família iniciar luto",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -42,7 +42,7 @@
       "lastChecked": 1788720013071
     },
     {
-      "id": "gdelt-n9qzo8a",
+      "id": "gdelt-rzd95tv",
       "title": "Passageiro amarrado com fita em voo nos EUA é identificado",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -58,7 +58,7 @@
       "lastChecked": 1788720013071
     },
     {
-      "id": "gdelt-8i0c4d6",
+      "id": "gdelt-7ch04ml",
       "title": "Governo Trump tenta limitar voto por correio na Suprema Corte",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -74,7 +74,7 @@
       "lastChecked": 1788720013071
     },
     {
-      "id": "gdelt-wpe7x4w",
+      "id": "gdelt-qy1m7al",
       "title": "Eleio na Alemanha : pesquisas de boca de urna apontam grande vitória da direita radical",
       "sourceName": "BBC News Brasil",
       "sourceUrl": "https://www.bbc.com/portuguese",
@@ -90,7 +90,39 @@
       "lastChecked": 1788720013071
     },
     {
-      "id": "gdelt-7nakdq5",
+      "id": "gdelt-4ctgp0f",
+      "title": "Eleio estadual na Alemanha pode levar extrema direita ao poder pela primeira vez desde a 2ª Guerra",
+      "sourceName": "Estadão Internacional",
+      "sourceUrl": "https://www.estadao.com.br/internacional/",
+      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
+      "sourceEditorial": "Jornal tradicional de geopolítica - Conteúdo sob assinatura",
+      "country": "Brasil",
+      "paywall": true,
+      "originalUrl": "https://www.estadao.com.br/internacional/eleicao-estadual-na-alemanha-pode-levar-extrema-direita-ao-poder-pela-primeira-vez-desde-a-2-guerra/?srsltid=AfmBOoqsMya786QHjwuQ9B4aPIHaGXKWuCuwQ7V2P18QHX9ceVyoKq2n",
+      "publishedAtStr": "2026-09-06T18:00:00Z",
+      "publishedAtTs": 1788717600000,
+      "rawContent": "Eleio estadual na Alemanha pode levar extrema direita ao poder pela primeira vez desde a 2ª Guerra",
+      "linkStatus": "active",
+      "lastChecked": 1788721067088
+    },
+    {
+      "id": "gdelt-xtcpbpr",
+      "title": "Boca de urna sugere vitória de partido de extrema direita em eleições estaduais na Alemanha",
+      "sourceName": "Estadão Internacional",
+      "sourceUrl": "https://www.estadao.com.br/internacional/",
+      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
+      "sourceEditorial": "Jornal tradicional de geopolítica - Conteúdo sob assinatura",
+      "country": "Brasil",
+      "paywall": true,
+      "originalUrl": "https://www.estadao.com.br/internacional/boca-de-urna-sugere-vitoria-de-partido-de-extrema-direita-em-eleicoes-estaduais-na-alemanha-npr/",
+      "publishedAtStr": "2026-09-06T18:00:00Z",
+      "publishedAtTs": 1788717600000,
+      "rawContent": "Boca de urna sugere vitória de partido de extrema direita em eleições estaduais na Alemanha",
+      "linkStatus": "active",
+      "lastChecked": 1788721067088
+    },
+    {
+      "id": "gdelt-3ugewc4",
       "title": "Milhares celebram na Sua os 80 anos de Freddie Mercury",
       "sourceName": "DW Brasil",
       "sourceUrl": "https://www.dw.com/pt-br/",
@@ -106,7 +138,7 @@
       "lastChecked": 1788720013071
     },
     {
-      "id": "gdelt-i85269a",
+      "id": "gdelt-vu3g4w6",
       "title": "Eleio alemã tem alta mobilizao e AfD líder nas sondagens",
       "sourceName": "DW Brasil",
       "sourceUrl": "https://www.dw.com/pt-br/",
@@ -122,7 +154,7 @@
       "lastChecked": 1788720013071
     },
     {
-      "id": "gdelt-i8a45ai",
+      "id": "gdelt-w62xf99",
       "title": "Aprovao de Trump registra novo recorde negativo",
       "sourceName": "DW Brasil",
       "sourceUrl": "https://www.dw.com/pt-br/",
@@ -138,7 +170,7 @@
       "lastChecked": 1788720013071
     },
     {
-      "id": "gdelt-pju7hvu",
+      "id": "gdelt-wwtdgpc",
       "title": "Queda de monomotor nos EUA mata duas crianças e deixa dois adultos em estado crítico",
       "sourceName": "O Globo Mundo",
       "sourceUrl": "https://oglobo.globo.com/mundo/",
@@ -154,7 +186,7 @@
       "lastChecked": 1788720013071
     },
     {
-      "id": "gdelt-0ssdbhn",
+      "id": "gdelt-73armie",
       "title": "Incêndio durante casamento deixa pelo menos 22 mortos na República Democrática do Congo",
       "sourceName": "O Globo Mundo",
       "sourceUrl": "https://oglobo.globo.com/mundo/",
@@ -170,7 +202,39 @@
       "lastChecked": 1788720013071
     },
     {
-      "id": "gdelt-o32lug2",
+      "id": "gdelt-4h6rsv4",
+      "title": "Irã ameaçou intensificar as respostas aos ataques dos EUA",
+      "sourceName": "Veja Mundo",
+      "sourceUrl": "https://veja.abril.com.br/mundo/",
+      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
+      "sourceEditorial": "Revista semanal - Conteúdo sob assinatura parcial",
+      "country": "Brasil",
+      "paywall": true,
+      "originalUrl": "https://veja.abril.com.br/mundo/ira-ameacou-intensificar-as-respostas-aos-ataques-dos-eua/",
+      "publishedAtStr": "2026-09-06T16:30:00Z",
+      "publishedAtTs": 1788712200000,
+      "rawContent": "Irã ameaçou intensificar as respostas aos ataques dos EUA",
+      "linkStatus": "active",
+      "lastChecked": 1788721067088
+    },
+    {
+      "id": "gdelt-7m5wiu3",
+      "title": "Apresentadora egípcia é condenada à morte por tráfico e fabricação de drogas sintéticas",
+      "sourceName": "Estadão Internacional",
+      "sourceUrl": "https://www.estadao.com.br/internacional/",
+      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
+      "sourceEditorial": "Jornal tradicional de geopolítica - Conteúdo sob assinatura",
+      "country": "Brasil",
+      "paywall": true,
+      "originalUrl": "https://www.estadao.com.br/internacional/apresentadora-egipcia-e-condenada-a-morte-por-trafico-e-fabricacao-de-drogas/",
+      "publishedAtStr": "2026-09-06T16:00:00Z",
+      "publishedAtTs": 1788710400000,
+      "rawContent": "Apresentadora egípcia é condenada à morte por tráfico e fabricação de drogas sintéticas",
+      "linkStatus": "active",
+      "lastChecked": 1788721067088
+    },
+    {
+      "id": "gdelt-mvebh9s",
       "title": "Escola iraniana atingida por bombardeio vira memorial para crianças ; veja fotos",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -186,7 +250,7 @@
       "lastChecked": 1788720013071
     },
     {
-      "id": "gdelt-x0z07hj",
+      "id": "gdelt-s8dhxl1",
       "title": "A apresentadora de TV condenada à morte por tráfico de drogas no Egito",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -202,7 +266,391 @@
       "lastChecked": 1788720013071
     },
     {
-      "id": "gdelt-0wvzj37",
+      "id": "gdelt-dplxs26",
+      "title": "Café da manhã pode influenciar os níveis de glicose na refeio seguinte , diz estudo",
+      "sourceName": "InfoMoney",
+      "sourceUrl": "https://www.infomoney.com.br/",
+      "sourceType": "Imprensa Comercial Brasileira",
+      "sourceEditorial": "Portal especializado em mercados e economia global",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://www.infomoney.com.br/saude/cafe-da-manha-pode-influenciar-os-niveis-de-glicose-na-refeicao-seguinte-diz-estudo/",
+      "publishedAtStr": "2026-09-06T15:45:00Z",
+      "publishedAtTs": 1788709500000,
+      "rawContent": "Café da manhã pode influenciar os níveis de glicose na refeio seguinte , diz estudo",
+      "linkStatus": "active",
+      "lastChecked": 1788721067088
+    },
+    {
+      "id": "gdelt-8gnczxe",
+      "title": "Sérgio Cabral é condenado a pagar R$ 1 milhão por regalias na prisão",
+      "sourceName": "InfoMoney",
+      "sourceUrl": "https://www.infomoney.com.br/",
+      "sourceType": "Imprensa Comercial Brasileira",
+      "sourceEditorial": "Portal especializado em mercados e economia global",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://www.infomoney.com.br/brasil/sergio-cabral-e-condenado-a-pagar-r-1-milhao-por-regalias-na-prisao/",
+      "publishedAtStr": "2026-09-06T15:45:00Z",
+      "publishedAtTs": 1788709500000,
+      "rawContent": "Sérgio Cabral é condenado a pagar R$ 1 milhão por regalias na prisão",
+      "linkStatus": "active",
+      "lastChecked": 1788721067088
+    },
+    {
+      "id": "gdelt-m2f3z60",
+      "title": "Bancos , Pix , Boletos : como ficam pagamentos no feriado de 7 de Setembro",
+      "sourceName": "InfoMoney",
+      "sourceUrl": "https://www.infomoney.com.br/",
+      "sourceType": "Imprensa Comercial Brasileira",
+      "sourceEditorial": "Portal especializado em mercados e economia global",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://www.infomoney.com.br/minhas-financas/bancos-pix-boletos-como-ficam-pagamentos-no-feriado-de-7-de-setembro/",
+      "publishedAtStr": "2026-09-06T15:45:00Z",
+      "publishedAtTs": 1788709500000,
+      "rawContent": "Bancos , Pix , Boletos : como ficam pagamentos no feriado de 7 de Setembro",
+      "linkStatus": "active",
+      "lastChecked": 1788721067088
+    },
+    {
+      "id": "gdelt-rta6hd7",
+      "title": "Indonésia cancela voos no aeroporto de Jacarta por causa de erupo de vulcão",
+      "sourceName": "InfoMoney",
+      "sourceUrl": "https://www.infomoney.com.br/",
+      "sourceType": "Imprensa Comercial Brasileira",
+      "sourceEditorial": "Portal especializado em mercados e economia global",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://www.infomoney.com.br/mundo/indonesia-cancela-voos-no-aeroporto-de-jacarta-por-causa-de-erupcao-de-vulcao/",
+      "publishedAtStr": "2026-09-06T15:45:00Z",
+      "publishedAtTs": 1788709500000,
+      "rawContent": "Indonésia cancela voos no aeroporto de Jacarta por causa de erupo de vulcão",
+      "linkStatus": "active",
+      "lastChecked": 1788721067088
+    },
+    {
+      "id": "gdelt-y5p0tbg",
+      "title": "Mulher é encontrada viva no Nepal dias após família iniciar rituais fúnebres",
+      "sourceName": "InfoMoney",
+      "sourceUrl": "https://www.infomoney.com.br/",
+      "sourceType": "Imprensa Comercial Brasileira",
+      "sourceEditorial": "Portal especializado em mercados e economia global",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://www.infomoney.com.br/mundo/mulher-e-encontrada-viva-no-nepal-dias-apos-familia-iniciar-rituais-funebres/",
+      "publishedAtStr": "2026-09-06T15:45:00Z",
+      "publishedAtTs": 1788709500000,
+      "rawContent": "Mulher é encontrada viva no Nepal dias após família iniciar rituais fúnebres",
+      "linkStatus": "active",
+      "lastChecked": 1788721067088
+    },
+    {
+      "id": "gdelt-tnw8cov",
+      "title": "Dona de loja de luxo denunciada por noivas acusa funcionária de desviar R$ 1 milhão",
+      "sourceName": "InfoMoney",
+      "sourceUrl": "https://www.infomoney.com.br/",
+      "sourceType": "Imprensa Comercial Brasileira",
+      "sourceEditorial": "Portal especializado em mercados e economia global",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://www.infomoney.com.br/business/dona-de-loja-de-luxo-denunciada-por-noivas-acusa-funcionaria-de-desviar-r-1-milhao/",
+      "publishedAtStr": "2026-09-06T15:45:00Z",
+      "publishedAtTs": 1788709500000,
+      "rawContent": "Dona de loja de luxo denunciada por noivas acusa funcionária de desviar R$ 1 milhão",
+      "linkStatus": "active",
+      "lastChecked": 1788721067088
+    },
+    {
+      "id": "gdelt-8q9fl7l",
+      "title": "Sem Tim Cook perde o brilho ? Apple fica de fora de recomendaes de aes globais",
+      "sourceName": "InfoMoney",
+      "sourceUrl": "https://www.infomoney.com.br/",
+      "sourceType": "Imprensa Comercial Brasileira",
+      "sourceEditorial": "Portal especializado em mercados e economia global",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://www.infomoney.com.br/onde-investir/carteira-recomendada-acoes-internacionais-setembro-2026/",
+      "publishedAtStr": "2026-09-06T15:45:00Z",
+      "publishedAtTs": 1788709500000,
+      "rawContent": "Sem Tim Cook perde o brilho ? Apple fica de fora de recomendaes de aes globais",
+      "linkStatus": "active",
+      "lastChecked": 1788721067088
+    },
+    {
+      "id": "gdelt-kg7d11q",
+      "title": "Enviados de Trump chegam à Ucrânia após se reunirem com Putin",
+      "sourceName": "Veja Mundo",
+      "sourceUrl": "https://veja.abril.com.br/mundo/",
+      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
+      "sourceEditorial": "Revista semanal - Conteúdo sob assinatura parcial",
+      "country": "Brasil",
+      "paywall": true,
+      "originalUrl": "https://veja.abril.com.br/mundo/enviados-de-trump-chegam-a-ucrania-apos-se-reunirem-com-putin/",
+      "publishedAtStr": "2026-09-06T15:45:00Z",
+      "publishedAtTs": 1788709500000,
+      "rawContent": "Enviados de Trump chegam à Ucrânia após se reunirem com Putin",
+      "linkStatus": "active",
+      "lastChecked": 1788721067088
+    },
+    {
+      "id": "gdelt-epkmujf",
+      "title": "Por que a Globo promoveu reestruturação e trocou três diretores do alto escalão ?",
+      "sourceName": "InfoMoney",
+      "sourceUrl": "https://www.infomoney.com.br/",
+      "sourceType": "Imprensa Comercial Brasileira",
+      "sourceEditorial": "Portal especializado em mercados e economia global",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://www.infomoney.com.br/business/por-que-a-globo-promoveu-reestruturacao-e-trocou-tres-diretores-do-alto-escalao/",
+      "publishedAtStr": "2026-09-06T15:45:00Z",
+      "publishedAtTs": 1788709500000,
+      "rawContent": "Por que a Globo promoveu reestruturação e trocou três diretores do alto escalão ?",
+      "linkStatus": "active",
+      "lastChecked": 1788721067088
+    },
+    {
+      "id": "gdelt-70dso72",
+      "title": "Trump quer o petróleo da Venezuela : por que isso não será tão simples ?",
+      "sourceName": "InfoMoney",
+      "sourceUrl": "https://www.infomoney.com.br/",
+      "sourceType": "Imprensa Comercial Brasileira",
+      "sourceEditorial": "Portal especializado em mercados e economia global",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://www.infomoney.com.br/mundo/trump-quer-o-petroleo-da-venezuela-por-que-isso-nao-sera-tao-simples/",
+      "publishedAtStr": "2026-09-06T15:45:00Z",
+      "publishedAtTs": 1788709500000,
+      "rawContent": "Trump quer o petróleo da Venezuela : por que isso não será tão simples ?",
+      "linkStatus": "active",
+      "lastChecked": 1788721067088
+    },
+    {
+      "id": "gdelt-v376gvs",
+      "title": "Tarifaço não afasta empresas brasileiras dos EUA , mas muda a forma de fazer negócios",
+      "sourceName": "InfoMoney",
+      "sourceUrl": "https://www.infomoney.com.br/",
+      "sourceType": "Imprensa Comercial Brasileira",
+      "sourceEditorial": "Portal especializado em mercados e economia global",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://www.infomoney.com.br/business/os-eua-continuam-no-radar-de-empresas-brasileiras-mas-a-internacionalizacao-mudou/",
+      "publishedAtStr": "2026-09-06T15:45:00Z",
+      "publishedAtTs": 1788709500000,
+      "rawContent": "Tarifaço não afasta empresas brasileiras dos EUA , mas muda a forma de fazer negócios",
+      "linkStatus": "active",
+      "lastChecked": 1788721067088
+    },
+    {
+      "id": "gdelt-5nwxmdo",
+      "title": "Em meio a crise , STF reforça esquema de segurança para o Sete de Setembro",
+      "sourceName": "InfoMoney",
+      "sourceUrl": "https://www.infomoney.com.br/",
+      "sourceType": "Imprensa Comercial Brasileira",
+      "sourceEditorial": "Portal especializado em mercados e economia global",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://www.infomoney.com.br/brasil/em-meio-a-crise-stf-reforca-esquema-de-seguranca-para-o-sete-de-setembro/",
+      "publishedAtStr": "2026-09-06T15:45:00Z",
+      "publishedAtTs": 1788709500000,
+      "rawContent": "Em meio a crise , STF reforça esquema de segurança para o Sete de Setembro",
+      "linkStatus": "active",
+      "lastChecked": 1788721067088
+    },
+    {
+      "id": "gdelt-2mza0ki",
+      "title": "Petróleo chique  na Foz do Amazonas : entenda e saiba por que é tão valorizado",
+      "sourceName": "InfoMoney",
+      "sourceUrl": "https://www.infomoney.com.br/",
+      "sourceType": "Imprensa Comercial Brasileira",
+      "sourceEditorial": "Portal especializado em mercados e economia global",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://www.infomoney.com.br/business/petroleo-chique-na-foz-do-amazonas-entenda-e-saiba-por-que-e-tao-valorizado/",
+      "publishedAtStr": "2026-09-06T15:45:00Z",
+      "publishedAtTs": 1788709500000,
+      "rawContent": "Petróleo chique  na Foz do Amazonas : entenda e saiba por que é tão valorizado",
+      "linkStatus": "active",
+      "lastChecked": 1788721067088
+    },
+    {
+      "id": "gdelt-3bq9nb6",
+      "title": "Xi Jinping pretende levar grande delegação de CEOs em visita aos EUA , dizem fontes",
+      "sourceName": "InfoMoney",
+      "sourceUrl": "https://www.infomoney.com.br/",
+      "sourceType": "Imprensa Comercial Brasileira",
+      "sourceEditorial": "Portal especializado em mercados e economia global",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://www.infomoney.com.br/mundo/xi-jinping-pretende-levar-grande-delegacao-de-ceos-em-visita-aos-eua-dizem-fontes/",
+      "publishedAtStr": "2026-09-06T15:45:00Z",
+      "publishedAtTs": 1788709500000,
+      "rawContent": "Xi Jinping pretende levar grande delegação de CEOs em visita aos EUA , dizem fontes",
+      "linkStatus": "active",
+      "lastChecked": 1788721067088
+    },
+    {
+      "id": "gdelt-75laklj",
+      "title": "Uso de canetas emagrecedoras entre crianças aumenta 300 vezes , diz estudo",
+      "sourceName": "InfoMoney",
+      "sourceUrl": "https://www.infomoney.com.br/",
+      "sourceType": "Imprensa Comercial Brasileira",
+      "sourceEditorial": "Portal especializado em mercados e economia global",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://www.infomoney.com.br/saude/uso-de-canetas-emagrecedoras-entre-criancas-aumenta-300-vezes-seguranca-e-incognita/",
+      "publishedAtStr": "2026-09-06T15:45:00Z",
+      "publishedAtTs": 1788709500000,
+      "rawContent": "Uso de canetas emagrecedoras entre crianças aumenta 300 vezes , diz estudo",
+      "linkStatus": "active",
+      "lastChecked": 1788721067088
+    },
+    {
+      "id": "gdelt-vlcl1tu",
+      "title": "Em meio à crise no STF , Michelle Bolsonaro sai em defesa de Mendonça",
+      "sourceName": "InfoMoney",
+      "sourceUrl": "https://www.infomoney.com.br/",
+      "sourceType": "Imprensa Comercial Brasileira",
+      "sourceEditorial": "Portal especializado em mercados e economia global",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://www.infomoney.com.br/politica/em-meio-a-crise-no-stf-michelle-bolsonaro-sai-em-defesa-de-mendonca/",
+      "publishedAtStr": "2026-09-06T15:45:00Z",
+      "publishedAtTs": 1788709500000,
+      "rawContent": "Em meio à crise no STF , Michelle Bolsonaro sai em defesa de Mendonça",
+      "linkStatus": "active",
+      "lastChecked": 1788721067088
+    },
+    {
+      "id": "gdelt-jg0835r",
+      "title": "Zelensky : Ucrânia é  construtiva  e tem propostas prontas para negociar com a Rússia",
+      "sourceName": "InfoMoney",
+      "sourceUrl": "https://www.infomoney.com.br/",
+      "sourceType": "Imprensa Comercial Brasileira",
+      "sourceEditorial": "Portal especializado em mercados e economia global",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://www.infomoney.com.br/mundo/zelensky-ucrania-e-construtiva-e-tem-propostas-prontas-para-negociar-com-a-russia/",
+      "publishedAtStr": "2026-09-06T15:45:00Z",
+      "publishedAtTs": 1788709500000,
+      "rawContent": "Zelensky : Ucrânia é  construtiva  e tem propostas prontas para negociar com a Rússia",
+      "linkStatus": "active",
+      "lastChecked": 1788721067088
+    },
+    {
+      "id": "gdelt-lhdonsi",
+      "title": "Pix bate recorde de transações liquidadas em um único dia",
+      "sourceName": "InfoMoney",
+      "sourceUrl": "https://www.infomoney.com.br/",
+      "sourceType": "Imprensa Comercial Brasileira",
+      "sourceEditorial": "Portal especializado em mercados e economia global",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://www.infomoney.com.br/minhas-financas/pix-bate-recorde-de-transacoes-liquidadas-em-um-unico-dia/",
+      "publishedAtStr": "2026-09-06T15:45:00Z",
+      "publishedAtTs": 1788709500000,
+      "rawContent": "Pix bate recorde de transações liquidadas em um único dia",
+      "linkStatus": "active",
+      "lastChecked": 1788721067088
+    },
+    {
+      "id": "gdelt-w9e98m0",
+      "title": "SoHo paulistano : Accor aposta em Pinheiros – e diária média cresce mais de 20 %",
+      "sourceName": "InfoMoney",
+      "sourceUrl": "https://www.infomoney.com.br/",
+      "sourceType": "Imprensa Comercial Brasileira",
+      "sourceEditorial": "Portal especializado em mercados e economia global",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://www.infomoney.com.br/business/soho-paulistano-accor-aposta-em-pinheiros-e-diaria-media-cresce-mais-de-20/",
+      "publishedAtStr": "2026-09-06T15:45:00Z",
+      "publishedAtTs": 1788709500000,
+      "rawContent": "SoHo paulistano : Accor aposta em Pinheiros – e diária média cresce mais de 20 %",
+      "linkStatus": "active",
+      "lastChecked": 1788721067088
+    },
+    {
+      "id": "gdelt-2tvslvz",
+      "title": "CVC Corp renegocia dívida e alonga vencimentos até 2029",
+      "sourceName": "InfoMoney",
+      "sourceUrl": "https://www.infomoney.com.br/",
+      "sourceType": "Imprensa Comercial Brasileira",
+      "sourceEditorial": "Portal especializado em mercados e economia global",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://www.infomoney.com.br/business/cvc-corp-renegocia-divida-e-alonga-vencimentos-ate-2029/",
+      "publishedAtStr": "2026-09-06T15:45:00Z",
+      "publishedAtTs": 1788709500000,
+      "rawContent": "CVC Corp renegocia dívida e alonga vencimentos até 2029",
+      "linkStatus": "active",
+      "lastChecked": 1788721067088
+    },
+    {
+      "id": "gdelt-6fu2gab",
+      "title": "Sua empresa united states IA . Mas ela está gerando resultado ?",
+      "sourceName": "InfoMoney",
+      "sourceUrl": "https://www.infomoney.com.br/",
+      "sourceType": "Imprensa Comercial Brasileira",
+      "sourceEditorial": "Portal especializado em mercados e economia global",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://www.infomoney.com.br/carreira/ia-nas-empresas-resultado-governanca/",
+      "publishedAtStr": "2026-09-06T15:45:00Z",
+      "publishedAtTs": 1788709500000,
+      "rawContent": "Sua empresa united states IA . Mas ela está gerando resultado ?",
+      "linkStatus": "active",
+      "lastChecked": 1788721067088
+    },
+    {
+      "id": "gdelt-utjtfsf",
+      "title": "Washington Post : Trump perde tempo para restringir voto por correio",
+      "sourceName": "InfoMoney",
+      "sourceUrl": "https://www.infomoney.com.br/",
+      "sourceType": "Imprensa Comercial Brasileira",
+      "sourceEditorial": "Portal especializado em mercados e economia global",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://www.infomoney.com.br/mundo/washington-post-trump-perde-tempo-para-restringir-voto-por-correio/",
+      "publishedAtStr": "2026-09-06T15:45:00Z",
+      "publishedAtTs": 1788709500000,
+      "rawContent": "Washington Post : Trump perde tempo para restringir voto por correio",
+      "linkStatus": "active",
+      "lastChecked": 1788721067088
+    },
+    {
+      "id": "gdelt-i8cpbt6",
+      "title": "Conheça a história da pioneira fábrica de aviões que precedeu a Embraer no Galeão",
+      "sourceName": "InfoMoney",
+      "sourceUrl": "https://www.infomoney.com.br/",
+      "sourceType": "Imprensa Comercial Brasileira",
+      "sourceEditorial": "Portal especializado em mercados e economia global",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://www.infomoney.com.br/business/conheca-a-historia-da-pioneira-fabrica-de-avioes-que-precedeu-a-embraer-no-galeao/",
+      "publishedAtStr": "2026-09-06T15:45:00Z",
+      "publishedAtTs": 1788709500000,
+      "rawContent": "Conheça a história da pioneira fábrica de aviões que precedeu a Embraer no Galeão",
+      "linkStatus": "active",
+      "lastChecked": 1788721067088
+    },
+    {
+      "id": "gdelt-go7gr5g",
+      "title": "Minha Casa , Minha Vida  domina  mercado e evidencia fragilidade nos demais setores",
+      "sourceName": "InfoMoney",
+      "sourceUrl": "https://www.infomoney.com.br/",
+      "sourceType": "Imprensa Comercial Brasileira",
+      "sourceEditorial": "Portal especializado em mercados e economia global",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://www.infomoney.com.br/minhas-financas/minha-casa-minha-vida-domina-mercado-e-evidencia-fragilidade-nos-demais-setores/",
+      "publishedAtStr": "2026-09-06T15:45:00Z",
+      "publishedAtTs": 1788709500000,
+      "rawContent": "Minha Casa , Minha Vida  domina  mercado e evidencia fragilidade nos demais setores",
+      "linkStatus": "active",
+      "lastChecked": 1788721067088
+    },
+    {
+      "id": "gdelt-xyt4xqc",
       "title": "Acidente com ônibus de excursão deixa 25 mortos em Cabo Verde",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -218,7 +666,23 @@
       "lastChecked": 1788720392258
     },
     {
-      "id": "gdelt-975g6t5",
+      "id": "gdelt-yhpkg0p",
+      "title": "Enviados de Trump chegam à Ucrânia para tentar reativar negociações de paz",
+      "sourceName": "Estadão Internacional",
+      "sourceUrl": "https://www.estadao.com.br/internacional/",
+      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
+      "sourceEditorial": "Jornal tradicional de geopolítica - Conteúdo sob assinatura",
+      "country": "Brasil",
+      "paywall": true,
+      "originalUrl": "https://www.estadao.com.br/internacional/enviados-trump-ucrania-negociacoes-paz/",
+      "publishedAtStr": "2026-09-06T13:30:00Z",
+      "publishedAtTs": 1788701400000,
+      "rawContent": "Enviados de Trump chegam à Ucrânia para tentar reativar negociações de paz",
+      "linkStatus": "active",
+      "lastChecked": 1788721067088
+    },
+    {
+      "id": "gdelt-4ntgiux",
       "title": "Israel volta a bombardear sul do Líbano",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -234,7 +698,7 @@
       "lastChecked": 1788720392258
     },
     {
-      "id": "gdelt-h2qx1jq",
+      "id": "gdelt-gam2e9v",
       "title": "Quem é o candidato que pode se tornar o primeiro governador de extrema direita da Alemanha desde a Segunda Guerra",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -250,7 +714,7 @@
       "lastChecked": 1788720392258
     },
     {
-      "id": "gdelt-etbitz5",
+      "id": "gdelt-kinw2t3",
       "title": "Enviados dos EUA chegam a Kiev após reunião com Putin em Moscou",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -266,7 +730,7 @@
       "lastChecked": 1788720392258
     },
     {
-      "id": "gdelt-9ttrgrh",
+      "id": "gdelt-iocc29d",
       "title": "Urnas abrem na Alemanha em eleio estadual com AfD liderando pesquisa",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -282,7 +746,7 @@
       "lastChecked": 1788720392258
     },
     {
-      "id": "gdelt-btioor3",
+      "id": "gdelt-sw2uvrt",
       "title": "Vulcão  filhote do Krakatoa  entra em erupo na Indonésia",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -298,7 +762,7 @@
       "lastChecked": 1788720392258
     },
     {
-      "id": "gdelt-wjgrcus",
+      "id": "gdelt-4lk0ohe",
       "title": "Família relata alívio após resgate de chinês que ficou 10 dias preso em túnel no Nepal",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -314,7 +778,7 @@
       "lastChecked": 1788720392258
     },
     {
-      "id": "gdelt-tzv5qzx",
+      "id": "gdelt-rh2es7n",
       "title": "Rússia e Ucrânia trocam ataques durante visita dos EUA",
       "sourceName": "DW Brasil",
       "sourceUrl": "https://www.dw.com/pt-br/",
@@ -330,7 +794,7 @@
       "lastChecked": 1788720392258
     },
     {
-      "id": "gdelt-89ked9o",
+      "id": "gdelt-lzuskry",
       "title": "Maduro ignorou a soberania popular e teve que entregar a soberania nacional , afirma jornalista que deixou Venezuela após ameaças",
       "sourceName": "O Globo Mundo",
       "sourceUrl": "https://oglobo.globo.com/mundo/",
@@ -346,7 +810,7 @@
       "lastChecked": 1788720392258
     },
     {
-      "id": "gdelt-m7gragv",
+      "id": "gdelt-hxwkd1x",
       "title": "Alemanha planeja escudo antissabotagem após ataque híbrido",
       "sourceName": "DW Brasil",
       "sourceUrl": "https://www.dw.com/pt-br/",
@@ -362,7 +826,7 @@
       "lastChecked": 1788720392258
     },
     {
-      "id": "gdelt-tmqhyxi",
+      "id": "gdelt-ert89u0",
       "title": "Homem morre após saltar de píer e mergulhar de cabeça no mar na Turquia",
       "sourceName": "O Globo Mundo",
       "sourceUrl": "https://oglobo.globo.com/mundo/",
@@ -378,7 +842,7 @@
       "lastChecked": 1788720392258
     },
     {
-      "id": "gdelt-p0gt1bo",
+      "id": "gdelt-80lihl3",
       "title": "Seis aeroportos da Indonésia suspendem operações após erupo do vulcão Anak Krakatoa",
       "sourceName": "O Globo Mundo",
       "sourceUrl": "https://oglobo.globo.com/mundo/",
@@ -394,7 +858,23 @@
       "lastChecked": 1788720392258
     },
     {
-      "id": "gdelt-fwy33ul",
+      "id": "gdelt-3fmi87i",
+      "title": "Eleio estadual na Alemanha pode levar extrema direita ao poder pela primeira vez desde a 2ª Guerra",
+      "sourceName": "Estadão Internacional",
+      "sourceUrl": "https://www.estadao.com.br/internacional/",
+      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
+      "sourceEditorial": "Jornal tradicional de geopolítica - Conteúdo sob assinatura",
+      "country": "Brasil",
+      "paywall": true,
+      "originalUrl": "https://www.estadao.com.br/internacional/eleicao-estadual-na-alemanha-pode-levar-extrema-direita-ao-poder-pela-primeira-vez-desde-a-2-guerra/",
+      "publishedAtStr": "2026-09-06T11:15:00Z",
+      "publishedAtTs": 1788693300000,
+      "rawContent": "Eleio estadual na Alemanha pode levar extrema direita ao poder pela primeira vez desde a 2ª Guerra",
+      "linkStatus": "active",
+      "lastChecked": 1788721067088
+    },
+    {
+      "id": "gdelt-up3xvls",
       "title": "Quem é Alejandro Betancourt , o bilionário do petróleo venezuelano",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -410,7 +890,7 @@
       "lastChecked": 1788720392258
     },
     {
-      "id": "gdelt-e05i28k",
+      "id": "gdelt-kv2cjo5",
       "title": "Apresentadora egípcia é condenada à morte por enforcamento após envolvimento com tráfico de drogas",
       "sourceName": "O Globo Mundo",
       "sourceUrl": "https://oglobo.globo.com/mundo/",
@@ -426,7 +906,7 @@
       "lastChecked": 1788720392258
     },
     {
-      "id": "gdelt-v7et314",
+      "id": "gdelt-9ixao96",
       "title": "Em Gana , caixões personalizados contam a história de quem morreu",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -442,7 +922,7 @@
       "lastChecked": 1788720392258
     },
     {
-      "id": "gdelt-4c4sy7h",
+      "id": "gdelt-11cxdds",
       "title": "Chatbot de IA alerta FBI , e homem que planejava atirar em crianças em escola é preso nos EUA",
       "sourceName": "O Globo Mundo",
       "sourceUrl": "https://oglobo.globo.com/mundo/",
@@ -458,7 +938,7 @@
       "lastChecked": 1788720392258
     },
     {
-      "id": "gdelt-g7dsvvq",
+      "id": "gdelt-j0x6x7v",
       "title": "Bukele decide quem é criminoso em El Salvador , diz jornalista que precisou deixar o país após investigar ligação do governo com criminosos",
       "sourceName": "O Globo Mundo",
       "sourceUrl": "https://oglobo.globo.com/mundo/",
@@ -474,7 +954,7 @@
       "lastChecked": 1788720392258
     },
     {
-      "id": "gdelt-rvpyi27",
+      "id": "gdelt-q7avhwa",
       "title": "Vulcão Anak Krakatau entra em erupo na Indonésia ; 209 voos já foram cancelados",
       "sourceName": "O Globo Mundo",
       "sourceUrl": "https://oglobo.globo.com/mundo/",
@@ -490,7 +970,7 @@
       "lastChecked": 1788720392258
     },
     {
-      "id": "gdelt-hbsbkg0",
+      "id": "gdelt-8np3f0b",
       "title": "Homem pesca em rio na Alemanha e encontra carro roubado que estava submerso há mais de 50 anos",
       "sourceName": "O Globo Mundo",
       "sourceUrl": "https://oglobo.globo.com/mundo/",
@@ -506,7 +986,7 @@
       "lastChecked": 1788720392258
     },
     {
-      "id": "gdelt-2lkbpar",
+      "id": "gdelt-7eaqlgb",
       "title": "Israel começa a atacar o sul do Líbano e ordena evacuação de moradores ; operação seria retaliação contra Hezbollah",
       "sourceName": "O Globo Mundo",
       "sourceUrl": "https://oglobo.globo.com/mundo/",
@@ -522,7 +1002,7 @@
       "lastChecked": 1788720392258
     },
     {
-      "id": "gdelt-jk15vpm",
+      "id": "gdelt-kfabpi9",
       "title": "Por que países europeus estão retirando suas reservas de ouro da América do Norte ?",
       "sourceName": "BBC News Brasil",
       "sourceUrl": "https://www.bbc.com/portuguese",
@@ -538,7 +1018,7 @@
       "lastChecked": 1788720392258
     },
     {
-      "id": "gdelt-idpjntb",
+      "id": "gdelt-d0qz6fw",
       "title": "Por que você nunca realmente supera o ensino médio :  Lembranças que voltam o tempo todo",
       "sourceName": "BBC News Brasil",
       "sourceUrl": "https://www.bbc.com/portuguese",
@@ -554,7 +1034,23 @@
       "lastChecked": 1788720392258
     },
     {
-      "id": "gdelt-75tcpa8",
+      "id": "gdelt-073ydky",
+      "title": "Putin discute guerra na Ucrânia com enviados dos EUA",
+      "sourceName": "Veja Mundo",
+      "sourceUrl": "https://veja.abril.com.br/mundo/",
+      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
+      "sourceEditorial": "Revista semanal - Conteúdo sob assinatura parcial",
+      "country": "Brasil",
+      "paywall": true,
+      "originalUrl": "https://veja.abril.com.br/mundo/putin-discute-guerra-na-ucrania-com-enviados-dos-eua/",
+      "publishedAtStr": "2026-09-06T02:00:00Z",
+      "publishedAtTs": 1788660000000,
+      "rawContent": "Putin discute guerra na Ucrânia com enviados dos EUA",
+      "linkStatus": "active",
+      "lastChecked": 1788721067088
+    },
+    {
+      "id": "gdelt-pb2k1c2",
       "title": "STF : Gilmar Mendes pede proibio de policiais alocados em gabinetes de ministros",
       "sourceName": "BBC News Brasil",
       "sourceUrl": "https://www.bbc.com/portuguese",
@@ -570,7 +1066,7 @@
       "lastChecked": 1788720392258
     },
     {
-      "id": "gdelt-xv912ax",
+      "id": "gdelt-160z0gf",
       "title": "Forças dos EUA dizem ter atacado três petroleiros iranianos",
       "sourceName": "DW Brasil",
       "sourceUrl": "https://www.dw.com/pt-br/",
@@ -586,7 +1082,7 @@
       "lastChecked": 1788720392258
     },
     {
-      "id": "gdelt-edlcib0",
+      "id": "gdelt-rv179dl",
       "title": "Cientistas enterram 2 mil cuecas para estudo do solo",
       "sourceName": "DW Brasil",
       "sourceUrl": "https://www.dw.com/pt-br/",
@@ -602,7 +1098,7 @@
       "lastChecked": 1788720392258
     },
     {
-      "id": "gdelt-6kyrbmq",
+      "id": "gdelt-i3t6ty3",
       "title": "Canal do Panamá começa a reduzir tráfego devido ao El Niño",
       "sourceName": "DW Brasil",
       "sourceUrl": "https://www.dw.com/pt-br/",
@@ -616,6 +1112,22 @@
       "rawContent": "Canal do Panamá começa a reduzir tráfego devido ao El Niño",
       "linkStatus": "active",
       "lastChecked": 1788720392258
+    },
+    {
+      "id": "gdelt-7tv61pq",
+      "title": "Plano de Trump para a Venezuela ameaça repetir modelo de interveno na América Latina",
+      "sourceName": "Estadão Internacional",
+      "sourceUrl": "https://www.estadao.com.br/internacional/",
+      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
+      "sourceEditorial": "Jornal tradicional de geopolítica - Conteúdo sob assinatura",
+      "country": "Brasil",
+      "paywall": true,
+      "originalUrl": "https://www.estadao.com.br/internacional/lourival-santanna/plano-de-trump-para-a-venezuela-ameaca-repetir-modelo-de-intervencao-na-america-latina/",
+      "publishedAtStr": "2026-09-05T21:15:00Z",
+      "publishedAtTs": 1788642900000,
+      "rawContent": "Plano de Trump para a Venezuela ameaça repetir modelo de interveno na América Latina",
+      "linkStatus": "active",
+      "lastChecked": 1788721067088
     }
   ]
 }
