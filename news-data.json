@@ -1,48 +1,16 @@
 {
-  "updatedAt": "2026-09-06T06:59:18.822Z",
+  "updatedAt": "2026-09-06T07:17:04.698Z",
   "periodUsed": "24h",
-  "count": 19,
+  "count": 12,
   "linkVerificationStats": {
-    "checkedThisRun": 7,
-    "active": 7,
+    "checkedThisRun": 0,
+    "active": 0,
     "broken": 0,
     "unknown": 0
   },
   "articles": [
     {
-      "id": "gdelt-b2pabbp",
-      "title": "Putin discute guerra na Ucrânia com enviados dos EUA",
-      "sourceName": "Veja Mundo",
-      "sourceUrl": "https://veja.abril.com.br/mundo/",
-      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
-      "sourceEditorial": "Revista semanal - Conteúdo sob assinatura parcial",
-      "country": "Brasil",
-      "paywall": true,
-      "originalUrl": "https://veja.abril.com.br/mundo/putin-discute-guerra-na-ucrania-com-enviados-dos-eua/",
-      "publishedAtStr": "2026-09-06T02:00:00Z",
-      "publishedAtTs": 1788660000000,
-      "rawContent": "Putin discute guerra na Ucrânia com enviados dos EUA",
-      "linkStatus": "active",
-      "lastChecked": 1788677956671
-    },
-    {
-      "id": "gdelt-jaq8mku",
-      "title": "Plano de Trump para a Venezuela ameaça repetir modelo de interveno na América Latina",
-      "sourceName": "Estadão Internacional",
-      "sourceUrl": "https://www.estadao.com.br/internacional/",
-      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
-      "sourceEditorial": "Jornal tradicional de geopolítica - Conteúdo sob assinatura",
-      "country": "Brasil",
-      "paywall": true,
-      "originalUrl": "https://www.estadao.com.br/internacional/lourival-santanna/plano-de-trump-para-a-venezuela-ameaca-repetir-modelo-de-intervencao-na-america-latina/",
-      "publishedAtStr": "2026-09-05T21:15:00Z",
-      "publishedAtTs": 1788642900000,
-      "rawContent": "Plano de Trump para a Venezuela ameaça repetir modelo de interveno na América Latina",
-      "linkStatus": "active",
-      "lastChecked": 1788677956671
-    },
-    {
-      "id": "gdelt-zftqr1m",
+      "id": "gdelt-nvda90u",
       "title": "Mestres Assis e Damião Calixto lançam álbum de toadas gravado em assentamento de Arcoverde",
       "sourceName": "Brasil de Fato",
       "sourceUrl": "https://www.brasildefato.com.br/",
@@ -58,7 +26,7 @@
       "lastChecked": 1788671651199
     },
     {
-      "id": "gdelt-nqrjeye",
+      "id": "gdelt-w36apyp",
       "title": "Governo do DF prevê R$ 40 , 8 milhões para comunicação digital ; valor inferior para cultura é alvo de críticas",
       "sourceName": "Brasil de Fato",
       "sourceUrl": "https://www.brasildefato.com.br/",
@@ -74,7 +42,7 @@
       "lastChecked": 1788671651199
     },
     {
-      "id": "gdelt-zoyle95",
+      "id": "gdelt-i9gbz7t",
       "title": "Feira da Reforma Agrária tem Linn da Quebrada , Sarah Sampp e blocos de carnaval em BH",
       "sourceName": "Brasil de Fato",
       "sourceUrl": "https://www.brasildefato.com.br/",
@@ -90,7 +58,7 @@
       "lastChecked": 1788671651199
     },
     {
-      "id": "gdelt-o15w8fp",
+      "id": "gdelt-xqwvkx1",
       "title": "Caviar , adega e reforma de imóveis integram vantagens de Cláudio Castro no caso Refit , diz PF",
       "sourceName": "Brasil de Fato",
       "sourceUrl": "https://www.brasildefato.com.br/",
@@ -106,7 +74,7 @@
       "lastChecked": 1788671651199
     },
     {
-      "id": "gdelt-zk76mz8",
+      "id": "gdelt-5tv7mh1",
       "title": "Grito dos Excluídos vai às ruas de João Pessoa neste 7 de setembro na defesa do trabalho e da soberania",
       "sourceName": "Brasil de Fato",
       "sourceUrl": "https://www.brasildefato.com.br/",
@@ -122,7 +90,7 @@
       "lastChecked": 1788671651199
     },
     {
-      "id": "gdelt-w05qhho",
+      "id": "gdelt-nqarft7",
       "title": "No Dia da Amazônia , campanha pede que eleitor vote por floresta em pé",
       "sourceName": "Brasil de Fato",
       "sourceUrl": "https://www.brasildefato.com.br/",
@@ -138,7 +106,7 @@
       "lastChecked": 1788671651199
     },
     {
-      "id": "gdelt-31443qs",
+      "id": "gdelt-mrswydj",
       "title": "Enviados dos EUA chegam a Moscou para negociações de paz",
       "sourceName": "Brasil de Fato",
       "sourceUrl": "https://www.brasildefato.com.br/",
@@ -154,7 +122,7 @@
       "lastChecked": 1788671651199
     },
     {
-      "id": "gdelt-aaspjyp",
+      "id": "gdelt-px6s08d",
       "title": "Movimentos do campo constroem plataforma comum para enfrentar agronegócio e defender territórios",
       "sourceName": "Brasil de Fato",
       "sourceUrl": "https://www.brasildefato.com.br/",
@@ -170,7 +138,7 @@
       "lastChecked": 1788671651199
     },
     {
-      "id": "gdelt-o3eaoxq",
+      "id": "gdelt-y3qr7lc",
       "title": "Grito dos Excluídos e Excluídas terá caminhada por moradia e vida das mulheres em Porto Alegre",
       "sourceName": "Brasil de Fato",
       "sourceUrl": "https://www.brasildefato.com.br/",
@@ -186,7 +154,7 @@
       "lastChecked": 1788671651199
     },
     {
-      "id": "gdelt-30dn0he",
+      "id": "gdelt-b9ys8ef",
       "title": "Projeto de palhaçaria leva arte e humanização à saúde pública de Curitiba",
       "sourceName": "Brasil de Fato",
       "sourceUrl": "https://www.brasildefato.com.br/",
@@ -202,7 +170,7 @@
       "lastChecked": 1788671651199
     },
     {
-      "id": "gdelt-svsuspm",
+      "id": "gdelt-egcu68x",
       "title": "China intensifica a ajuda de emergência ao Nepal com terceiro envio aéreo e equipes de resgate",
       "sourceName": "Brasil de Fato",
       "sourceUrl": "https://www.brasildefato.com.br/",
@@ -218,7 +186,7 @@
       "lastChecked": 1788671651199
     },
     {
-      "id": "gdelt-g7jx4ov",
+      "id": "gdelt-bjtqax0",
       "title": "Ministro Edson Fachin deve levar crise do STF a julgamento no plenário",
       "sourceName": "Brasil de Fato",
       "sourceUrl": "https://www.brasildefato.com.br/",
@@ -232,86 +200,6 @@
       "rawContent": "Ministro Edson Fachin deve levar crise do STF a julgamento no plenário",
       "linkStatus": "active",
       "lastChecked": 1788671651199
-    },
-    {
-      "id": "gdelt-r014924",
-      "title": "Deslizamento na China deixa um morto e 11 desaparecidos após chuvas associadas ao tufão Saudel",
-      "sourceName": "Estadão Internacional",
-      "sourceUrl": "https://www.estadao.com.br/internacional/",
-      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
-      "sourceEditorial": "Jornal tradicional de geopolítica - Conteúdo sob assinatura",
-      "country": "Brasil",
-      "paywall": true,
-      "originalUrl": "https://www.estadao.com.br/internacional/deslizamento-na-china-deixa-desaparecidos-apos-chuvas-associadas-ao-tufao-saudel-npr/",
-      "publishedAtStr": "2026-09-05T16:45:00Z",
-      "publishedAtTs": 1788626700000,
-      "rawContent": "Deslizamento na China deixa um morto e 11 desaparecidos após chuvas associadas ao tufão Saudel",
-      "linkStatus": "active",
-      "lastChecked": 1788677956671
-    },
-    {
-      "id": "gdelt-gzt9ccl",
-      "title": "Duas pessoas são encontradas com vida no Nepal dez dias após inundações",
-      "sourceName": "Veja Mundo",
-      "sourceUrl": "https://veja.abril.com.br/mundo/",
-      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
-      "sourceEditorial": "Revista semanal - Conteúdo sob assinatura parcial",
-      "country": "Brasil",
-      "paywall": true,
-      "originalUrl": "https://veja.abril.com.br/mundo/duas-pessoas-sao-encontradas-com-vida-no-nepal-dez-dias-apos-inundacoes/",
-      "publishedAtStr": "2026-09-05T15:00:00Z",
-      "publishedAtTs": 1788620400000,
-      "rawContent": "Duas pessoas são encontradas com vida no Nepal dez dias após inundações",
-      "linkStatus": "active",
-      "lastChecked": 1788677956671
-    },
-    {
-      "id": "gdelt-8pgxb8p",
-      "title": "Nepal : trabalhador chinês e uma mulher são resgatados dez dias após enchentes ; veja vídeo",
-      "sourceName": "Estadão Internacional",
-      "sourceUrl": "https://www.estadao.com.br/internacional/",
-      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
-      "sourceEditorial": "Jornal tradicional de geopolítica - Conteúdo sob assinatura",
-      "country": "Brasil",
-      "paywall": true,
-      "originalUrl": "https://www.estadao.com.br/internacional/nepal-trabalhador-chines-e-uma-mulher-sao-resgatados-dez-dias-apos-enchentes/",
-      "publishedAtStr": "2026-09-05T11:15:00Z",
-      "publishedAtTs": 1788606900000,
-      "rawContent": "Nepal : trabalhador chinês e uma mulher são resgatados dez dias após enchentes ; veja vídeo",
-      "linkStatus": "active",
-      "lastChecked": 1788677956671
-    },
-    {
-      "id": "gdelt-hgwsxwr",
-      "title": "Trump chama conflito no Irã de  insignificante  e defende fala de Vance sobre não ser uma  guerra",
-      "sourceName": "Estadão Internacional",
-      "sourceUrl": "https://www.estadao.com.br/internacional/",
-      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
-      "sourceEditorial": "Jornal tradicional de geopolítica - Conteúdo sob assinatura",
-      "country": "Brasil",
-      "paywall": true,
-      "originalUrl": "https://www.estadao.com.br/internacional/trump-chama-conflito-no-ira-de-insignificante-e-defende-fala-de-jd-vance-sobre-nao-ser-uma-guerra-npr/",
-      "publishedAtStr": "2026-09-05T11:15:00Z",
-      "publishedAtTs": 1788606900000,
-      "rawContent": "Trump chama conflito no Irã de  insignificante  e defende fala de Vance sobre não ser uma  guerra",
-      "linkStatus": "active",
-      "lastChecked": 1788677956671
-    },
-    {
-      "id": "gdelt-p7fllzp",
-      "title": "Venezuela  precisa de muito mais que dinheiro , diz Corina Machado sobre acordo do país com os EUA",
-      "sourceName": "Estadão Internacional",
-      "sourceUrl": "https://www.estadao.com.br/internacional/",
-      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
-      "sourceEditorial": "Jornal tradicional de geopolítica - Conteúdo sob assinatura",
-      "country": "Brasil",
-      "paywall": true,
-      "originalUrl": "https://www.estadao.com.br/internacional/venezuela-precisa-de-muito-mais-que-dinheiro-diz-corina-machado-sobre-acordo-do-pais-com-os-eua-npr/",
-      "publishedAtStr": "2026-09-05T09:45:00Z",
-      "publishedAtTs": 1788601500000,
-      "rawContent": "Venezuela  precisa de muito mais que dinheiro , diz Corina Machado sobre acordo do país com os EUA",
-      "linkStatus": "active",
-      "lastChecked": 1788677956671
     }
   ]
 }
