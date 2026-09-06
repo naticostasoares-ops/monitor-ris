@@ -1,16 +1,16 @@
 {
-  "updatedAt": "2026-09-06T09:44:41.310Z",
+  "updatedAt": "2026-09-06T09:57:55.295Z",
   "periodUsed": "24h",
-  "count": 7,
+  "count": 6,
   "linkVerificationStats": {
-    "checkedThisRun": 7,
-    "active": 7,
+    "checkedThisRun": 0,
+    "active": 0,
     "broken": 0,
     "unknown": 0
   },
   "articles": [
     {
-      "id": "gdelt-9t0dy1c",
+      "id": "gdelt-2o6th5n",
       "title": "Putin discute guerra na Ucrânia com enviados dos EUA",
       "sourceName": "Veja Mundo",
       "sourceUrl": "https://veja.abril.com.br/mundo/",
@@ -26,7 +26,7 @@
       "lastChecked": 1788687876883
     },
     {
-      "id": "gdelt-5idzb9y",
+      "id": "gdelt-c7dt8ni",
       "title": "Plano de Trump para a Venezuela ameaça repetir modelo de interveno na América Latina",
       "sourceName": "Estadão Internacional",
       "sourceUrl": "https://www.estadao.com.br/internacional/",
@@ -42,7 +42,7 @@
       "lastChecked": 1788687876883
     },
     {
-      "id": "gdelt-dma69fb",
+      "id": "gdelt-vpvg1c9",
       "title": "Deslizamento na China deixa um morto e 11 desaparecidos após chuvas associadas ao tufão Saudel",
       "sourceName": "Estadão Internacional",
       "sourceUrl": "https://www.estadao.com.br/internacional/",
@@ -58,7 +58,7 @@
       "lastChecked": 1788687876883
     },
     {
-      "id": "gdelt-u1boben",
+      "id": "gdelt-w2idg1l",
       "title": "Duas pessoas são encontradas com vida no Nepal dez dias após inundações",
       "sourceName": "Veja Mundo",
       "sourceUrl": "https://veja.abril.com.br/mundo/",
@@ -74,7 +74,7 @@
       "lastChecked": 1788687876883
     },
     {
-      "id": "gdelt-dn5gang",
+      "id": "gdelt-b46802w",
       "title": "Nepal : trabalhador chinês e uma mulher são resgatados dez dias após enchentes ; veja vídeo",
       "sourceName": "Estadão Internacional",
       "sourceUrl": "https://www.estadao.com.br/internacional/",
@@ -90,7 +90,7 @@
       "lastChecked": 1788687876883
     },
     {
-      "id": "gdelt-l11of7f",
+      "id": "gdelt-flu17c3",
       "title": "Trump chama conflito no Irã de  insignificante  e defende fala de Vance sobre não ser uma  guerra",
       "sourceName": "Estadão Internacional",
       "sourceUrl": "https://www.estadao.com.br/internacional/",
@@ -102,22 +102,6 @@
       "publishedAtStr": "2026-09-05T11:15:00Z",
       "publishedAtTs": 1788606900000,
       "rawContent": "Trump chama conflito no Irã de  insignificante  e defende fala de Vance sobre não ser uma  guerra",
-      "linkStatus": "active",
-      "lastChecked": 1788687876883
-    },
-    {
-      "id": "gdelt-ai1u5mt",
-      "title": "Venezuela  precisa de muito mais que dinheiro , diz Corina Machado sobre acordo do país com os EUA",
-      "sourceName": "Estadão Internacional",
-      "sourceUrl": "https://www.estadao.com.br/internacional/",
-      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
-      "sourceEditorial": "Jornal tradicional de geopolítica - Conteúdo sob assinatura",
-      "country": "Brasil",
-      "paywall": true,
-      "originalUrl": "https://www.estadao.com.br/internacional/venezuela-precisa-de-muito-mais-que-dinheiro-diz-corina-machado-sobre-acordo-do-pais-com-os-eua-npr/",
-      "publishedAtStr": "2026-09-05T09:45:00Z",
-      "publishedAtTs": 1788601500000,
-      "rawContent": "Venezuela  precisa de muito mais que dinheiro , diz Corina Machado sobre acordo do país com os EUA",
       "linkStatus": "active",
       "lastChecked": 1788687876883
     }
