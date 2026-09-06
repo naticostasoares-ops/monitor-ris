@@ -1,16 +1,64 @@
 {
-  "updatedAt": "2026-09-06T11:56:24.067Z",
+  "updatedAt": "2026-09-06T12:18:13.458Z",
   "periodUsed": "24h",
-  "count": 12,
+  "count": 17,
   "linkVerificationStats": {
-    "checkedThisRun": 12,
-    "active": 12,
+    "checkedThisRun": 5,
+    "active": 5,
     "broken": 0,
     "unknown": 0
   },
   "articles": [
     {
-      "id": "gdelt-3x8h2r5",
+      "id": "gdelt-c3x3d48",
+      "title": "Eleio estadual na Alemanha pode levar extrema direita ao poder pela primeira vez desde a 2ª Guerra",
+      "sourceName": "Estadão Internacional",
+      "sourceUrl": "https://www.estadao.com.br/internacional/",
+      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
+      "sourceEditorial": "Jornal tradicional de geopolítica - Conteúdo sob assinatura",
+      "country": "Brasil",
+      "paywall": true,
+      "originalUrl": "https://www.estadao.com.br/internacional/eleicao-estadual-na-alemanha-pode-levar-extrema-direita-ao-poder-pela-primeira-vez-desde-a-2-guerra/",
+      "publishedAtStr": "2026-09-06T11:15:00Z",
+      "publishedAtTs": 1788693300000,
+      "rawContent": "Eleio estadual na Alemanha pode levar extrema direita ao poder pela primeira vez desde a 2ª Guerra",
+      "linkStatus": "active",
+      "lastChecked": 1788697091585
+    },
+    {
+      "id": "gdelt-wwto727",
+      "title": "Putin discute guerra na Ucrânia com enviados dos EUA",
+      "sourceName": "Veja Mundo",
+      "sourceUrl": "https://veja.abril.com.br/mundo/",
+      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
+      "sourceEditorial": "Revista semanal - Conteúdo sob assinatura parcial",
+      "country": "Brasil",
+      "paywall": true,
+      "originalUrl": "https://veja.abril.com.br/mundo/putin-discute-guerra-na-ucrania-com-enviados-dos-eua/",
+      "publishedAtStr": "2026-09-06T02:00:00Z",
+      "publishedAtTs": 1788660000000,
+      "rawContent": "Putin discute guerra na Ucrânia com enviados dos EUA",
+      "linkStatus": "active",
+      "lastChecked": 1788697091585
+    },
+    {
+      "id": "gdelt-nu6h8qs",
+      "title": "Plano de Trump para a Venezuela ameaça repetir modelo de interveno na América Latina",
+      "sourceName": "Estadão Internacional",
+      "sourceUrl": "https://www.estadao.com.br/internacional/",
+      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
+      "sourceEditorial": "Jornal tradicional de geopolítica - Conteúdo sob assinatura",
+      "country": "Brasil",
+      "paywall": true,
+      "originalUrl": "https://www.estadao.com.br/internacional/lourival-santanna/plano-de-trump-para-a-venezuela-ameaca-repetir-modelo-de-intervencao-na-america-latina/",
+      "publishedAtStr": "2026-09-05T21:15:00Z",
+      "publishedAtTs": 1788642900000,
+      "rawContent": "Plano de Trump para a Venezuela ameaça repetir modelo de interveno na América Latina",
+      "linkStatus": "active",
+      "lastChecked": 1788697091585
+    },
+    {
+      "id": "gdelt-nu509fr",
       "title": "Mestres Assis e Damião Calixto lançam álbum de toadas gravado em assentamento de Arcoverde",
       "sourceName": "Brasil de Fato",
       "sourceUrl": "https://www.brasildefato.com.br/",
@@ -26,7 +74,7 @@
       "lastChecked": 1788695780283
     },
     {
-      "id": "gdelt-jozz3fl",
+      "id": "gdelt-5th49wo",
       "title": "Governo do DF prevê R$ 40 , 8 milhões para comunicação digital ; valor inferior para cultura é alvo de críticas",
       "sourceName": "Brasil de Fato",
       "sourceUrl": "https://www.brasildefato.com.br/",
@@ -42,7 +90,7 @@
       "lastChecked": 1788695780283
     },
     {
-      "id": "gdelt-lsshd0o",
+      "id": "gdelt-6jh2qhj",
       "title": "Feira da Reforma Agrária tem Linn da Quebrada , Sarah Sampp e blocos de carnaval em BH",
       "sourceName": "Brasil de Fato",
       "sourceUrl": "https://www.brasildefato.com.br/",
@@ -58,7 +106,7 @@
       "lastChecked": 1788695780283
     },
     {
-      "id": "gdelt-ca6hlik",
+      "id": "gdelt-bfxilkc",
       "title": "Caviar , adega e reforma de imóveis integram vantagens de Cláudio Castro no caso Refit , diz PF",
       "sourceName": "Brasil de Fato",
       "sourceUrl": "https://www.brasildefato.com.br/",
@@ -74,7 +122,7 @@
       "lastChecked": 1788695780283
     },
     {
-      "id": "gdelt-ja9126b",
+      "id": "gdelt-75enpwk",
       "title": "Grito dos Excluídos vai às ruas de João Pessoa neste 7 de setembro na defesa do trabalho e da soberania",
       "sourceName": "Brasil de Fato",
       "sourceUrl": "https://www.brasildefato.com.br/",
@@ -90,7 +138,7 @@
       "lastChecked": 1788695780283
     },
     {
-      "id": "gdelt-7yvubsi",
+      "id": "gdelt-1ly06iw",
       "title": "No Dia da Amazônia , campanha pede que eleitor vote por floresta em pé",
       "sourceName": "Brasil de Fato",
       "sourceUrl": "https://www.brasildefato.com.br/",
@@ -106,7 +154,7 @@
       "lastChecked": 1788695780283
     },
     {
-      "id": "gdelt-wejqn8k",
+      "id": "gdelt-1eymqdy",
       "title": "Enviados dos EUA chegam a Moscou para negociações de paz",
       "sourceName": "Brasil de Fato",
       "sourceUrl": "https://www.brasildefato.com.br/",
@@ -122,7 +170,7 @@
       "lastChecked": 1788695780283
     },
     {
-      "id": "gdelt-99uhin2",
+      "id": "gdelt-zlhosf0",
       "title": "Movimentos do campo constroem plataforma comum para enfrentar agronegócio e defender territórios",
       "sourceName": "Brasil de Fato",
       "sourceUrl": "https://www.brasildefato.com.br/",
@@ -138,7 +186,7 @@
       "lastChecked": 1788695780283
     },
     {
-      "id": "gdelt-me28vzl",
+      "id": "gdelt-g4cgm26",
       "title": "Grito dos Excluídos e Excluídas terá caminhada por moradia e vida das mulheres em Porto Alegre",
       "sourceName": "Brasil de Fato",
       "sourceUrl": "https://www.brasildefato.com.br/",
@@ -154,7 +202,7 @@
       "lastChecked": 1788695780283
     },
     {
-      "id": "gdelt-wqol5n1",
+      "id": "gdelt-mocrxbm",
       "title": "Projeto de palhaçaria leva arte e humanização à saúde pública de Curitiba",
       "sourceName": "Brasil de Fato",
       "sourceUrl": "https://www.brasildefato.com.br/",
@@ -170,7 +218,7 @@
       "lastChecked": 1788695780283
     },
     {
-      "id": "gdelt-jnkhgy4",
+      "id": "gdelt-y59yw7t",
       "title": "China intensifica a ajuda de emergência ao Nepal com terceiro envio aéreo e equipes de resgate",
       "sourceName": "Brasil de Fato",
       "sourceUrl": "https://www.brasildefato.com.br/",
@@ -186,7 +234,7 @@
       "lastChecked": 1788695780283
     },
     {
-      "id": "gdelt-jk5ovad",
+      "id": "gdelt-dhl2sxs",
       "title": "Ministro Edson Fachin deve levar crise do STF a julgamento no plenário",
       "sourceName": "Brasil de Fato",
       "sourceUrl": "https://www.brasildefato.com.br/",
@@ -200,6 +248,38 @@
       "rawContent": "Ministro Edson Fachin deve levar crise do STF a julgamento no plenário",
       "linkStatus": "active",
       "lastChecked": 1788695780283
+    },
+    {
+      "id": "gdelt-7r7h7t8",
+      "title": "Deslizamento na China deixa um morto e 11 desaparecidos após chuvas associadas ao tufão Saudel",
+      "sourceName": "Estadão Internacional",
+      "sourceUrl": "https://www.estadao.com.br/internacional/",
+      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
+      "sourceEditorial": "Jornal tradicional de geopolítica - Conteúdo sob assinatura",
+      "country": "Brasil",
+      "paywall": true,
+      "originalUrl": "https://www.estadao.com.br/internacional/deslizamento-na-china-deixa-desaparecidos-apos-chuvas-associadas-ao-tufao-saudel-npr/",
+      "publishedAtStr": "2026-09-05T16:45:00Z",
+      "publishedAtTs": 1788626700000,
+      "rawContent": "Deslizamento na China deixa um morto e 11 desaparecidos após chuvas associadas ao tufão Saudel",
+      "linkStatus": "active",
+      "lastChecked": 1788697091585
+    },
+    {
+      "id": "gdelt-w2szb24",
+      "title": "Duas pessoas são encontradas com vida no Nepal dez dias após inundações",
+      "sourceName": "Veja Mundo",
+      "sourceUrl": "https://veja.abril.com.br/mundo/",
+      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
+      "sourceEditorial": "Revista semanal - Conteúdo sob assinatura parcial",
+      "country": "Brasil",
+      "paywall": true,
+      "originalUrl": "https://veja.abril.com.br/mundo/duas-pessoas-sao-encontradas-com-vida-no-nepal-dez-dias-apos-inundacoes/",
+      "publishedAtStr": "2026-09-05T15:00:00Z",
+      "publishedAtTs": 1788620400000,
+      "rawContent": "Duas pessoas são encontradas com vida no Nepal dez dias após inundações",
+      "linkStatus": "active",
+      "lastChecked": 1788697091585
     }
   ]
 }
