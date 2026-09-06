@@ -1,16 +1,32 @@
 {
-  "updatedAt": "2026-09-06T11:30:15.410Z",
+  "updatedAt": "2026-09-06T11:43:04.476Z",
   "periodUsed": "24h",
-  "count": 32,
+  "count": 35,
   "linkVerificationStats": {
-    "checkedThisRun": 32,
-    "active": 31,
+    "checkedThisRun": 5,
+    "active": 5,
     "broken": 0,
-    "unknown": 1
+    "unknown": 0
   },
   "articles": [
     {
-      "id": "gdelt-fpsx6kb",
+      "id": "gdelt-xhqxvfo",
+      "title": "Eleio estadual na Alemanha pode levar extrema direita ao poder pela primeira vez desde a 2ª Guerra",
+      "sourceName": "Estadão Internacional",
+      "sourceUrl": "https://www.estadao.com.br/internacional/",
+      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
+      "sourceEditorial": "Jornal tradicional de geopolítica - Conteúdo sob assinatura",
+      "country": "Brasil",
+      "paywall": true,
+      "originalUrl": "https://www.estadao.com.br/internacional/eleicao-estadual-na-alemanha-pode-levar-extrema-direita-ao-poder-pela-primeira-vez-desde-a-2-guerra/",
+      "publishedAtStr": "2026-09-06T11:15:00Z",
+      "publishedAtTs": 1788693300000,
+      "rawContent": "Eleio estadual na Alemanha pode levar extrema direita ao poder pela primeira vez desde a 2ª Guerra",
+      "linkStatus": "active",
+      "lastChecked": 1788694982346
+    },
+    {
+      "id": "gdelt-k42y06s",
       "title": "Quem é Alejandro Betancourt , o bilionário do petróleo venezuelano",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -26,7 +42,7 @@
       "lastChecked": 1788694174006
     },
     {
-      "id": "gdelt-6i1e63z",
+      "id": "gdelt-rkfymdk",
       "title": "Apresentadora egípcia é condenada à morte por enforcamento após envolvimento com tráfico de drogas",
       "sourceName": "O Globo Mundo",
       "sourceUrl": "https://oglobo.globo.com/mundo/",
@@ -42,7 +58,7 @@
       "lastChecked": 1788694174006
     },
     {
-      "id": "gdelt-zmffpk4",
+      "id": "gdelt-cz3le34",
       "title": "Em Gana , caixões personalizados contam a história de quem morreu",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -58,7 +74,7 @@
       "lastChecked": 1788694174006
     },
     {
-      "id": "gdelt-h22hc22",
+      "id": "gdelt-icp8sbj",
       "title": "Chatbot de IA alerta FBI , e homem que planejava atirar em crianças em escola é preso nos EUA",
       "sourceName": "O Globo Mundo",
       "sourceUrl": "https://oglobo.globo.com/mundo/",
@@ -74,7 +90,7 @@
       "lastChecked": 1788694174006
     },
     {
-      "id": "gdelt-a3hj9t0",
+      "id": "gdelt-4zytnsy",
       "title": "Bukele decide quem é criminoso em El Salvador , diz jornalista que precisou deixar o país após investigar ligação do governo com criminosos",
       "sourceName": "O Globo Mundo",
       "sourceUrl": "https://oglobo.globo.com/mundo/",
@@ -90,7 +106,7 @@
       "lastChecked": 1788694174006
     },
     {
-      "id": "gdelt-klafp6n",
+      "id": "gdelt-zqb4b3u",
       "title": "Vulcão Anak Krakatau entra em erupo na Indonésia ; 209 voos já foram cancelados",
       "sourceName": "O Globo Mundo",
       "sourceUrl": "https://oglobo.globo.com/mundo/",
@@ -106,7 +122,7 @@
       "lastChecked": 1788694174006
     },
     {
-      "id": "gdelt-n6wfhiu",
+      "id": "gdelt-ccobpba",
       "title": "Homem pesca em rio na Alemanha e encontra carro roubado que estava submerso há mais de 50 anos",
       "sourceName": "O Globo Mundo",
       "sourceUrl": "https://oglobo.globo.com/mundo/",
@@ -122,7 +138,7 @@
       "lastChecked": 1788694174006
     },
     {
-      "id": "gdelt-ksl3cwl",
+      "id": "gdelt-fgcgkvw",
       "title": "Israel começa a atacar o sul do Líbano e ordena evacuação de moradores ; operação seria retaliação contra Hezbollah",
       "sourceName": "O Globo Mundo",
       "sourceUrl": "https://oglobo.globo.com/mundo/",
@@ -138,7 +154,7 @@
       "lastChecked": 1788694174006
     },
     {
-      "id": "gdelt-xkk4jzd",
+      "id": "gdelt-2myq1lh",
       "title": "Por que países europeus estão retirando suas reservas de ouro da América do Norte ?",
       "sourceName": "BBC News Brasil",
       "sourceUrl": "https://www.bbc.com/portuguese",
@@ -154,7 +170,7 @@
       "lastChecked": 1788694174006
     },
     {
-      "id": "gdelt-vmnmxgy",
+      "id": "gdelt-j1coe4w",
       "title": "Por que você nunca realmente supera o ensino médio :  Lembranças que voltam o tempo todo",
       "sourceName": "BBC News Brasil",
       "sourceUrl": "https://www.bbc.com/portuguese",
@@ -170,7 +186,23 @@
       "lastChecked": 1788694174006
     },
     {
-      "id": "gdelt-7447tk9",
+      "id": "gdelt-lt8q2jy",
+      "title": "Putin discute guerra na Ucrânia com enviados dos EUA",
+      "sourceName": "Veja Mundo",
+      "sourceUrl": "https://veja.abril.com.br/mundo/",
+      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
+      "sourceEditorial": "Revista semanal - Conteúdo sob assinatura parcial",
+      "country": "Brasil",
+      "paywall": true,
+      "originalUrl": "https://veja.abril.com.br/mundo/putin-discute-guerra-na-ucrania-com-enviados-dos-eua/",
+      "publishedAtStr": "2026-09-06T02:00:00Z",
+      "publishedAtTs": 1788660000000,
+      "rawContent": "Putin discute guerra na Ucrânia com enviados dos EUA",
+      "linkStatus": "active",
+      "lastChecked": 1788694982346
+    },
+    {
+      "id": "gdelt-5insq7k",
       "title": "STF : Gilmar Mendes pede proibio de policiais alocados em gabinetes de ministros",
       "sourceName": "BBC News Brasil",
       "sourceUrl": "https://www.bbc.com/portuguese",
@@ -186,7 +218,7 @@
       "lastChecked": 1788694174006
     },
     {
-      "id": "gdelt-cxcwxoh",
+      "id": "gdelt-k9whk1t",
       "title": "Forças dos EUA dizem ter atacado três petroleiros iranianos",
       "sourceName": "DW Brasil",
       "sourceUrl": "https://www.dw.com/pt-br/",
@@ -202,7 +234,7 @@
       "lastChecked": 1788694174006
     },
     {
-      "id": "gdelt-j20rrhq",
+      "id": "gdelt-k12muw2",
       "title": "Cientistas enterram 2 mil cuecas para estudo do solo",
       "sourceName": "DW Brasil",
       "sourceUrl": "https://www.dw.com/pt-br/",
@@ -218,7 +250,7 @@
       "lastChecked": 1788694174006
     },
     {
-      "id": "gdelt-luyckh4",
+      "id": "gdelt-1voeqpf",
       "title": "Canal do Panamá começa a reduzir tráfego devido ao El Niño",
       "sourceName": "DW Brasil",
       "sourceUrl": "https://www.dw.com/pt-br/",
@@ -234,7 +266,7 @@
       "lastChecked": 1788694174006
     },
     {
-      "id": "gdelt-ypbzd9a",
+      "id": "gdelt-2i5vb43",
       "title": "A eleio alemã que pode resultar no 1° governador da AfD",
       "sourceName": "DW Brasil",
       "sourceUrl": "https://www.dw.com/pt-br/",
@@ -250,7 +282,7 @@
       "lastChecked": 1788694174006
     },
     {
-      "id": "gdelt-m6n2dta",
+      "id": "gdelt-08jxq50",
       "title": "Putin recebe enviados de Trump em Moscou",
       "sourceName": "DW Brasil",
       "sourceUrl": "https://www.dw.com/pt-br/",
@@ -266,7 +298,7 @@
       "lastChecked": 1788694174006
     },
     {
-      "id": "gdelt-cnbostw",
+      "id": "gdelt-jmfnjcu",
       "title": "Leste alemão é palco de manifestaes antes de eleio - chave",
       "sourceName": "DW Brasil",
       "sourceUrl": "https://www.dw.com/pt-br/",
@@ -282,7 +314,23 @@
       "lastChecked": 1788694174006
     },
     {
-      "id": "gdelt-okddslo",
+      "id": "gdelt-6rim0cl",
+      "title": "Plano de Trump para a Venezuela ameaça repetir modelo de interveno na América Latina",
+      "sourceName": "Estadão Internacional",
+      "sourceUrl": "https://www.estadao.com.br/internacional/",
+      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
+      "sourceEditorial": "Jornal tradicional de geopolítica - Conteúdo sob assinatura",
+      "country": "Brasil",
+      "paywall": true,
+      "originalUrl": "https://www.estadao.com.br/internacional/lourival-santanna/plano-de-trump-para-a-venezuela-ameaca-repetir-modelo-de-intervencao-na-america-latina/",
+      "publishedAtStr": "2026-09-05T21:15:00Z",
+      "publishedAtTs": 1788642900000,
+      "rawContent": "Plano de Trump para a Venezuela ameaça repetir modelo de interveno na América Latina",
+      "linkStatus": "active",
+      "lastChecked": 1788694982346
+    },
+    {
+      "id": "gdelt-q5o4i4q",
       "title": "Homem é amarrado com fita adesiva a poltrona de avião após gritar e proferir xingamentos racistas e homofóbicos nos EUA",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -298,7 +346,7 @@
       "lastChecked": 1788694174006
     },
     {
-      "id": "gdelt-hnk24c2",
+      "id": "gdelt-vyp1rp5",
       "title": "Putin ordena cessar - fogo de três dias em meio a negociações de paz",
       "sourceName": "Agência Brasil",
       "sourceUrl": "https://agenciabrasil.ebc.com.br/internacional",
@@ -314,7 +362,7 @@
       "lastChecked": 1788694174006
     },
     {
-      "id": "gdelt-mutun3j",
+      "id": "gdelt-splwrs8",
       "title": "Peru declara estado de emergência em cinco presídios de alta segurança",
       "sourceName": "Agência Brasil",
       "sourceUrl": "https://agenciabrasil.ebc.com.br/internacional",
@@ -330,7 +378,7 @@
       "lastChecked": 1788694174006
     },
     {
-      "id": "gdelt-p54exg9",
+      "id": "gdelt-tw9o7jc",
       "title": "Norte - americanos enfrentam preços recordes de gasolina",
       "sourceName": "Agência Brasil",
       "sourceUrl": "https://agenciabrasil.ebc.com.br/internacional",
@@ -346,7 +394,7 @@
       "lastChecked": 1788694174006
     },
     {
-      "id": "gdelt-ttx5c0r",
+      "id": "gdelt-e7e1m0q",
       "title": "Avião F - 4 grego cai durante show aéreo perto de Atenas",
       "sourceName": "Agência Brasil",
       "sourceUrl": "https://agenciabrasil.ebc.com.br/internacional",
@@ -362,7 +410,7 @@
       "lastChecked": 1788694174006
     },
     {
-      "id": "gdelt-8v647k3",
+      "id": "gdelt-r8mv3yc",
       "title": "Homem morre após carro atingir grupo de dez javalis e capotar nos EUA",
       "sourceName": "O Globo Mundo",
       "sourceUrl": "https://oglobo.globo.com/mundo/",
@@ -378,7 +426,39 @@
       "lastChecked": 1788694174006
     },
     {
-      "id": "gdelt-0gtikfr",
+      "id": "gdelt-l1eodfq",
+      "title": "Deslizamento na China deixa um morto e 11 desaparecidos após chuvas associadas ao tufão Saudel",
+      "sourceName": "Estadão Internacional",
+      "sourceUrl": "https://www.estadao.com.br/internacional/",
+      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
+      "sourceEditorial": "Jornal tradicional de geopolítica - Conteúdo sob assinatura",
+      "country": "Brasil",
+      "paywall": true,
+      "originalUrl": "https://www.estadao.com.br/internacional/deslizamento-na-china-deixa-desaparecidos-apos-chuvas-associadas-ao-tufao-saudel-npr/",
+      "publishedAtStr": "2026-09-05T16:45:00Z",
+      "publishedAtTs": 1788626700000,
+      "rawContent": "Deslizamento na China deixa um morto e 11 desaparecidos após chuvas associadas ao tufão Saudel",
+      "linkStatus": "active",
+      "lastChecked": 1788694982346
+    },
+    {
+      "id": "gdelt-lhv2tqc",
+      "title": "Duas pessoas são encontradas com vida no Nepal dez dias após inundações",
+      "sourceName": "Veja Mundo",
+      "sourceUrl": "https://veja.abril.com.br/mundo/",
+      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
+      "sourceEditorial": "Revista semanal - Conteúdo sob assinatura parcial",
+      "country": "Brasil",
+      "paywall": true,
+      "originalUrl": "https://veja.abril.com.br/mundo/duas-pessoas-sao-encontradas-com-vida-no-nepal-dez-dias-apos-inundacoes/",
+      "publishedAtStr": "2026-09-05T15:00:00Z",
+      "publishedAtTs": 1788620400000,
+      "rawContent": "Duas pessoas são encontradas com vida no Nepal dez dias após inundações",
+      "linkStatus": "active",
+      "lastChecked": 1788694982346
+    },
+    {
+      "id": "gdelt-oukiu11",
       "title": "Kiev denuncia ataques a aeroportos antes de visita dos EUA",
       "sourceName": "DW Brasil",
       "sourceUrl": "https://www.dw.com/pt-br/",
@@ -394,7 +474,7 @@
       "lastChecked": 1788694174006
     },
     {
-      "id": "gdelt-5l1nwa8",
+      "id": "gdelt-zuv2040",
       "title": "Explosão na Bolívia : o que que se sabe sobre incidente que deixou ao menos 2 mortos e 81 feridos",
       "sourceName": "BBC News Brasil",
       "sourceUrl": "https://www.bbc.com/portuguese",
@@ -410,7 +490,7 @@
       "lastChecked": 1788694174006
     },
     {
-      "id": "gdelt-qb1iudb",
+      "id": "gdelt-83fxpby",
       "title": "Clima e escassez alimentar elevam risco de guerras no mundo",
       "sourceName": "DW Brasil",
       "sourceUrl": "https://www.dw.com/pt-br/",
@@ -426,7 +506,7 @@
       "lastChecked": 1788694174006
     },
     {
-      "id": "gdelt-h5p2one",
+      "id": "gdelt-f2m83dj",
       "title": "Troca de última hora salvou comissário de atentado que matou 107 pessoas em avião na Colômbia há 37 anos ; entenda",
       "sourceName": "O Globo Mundo",
       "sourceUrl": "https://oglobo.globo.com/mundo/",
@@ -442,7 +522,7 @@
       "lastChecked": 1788694174006
     },
     {
-      "id": "gdelt-iw80ctp",
+      "id": "gdelt-r316jpd",
       "title": "Deslizamento de terra deixa pelo menos um morto e 11 desaparecidos após passagem de tufão na China ; 600 mil pessoas foram evacuadas",
       "sourceName": "O Globo Mundo",
       "sourceUrl": "https://oglobo.globo.com/mundo/",
@@ -458,7 +538,7 @@
       "lastChecked": 1788694174006
     },
     {
-      "id": "gdelt-3t4a0ei",
+      "id": "gdelt-6712bbt",
       "title": "Mãe orangotango e filhote são resgatados na Indonésia após incêndios se aproximarem de seu habitat",
       "sourceName": "O Globo Mundo",
       "sourceUrl": "https://oglobo.globo.com/mundo/",
@@ -474,7 +554,7 @@
       "lastChecked": 1788694174006
     },
     {
-      "id": "gdelt-y926vx5",
+      "id": "gdelt-83666hb",
       "title": "Candidato a deputado estadual é preso acusado de plantar drogas em carro de adversária política",
       "sourceName": "O Globo Mundo",
       "sourceUrl": "https://oglobo.globo.com/mundo/",
@@ -486,38 +566,6 @@
       "publishedAtStr": "2026-09-05T12:00:00Z",
       "publishedAtTs": 1788609600000,
       "rawContent": "Candidato a deputado estadual é preso acusado de plantar drogas em carro de adversária política",
-      "linkStatus": "active",
-      "lastChecked": 1788694174006
-    },
-    {
-      "id": "gdelt-z8d0tbk",
-      "title": "Quem são os dois trabalhadores resgatados com vida após ficarem nove dias presos em túnel no Nepal",
-      "sourceName": "O Globo Mundo",
-      "sourceUrl": "https://oglobo.globo.com/mundo/",
-      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
-      "sourceEditorial": "Jornal diário (Grupo Globo) - Conteúdo sob assinatura",
-      "country": "Brasil",
-      "paywall": true,
-      "originalUrl": "https://oglobo.globo.com/mundo/noticia/2026/09/05/quem-sao-os-dois-trabalhadores-resgatados-com-vida-apos-ficarem-nove-dias-presos-em-tunel-no-nepal.ghtml",
-      "publishedAtStr": "2026-09-05T11:30:00Z",
-      "publishedAtTs": 1788607800000,
-      "rawContent": "Quem são os dois trabalhadores resgatados com vida após ficarem nove dias presos em túnel no Nepal",
-      "linkStatus": "active",
-      "lastChecked": 1788694174006
-    },
-    {
-      "id": "gdelt-0uwwedn",
-      "title": "Cidadão chinês é resgatado com vida após ficar preso por 10 dias em túnel soterrado no Nepal",
-      "sourceName": "O Globo Mundo",
-      "sourceUrl": "https://oglobo.globo.com/mundo/",
-      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
-      "sourceEditorial": "Jornal diário (Grupo Globo) - Conteúdo sob assinatura",
-      "country": "Brasil",
-      "paywall": true,
-      "originalUrl": "https://oglobo.globo.com/mundo/noticia/2026/09/05/cidadao-chines-e-resgatado-com-vida-apos-ficar-preso-por-10-dias-em-tunel-soterrado-no-nepal.ghtml",
-      "publishedAtStr": "2026-09-05T11:30:00Z",
-      "publishedAtTs": 1788607800000,
-      "rawContent": "Cidadão chinês é resgatado com vida após ficar preso por 10 dias em túnel soterrado no Nepal",
       "linkStatus": "active",
       "lastChecked": 1788694174006
     }
