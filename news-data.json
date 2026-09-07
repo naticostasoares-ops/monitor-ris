@@ -1,32 +1,16 @@
 {
-  "updatedAt": "2026-09-07T21:38:13.883Z",
-  "periodUsed": "7d",
-  "count": 25,
+  "updatedAt": "2026-09-07T21:46:32.825Z",
+  "periodUsed": "24h",
+  "count": 26,
   "linkVerificationStats": {
-    "checkedThisRun": 25,
-    "active": 25,
+    "checkedThisRun": 3,
+    "active": 3,
     "broken": 0,
     "unknown": 0
   },
   "articles": [
     {
-      "id": "gdelt-ar6k8qr",
-      "title": "VW abre caminho para fábrica desativada produzir armas",
-      "sourceName": "DW Brasil",
-      "sourceUrl": "https://www.dw.com/pt-br/",
-      "sourceType": "Imprensa Internacional / Pública",
-      "sourceEditorial": "Emissora pública da Alemanha; foco em diplomacia e direitos humanos",
-      "country": "Alemanha",
-      "paywall": false,
-      "originalUrl": "https://www.dw.com/pt-br/volkswagen-abre-caminho-para-converter-f%C3%A1brica-desativada-para-produ%C3%A7%C3%A3o-de-armas/a-79151688",
-      "publishedAtStr": "2026-09-07T21:00:00Z",
-      "publishedAtTs": 1788814800000,
-      "rawContent": "VW abre caminho para fábrica desativada produzir armas",
-      "linkStatus": "active",
-      "lastChecked": 1788817076332
-    },
-    {
-      "id": "gdelt-w0oie8c",
+      "id": "gdelt-kftqong",
       "title": "Rússia retalia Alemanha e fecha consulado em São Petesburgo",
       "sourceName": "DW Brasil",
       "sourceUrl": "https://www.dw.com/pt-br/",
@@ -42,7 +26,23 @@
       "lastChecked": 1788817076332
     },
     {
-      "id": "gdelt-qlcpekg",
+      "id": "gdelt-fuvhwwm",
+      "title": "VW abre caminho para fábrica desativada produzir armas",
+      "sourceName": "DW Brasil",
+      "sourceUrl": "https://www.dw.com/pt-br/",
+      "sourceType": "Imprensa Internacional / Pública",
+      "sourceEditorial": "Emissora pública da Alemanha; foco em diplomacia e direitos humanos",
+      "country": "Alemanha",
+      "paywall": false,
+      "originalUrl": "https://www.dw.com/pt-br/volkswagen-abre-caminho-para-converter-f%C3%A1brica-desativada-para-produ%C3%A7%C3%A3o-de-armas/a-79151688",
+      "publishedAtStr": "2026-09-07T21:00:00Z",
+      "publishedAtTs": 1788814800000,
+      "rawContent": "VW abre caminho para fábrica desativada produzir armas",
+      "linkStatus": "active",
+      "lastChecked": 1788817076332
+    },
+    {
+      "id": "gdelt-ywzmzxj",
       "title": "Forças de Israel matam 12 pessoas , incluindo 2 crianças , no Líbano",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -58,7 +58,7 @@
       "lastChecked": 1788817076332
     },
     {
-      "id": "gdelt-q0b8tbc",
+      "id": "gdelt-74p664c",
       "title": "Cuba e Estados Unidos : bloqueio custou US$ 8 , 1 bi , diz ministro",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -74,7 +74,7 @@
       "lastChecked": 1788817076332
     },
     {
-      "id": "gdelt-mjt468p",
+      "id": "gdelt-ym3tx00",
       "title": "Chanceler alemão classifica vitória da AfD como resultado ísmico",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -90,7 +90,7 @@
       "lastChecked": 1788817076332
     },
     {
-      "id": "gdelt-fqev199",
+      "id": "gdelt-72po43u",
       "title": "Os pombos  diferentõe que ajudaram Darwin a criar Teoria da Evoluo",
       "sourceName": "BBC News Brasil",
       "sourceUrl": "https://www.bbc.com/portuguese",
@@ -106,7 +106,7 @@
       "lastChecked": 1788817076332
     },
     {
-      "id": "gdelt-g27jxm8",
+      "id": "gdelt-zu9zoir",
       "title": "11 de Setembro : os novos vídeos que indicam possível papel de agente da Arábia Saudita nos atentados",
       "sourceName": "BBC News Brasil",
       "sourceUrl": "https://www.bbc.com/portuguese",
@@ -122,7 +122,7 @@
       "lastChecked": 1788817076332
     },
     {
-      "id": "gdelt-yf5dvrd",
+      "id": "gdelt-m8ifzv3",
       "title": "AfD na Saxônia - Anhalt : Direita radical busca formar governo",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -138,7 +138,7 @@
       "lastChecked": 1788817076332
     },
     {
-      "id": "gdelt-0c75c1m",
+      "id": "gdelt-v3npzha",
       "title": "Trump defende ideia de mudar o nome do Novo México para  Nova América",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -154,7 +154,55 @@
       "lastChecked": 1788817076332
     },
     {
-      "id": "gdelt-0dqk9s6",
+      "id": "gdelt-ozb0acd",
+      "title": "Rússia e Coreia do Norte inauguram primeira ponte rodoviária entre os dois países",
+      "sourceName": "Brasil de Fato",
+      "sourceUrl": "https://www.brasildefato.com.br/",
+      "sourceType": "Jornal / Movimentos Sociais",
+      "sourceEditorial": "Mídia popular focada em Direitos Humanos e Sul Global",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://www.brasildefato.com.br/2026/09/07/russia-e-coreia-do-norte-inauguram-primeira-ponte-rodoviaria-entre-os-dois-paises/",
+      "publishedAtStr": "2026-09-07T19:00:00Z",
+      "publishedAtTs": 1788807600000,
+      "rawContent": "Rússia e Coreia do Norte inauguram primeira ponte rodoviária entre os dois países",
+      "linkStatus": "active",
+      "lastChecked": 1788817591478
+    },
+    {
+      "id": "gdelt-hzvfbj2",
+      "title": "Kremlin : visita dos enviados dos EUA a Moscou e Kiev representa um  passo rumo à paz",
+      "sourceName": "Brasil de Fato",
+      "sourceUrl": "https://www.brasildefato.com.br/",
+      "sourceType": "Jornal / Movimentos Sociais",
+      "sourceEditorial": "Mídia popular focada em Direitos Humanos e Sul Global",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://www.brasildefato.com.br/2026/09/07/kremlin-visita-dos-enviados-dos-eua-a-moscou-e-kiev-representa-um-passo-rumo-a-paz/",
+      "publishedAtStr": "2026-09-07T19:00:00Z",
+      "publishedAtTs": 1788807600000,
+      "rawContent": "Kremlin : visita dos enviados dos EUA a Moscou e Kiev representa um  passo rumo à paz",
+      "linkStatus": "active",
+      "lastChecked": 1788817591478
+    },
+    {
+      "id": "gdelt-j9p0ndj",
+      "title": "Sem o fim da escravidão , processo de independência no Brasil foi inacabado , diz historiador",
+      "sourceName": "Brasil de Fato",
+      "sourceUrl": "https://www.brasildefato.com.br/",
+      "sourceType": "Jornal / Movimentos Sociais",
+      "sourceEditorial": "Mídia popular focada em Direitos Humanos e Sul Global",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://www.brasildefato.com.br/podcast/bem-viver/2026/09/07/sem-o-fim-da-escravidao-processo-de-independencia-no-brasil-foi-inacabado-diz-historiador/",
+      "publishedAtStr": "2026-09-07T19:00:00Z",
+      "publishedAtTs": 1788807600000,
+      "rawContent": "Sem o fim da escravidão , processo de independência no Brasil foi inacabado , diz historiador",
+      "linkStatus": "active",
+      "lastChecked": 1788817591478
+    },
+    {
+      "id": "gdelt-dz0sb1b",
       "title": "Musk e Orbán celebram votao da AfD ; líder polonês critica",
       "sourceName": "DW Brasil",
       "sourceUrl": "https://www.dw.com/pt-br/",
@@ -170,7 +218,7 @@
       "lastChecked": 1788817076332
     },
     {
-      "id": "gdelt-siw4snh",
+      "id": "gdelt-eha857s",
       "title": "Funcionários de farmácias relatam pavor com assaltos por canetas emagrecedoras",
       "sourceName": "BBC News Brasil",
       "sourceUrl": "https://www.bbc.com/portuguese",
@@ -186,7 +234,7 @@
       "lastChecked": 1788817076332
     },
     {
-      "id": "gdelt-bkm1w7r",
+      "id": "gdelt-t5ho891",
       "title": "Chanceler alemão diz estar  profundamente chocado  com vitória do AfD , de extrema direita , em eleio regional",
       "sourceName": "O Globo Mundo",
       "sourceUrl": "https://oglobo.globo.com/mundo/",
@@ -202,7 +250,7 @@
       "lastChecked": 1788817076332
     },
     {
-      "id": "gdelt-27ydl9g",
+      "id": "gdelt-3hbnj04",
       "title": "Merz se diz  profundamente chocado  após vitória da AfD",
       "sourceName": "DW Brasil",
       "sourceUrl": "https://www.dw.com/pt-br/",
@@ -218,7 +266,7 @@
       "lastChecked": 1788817076332
     },
     {
-      "id": "gdelt-6ll0kmr",
+      "id": "gdelt-mmr9uil",
       "title": "Eleies : o que é permitido no uso de IA nas campanhas",
       "sourceName": "DW Brasil",
       "sourceUrl": "https://www.dw.com/pt-br/",
@@ -234,7 +282,7 @@
       "lastChecked": 1788817076332
     },
     {
-      "id": "gdelt-lm98qsi",
+      "id": "gdelt-k5u90vv",
       "title": "Nepal tem dia de luto 13 dias após avalanche devastadora",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -250,7 +298,7 @@
       "lastChecked": 1788817076332
     },
     {
-      "id": "gdelt-8cauv9w",
+      "id": "gdelt-dvr25ta",
       "title": "Erupo de vulcão cancela milhares de voos na Indonésia",
       "sourceName": "DW Brasil",
       "sourceUrl": "https://www.dw.com/pt-br/",
@@ -266,7 +314,7 @@
       "lastChecked": 1788817076332
     },
     {
-      "id": "gdelt-12tbnyf",
+      "id": "gdelt-atnioyd",
       "title": "Acidente com avião de carga da Amazon deixa mortos em Miami",
       "sourceName": "DW Brasil",
       "sourceUrl": "https://www.dw.com/pt-br/",
@@ -282,7 +330,7 @@
       "lastChecked": 1788817076332
     },
     {
-      "id": "gdelt-1h7rtvd",
+      "id": "gdelt-cw3ka1a",
       "title": "Avalanche em montanha deixa ao menos 11 mortos no norte do Cáucaso , na Rússia",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -298,7 +346,7 @@
       "lastChecked": 1788817076332
     },
     {
-      "id": "gdelt-lggamsb",
+      "id": "gdelt-soe5nfn",
       "title": "Análise : Vitória da extrema direita em eleio regional na Alemanha envia sinal a capitais europeias",
       "sourceName": "O Globo Mundo",
       "sourceUrl": "https://oglobo.globo.com/mundo/",
@@ -314,7 +362,7 @@
       "lastChecked": 1788817076332
     },
     {
-      "id": "gdelt-fbm43xr",
+      "id": "gdelt-n2be4yt",
       "title": "Trump propõe mudar nome de estado dos EUA :  Nova América",
       "sourceName": "O Globo Mundo",
       "sourceUrl": "https://oglobo.globo.com/mundo/",
@@ -330,7 +378,7 @@
       "lastChecked": 1788817076332
     },
     {
-      "id": "gdelt-6qfj51y",
+      "id": "gdelt-3vimmlb",
       "title": "AfD cresce entre mulheres e jovens no leste alemão",
       "sourceName": "DW Brasil",
       "sourceUrl": "https://www.dw.com/pt-br/",
@@ -346,7 +394,7 @@
       "lastChecked": 1788817076332
     },
     {
-      "id": "gdelt-ha2b4tt",
+      "id": "gdelt-9jhga12",
       "title": "Ataques israelenses no sul do Líbano deixam 4 mortos , sendo 2 mulheres",
       "sourceName": "Agência Brasil",
       "sourceUrl": "https://agenciabrasil.ebc.com.br/internacional",
@@ -362,7 +410,7 @@
       "lastChecked": 1788817076332
     },
     {
-      "id": "gdelt-crfsdx6",
+      "id": "gdelt-aecwtoi",
       "title": "Mulher é encontrada viva no Nepal , mais de dez dias após avalanche",
       "sourceName": "Agência Brasil",
       "sourceUrl": "https://agenciabrasil.ebc.com.br/internacional",
@@ -374,38 +422,6 @@
       "publishedAtStr": "2026-09-06T22:15:00Z",
       "publishedAtTs": 1788732900000,
       "rawContent": "Mulher é encontrada viva no Nepal , mais de dez dias após avalanche",
-      "linkStatus": "active",
-      "lastChecked": 1788817076332
-    },
-    {
-      "id": "gdelt-q5z111s",
-      "title": "Ultradireita obtém votao esmagadora no leste alemão",
-      "sourceName": "DW Brasil",
-      "sourceUrl": "https://www.dw.com/pt-br/",
-      "sourceType": "Imprensa Internacional / Pública",
-      "sourceEditorial": "Emissora pública da Alemanha; foco em diplomacia e direitos humanos",
-      "country": "Alemanha",
-      "paywall": false,
-      "originalUrl": "https://www.dw.com/pt-br/ultradireita-obt%C3%A9m-vota%C3%A7%C3%A3o-esmagadora-no-leste-alem%C3%A3o/a-79067845",
-      "publishedAtStr": "2026-09-06T21:45:00Z",
-      "publishedAtTs": 1788731100000,
-      "rawContent": "Ultradireita obtém votao esmagadora no leste alemão",
-      "linkStatus": "active",
-      "lastChecked": 1788817076332
-    },
-    {
-      "id": "gdelt-gqwbe31",
-      "title": "Chefe de Segurança Nacional do Irã anuncia zona de bloqueio além de Ormuz em nova ameaça a tráfego naval",
-      "sourceName": "O Globo Mundo",
-      "sourceUrl": "https://oglobo.globo.com/mundo/",
-      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
-      "sourceEditorial": "Jornal diário (Grupo Globo) - Conteúdo sob assinatura",
-      "country": "Brasil",
-      "paywall": true,
-      "originalUrl": "https://oglobo.globo.com/mundo/noticia/2026/09/06/chefe-de-seguranca-nacional-do-ira-anuncia-zona-de-bloqueio-alem-de-ormuz-em-nova-ameaca-a-trafego-naval.ghtml",
-      "publishedAtStr": "2026-09-06T21:45:00Z",
-      "publishedAtTs": 1788731100000,
-      "rawContent": "Chefe de Segurança Nacional do Irã anuncia zona de bloqueio além de Ormuz em nova ameaça a tráfego naval",
       "linkStatus": "active",
       "lastChecked": 1788817076332
     }
