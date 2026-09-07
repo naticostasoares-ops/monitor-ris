@@ -1,16 +1,48 @@
 {
-  "updatedAt": "2026-09-07T11:34:39.316Z",
+  "updatedAt": "2026-09-07T11:50:16.168Z",
   "periodUsed": "24h",
-  "count": 27,
+  "count": 28,
   "linkVerificationStats": {
-    "checkedThisRun": 0,
-    "active": 0,
+    "checkedThisRun": 2,
+    "active": 2,
     "broken": 0,
     "unknown": 0
   },
   "articles": [
     {
-      "id": "gdelt-rrqgwba",
+      "id": "gdelt-p91452d",
+      "title": "Erupo de vulcão cancela milhares de voos na Indonésia",
+      "sourceName": "DW Brasil",
+      "sourceUrl": "https://www.dw.com/pt-br/",
+      "sourceType": "Imprensa Internacional / Pública",
+      "sourceEditorial": "Emissora pública da Alemanha; foco em diplomacia e direitos humanos",
+      "country": "Alemanha",
+      "paywall": false,
+      "originalUrl": "https://www.dw.com/pt-br/erup%C3%A7%C3%A3o-de-vulc%C3%A3o-provoca-cancelamento-de-milhares-de-voos-na-indon%C3%A9sia/a-79142262",
+      "publishedAtStr": "2026-09-07T11:15:00Z",
+      "publishedAtTs": 1788779700000,
+      "rawContent": "Erupo de vulcão cancela milhares de voos na Indonésia",
+      "linkStatus": "active",
+      "lastChecked": 1788781815036
+    },
+    {
+      "id": "gdelt-g9ztupo",
+      "title": "Acidente com avião de carga da Amazon deixa mortos em Miami",
+      "sourceName": "DW Brasil",
+      "sourceUrl": "https://www.dw.com/pt-br/",
+      "sourceType": "Imprensa Internacional / Pública",
+      "sourceEditorial": "Emissora pública da Alemanha; foco em diplomacia e direitos humanos",
+      "country": "Alemanha",
+      "paywall": false,
+      "originalUrl": "https://www.dw.com/pt-br/acidente-com-avi%C3%A3o-de-carga-da-amazon-deixa-mortos-em-miami/a-79142719",
+      "publishedAtStr": "2026-09-07T11:15:00Z",
+      "publishedAtTs": 1788779700000,
+      "rawContent": "Acidente com avião de carga da Amazon deixa mortos em Miami",
+      "linkStatus": "active",
+      "lastChecked": 1788781815036
+    },
+    {
+      "id": "gdelt-fp61247",
       "title": "Avalanche em montanha deixa ao menos 11 mortos no norte do Cáucaso , na Rússia",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -26,7 +58,7 @@
       "lastChecked": 1788776142311
     },
     {
-      "id": "gdelt-m0goksv",
+      "id": "gdelt-az74jb9",
       "title": "Análise : Vitória da extrema direita em eleio regional na Alemanha envia sinal a capitais europeias",
       "sourceName": "O Globo Mundo",
       "sourceUrl": "https://oglobo.globo.com/mundo/",
@@ -42,7 +74,7 @@
       "lastChecked": 1788776142311
     },
     {
-      "id": "gdelt-du98d1d",
+      "id": "gdelt-e3i4oq2",
       "title": "Trump propõe mudar nome de estado dos EUA :  Nova América",
       "sourceName": "O Globo Mundo",
       "sourceUrl": "https://oglobo.globo.com/mundo/",
@@ -58,7 +90,7 @@
       "lastChecked": 1788776142311
     },
     {
-      "id": "gdelt-ln27985",
+      "id": "gdelt-im1rd62",
       "title": "AfD cresce entre mulheres e jovens no leste alemão",
       "sourceName": "DW Brasil",
       "sourceUrl": "https://www.dw.com/pt-br/",
@@ -74,7 +106,7 @@
       "lastChecked": 1788776142311
     },
     {
-      "id": "gdelt-ima1v6h",
+      "id": "gdelt-385wlcf",
       "title": "Ataques israelenses no sul do Líbano deixam 4 mortos , sendo 2 mulheres",
       "sourceName": "Agência Brasil",
       "sourceUrl": "https://agenciabrasil.ebc.com.br/internacional",
@@ -90,7 +122,7 @@
       "lastChecked": 1788776142311
     },
     {
-      "id": "gdelt-scgteta",
+      "id": "gdelt-xtajmn0",
       "title": "Mulher é encontrada viva no Nepal , mais de dez dias após avalanche",
       "sourceName": "Agência Brasil",
       "sourceUrl": "https://agenciabrasil.ebc.com.br/internacional",
@@ -106,7 +138,7 @@
       "lastChecked": 1788776142311
     },
     {
-      "id": "gdelt-039mmwz",
+      "id": "gdelt-xagyuig",
       "title": "Ultradireita obtém votao esmagadora no leste alemão",
       "sourceName": "DW Brasil",
       "sourceUrl": "https://www.dw.com/pt-br/",
@@ -122,7 +154,7 @@
       "lastChecked": 1788776142311
     },
     {
-      "id": "gdelt-n6wdojy",
+      "id": "gdelt-npvzakq",
       "title": "Chefe de Segurança Nacional do Irã anuncia zona de bloqueio além de Ormuz em nova ameaça a tráfego naval",
       "sourceName": "O Globo Mundo",
       "sourceUrl": "https://oglobo.globo.com/mundo/",
@@ -138,7 +170,7 @@
       "lastChecked": 1788776142311
     },
     {
-      "id": "gdelt-l8bbgjq",
+      "id": "gdelt-woaprfx",
       "title": "Nunca estive no Afeganistão : deportados recomeçam sob o Talebã",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -154,7 +186,7 @@
       "lastChecked": 1788776142311
     },
     {
-      "id": "gdelt-frsily2",
+      "id": "gdelt-oesbxln",
       "title": "AfD diz ter  mandato para governar  na Saxônia - Anhalt",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -170,7 +202,7 @@
       "lastChecked": 1788776142311
     },
     {
-      "id": "gdelt-w1cp3bm",
+      "id": "gdelt-rt6kygt",
       "title": "Oriente Médio : Gaza enterra 100 corpos recuperados nos últimos dias",
       "sourceName": "Agência Brasil",
       "sourceUrl": "https://agenciabrasil.ebc.com.br/internacional",
@@ -186,7 +218,7 @@
       "lastChecked": 1788776142311
     },
     {
-      "id": "gdelt-1thh8v9",
+      "id": "gdelt-4rovmft",
       "title": "Mulher é encontrada viva no Nepal após família iniciar luto",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -202,7 +234,7 @@
       "lastChecked": 1788776142311
     },
     {
-      "id": "gdelt-0tuy12z",
+      "id": "gdelt-qdu6oi5",
       "title": "Passageiro amarrado com fita em voo nos EUA é identificado",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -218,7 +250,7 @@
       "lastChecked": 1788776142311
     },
     {
-      "id": "gdelt-p56q30s",
+      "id": "gdelt-tonbqak",
       "title": "Governo Trump tenta limitar voto por correio na Suprema Corte",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -234,7 +266,7 @@
       "lastChecked": 1788776142311
     },
     {
-      "id": "gdelt-0icik6d",
+      "id": "gdelt-6ci82gq",
       "title": "Eleio na Alemanha : pesquisas de boca de urna apontam grande vitória da direita radical",
       "sourceName": "BBC News Brasil",
       "sourceUrl": "https://www.bbc.com/portuguese",
@@ -250,7 +282,7 @@
       "lastChecked": 1788776142311
     },
     {
-      "id": "gdelt-eecc8su",
+      "id": "gdelt-l2pkb8w",
       "title": "Milhares celebram na Sua os 80 anos de Freddie Mercury",
       "sourceName": "DW Brasil",
       "sourceUrl": "https://www.dw.com/pt-br/",
@@ -266,7 +298,7 @@
       "lastChecked": 1788776142311
     },
     {
-      "id": "gdelt-t5va5mv",
+      "id": "gdelt-vai2pxc",
       "title": "Eleio alemã tem alta mobilizao e AfD líder nas sondagens",
       "sourceName": "DW Brasil",
       "sourceUrl": "https://www.dw.com/pt-br/",
@@ -282,7 +314,7 @@
       "lastChecked": 1788776142311
     },
     {
-      "id": "gdelt-80q45fa",
+      "id": "gdelt-pbzegz8",
       "title": "Aprovao de Trump registra novo recorde negativo",
       "sourceName": "DW Brasil",
       "sourceUrl": "https://www.dw.com/pt-br/",
@@ -298,7 +330,7 @@
       "lastChecked": 1788776142311
     },
     {
-      "id": "gdelt-htujpqm",
+      "id": "gdelt-pule1rf",
       "title": "Queda de monomotor nos EUA mata duas crianças e deixa dois adultos em estado crítico",
       "sourceName": "O Globo Mundo",
       "sourceUrl": "https://oglobo.globo.com/mundo/",
@@ -314,7 +346,7 @@
       "lastChecked": 1788776142311
     },
     {
-      "id": "gdelt-3lwajq4",
+      "id": "gdelt-cw1sl0o",
       "title": "Incêndio durante casamento deixa pelo menos 22 mortos na República Democrática do Congo",
       "sourceName": "O Globo Mundo",
       "sourceUrl": "https://oglobo.globo.com/mundo/",
@@ -330,7 +362,7 @@
       "lastChecked": 1788776142311
     },
     {
-      "id": "gdelt-f7sw5b3",
+      "id": "gdelt-fhs610l",
       "title": "Escola iraniana atingida por bombardeio vira memorial para crianças ; veja fotos",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -346,7 +378,7 @@
       "lastChecked": 1788776142311
     },
     {
-      "id": "gdelt-n0yv3dt",
+      "id": "gdelt-qgwczj5",
       "title": "A apresentadora de TV condenada à morte por tráfico de drogas no Egito",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -362,7 +394,7 @@
       "lastChecked": 1788776142311
     },
     {
-      "id": "gdelt-ys8k2q9",
+      "id": "gdelt-l29vnb1",
       "title": "Acidente com ônibus de excursão deixa 25 mortos em Cabo Verde",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -378,7 +410,7 @@
       "lastChecked": 1788776142311
     },
     {
-      "id": "gdelt-nisydz5",
+      "id": "gdelt-y67qm05",
       "title": "Enviados dos EUA chegam a Kiev após reunião com Putin em Moscou",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -394,7 +426,7 @@
       "lastChecked": 1788776142311
     },
     {
-      "id": "gdelt-h7lkx3g",
+      "id": "gdelt-jnj809x",
       "title": "Urnas abrem na Alemanha em eleio estadual com AfD liderando pesquisa",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -410,7 +442,7 @@
       "lastChecked": 1788776142311
     },
     {
-      "id": "gdelt-r5g9zp4",
+      "id": "gdelt-a6ta0p7",
       "title": "Vulcão  filhote do Krakatoa  entra em erupo na Indonésia",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -422,22 +454,6 @@
       "publishedAtStr": "2026-09-06T12:45:00Z",
       "publishedAtTs": 1788698700000,
       "rawContent": "Vulcão  filhote do Krakatoa  entra em erupo na Indonésia",
-      "linkStatus": "active",
-      "lastChecked": 1788776142311
-    },
-    {
-      "id": "gdelt-vtjrr1x",
-      "title": "Família relata alívio após resgate de chinês que ficou 10 dias preso em túnel no Nepal",
-      "sourceName": "G1 Mundo",
-      "sourceUrl": "https://g1.globo.com/mundo/",
-      "sourceType": "Imprensa Comercial Brasileira",
-      "sourceEditorial": "Portal de notícias mainstream do Grupo Globo",
-      "country": "Brasil",
-      "paywall": false,
-      "originalUrl": "https://g1.globo.com/mundo/noticia/2026/09/06/familia-alivio-chines-resgatado-tunel-10-dias-nepal.ghtml",
-      "publishedAtStr": "2026-09-06T12:45:00Z",
-      "publishedAtTs": 1788698700000,
-      "rawContent": "Família relata alívio após resgate de chinês que ficou 10 dias preso em túnel no Nepal",
       "linkStatus": "active",
       "lastChecked": 1788776142311
     }
