@@ -1,112 +1,16 @@
 {
-  "updatedAt": "2026-09-07T06:22:31.064Z",
+  "updatedAt": "2026-09-07T06:52:52.971Z",
   "periodUsed": "24h",
-  "count": 75,
+  "count": 41,
   "linkVerificationStats": {
-    "checkedThisRun": 40,
-    "active": 40,
+    "checkedThisRun": 1,
+    "active": 1,
     "broken": 0,
     "unknown": 0
   },
   "articles": [
     {
-      "id": "gdelt-9t3xo1x",
-      "title": "Trump propõe mudar nome de estado dos EUA :  Nova América",
-      "sourceName": "O Globo Mundo",
-      "sourceUrl": "https://oglobo.globo.com/mundo/",
-      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
-      "sourceEditorial": "Jornal diário (Grupo Globo) - Conteúdo sob assinatura",
-      "country": "Brasil",
-      "paywall": true,
-      "originalUrl": "https://oglobo.globo.com/mundo/noticia/2026/09/07/trump-propoe-mudar-nome-de-estado-dos-eua-nova-america.ghtml",
-      "publishedAtStr": "2026-09-07T05:00:00Z",
-      "publishedAtTs": 1788757200000,
-      "rawContent": "Trump propõe mudar nome de estado dos EUA :  Nova América",
-      "linkStatus": "active",
-      "lastChecked": 1788760782512
-    },
-    {
-      "id": "gdelt-5zh0tqs",
-      "title": "AfD cresce entre mulheres e jovens no leste alemão",
-      "sourceName": "DW Brasil",
-      "sourceUrl": "https://www.dw.com/pt-br/",
-      "sourceType": "Imprensa Internacional / Pública",
-      "sourceEditorial": "Emissora pública da Alemanha; foco em diplomacia e direitos humanos",
-      "country": "Alemanha",
-      "paywall": false,
-      "originalUrl": "https://www.dw.com/pt-br/afd-cresce-entre-mulheres-trabalhadores-e-jovens-no-leste-alem%C3%A3o/a-79107391",
-      "publishedAtStr": "2026-09-07T02:00:00Z",
-      "publishedAtTs": 1788746400000,
-      "rawContent": "AfD cresce entre mulheres e jovens no leste alemão",
-      "linkStatus": "active",
-      "lastChecked": 1788760782512
-    },
-    {
-      "id": "gdelt-8qkxan6",
-      "title": "Ataques israelenses no sul do Líbano deixam 4 mortos , sendo 2 mulheres",
-      "sourceName": "Agência Brasil",
-      "sourceUrl": "https://agenciabrasil.ebc.com.br/internacional",
-      "sourceType": "Agência Estatal",
-      "sourceEditorial": "Agência pública de notícias da EBC (Governo Federal)",
-      "country": "Brasil",
-      "paywall": false,
-      "originalUrl": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-09/ataques-israelenses-no-sul-do-libano-deixam-4-mortos-sendo-2-mulheres",
-      "publishedAtStr": "2026-09-06T22:15:00Z",
-      "publishedAtTs": 1788732900000,
-      "rawContent": "Ataques israelenses no sul do Líbano deixam 4 mortos , sendo 2 mulheres",
-      "linkStatus": "active",
-      "lastChecked": 1788760782512
-    },
-    {
-      "id": "gdelt-312dtqo",
-      "title": "Mulher é encontrada viva no Nepal , mais de dez dias após avalanche",
-      "sourceName": "Agência Brasil",
-      "sourceUrl": "https://agenciabrasil.ebc.com.br/internacional",
-      "sourceType": "Agência Estatal",
-      "sourceEditorial": "Agência pública de notícias da EBC (Governo Federal)",
-      "country": "Brasil",
-      "paywall": false,
-      "originalUrl": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-09/mulher-e-encontrada-viva-no-nepal-mais-de-dez-dias-apos-avalanche",
-      "publishedAtStr": "2026-09-06T22:15:00Z",
-      "publishedAtTs": 1788732900000,
-      "rawContent": "Mulher é encontrada viva no Nepal , mais de dez dias após avalanche",
-      "linkStatus": "active",
-      "lastChecked": 1788760782512
-    },
-    {
-      "id": "gdelt-t6uzunr",
-      "title": "Ultradireita obtém votao esmagadora no leste alemão",
-      "sourceName": "DW Brasil",
-      "sourceUrl": "https://www.dw.com/pt-br/",
-      "sourceType": "Imprensa Internacional / Pública",
-      "sourceEditorial": "Emissora pública da Alemanha; foco em diplomacia e direitos humanos",
-      "country": "Alemanha",
-      "paywall": false,
-      "originalUrl": "https://www.dw.com/pt-br/ultradireita-obt%C3%A9m-vota%C3%A7%C3%A3o-esmagadora-no-leste-alem%C3%A3o/a-79067845",
-      "publishedAtStr": "2026-09-06T21:45:00Z",
-      "publishedAtTs": 1788731100000,
-      "rawContent": "Ultradireita obtém votao esmagadora no leste alemão",
-      "linkStatus": "active",
-      "lastChecked": 1788760782512
-    },
-    {
-      "id": "gdelt-813zdmm",
-      "title": "Chefe de Segurança Nacional do Irã anuncia zona de bloqueio além de Ormuz em nova ameaça a tráfego naval",
-      "sourceName": "O Globo Mundo",
-      "sourceUrl": "https://oglobo.globo.com/mundo/",
-      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
-      "sourceEditorial": "Jornal diário (Grupo Globo) - Conteúdo sob assinatura",
-      "country": "Brasil",
-      "paywall": true,
-      "originalUrl": "https://oglobo.globo.com/mundo/noticia/2026/09/06/chefe-de-seguranca-nacional-do-ira-anuncia-zona-de-bloqueio-alem-de-ormuz-em-nova-ameaca-a-trafego-naval.ghtml",
-      "publishedAtStr": "2026-09-06T21:45:00Z",
-      "publishedAtTs": 1788731100000,
-      "rawContent": "Chefe de Segurança Nacional do Irã anuncia zona de bloqueio além de Ormuz em nova ameaça a tráfego naval",
-      "linkStatus": "active",
-      "lastChecked": 1788760782512
-    },
-    {
-      "id": "gdelt-c6xzl15",
+      "id": "gdelt-e8df0z2",
       "title": "O varejo espera a Selic cair mas o ponto de partida mudou",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -122,7 +26,7 @@
       "lastChecked": 1788762135304
     },
     {
-      "id": "gdelt-woah34e",
+      "id": "gdelt-chdk67l",
       "title": "Semana tem alerta para onda de tempestades e risco de ciclone intenso ; veja previsão",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -138,7 +42,7 @@
       "lastChecked": 1788762135304
     },
     {
-      "id": "gdelt-eghbrre",
+      "id": "gdelt-se6uyej",
       "title": "China injetará US$54 bilhões em bancos estatais e seguradoras para reforçar capital",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -154,7 +58,7 @@
       "lastChecked": 1788762135304
     },
     {
-      "id": "gdelt-zhl8dn4",
+      "id": "gdelt-5ybo8ah",
       "title": "Um plano de recuperação vai reviver a Volkswagen ou apenas adiar seu fim ?",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -170,7 +74,7 @@
       "lastChecked": 1788762135304
     },
     {
-      "id": "gdelt-uwdsnic",
+      "id": "gdelt-49n3dp4",
       "title": "Voto definirá se teremos um Brasil que se apequena para outros paíse , diz Lula",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -186,7 +90,7 @@
       "lastChecked": 1788762135304
     },
     {
-      "id": "gdelt-k6dn3m6",
+      "id": "gdelt-2bfs6xv",
       "title": "Parcela de seniores investindo em FIIs salta para 60 % em 6 anos , mostra pesquisa",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -202,7 +106,7 @@
       "lastChecked": 1788762135304
     },
     {
-      "id": "gdelt-xfmgbcu",
+      "id": "gdelt-9srmwqs",
       "title": "Depois do Topo : como fundadora da Care virou a ponte de capital para empreendedoras",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -218,7 +122,7 @@
       "lastChecked": 1788762135304
     },
     {
-      "id": "gdelt-wskis56",
+      "id": "gdelt-87m2skg",
       "title": "Os projetos de arranha - céus que querem competir com o prédio mais alto do mundo",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -234,7 +138,7 @@
       "lastChecked": 1788762135304
     },
     {
-      "id": "gdelt-p04yp5i",
+      "id": "gdelt-3p8p8qc",
       "title": "Mulher de Lito Sousa nega favorecimento para conseguir remédio experimental",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -250,7 +154,7 @@
       "lastChecked": 1788762135304
     },
     {
-      "id": "gdelt-h1igtd7",
+      "id": "gdelt-xb1tuhc",
       "title": "A rebelião das IAs : como os agentes da OpenAI invadiram a Hugging Face sozinhos",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -266,7 +170,7 @@
       "lastChecked": 1788762135304
     },
     {
-      "id": "gdelt-x38fhlc",
+      "id": "gdelt-kkjykgd",
       "title": "Partido de extrema direita da Alemanha tem vitória histórica em eleio estadual",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -282,119 +186,7 @@
       "lastChecked": 1788762135304
     },
     {
-      "id": "gdelt-f17v1b9",
-      "title": "Nunca estive no Afeganistão : deportados recomeçam sob o Talebã",
-      "sourceName": "G1 Mundo",
-      "sourceUrl": "https://g1.globo.com/mundo/",
-      "sourceType": "Imprensa Comercial Brasileira",
-      "sourceEditorial": "Portal de notícias mainstream do Grupo Globo",
-      "country": "Brasil",
-      "paywall": false,
-      "originalUrl": "https://g1.globo.com/mundo/noticia/2026/09/06/milhoes-de-deportados-sao-obrigados-a-comecar-de-novo-em-pais-governado-pelo-taleba.ghtml",
-      "publishedAtStr": "2026-09-06T19:00:00Z",
-      "publishedAtTs": 1788721200000,
-      "rawContent": "Nunca estive no Afeganistão : deportados recomeçam sob o Talebã",
-      "linkStatus": "active",
-      "lastChecked": 1788760782512
-    },
-    {
-      "id": "gdelt-qb1ep1w",
-      "title": "AfD diz ter  mandato para governar  na Saxônia - Anhalt",
-      "sourceName": "G1 Mundo",
-      "sourceUrl": "https://g1.globo.com/mundo/",
-      "sourceType": "Imprensa Comercial Brasileira",
-      "sourceEditorial": "Portal de notícias mainstream do Grupo Globo",
-      "country": "Brasil",
-      "paywall": false,
-      "originalUrl": "https://g1.globo.com/mundo/noticia/2026/09/06/afd-saxonia-anhalt-eleicoes.ghtml",
-      "publishedAtStr": "2026-09-06T19:00:00Z",
-      "publishedAtTs": 1788721200000,
-      "rawContent": "AfD diz ter  mandato para governar  na Saxônia - Anhalt",
-      "linkStatus": "active",
-      "lastChecked": 1788760782512
-    },
-    {
-      "id": "gdelt-k7iowqa",
-      "title": "Oriente Médio : Gaza enterra 100 corpos recuperados nos últimos dias",
-      "sourceName": "Agência Brasil",
-      "sourceUrl": "https://agenciabrasil.ebc.com.br/internacional",
-      "sourceType": "Agência Estatal",
-      "sourceEditorial": "Agência pública de notícias da EBC (Governo Federal)",
-      "country": "Brasil",
-      "paywall": false,
-      "originalUrl": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-09/oriente-medio-gaza-enterra-100-corpos-recuperados-nos-ultimos-dias",
-      "publishedAtStr": "2026-09-06T18:00:00Z",
-      "publishedAtTs": 1788717600000,
-      "rawContent": "Oriente Médio : Gaza enterra 100 corpos recuperados nos últimos dias",
-      "linkStatus": "active",
-      "lastChecked": 1788760782512
-    },
-    {
-      "id": "gdelt-xl6qo9j",
-      "title": "Mulher é encontrada viva no Nepal após família iniciar luto",
-      "sourceName": "G1 Mundo",
-      "sourceUrl": "https://g1.globo.com/mundo/",
-      "sourceType": "Imprensa Comercial Brasileira",
-      "sourceEditorial": "Portal de notícias mainstream do Grupo Globo",
-      "country": "Brasil",
-      "paywall": false,
-      "originalUrl": "https://g1.globo.com/mundo/noticia/2026/09/06/mulher-e-encontrada-viva-no-nepal-dias-apos-familia-iniciar-rituais-funebres.ghtml",
-      "publishedAtStr": "2026-09-06T18:00:00Z",
-      "publishedAtTs": 1788717600000,
-      "rawContent": "Mulher é encontrada viva no Nepal após família iniciar luto",
-      "linkStatus": "active",
-      "lastChecked": 1788760782512
-    },
-    {
-      "id": "gdelt-s24dnjf",
-      "title": "Passageiro amarrado com fita em voo nos EUA é identificado",
-      "sourceName": "G1 Mundo",
-      "sourceUrl": "https://g1.globo.com/mundo/",
-      "sourceType": "Imprensa Comercial Brasileira",
-      "sourceEditorial": "Portal de notícias mainstream do Grupo Globo",
-      "country": "Brasil",
-      "paywall": false,
-      "originalUrl": "https://g1.globo.com/mundo/noticia/2026/09/06/homem-amarrado-fita-adesiva-poltrona-aviao.ghtml",
-      "publishedAtStr": "2026-09-06T18:00:00Z",
-      "publishedAtTs": 1788717600000,
-      "rawContent": "Passageiro amarrado com fita em voo nos EUA é identificado",
-      "linkStatus": "active",
-      "lastChecked": 1788760782512
-    },
-    {
-      "id": "gdelt-d7ve34d",
-      "title": "Governo Trump tenta limitar voto por correio na Suprema Corte",
-      "sourceName": "G1 Mundo",
-      "sourceUrl": "https://g1.globo.com/mundo/",
-      "sourceType": "Imprensa Comercial Brasileira",
-      "sourceEditorial": "Portal de notícias mainstream do Grupo Globo",
-      "country": "Brasil",
-      "paywall": false,
-      "originalUrl": "https://g1.globo.com/mundo/noticia/2026/09/06/governo-trump-retoma-tentativa-na-suprema-corte-dos-eua-para-limitar-voto-por-correio.ghtml",
-      "publishedAtStr": "2026-09-06T18:00:00Z",
-      "publishedAtTs": 1788717600000,
-      "rawContent": "Governo Trump tenta limitar voto por correio na Suprema Corte",
-      "linkStatus": "active",
-      "lastChecked": 1788760782512
-    },
-    {
-      "id": "gdelt-k88ahpe",
-      "title": "Eleio na Alemanha : pesquisas de boca de urna apontam grande vitória da direita radical",
-      "sourceName": "BBC News Brasil",
-      "sourceUrl": "https://www.bbc.com/portuguese",
-      "sourceType": "Imprensa Internacional / Pública",
-      "sourceEditorial": "Emissora pública do Reino Unido; jornalismo global independente",
-      "country": "Reino Unido",
-      "paywall": false,
-      "originalUrl": "https://www.bbc.com/portuguese/articles/cqlw2ldp5w9o",
-      "publishedAtStr": "2026-09-06T18:00:00Z",
-      "publishedAtTs": 1788717600000,
-      "rawContent": "Eleio na Alemanha : pesquisas de boca de urna apontam grande vitória da direita radical",
-      "linkStatus": "active",
-      "lastChecked": 1788760782512
-    },
-    {
-      "id": "gdelt-w5kvrdl",
+      "id": "gdelt-ve8u1dj",
       "title": "Eleio estadual na Alemanha pode levar extrema direita ao poder pela primeira vez desde a 2ª Guerra",
       "sourceName": "Estadão Internacional",
       "sourceUrl": "https://www.estadao.com.br/internacional/",
@@ -410,7 +202,7 @@
       "lastChecked": 1788762135304
     },
     {
-      "id": "gdelt-ll2dz6y",
+      "id": "gdelt-74685kt",
       "title": "Boca de urna sugere vitória de partido de extrema direita em eleições estaduais na Alemanha",
       "sourceName": "Estadão Internacional",
       "sourceUrl": "https://www.estadao.com.br/internacional/",
@@ -426,87 +218,7 @@
       "lastChecked": 1788762135304
     },
     {
-      "id": "gdelt-5ovev39",
-      "title": "Milhares celebram na Sua os 80 anos de Freddie Mercury",
-      "sourceName": "DW Brasil",
-      "sourceUrl": "https://www.dw.com/pt-br/",
-      "sourceType": "Imprensa Internacional / Pública",
-      "sourceEditorial": "Emissora pública da Alemanha; foco em diplomacia e direitos humanos",
-      "country": "Alemanha",
-      "paywall": false,
-      "originalUrl": "https://www.dw.com/pt-br/milhares-celebram-na-su%C3%AD%C3%A7a-os-80-anos-de-freddie-mercury/a-79055591",
-      "publishedAtStr": "2026-09-06T17:00:00Z",
-      "publishedAtTs": 1788714000000,
-      "rawContent": "Milhares celebram na Sua os 80 anos de Freddie Mercury",
-      "linkStatus": "active",
-      "lastChecked": 1788760782512
-    },
-    {
-      "id": "gdelt-8j5k3i8",
-      "title": "Eleio alemã tem alta mobilizao e AfD líder nas sondagens",
-      "sourceName": "DW Brasil",
-      "sourceUrl": "https://www.dw.com/pt-br/",
-      "sourceType": "Imprensa Internacional / Pública",
-      "sourceEditorial": "Emissora pública da Alemanha; foco em diplomacia e direitos humanos",
-      "country": "Alemanha",
-      "paywall": false,
-      "originalUrl": "https://www.dw.com/pt-br/elei%C3%A7%C3%A3o-alem%C3%A3-tem-alta-mobiliza%C3%A7%C3%A3o-e-ultradireita-liderando-sondagens/a-79055461",
-      "publishedAtStr": "2026-09-06T17:00:00Z",
-      "publishedAtTs": 1788714000000,
-      "rawContent": "Eleio alemã tem alta mobilizao e AfD líder nas sondagens",
-      "linkStatus": "active",
-      "lastChecked": 1788760782512
-    },
-    {
-      "id": "gdelt-ms5k6oy",
-      "title": "Aprovao de Trump registra novo recorde negativo",
-      "sourceName": "DW Brasil",
-      "sourceUrl": "https://www.dw.com/pt-br/",
-      "sourceType": "Imprensa Internacional / Pública",
-      "sourceEditorial": "Emissora pública da Alemanha; foco em diplomacia e direitos humanos",
-      "country": "Alemanha",
-      "paywall": false,
-      "originalUrl": "https://www.dw.com/pt-br/aprova%C3%A7%C3%A3o-de-trump-registra-novo-recorde-negativo-antes-de-elei%C3%A7%C3%B5es-nos-eua/a-79060397",
-      "publishedAtStr": "2026-09-06T16:45:00Z",
-      "publishedAtTs": 1788713100000,
-      "rawContent": "Aprovao de Trump registra novo recorde negativo",
-      "linkStatus": "active",
-      "lastChecked": 1788760782512
-    },
-    {
-      "id": "gdelt-2ff7asw",
-      "title": "Queda de monomotor nos EUA mata duas crianças e deixa dois adultos em estado crítico",
-      "sourceName": "O Globo Mundo",
-      "sourceUrl": "https://oglobo.globo.com/mundo/",
-      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
-      "sourceEditorial": "Jornal diário (Grupo Globo) - Conteúdo sob assinatura",
-      "country": "Brasil",
-      "paywall": true,
-      "originalUrl": "https://oglobo.globo.com/mundo/epoca/noticia/2026/09/06/queda-de-monomotor-na-california-mata-duas-criancas-e-deixa-dois-adultos-em-estado-critico.ghtml",
-      "publishedAtStr": "2026-09-06T16:45:00Z",
-      "publishedAtTs": 1788713100000,
-      "rawContent": "Queda de monomotor nos EUA mata duas crianças e deixa dois adultos em estado crítico",
-      "linkStatus": "active",
-      "lastChecked": 1788760782512
-    },
-    {
-      "id": "gdelt-1ma5qja",
-      "title": "Incêndio durante casamento deixa pelo menos 22 mortos na República Democrática do Congo",
-      "sourceName": "O Globo Mundo",
-      "sourceUrl": "https://oglobo.globo.com/mundo/",
-      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
-      "sourceEditorial": "Jornal diário (Grupo Globo) - Conteúdo sob assinatura",
-      "country": "Brasil",
-      "paywall": true,
-      "originalUrl": "https://oglobo.globo.com/mundo/epoca/noticia/2026/09/06/incendio-durante-casamento-deixa-pelo-menos-22-mortos-na-republica-democratica-do-congo.ghtml",
-      "publishedAtStr": "2026-09-06T16:45:00Z",
-      "publishedAtTs": 1788713100000,
-      "rawContent": "Incêndio durante casamento deixa pelo menos 22 mortos na República Democrática do Congo",
-      "linkStatus": "active",
-      "lastChecked": 1788760782512
-    },
-    {
-      "id": "gdelt-av87i94",
+      "id": "gdelt-kqojy14",
       "title": "Irã ameaçou intensificar as respostas aos ataques dos EUA",
       "sourceName": "Veja Mundo",
       "sourceUrl": "https://veja.abril.com.br/mundo/",
@@ -522,7 +234,7 @@
       "lastChecked": 1788762135304
     },
     {
-      "id": "gdelt-v2vzpv8",
+      "id": "gdelt-52tjc6r",
       "title": "Apresentadora egípcia é condenada à morte por tráfico e fabricação de drogas sintéticas",
       "sourceName": "Estadão Internacional",
       "sourceUrl": "https://www.estadao.com.br/internacional/",
@@ -538,39 +250,7 @@
       "lastChecked": 1788762135304
     },
     {
-      "id": "gdelt-feh2s86",
-      "title": "Escola iraniana atingida por bombardeio vira memorial para crianças ; veja fotos",
-      "sourceName": "G1 Mundo",
-      "sourceUrl": "https://g1.globo.com/mundo/",
-      "sourceType": "Imprensa Comercial Brasileira",
-      "sourceEditorial": "Portal de notícias mainstream do Grupo Globo",
-      "country": "Brasil",
-      "paywall": false,
-      "originalUrl": "https://g1.globo.com/mundo/noticia/2026/09/06/escola-ira-bombardeio-memorial-criancas-fotos.ghtml",
-      "publishedAtStr": "2026-09-06T15:45:00Z",
-      "publishedAtTs": 1788709500000,
-      "rawContent": "Escola iraniana atingida por bombardeio vira memorial para crianças ; veja fotos",
-      "linkStatus": "active",
-      "lastChecked": 1788760782512
-    },
-    {
-      "id": "gdelt-zpfk9w1",
-      "title": "A apresentadora de TV condenada à morte por tráfico de drogas no Egito",
-      "sourceName": "G1 Mundo",
-      "sourceUrl": "https://g1.globo.com/mundo/",
-      "sourceType": "Imprensa Comercial Brasileira",
-      "sourceEditorial": "Portal de notícias mainstream do Grupo Globo",
-      "country": "Brasil",
-      "paywall": false,
-      "originalUrl": "https://g1.globo.com/mundo/noticia/2026/09/06/a-apresentadora-de-tv-condenada-a-morte-por-trafico-de-drogas-no-egito.ghtml",
-      "publishedAtStr": "2026-09-06T15:45:00Z",
-      "publishedAtTs": 1788709500000,
-      "rawContent": "A apresentadora de TV condenada à morte por tráfico de drogas no Egito",
-      "linkStatus": "active",
-      "lastChecked": 1788760782512
-    },
-    {
-      "id": "gdelt-v9ytpwj",
+      "id": "gdelt-vupwgjk",
       "title": "Café da manhã pode influenciar os níveis de glicose na refeio seguinte , diz estudo",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -586,7 +266,7 @@
       "lastChecked": 1788762135304
     },
     {
-      "id": "gdelt-6l4aftn",
+      "id": "gdelt-xtfr07l",
       "title": "Sérgio Cabral é condenado a pagar R$ 1 milhão por regalias na prisão",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -602,7 +282,7 @@
       "lastChecked": 1788762135304
     },
     {
-      "id": "gdelt-wx9jctn",
+      "id": "gdelt-47v9sw1",
       "title": "Bancos , Pix , Boletos : como ficam pagamentos no feriado de 7 de Setembro",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -618,7 +298,7 @@
       "lastChecked": 1788762135304
     },
     {
-      "id": "gdelt-3uqvl1k",
+      "id": "gdelt-3hohav1",
       "title": "Indonésia cancela voos no aeroporto de Jacarta por causa de erupo de vulcão",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -634,7 +314,7 @@
       "lastChecked": 1788762135304
     },
     {
-      "id": "gdelt-439luk2",
+      "id": "gdelt-pneiwl2",
       "title": "Mulher é encontrada viva no Nepal dias após família iniciar rituais fúnebres",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -650,7 +330,7 @@
       "lastChecked": 1788762135304
     },
     {
-      "id": "gdelt-g4vt6o5",
+      "id": "gdelt-nkg6t60",
       "title": "Dona de loja de luxo denunciada por noivas acusa funcionária de desviar R$ 1 milhão",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -666,7 +346,7 @@
       "lastChecked": 1788762135304
     },
     {
-      "id": "gdelt-i7i8cx8",
+      "id": "gdelt-d7fo0lh",
       "title": "Sem Tim Cook perde o brilho ? Apple fica de fora de recomendaes de aes globais",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -682,7 +362,7 @@
       "lastChecked": 1788762135304
     },
     {
-      "id": "gdelt-arptoq9",
+      "id": "gdelt-uazkyq4",
       "title": "Enviados de Trump chegam à Ucrânia após se reunirem com Putin",
       "sourceName": "Veja Mundo",
       "sourceUrl": "https://veja.abril.com.br/mundo/",
@@ -698,7 +378,7 @@
       "lastChecked": 1788762135304
     },
     {
-      "id": "gdelt-pc5mmbg",
+      "id": "gdelt-qtn5qzf",
       "title": "Por que a Globo promoveu reestruturação e trocou três diretores do alto escalão ?",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -714,7 +394,7 @@
       "lastChecked": 1788762135304
     },
     {
-      "id": "gdelt-emmywxo",
+      "id": "gdelt-qheo6tr",
       "title": "Trump quer o petróleo da Venezuela : por que isso não será tão simples ?",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -730,7 +410,7 @@
       "lastChecked": 1788762135304
     },
     {
-      "id": "gdelt-4d4lfhs",
+      "id": "gdelt-avly37l",
       "title": "Tarifaço não afasta empresas brasileiras dos EUA , mas muda a forma de fazer negócios",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -746,7 +426,7 @@
       "lastChecked": 1788762135304
     },
     {
-      "id": "gdelt-l0k5nu1",
+      "id": "gdelt-yudayaz",
       "title": "Em meio a crise , STF reforça esquema de segurança para o Sete de Setembro",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -762,7 +442,7 @@
       "lastChecked": 1788762135304
     },
     {
-      "id": "gdelt-d1xk2wu",
+      "id": "gdelt-ukjdkdp",
       "title": "Petróleo chique  na Foz do Amazonas : entenda e saiba por que é tão valorizado",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -778,7 +458,7 @@
       "lastChecked": 1788762135304
     },
     {
-      "id": "gdelt-u4tgxnx",
+      "id": "gdelt-w4xdvdg",
       "title": "Xi Jinping pretende levar grande delegação de CEOs em visita aos EUA , dizem fontes",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -794,7 +474,7 @@
       "lastChecked": 1788762135304
     },
     {
-      "id": "gdelt-k24bjog",
+      "id": "gdelt-d1qii40",
       "title": "Uso de canetas emagrecedoras entre crianças aumenta 300 vezes , diz estudo",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -810,7 +490,7 @@
       "lastChecked": 1788762135304
     },
     {
-      "id": "gdelt-brqrpkw",
+      "id": "gdelt-3fop4c6",
       "title": "Em meio à crise no STF , Michelle Bolsonaro sai em defesa de Mendonça",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -826,7 +506,7 @@
       "lastChecked": 1788762135304
     },
     {
-      "id": "gdelt-bicjtx0",
+      "id": "gdelt-c87d9v4",
       "title": "Zelensky : Ucrânia é  construtiva  e tem propostas prontas para negociar com a Rússia",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -842,7 +522,7 @@
       "lastChecked": 1788762135304
     },
     {
-      "id": "gdelt-x21wilc",
+      "id": "gdelt-lp9qyzo",
       "title": "Pix bate recorde de transações liquidadas em um único dia",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -858,7 +538,7 @@
       "lastChecked": 1788762135304
     },
     {
-      "id": "gdelt-hlqrpth",
+      "id": "gdelt-lstfux5",
       "title": "SoHo paulistano : Accor aposta em Pinheiros – e diária média cresce mais de 20 %",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -874,7 +554,7 @@
       "lastChecked": 1788762135304
     },
     {
-      "id": "gdelt-kv13ek1",
+      "id": "gdelt-lanhr6o",
       "title": "CVC Corp renegocia dívida e alonga vencimentos até 2029",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -890,7 +570,7 @@
       "lastChecked": 1788762135304
     },
     {
-      "id": "gdelt-k1z4tat",
+      "id": "gdelt-qbvl2yv",
       "title": "Sua empresa united states IA . Mas ela está gerando resultado ?",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -906,7 +586,7 @@
       "lastChecked": 1788762135304
     },
     {
-      "id": "gdelt-1c79o8e",
+      "id": "gdelt-twf98ev",
       "title": "Washington Post : Trump perde tempo para restringir voto por correio",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -922,7 +602,7 @@
       "lastChecked": 1788762135304
     },
     {
-      "id": "gdelt-gdmuoc5",
+      "id": "gdelt-68y8gxj",
       "title": "Conheça a história da pioneira fábrica de aviões que precedeu a Embraer no Galeão",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -938,7 +618,7 @@
       "lastChecked": 1788762135304
     },
     {
-      "id": "gdelt-g14r0td",
+      "id": "gdelt-r8l6lk4",
       "title": "Minha Casa , Minha Vida  domina  mercado e evidencia fragilidade nos demais setores",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -954,23 +634,7 @@
       "lastChecked": 1788762135304
     },
     {
-      "id": "gdelt-p861x7m",
-      "title": "Acidente com ônibus de excursão deixa 25 mortos em Cabo Verde",
-      "sourceName": "G1 Mundo",
-      "sourceUrl": "https://g1.globo.com/mundo/",
-      "sourceType": "Imprensa Comercial Brasileira",
-      "sourceEditorial": "Portal de notícias mainstream do Grupo Globo",
-      "country": "Brasil",
-      "paywall": false,
-      "originalUrl": "https://g1.globo.com/mundo/noticia/2026/09/06/acidente-com-onibus-de-excursao-estudantil-deixa-mortos-em-cabo-verde.ghtml",
-      "publishedAtStr": "2026-09-06T14:30:00Z",
-      "publishedAtTs": 1788705000000,
-      "rawContent": "Acidente com ônibus de excursão deixa 25 mortos em Cabo Verde",
-      "linkStatus": "active",
-      "lastChecked": 1788760782512
-    },
-    {
-      "id": "gdelt-6hhzy0t",
+      "id": "gdelt-0hwpkal",
       "title": "Enviados de Trump chegam à Ucrânia para tentar reativar negociações de paz",
       "sourceName": "Estadão Internacional",
       "sourceUrl": "https://www.estadao.com.br/internacional/",
@@ -986,183 +650,7 @@
       "lastChecked": 1788762135304
     },
     {
-      "id": "gdelt-opdyf35",
-      "title": "Enviados dos EUA chegam a Kiev após reunião com Putin em Moscou",
-      "sourceName": "G1 Mundo",
-      "sourceUrl": "https://g1.globo.com/mundo/",
-      "sourceType": "Imprensa Comercial Brasileira",
-      "sourceEditorial": "Portal de notícias mainstream do Grupo Globo",
-      "country": "Brasil",
-      "paywall": false,
-      "originalUrl": "https://g1.globo.com/mundo/noticia/2026/09/06/enviados-dos-eua-kiev.ghtml",
-      "publishedAtStr": "2026-09-06T12:45:00Z",
-      "publishedAtTs": 1788698700000,
-      "rawContent": "Enviados dos EUA chegam a Kiev após reunião com Putin em Moscou",
-      "linkStatus": "active",
-      "lastChecked": 1788760782512
-    },
-    {
-      "id": "gdelt-xvooflr",
-      "title": "Urnas abrem na Alemanha em eleio estadual com AfD liderando pesquisa",
-      "sourceName": "G1 Mundo",
-      "sourceUrl": "https://g1.globo.com/mundo/",
-      "sourceType": "Imprensa Comercial Brasileira",
-      "sourceEditorial": "Portal de notícias mainstream do Grupo Globo",
-      "country": "Brasil",
-      "paywall": false,
-      "originalUrl": "https://g1.globo.com/mundo/noticia/2026/09/06/eleicao-alemanha-saxonia-anhalt.ghtml",
-      "publishedAtStr": "2026-09-06T12:45:00Z",
-      "publishedAtTs": 1788698700000,
-      "rawContent": "Urnas abrem na Alemanha em eleio estadual com AfD liderando pesquisa",
-      "linkStatus": "active",
-      "lastChecked": 1788760782512
-    },
-    {
-      "id": "gdelt-eulkojn",
-      "title": "Vulcão  filhote do Krakatoa  entra em erupo na Indonésia",
-      "sourceName": "G1 Mundo",
-      "sourceUrl": "https://g1.globo.com/mundo/",
-      "sourceType": "Imprensa Comercial Brasileira",
-      "sourceEditorial": "Portal de notícias mainstream do Grupo Globo",
-      "country": "Brasil",
-      "paywall": false,
-      "originalUrl": "https://g1.globo.com/mundo/noticia/2026/09/06/vulcao-filhote-do-krakatoa-entra-em-erupcao-na-indonesia-afeta-voos-na-asia-e-deixa-150-mil-passageiros-retidos.ghtml",
-      "publishedAtStr": "2026-09-06T12:45:00Z",
-      "publishedAtTs": 1788698700000,
-      "rawContent": "Vulcão  filhote do Krakatoa  entra em erupo na Indonésia",
-      "linkStatus": "active",
-      "lastChecked": 1788760782512
-    },
-    {
-      "id": "gdelt-ad5wfdv",
-      "title": "Família relata alívio após resgate de chinês que ficou 10 dias preso em túnel no Nepal",
-      "sourceName": "G1 Mundo",
-      "sourceUrl": "https://g1.globo.com/mundo/",
-      "sourceType": "Imprensa Comercial Brasileira",
-      "sourceEditorial": "Portal de notícias mainstream do Grupo Globo",
-      "country": "Brasil",
-      "paywall": false,
-      "originalUrl": "https://g1.globo.com/mundo/noticia/2026/09/06/familia-alivio-chines-resgatado-tunel-10-dias-nepal.ghtml",
-      "publishedAtStr": "2026-09-06T12:45:00Z",
-      "publishedAtTs": 1788698700000,
-      "rawContent": "Família relata alívio após resgate de chinês que ficou 10 dias preso em túnel no Nepal",
-      "linkStatus": "active",
-      "lastChecked": 1788760782512
-    },
-    {
-      "id": "gdelt-iiytupl",
-      "title": "Israel volta a bombardear sul do Líbano",
-      "sourceName": "G1 Mundo",
-      "sourceUrl": "https://g1.globo.com/mundo/",
-      "sourceType": "Imprensa Comercial Brasileira",
-      "sourceEditorial": "Portal de notícias mainstream do Grupo Globo",
-      "country": "Brasil",
-      "paywall": false,
-      "originalUrl": "https://g1.globo.com/mundo/noticia/2026/09/06/sul-do-libano-bombardeios.ghtml",
-      "publishedAtStr": "2026-09-06T12:45:00Z",
-      "publishedAtTs": 1788698700000,
-      "rawContent": "Israel volta a bombardear sul do Líbano",
-      "linkStatus": "active",
-      "lastChecked": 1788760782512
-    },
-    {
-      "id": "gdelt-8u00tl4",
-      "title": "Quem é o candidato que pode se tornar o primeiro governador de extrema direita da Alemanha desde a Segunda Guerra",
-      "sourceName": "G1 Mundo",
-      "sourceUrl": "https://g1.globo.com/mundo/",
-      "sourceType": "Imprensa Comercial Brasileira",
-      "sourceEditorial": "Portal de notícias mainstream do Grupo Globo",
-      "country": "Brasil",
-      "paywall": false,
-      "originalUrl": "https://g1.globo.com/mundo/noticia/2026/09/06/quem-e-ulrich-siegmund-candidato-governador-extrema-direita-alemanha.ghtml",
-      "publishedAtStr": "2026-09-06T12:45:00Z",
-      "publishedAtTs": 1788698700000,
-      "rawContent": "Quem é o candidato que pode se tornar o primeiro governador de extrema direita da Alemanha desde a Segunda Guerra",
-      "linkStatus": "active",
-      "lastChecked": 1788760782512
-    },
-    {
-      "id": "gdelt-r4vc0mf",
-      "title": "Homem morre após saltar de píer e mergulhar de cabeça no mar na Turquia",
-      "sourceName": "O Globo Mundo",
-      "sourceUrl": "https://oglobo.globo.com/mundo/",
-      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
-      "sourceEditorial": "Jornal diário (Grupo Globo) - Conteúdo sob assinatura",
-      "country": "Brasil",
-      "paywall": true,
-      "originalUrl": "https://oglobo.globo.com/mundo/epoca/noticia/2026/09/06/homem-morre-apos-saltar-de-pier-e-mergulhar-de-cabeca-no-mar-na-turquia.ghtml",
-      "publishedAtStr": "2026-09-06T12:00:00Z",
-      "publishedAtTs": 1788696000000,
-      "rawContent": "Homem morre após saltar de píer e mergulhar de cabeça no mar na Turquia",
-      "linkStatus": "active",
-      "lastChecked": 1788760782512
-    },
-    {
-      "id": "gdelt-7qt3wdv",
-      "title": "Seis aeroportos da Indonésia suspendem operações após erupo do vulcão Anak Krakatoa",
-      "sourceName": "O Globo Mundo",
-      "sourceUrl": "https://oglobo.globo.com/mundo/",
-      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
-      "sourceEditorial": "Jornal diário (Grupo Globo) - Conteúdo sob assinatura",
-      "country": "Brasil",
-      "paywall": true,
-      "originalUrl": "https://oglobo.globo.com/mundo/noticia/2026/09/06/seis-aeroportos-da-indonesia-suspendem-operacoes-apos-erupcao-do-vulcao-anak-krakatoa.ghtml",
-      "publishedAtStr": "2026-09-06T12:00:00Z",
-      "publishedAtTs": 1788696000000,
-      "rawContent": "Seis aeroportos da Indonésia suspendem operações após erupo do vulcão Anak Krakatoa",
-      "linkStatus": "active",
-      "lastChecked": 1788760782512
-    },
-    {
-      "id": "gdelt-zs0lc5n",
-      "title": "Rússia e Ucrânia trocam ataques durante visita dos EUA",
-      "sourceName": "DW Brasil",
-      "sourceUrl": "https://www.dw.com/pt-br/",
-      "sourceType": "Imprensa Internacional / Pública",
-      "sourceEditorial": "Emissora pública da Alemanha; foco em diplomacia e direitos humanos",
-      "country": "Alemanha",
-      "paywall": false,
-      "originalUrl": "https://www.dw.com/pt-br/r%C3%BAssia-e-ucr%C3%A2nia-trocam-ataques-mas-evitam-capitais-durante-visita-dos-eua/a-79053395",
-      "publishedAtStr": "2026-09-06T12:00:00Z",
-      "publishedAtTs": 1788696000000,
-      "rawContent": "Rússia e Ucrânia trocam ataques durante visita dos EUA",
-      "linkStatus": "active",
-      "lastChecked": 1788760782512
-    },
-    {
-      "id": "gdelt-aao9iwc",
-      "title": "Maduro ignorou a soberania popular e teve que entregar a soberania nacional , afirma jornalista que deixou Venezuela após ameaças",
-      "sourceName": "O Globo Mundo",
-      "sourceUrl": "https://oglobo.globo.com/mundo/",
-      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
-      "sourceEditorial": "Jornal diário (Grupo Globo) - Conteúdo sob assinatura",
-      "country": "Brasil",
-      "paywall": true,
-      "originalUrl": "https://oglobo.globo.com/mundo/noticia/2026/09/06/maduro-ignorou-a-soberania-popular-e-teve-que-entregar-a-soberania-nacional-afirma-jornalista-que-deixou-venezuela-apos-ameacas.ghtml",
-      "publishedAtStr": "2026-09-06T12:00:00Z",
-      "publishedAtTs": 1788696000000,
-      "rawContent": "Maduro ignorou a soberania popular e teve que entregar a soberania nacional , afirma jornalista que deixou Venezuela após ameaças",
-      "linkStatus": "active",
-      "lastChecked": 1788760782512
-    },
-    {
-      "id": "gdelt-j8sfbik",
-      "title": "Alemanha planeja escudo antissabotagem após ataque híbrido",
-      "sourceName": "DW Brasil",
-      "sourceUrl": "https://www.dw.com/pt-br/",
-      "sourceType": "Imprensa Internacional / Pública",
-      "sourceEditorial": "Emissora pública da Alemanha; foco em diplomacia e direitos humanos",
-      "country": "Alemanha",
-      "paywall": false,
-      "originalUrl": "https://www.dw.com/pt-br/alemanha-planeja-escudo-antissabotagem-ap%C3%B3s-ataque-a-aeroporto/a-79054268",
-      "publishedAtStr": "2026-09-06T12:00:00Z",
-      "publishedAtTs": 1788696000000,
-      "rawContent": "Alemanha planeja escudo antissabotagem após ataque híbrido",
-      "linkStatus": "active",
-      "lastChecked": 1788760782512
-    },
-    {
-      "id": "gdelt-fke9l4f",
+      "id": "gdelt-55u1tir",
       "title": "Eleio estadual na Alemanha pode levar extrema direita ao poder pela primeira vez desde a 2ª Guerra",
       "sourceName": "Estadão Internacional",
       "sourceUrl": "https://www.estadao.com.br/internacional/",
@@ -1174,40 +662,8 @@
       "publishedAtStr": "2026-09-06T11:15:00Z",
       "publishedAtTs": 1788693300000,
       "rawContent": "Eleio estadual na Alemanha pode levar extrema direita ao poder pela primeira vez desde a 2ª Guerra",
-      "linkStatus": "unknown",
-      "lastChecked": null
-    },
-    {
-      "id": "gdelt-eaxz1ax",
-      "title": "Quem é Alejandro Betancourt , o bilionário do petróleo venezuelano",
-      "sourceName": "G1 Mundo",
-      "sourceUrl": "https://g1.globo.com/mundo/",
-      "sourceType": "Imprensa Comercial Brasileira",
-      "sourceEditorial": "Portal de notícias mainstream do Grupo Globo",
-      "country": "Brasil",
-      "paywall": false,
-      "originalUrl": "https://g1.globo.com/mundo/noticia/2026/09/06/quem-e-alejandro-betancourt-o-polemico-bilionario-por-tras-do-acordo-de-petroleo-entre-eua-e-venezuela.ghtml",
-      "publishedAtStr": "2026-09-06T11:00:00Z",
-      "publishedAtTs": 1788692400000,
-      "rawContent": "Quem é Alejandro Betancourt , o bilionário do petróleo venezuelano",
       "linkStatus": "active",
-      "lastChecked": 1788760782512
-    },
-    {
-      "id": "gdelt-wh7095a",
-      "title": "Apresentadora egípcia é condenada à morte por enforcamento após envolvimento com tráfico de drogas",
-      "sourceName": "O Globo Mundo",
-      "sourceUrl": "https://oglobo.globo.com/mundo/",
-      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
-      "sourceEditorial": "Jornal diário (Grupo Globo) - Conteúdo sob assinatura",
-      "country": "Brasil",
-      "paywall": true,
-      "originalUrl": "https://oglobo.globo.com/mundo/noticia/2026/09/06/apresentadora-egipcia-e-condenada-a-morte-por-enforcamento-apos-envolvimento-com-trafico-de-drogas.ghtml",
-      "publishedAtStr": "2026-09-06T10:00:00Z",
-      "publishedAtTs": 1788688800000,
-      "rawContent": "Apresentadora egípcia é condenada à morte por enforcamento após envolvimento com tráfico de drogas",
-      "linkStatus": "active",
-      "lastChecked": 1788760782512
+      "lastChecked": 1788763972215
     }
   ]
 }
