@@ -1,80 +1,16 @@
 {
-  "updatedAt": "2026-09-07T02:16:26.571Z",
+  "updatedAt": "2026-09-07T02:32:03.195Z",
   "periodUsed": "24h",
-  "count": 74,
+  "count": 49,
   "linkVerificationStats": {
-    "checkedThisRun": 40,
-    "active": 40,
+    "checkedThisRun": 27,
+    "active": 27,
     "broken": 0,
     "unknown": 0
   },
   "articles": [
     {
-      "id": "gdelt-9h39pew",
-      "title": "Ataques israelenses no sul do Líbano deixam 4 mortos , sendo 2 mulheres",
-      "sourceName": "Agência Brasil",
-      "sourceUrl": "https://agenciabrasil.ebc.com.br/internacional",
-      "sourceType": "Agência Estatal",
-      "sourceEditorial": "Agência pública de notícias da EBC (Governo Federal)",
-      "country": "Brasil",
-      "paywall": false,
-      "originalUrl": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-09/ataques-israelenses-no-sul-do-libano-deixam-4-mortos-sendo-2-mulheres",
-      "publishedAtStr": "2026-09-06T22:15:00Z",
-      "publishedAtTs": 1788732900000,
-      "rawContent": "Ataques israelenses no sul do Líbano deixam 4 mortos , sendo 2 mulheres",
-      "linkStatus": "active",
-      "lastChecked": 1788747366091
-    },
-    {
-      "id": "gdelt-6lugdlx",
-      "title": "Mulher é encontrada viva no Nepal , mais de dez dias após avalanche",
-      "sourceName": "Agência Brasil",
-      "sourceUrl": "https://agenciabrasil.ebc.com.br/internacional",
-      "sourceType": "Agência Estatal",
-      "sourceEditorial": "Agência pública de notícias da EBC (Governo Federal)",
-      "country": "Brasil",
-      "paywall": false,
-      "originalUrl": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-09/mulher-e-encontrada-viva-no-nepal-mais-de-dez-dias-apos-avalanche",
-      "publishedAtStr": "2026-09-06T22:15:00Z",
-      "publishedAtTs": 1788732900000,
-      "rawContent": "Mulher é encontrada viva no Nepal , mais de dez dias após avalanche",
-      "linkStatus": "active",
-      "lastChecked": 1788747366091
-    },
-    {
-      "id": "gdelt-dd5uyvk",
-      "title": "Ultradireita obtém votao esmagadora no leste alemão",
-      "sourceName": "DW Brasil",
-      "sourceUrl": "https://www.dw.com/pt-br/",
-      "sourceType": "Imprensa Internacional / Pública",
-      "sourceEditorial": "Emissora pública da Alemanha; foco em diplomacia e direitos humanos",
-      "country": "Alemanha",
-      "paywall": false,
-      "originalUrl": "https://www.dw.com/pt-br/ultradireita-obt%C3%A9m-vota%C3%A7%C3%A3o-esmagadora-no-leste-alem%C3%A3o/a-79067845",
-      "publishedAtStr": "2026-09-06T21:45:00Z",
-      "publishedAtTs": 1788731100000,
-      "rawContent": "Ultradireita obtém votao esmagadora no leste alemão",
-      "linkStatus": "active",
-      "lastChecked": 1788747366091
-    },
-    {
-      "id": "gdelt-tmezxt0",
-      "title": "Chefe de Segurança Nacional do Irã anuncia zona de bloqueio além de Ormuz em nova ameaça a tráfego naval",
-      "sourceName": "O Globo Mundo",
-      "sourceUrl": "https://oglobo.globo.com/mundo/",
-      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
-      "sourceEditorial": "Jornal diário (Grupo Globo) - Conteúdo sob assinatura",
-      "country": "Brasil",
-      "paywall": true,
-      "originalUrl": "https://oglobo.globo.com/mundo/noticia/2026/09/06/chefe-de-seguranca-nacional-do-ira-anuncia-zona-de-bloqueio-alem-de-ormuz-em-nova-ameaca-a-trafego-naval.ghtml",
-      "publishedAtStr": "2026-09-06T21:45:00Z",
-      "publishedAtTs": 1788731100000,
-      "rawContent": "Chefe de Segurança Nacional do Irã anuncia zona de bloqueio além de Ormuz em nova ameaça a tráfego naval",
-      "linkStatus": "active",
-      "lastChecked": 1788747366091
-    },
-    {
-      "id": "gdelt-en9bm3j",
+      "id": "gdelt-6cshy0y",
       "title": "O varejo espera a Selic cair mas o ponto de partida mudou",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -90,7 +26,7 @@
       "lastChecked": 1788747366091
     },
     {
-      "id": "gdelt-44q1gpy",
+      "id": "gdelt-0voac2r",
       "title": "Semana tem alerta para onda de tempestades e risco de ciclone intenso ; veja previsão",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -106,7 +42,7 @@
       "lastChecked": 1788747366091
     },
     {
-      "id": "gdelt-ode82yi",
+      "id": "gdelt-07no860",
       "title": "China injetará US$54 bilhões em bancos estatais e seguradoras para reforçar capital",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -122,7 +58,7 @@
       "lastChecked": 1788747366091
     },
     {
-      "id": "gdelt-5fg80hf",
+      "id": "gdelt-swpqstz",
       "title": "Um plano de recuperação vai reviver a Volkswagen ou apenas adiar seu fim ?",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -138,7 +74,7 @@
       "lastChecked": 1788747366091
     },
     {
-      "id": "gdelt-8uo35df",
+      "id": "gdelt-dt486py",
       "title": "Voto definirá se teremos um Brasil que se apequena para outros paíse , diz Lula",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -154,7 +90,7 @@
       "lastChecked": 1788747366091
     },
     {
-      "id": "gdelt-hi9oyl0",
+      "id": "gdelt-p28quv0",
       "title": "Parcela de seniores investindo em FIIs salta para 60 % em 6 anos , mostra pesquisa",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -170,7 +106,7 @@
       "lastChecked": 1788747366091
     },
     {
-      "id": "gdelt-dc9y202",
+      "id": "gdelt-wwbolti",
       "title": "Depois do Topo : como fundadora da Care virou a ponte de capital para empreendedoras",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -186,7 +122,7 @@
       "lastChecked": 1788747366091
     },
     {
-      "id": "gdelt-7z4q4ma",
+      "id": "gdelt-n8cjihd",
       "title": "Os projetos de arranha - céus que querem competir com o prédio mais alto do mundo",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -202,7 +138,7 @@
       "lastChecked": 1788747366091
     },
     {
-      "id": "gdelt-lq6pqpf",
+      "id": "gdelt-q6htnxk",
       "title": "Mulher de Lito Sousa nega favorecimento para conseguir remédio experimental",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -218,7 +154,7 @@
       "lastChecked": 1788747366091
     },
     {
-      "id": "gdelt-258q1jh",
+      "id": "gdelt-7cg8sfa",
       "title": "A rebelião das IAs : como os agentes da OpenAI invadiram a Hugging Face sozinhos",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -234,7 +170,7 @@
       "lastChecked": 1788747366091
     },
     {
-      "id": "gdelt-o6snb8d",
+      "id": "gdelt-fu48k0p",
       "title": "Partido de extrema direita da Alemanha tem vitória histórica em eleio estadual",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -250,119 +186,103 @@
       "lastChecked": 1788747366091
     },
     {
-      "id": "gdelt-97hl3tm",
-      "title": "Nunca estive no Afeganistão : deportados recomeçam sob o Talebã",
-      "sourceName": "G1 Mundo",
-      "sourceUrl": "https://g1.globo.com/mundo/",
-      "sourceType": "Imprensa Comercial Brasileira",
-      "sourceEditorial": "Portal de notícias mainstream do Grupo Globo",
+      "id": "gdelt-ow8qcts",
+      "title": "Com chance de vitória da extrema direita , alta participação marca eleio em estado da Alemanha",
+      "sourceName": "Brasil de Fato",
+      "sourceUrl": "https://www.brasildefato.com.br/",
+      "sourceType": "Jornal / Movimentos Sociais",
+      "sourceEditorial": "Mídia popular focada em Direitos Humanos e Sul Global",
       "country": "Brasil",
       "paywall": false,
-      "originalUrl": "https://g1.globo.com/mundo/noticia/2026/09/06/milhoes-de-deportados-sao-obrigados-a-comecar-de-novo-em-pais-governado-pelo-taleba.ghtml",
+      "originalUrl": "https://www.brasildefato.com.br/2026/09/06/com-chance-de-vitoria-da-extrema-direita-alta-participacao-marca-eleicao-historica-no-estado-alemao-saxonia-anhalt/",
       "publishedAtStr": "2026-09-06T19:00:00Z",
       "publishedAtTs": 1788721200000,
-      "rawContent": "Nunca estive no Afeganistão : deportados recomeçam sob o Talebã",
+      "rawContent": "Com chance de vitória da extrema direita , alta participação marca eleio em estado da Alemanha",
       "linkStatus": "active",
-      "lastChecked": 1788747366091
+      "lastChecked": 1788748314184
     },
     {
-      "id": "gdelt-qldwvio",
-      "title": "AfD diz ter  mandato para governar  na Saxônia - Anhalt",
-      "sourceName": "G1 Mundo",
-      "sourceUrl": "https://g1.globo.com/mundo/",
-      "sourceType": "Imprensa Comercial Brasileira",
-      "sourceEditorial": "Portal de notícias mainstream do Grupo Globo",
+      "id": "gdelt-ifjmw69",
+      "title": "Porta - voz iraniano promete respostas mais rápidas e fortes aos ataques dos Estados Unidos",
+      "sourceName": "Brasil de Fato",
+      "sourceUrl": "https://www.brasildefato.com.br/",
+      "sourceType": "Jornal / Movimentos Sociais",
+      "sourceEditorial": "Mídia popular focada em Direitos Humanos e Sul Global",
       "country": "Brasil",
       "paywall": false,
-      "originalUrl": "https://g1.globo.com/mundo/noticia/2026/09/06/afd-saxonia-anhalt-eleicoes.ghtml",
+      "originalUrl": "https://www.brasildefato.com.br/2026/09/06/porta-voz-iraniano-promete-respostas-mais-rapidas-e-fortes-aos-ataques-dos-estados-unidos/",
       "publishedAtStr": "2026-09-06T19:00:00Z",
       "publishedAtTs": 1788721200000,
-      "rawContent": "AfD diz ter  mandato para governar  na Saxônia - Anhalt",
+      "rawContent": "Porta - voz iraniano promete respostas mais rápidas e fortes aos ataques dos Estados Unidos",
       "linkStatus": "active",
-      "lastChecked": 1788747366091
+      "lastChecked": 1788748314184
     },
     {
-      "id": "gdelt-yt64ej1",
-      "title": "Oriente Médio : Gaza enterra 100 corpos recuperados nos últimos dias",
-      "sourceName": "Agência Brasil",
-      "sourceUrl": "https://agenciabrasil.ebc.com.br/internacional",
-      "sourceType": "Agência Estatal",
-      "sourceEditorial": "Agência pública de notícias da EBC (Governo Federal)",
+      "id": "gdelt-xx6x7c8",
+      "title": "Deltan Dallagnol divulga sigilo fiscal do ministro Cristiano Zanin , que pede responsabilização",
+      "sourceName": "Brasil de Fato",
+      "sourceUrl": "https://www.brasildefato.com.br/",
+      "sourceType": "Jornal / Movimentos Sociais",
+      "sourceEditorial": "Mídia popular focada em Direitos Humanos e Sul Global",
       "country": "Brasil",
       "paywall": false,
-      "originalUrl": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-09/oriente-medio-gaza-enterra-100-corpos-recuperados-nos-ultimos-dias",
-      "publishedAtStr": "2026-09-06T18:00:00Z",
-      "publishedAtTs": 1788717600000,
-      "rawContent": "Oriente Médio : Gaza enterra 100 corpos recuperados nos últimos dias",
+      "originalUrl": "https://www.brasildefato.com.br/2026/09/06/deltan-dallagnol-divulga-sigilo-fiscal-do-ministro-cristiano-zanin-que-pede-responsabilizacao/",
+      "publishedAtStr": "2026-09-06T19:00:00Z",
+      "publishedAtTs": 1788721200000,
+      "rawContent": "Deltan Dallagnol divulga sigilo fiscal do ministro Cristiano Zanin , que pede responsabilização",
       "linkStatus": "active",
-      "lastChecked": 1788747366091
+      "lastChecked": 1788748314184
     },
     {
-      "id": "gdelt-x4fty5u",
-      "title": "Mulher é encontrada viva no Nepal após família iniciar luto",
-      "sourceName": "G1 Mundo",
-      "sourceUrl": "https://g1.globo.com/mundo/",
-      "sourceType": "Imprensa Comercial Brasileira",
-      "sourceEditorial": "Portal de notícias mainstream do Grupo Globo",
+      "id": "gdelt-w5g5e5g",
+      "title": "Senado em Pernambuco : Marília Arraes mantém liderança ; Humberto Costa e Mendonça Filho empatam , mas bolsonarista aparece numericamente à frente , diz Real Time",
+      "sourceName": "Brasil de Fato",
+      "sourceUrl": "https://www.brasildefato.com.br/",
+      "sourceType": "Jornal / Movimentos Sociais",
+      "sourceEditorial": "Mídia popular focada em Direitos Humanos e Sul Global",
       "country": "Brasil",
       "paywall": false,
-      "originalUrl": "https://g1.globo.com/mundo/noticia/2026/09/06/mulher-e-encontrada-viva-no-nepal-dias-apos-familia-iniciar-rituais-funebres.ghtml",
-      "publishedAtStr": "2026-09-06T18:00:00Z",
-      "publishedAtTs": 1788717600000,
-      "rawContent": "Mulher é encontrada viva no Nepal após família iniciar luto",
+      "originalUrl": "https://www.brasildefato.com.br/2026/09/03/senado-em-pernambuco-marilia-arraes-mantem-lideranca-humberto-costa-e-mendonca-filho-empatam-mas-bolsonarista-aparece-numericamente-a-frente-diz-real-time/",
+      "publishedAtStr": "2026-09-06T19:00:00Z",
+      "publishedAtTs": 1788721200000,
+      "rawContent": "Senado em Pernambuco : Marília Arraes mantém liderança ; Humberto Costa e Mendonça Filho empatam , mas bolsonarista aparece numericamente à frente , diz Real Time",
       "linkStatus": "active",
-      "lastChecked": 1788747366091
+      "lastChecked": 1788748314184
     },
     {
-      "id": "gdelt-cc255j1",
-      "title": "Passageiro amarrado com fita em voo nos EUA é identificado",
-      "sourceName": "G1 Mundo",
-      "sourceUrl": "https://g1.globo.com/mundo/",
-      "sourceType": "Imprensa Comercial Brasileira",
-      "sourceEditorial": "Portal de notícias mainstream do Grupo Globo",
+      "id": "gdelt-xg8i25y",
+      "title": "Cristãos se manifestam nas ruas do Recife , nesta segunda ( 7 ), em defesa da soberania e das vidas das mulheres",
+      "sourceName": "Brasil de Fato",
+      "sourceUrl": "https://www.brasildefato.com.br/",
+      "sourceType": "Jornal / Movimentos Sociais",
+      "sourceEditorial": "Mídia popular focada em Direitos Humanos e Sul Global",
       "country": "Brasil",
       "paywall": false,
-      "originalUrl": "https://g1.globo.com/mundo/noticia/2026/09/06/homem-amarrado-fita-adesiva-poltrona-aviao.ghtml",
-      "publishedAtStr": "2026-09-06T18:00:00Z",
-      "publishedAtTs": 1788717600000,
-      "rawContent": "Passageiro amarrado com fita em voo nos EUA é identificado",
+      "originalUrl": "https://www.brasildefato.com.br/2026/09/06/cristaos-se-manifestam-nas-ruas-do-recife-nesta-segunda-7-em-defesa-da-soberania-e-das-vidas-das-mulheres/",
+      "publishedAtStr": "2026-09-06T19:00:00Z",
+      "publishedAtTs": 1788721200000,
+      "rawContent": "Cristãos se manifestam nas ruas do Recife , nesta segunda ( 7 ), em defesa da soberania e das vidas das mulheres",
       "linkStatus": "active",
-      "lastChecked": 1788747366091
+      "lastChecked": 1788748314184
     },
     {
-      "id": "gdelt-sohlpmt",
-      "title": "Governo Trump tenta limitar voto por correio na Suprema Corte",
-      "sourceName": "G1 Mundo",
-      "sourceUrl": "https://g1.globo.com/mundo/",
-      "sourceType": "Imprensa Comercial Brasileira",
-      "sourceEditorial": "Portal de notícias mainstream do Grupo Globo",
+      "id": "gdelt-smjeiqe",
+      "title": "Ataques israelenses deixam mortos e feridos no sul do Líbano em meio a negociações com EUA",
+      "sourceName": "Brasil de Fato",
+      "sourceUrl": "https://www.brasildefato.com.br/",
+      "sourceType": "Jornal / Movimentos Sociais",
+      "sourceEditorial": "Mídia popular focada em Direitos Humanos e Sul Global",
       "country": "Brasil",
       "paywall": false,
-      "originalUrl": "https://g1.globo.com/mundo/noticia/2026/09/06/governo-trump-retoma-tentativa-na-suprema-corte-dos-eua-para-limitar-voto-por-correio.ghtml",
-      "publishedAtStr": "2026-09-06T18:00:00Z",
-      "publishedAtTs": 1788717600000,
-      "rawContent": "Governo Trump tenta limitar voto por correio na Suprema Corte",
+      "originalUrl": "https://www.brasildefato.com.br/2026/09/06/ataques-israelenses-deixam-mortos-e-feridos-no-sul-do-libano-em-meio-a-negociacoes-com-eua/",
+      "publishedAtStr": "2026-09-06T19:00:00Z",
+      "publishedAtTs": 1788721200000,
+      "rawContent": "Ataques israelenses deixam mortos e feridos no sul do Líbano em meio a negociações com EUA",
       "linkStatus": "active",
-      "lastChecked": 1788747366091
+      "lastChecked": 1788748314184
     },
     {
-      "id": "gdelt-3jrr2ji",
-      "title": "Eleio na Alemanha : pesquisas de boca de urna apontam grande vitória da direita radical",
-      "sourceName": "BBC News Brasil",
-      "sourceUrl": "https://www.bbc.com/portuguese",
-      "sourceType": "Imprensa Internacional / Pública",
-      "sourceEditorial": "Emissora pública do Reino Unido; jornalismo global independente",
-      "country": "Reino Unido",
-      "paywall": false,
-      "originalUrl": "https://www.bbc.com/portuguese/articles/cqlw2ldp5w9o",
-      "publishedAtStr": "2026-09-06T18:00:00Z",
-      "publishedAtTs": 1788717600000,
-      "rawContent": "Eleio na Alemanha : pesquisas de boca de urna apontam grande vitória da direita radical",
-      "linkStatus": "active",
-      "lastChecked": 1788747366091
-    },
-    {
-      "id": "gdelt-amiippg",
+      "id": "gdelt-ed4j4he",
       "title": "Eleio estadual na Alemanha pode levar extrema direita ao poder pela primeira vez desde a 2ª Guerra",
       "sourceName": "Estadão Internacional",
       "sourceUrl": "https://www.estadao.com.br/internacional/",
@@ -378,7 +298,7 @@
       "lastChecked": 1788747366091
     },
     {
-      "id": "gdelt-ks6q4x9",
+      "id": "gdelt-60eszbu",
       "title": "Boca de urna sugere vitória de partido de extrema direita em eleições estaduais na Alemanha",
       "sourceName": "Estadão Internacional",
       "sourceUrl": "https://www.estadao.com.br/internacional/",
@@ -394,87 +314,7 @@
       "lastChecked": 1788747366091
     },
     {
-      "id": "gdelt-l3j3a3u",
-      "title": "Milhares celebram na Sua os 80 anos de Freddie Mercury",
-      "sourceName": "DW Brasil",
-      "sourceUrl": "https://www.dw.com/pt-br/",
-      "sourceType": "Imprensa Internacional / Pública",
-      "sourceEditorial": "Emissora pública da Alemanha; foco em diplomacia e direitos humanos",
-      "country": "Alemanha",
-      "paywall": false,
-      "originalUrl": "https://www.dw.com/pt-br/milhares-celebram-na-su%C3%AD%C3%A7a-os-80-anos-de-freddie-mercury/a-79055591",
-      "publishedAtStr": "2026-09-06T17:00:00Z",
-      "publishedAtTs": 1788714000000,
-      "rawContent": "Milhares celebram na Sua os 80 anos de Freddie Mercury",
-      "linkStatus": "active",
-      "lastChecked": 1788747366091
-    },
-    {
-      "id": "gdelt-z47pfhi",
-      "title": "Eleio alemã tem alta mobilizao e AfD líder nas sondagens",
-      "sourceName": "DW Brasil",
-      "sourceUrl": "https://www.dw.com/pt-br/",
-      "sourceType": "Imprensa Internacional / Pública",
-      "sourceEditorial": "Emissora pública da Alemanha; foco em diplomacia e direitos humanos",
-      "country": "Alemanha",
-      "paywall": false,
-      "originalUrl": "https://www.dw.com/pt-br/elei%C3%A7%C3%A3o-alem%C3%A3-tem-alta-mobiliza%C3%A7%C3%A3o-e-ultradireita-liderando-sondagens/a-79055461",
-      "publishedAtStr": "2026-09-06T17:00:00Z",
-      "publishedAtTs": 1788714000000,
-      "rawContent": "Eleio alemã tem alta mobilizao e AfD líder nas sondagens",
-      "linkStatus": "active",
-      "lastChecked": 1788747366091
-    },
-    {
-      "id": "gdelt-0taiasr",
-      "title": "Aprovao de Trump registra novo recorde negativo",
-      "sourceName": "DW Brasil",
-      "sourceUrl": "https://www.dw.com/pt-br/",
-      "sourceType": "Imprensa Internacional / Pública",
-      "sourceEditorial": "Emissora pública da Alemanha; foco em diplomacia e direitos humanos",
-      "country": "Alemanha",
-      "paywall": false,
-      "originalUrl": "https://www.dw.com/pt-br/aprova%C3%A7%C3%A3o-de-trump-registra-novo-recorde-negativo-antes-de-elei%C3%A7%C3%B5es-nos-eua/a-79060397",
-      "publishedAtStr": "2026-09-06T16:45:00Z",
-      "publishedAtTs": 1788713100000,
-      "rawContent": "Aprovao de Trump registra novo recorde negativo",
-      "linkStatus": "active",
-      "lastChecked": 1788747366091
-    },
-    {
-      "id": "gdelt-mhxx6yn",
-      "title": "Queda de monomotor nos EUA mata duas crianças e deixa dois adultos em estado crítico",
-      "sourceName": "O Globo Mundo",
-      "sourceUrl": "https://oglobo.globo.com/mundo/",
-      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
-      "sourceEditorial": "Jornal diário (Grupo Globo) - Conteúdo sob assinatura",
-      "country": "Brasil",
-      "paywall": true,
-      "originalUrl": "https://oglobo.globo.com/mundo/epoca/noticia/2026/09/06/queda-de-monomotor-na-california-mata-duas-criancas-e-deixa-dois-adultos-em-estado-critico.ghtml",
-      "publishedAtStr": "2026-09-06T16:45:00Z",
-      "publishedAtTs": 1788713100000,
-      "rawContent": "Queda de monomotor nos EUA mata duas crianças e deixa dois adultos em estado crítico",
-      "linkStatus": "active",
-      "lastChecked": 1788747366091
-    },
-    {
-      "id": "gdelt-av55wwb",
-      "title": "Incêndio durante casamento deixa pelo menos 22 mortos na República Democrática do Congo",
-      "sourceName": "O Globo Mundo",
-      "sourceUrl": "https://oglobo.globo.com/mundo/",
-      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
-      "sourceEditorial": "Jornal diário (Grupo Globo) - Conteúdo sob assinatura",
-      "country": "Brasil",
-      "paywall": true,
-      "originalUrl": "https://oglobo.globo.com/mundo/epoca/noticia/2026/09/06/incendio-durante-casamento-deixa-pelo-menos-22-mortos-na-republica-democratica-do-congo.ghtml",
-      "publishedAtStr": "2026-09-06T16:45:00Z",
-      "publishedAtTs": 1788713100000,
-      "rawContent": "Incêndio durante casamento deixa pelo menos 22 mortos na República Democrática do Congo",
-      "linkStatus": "active",
-      "lastChecked": 1788747366091
-    },
-    {
-      "id": "gdelt-jc8ed8r",
+      "id": "gdelt-up2g86g",
       "title": "Irã ameaçou intensificar as respostas aos ataques dos EUA",
       "sourceName": "Veja Mundo",
       "sourceUrl": "https://veja.abril.com.br/mundo/",
@@ -490,7 +330,7 @@
       "lastChecked": 1788747366091
     },
     {
-      "id": "gdelt-5mmhf62",
+      "id": "gdelt-4ek7k6x",
       "title": "Apresentadora egípcia é condenada à morte por tráfico e fabricação de drogas sintéticas",
       "sourceName": "Estadão Internacional",
       "sourceUrl": "https://www.estadao.com.br/internacional/",
@@ -506,39 +346,7 @@
       "lastChecked": 1788747366091
     },
     {
-      "id": "gdelt-k2elmrx",
-      "title": "Escola iraniana atingida por bombardeio vira memorial para crianças ; veja fotos",
-      "sourceName": "G1 Mundo",
-      "sourceUrl": "https://g1.globo.com/mundo/",
-      "sourceType": "Imprensa Comercial Brasileira",
-      "sourceEditorial": "Portal de notícias mainstream do Grupo Globo",
-      "country": "Brasil",
-      "paywall": false,
-      "originalUrl": "https://g1.globo.com/mundo/noticia/2026/09/06/escola-ira-bombardeio-memorial-criancas-fotos.ghtml",
-      "publishedAtStr": "2026-09-06T15:45:00Z",
-      "publishedAtTs": 1788709500000,
-      "rawContent": "Escola iraniana atingida por bombardeio vira memorial para crianças ; veja fotos",
-      "linkStatus": "active",
-      "lastChecked": 1788747366091
-    },
-    {
-      "id": "gdelt-kf0guqt",
-      "title": "A apresentadora de TV condenada à morte por tráfico de drogas no Egito",
-      "sourceName": "G1 Mundo",
-      "sourceUrl": "https://g1.globo.com/mundo/",
-      "sourceType": "Imprensa Comercial Brasileira",
-      "sourceEditorial": "Portal de notícias mainstream do Grupo Globo",
-      "country": "Brasil",
-      "paywall": false,
-      "originalUrl": "https://g1.globo.com/mundo/noticia/2026/09/06/a-apresentadora-de-tv-condenada-a-morte-por-trafico-de-drogas-no-egito.ghtml",
-      "publishedAtStr": "2026-09-06T15:45:00Z",
-      "publishedAtTs": 1788709500000,
-      "rawContent": "A apresentadora de TV condenada à morte por tráfico de drogas no Egito",
-      "linkStatus": "active",
-      "lastChecked": 1788747366091
-    },
-    {
-      "id": "gdelt-jc9ssim",
+      "id": "gdelt-w0feytm",
       "title": "Café da manhã pode influenciar os níveis de glicose na refeio seguinte , diz estudo",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -554,7 +362,7 @@
       "lastChecked": 1788747366091
     },
     {
-      "id": "gdelt-87wu9jo",
+      "id": "gdelt-5ytd647",
       "title": "Sérgio Cabral é condenado a pagar R$ 1 milhão por regalias na prisão",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -570,7 +378,7 @@
       "lastChecked": 1788747366091
     },
     {
-      "id": "gdelt-7pjpsx6",
+      "id": "gdelt-mctaabs",
       "title": "Bancos , Pix , Boletos : como ficam pagamentos no feriado de 7 de Setembro",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -586,7 +394,7 @@
       "lastChecked": 1788747366091
     },
     {
-      "id": "gdelt-3kmvg3b",
+      "id": "gdelt-nmi5ffa",
       "title": "Indonésia cancela voos no aeroporto de Jacarta por causa de erupo de vulcão",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -602,7 +410,7 @@
       "lastChecked": 1788747366091
     },
     {
-      "id": "gdelt-u1aoyhl",
+      "id": "gdelt-zq6dsrd",
       "title": "Mulher é encontrada viva no Nepal dias após família iniciar rituais fúnebres",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -618,7 +426,7 @@
       "lastChecked": 1788747366091
     },
     {
-      "id": "gdelt-o4so0wf",
+      "id": "gdelt-3jst2k3",
       "title": "Dona de loja de luxo denunciada por noivas acusa funcionária de desviar R$ 1 milhão",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -634,7 +442,7 @@
       "lastChecked": 1788747366091
     },
     {
-      "id": "gdelt-n1rxohw",
+      "id": "gdelt-snusxee",
       "title": "Sem Tim Cook perde o brilho ? Apple fica de fora de recomendaes de aes globais",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -650,7 +458,7 @@
       "lastChecked": 1788747366091
     },
     {
-      "id": "gdelt-c7znf4l",
+      "id": "gdelt-hhme2mc",
       "title": "Enviados de Trump chegam à Ucrânia após se reunirem com Putin",
       "sourceName": "Veja Mundo",
       "sourceUrl": "https://veja.abril.com.br/mundo/",
@@ -662,11 +470,11 @@
       "publishedAtStr": "2026-09-06T15:45:00Z",
       "publishedAtTs": 1788709500000,
       "rawContent": "Enviados de Trump chegam à Ucrânia após se reunirem com Putin",
-      "linkStatus": "unknown",
-      "lastChecked": null
+      "linkStatus": "active",
+      "lastChecked": 1788748314184
     },
     {
-      "id": "gdelt-bv7rede",
+      "id": "gdelt-y28b9r9",
       "title": "Por que a Globo promoveu reestruturação e trocou três diretores do alto escalão ?",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -678,11 +486,11 @@
       "publishedAtStr": "2026-09-06T15:45:00Z",
       "publishedAtTs": 1788709500000,
       "rawContent": "Por que a Globo promoveu reestruturação e trocou três diretores do alto escalão ?",
-      "linkStatus": "unknown",
-      "lastChecked": null
+      "linkStatus": "active",
+      "lastChecked": 1788748314184
     },
     {
-      "id": "gdelt-gvlc14c",
+      "id": "gdelt-oiy925z",
       "title": "Trump quer o petróleo da Venezuela : por que isso não será tão simples ?",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -694,11 +502,11 @@
       "publishedAtStr": "2026-09-06T15:45:00Z",
       "publishedAtTs": 1788709500000,
       "rawContent": "Trump quer o petróleo da Venezuela : por que isso não será tão simples ?",
-      "linkStatus": "unknown",
-      "lastChecked": null
+      "linkStatus": "active",
+      "lastChecked": 1788748314184
     },
     {
-      "id": "gdelt-1ufhj1n",
+      "id": "gdelt-nypa88l",
       "title": "Tarifaço não afasta empresas brasileiras dos EUA , mas muda a forma de fazer negócios",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -710,11 +518,11 @@
       "publishedAtStr": "2026-09-06T15:45:00Z",
       "publishedAtTs": 1788709500000,
       "rawContent": "Tarifaço não afasta empresas brasileiras dos EUA , mas muda a forma de fazer negócios",
-      "linkStatus": "unknown",
-      "lastChecked": null
+      "linkStatus": "active",
+      "lastChecked": 1788748314184
     },
     {
-      "id": "gdelt-9ho49rg",
+      "id": "gdelt-h2i0xip",
       "title": "Em meio a crise , STF reforça esquema de segurança para o Sete de Setembro",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -726,11 +534,11 @@
       "publishedAtStr": "2026-09-06T15:45:00Z",
       "publishedAtTs": 1788709500000,
       "rawContent": "Em meio a crise , STF reforça esquema de segurança para o Sete de Setembro",
-      "linkStatus": "unknown",
-      "lastChecked": null
+      "linkStatus": "active",
+      "lastChecked": 1788748314184
     },
     {
-      "id": "gdelt-hj6fg8y",
+      "id": "gdelt-8ngh1wf",
       "title": "Petróleo chique  na Foz do Amazonas : entenda e saiba por que é tão valorizado",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -742,11 +550,11 @@
       "publishedAtStr": "2026-09-06T15:45:00Z",
       "publishedAtTs": 1788709500000,
       "rawContent": "Petróleo chique  na Foz do Amazonas : entenda e saiba por que é tão valorizado",
-      "linkStatus": "unknown",
-      "lastChecked": null
+      "linkStatus": "active",
+      "lastChecked": 1788748314184
     },
     {
-      "id": "gdelt-ljf6zj0",
+      "id": "gdelt-jnayg5o",
       "title": "Xi Jinping pretende levar grande delegação de CEOs em visita aos EUA , dizem fontes",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -758,11 +566,11 @@
       "publishedAtStr": "2026-09-06T15:45:00Z",
       "publishedAtTs": 1788709500000,
       "rawContent": "Xi Jinping pretende levar grande delegação de CEOs em visita aos EUA , dizem fontes",
-      "linkStatus": "unknown",
-      "lastChecked": null
+      "linkStatus": "active",
+      "lastChecked": 1788748314184
     },
     {
-      "id": "gdelt-81ejehb",
+      "id": "gdelt-iolv7j2",
       "title": "Uso de canetas emagrecedoras entre crianças aumenta 300 vezes , diz estudo",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -774,11 +582,11 @@
       "publishedAtStr": "2026-09-06T15:45:00Z",
       "publishedAtTs": 1788709500000,
       "rawContent": "Uso de canetas emagrecedoras entre crianças aumenta 300 vezes , diz estudo",
-      "linkStatus": "unknown",
-      "lastChecked": null
+      "linkStatus": "active",
+      "lastChecked": 1788748314184
     },
     {
-      "id": "gdelt-9fkxr4h",
+      "id": "gdelt-ork4ytk",
       "title": "Em meio à crise no STF , Michelle Bolsonaro sai em defesa de Mendonça",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -790,11 +598,11 @@
       "publishedAtStr": "2026-09-06T15:45:00Z",
       "publishedAtTs": 1788709500000,
       "rawContent": "Em meio à crise no STF , Michelle Bolsonaro sai em defesa de Mendonça",
-      "linkStatus": "unknown",
-      "lastChecked": null
+      "linkStatus": "active",
+      "lastChecked": 1788748314184
     },
     {
-      "id": "gdelt-zujz9mx",
+      "id": "gdelt-wr8vb5o",
       "title": "Zelensky : Ucrânia é  construtiva  e tem propostas prontas para negociar com a Rússia",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -806,11 +614,11 @@
       "publishedAtStr": "2026-09-06T15:45:00Z",
       "publishedAtTs": 1788709500000,
       "rawContent": "Zelensky : Ucrânia é  construtiva  e tem propostas prontas para negociar com a Rússia",
-      "linkStatus": "unknown",
-      "lastChecked": null
+      "linkStatus": "active",
+      "lastChecked": 1788748314184
     },
     {
-      "id": "gdelt-0s5bls9",
+      "id": "gdelt-jacwize",
       "title": "Pix bate recorde de transações liquidadas em um único dia",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -822,11 +630,11 @@
       "publishedAtStr": "2026-09-06T15:45:00Z",
       "publishedAtTs": 1788709500000,
       "rawContent": "Pix bate recorde de transações liquidadas em um único dia",
-      "linkStatus": "unknown",
-      "lastChecked": null
+      "linkStatus": "active",
+      "lastChecked": 1788748314184
     },
     {
-      "id": "gdelt-ixwi1za",
+      "id": "gdelt-nf23h7e",
       "title": "SoHo paulistano : Accor aposta em Pinheiros – e diária média cresce mais de 20 %",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -838,11 +646,11 @@
       "publishedAtStr": "2026-09-06T15:45:00Z",
       "publishedAtTs": 1788709500000,
       "rawContent": "SoHo paulistano : Accor aposta em Pinheiros – e diária média cresce mais de 20 %",
-      "linkStatus": "unknown",
-      "lastChecked": null
+      "linkStatus": "active",
+      "lastChecked": 1788748314184
     },
     {
-      "id": "gdelt-pzwlvxc",
+      "id": "gdelt-fdkf7to",
       "title": "CVC Corp renegocia dívida e alonga vencimentos até 2029",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -854,11 +662,11 @@
       "publishedAtStr": "2026-09-06T15:45:00Z",
       "publishedAtTs": 1788709500000,
       "rawContent": "CVC Corp renegocia dívida e alonga vencimentos até 2029",
-      "linkStatus": "unknown",
-      "lastChecked": null
+      "linkStatus": "active",
+      "lastChecked": 1788748314184
     },
     {
-      "id": "gdelt-sow7sud",
+      "id": "gdelt-jtvrcv0",
       "title": "Sua empresa united states IA . Mas ela está gerando resultado ?",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -870,11 +678,11 @@
       "publishedAtStr": "2026-09-06T15:45:00Z",
       "publishedAtTs": 1788709500000,
       "rawContent": "Sua empresa united states IA . Mas ela está gerando resultado ?",
-      "linkStatus": "unknown",
-      "lastChecked": null
+      "linkStatus": "active",
+      "lastChecked": 1788748314184
     },
     {
-      "id": "gdelt-ugx1qba",
+      "id": "gdelt-t7wg14b",
       "title": "Washington Post : Trump perde tempo para restringir voto por correio",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -886,11 +694,11 @@
       "publishedAtStr": "2026-09-06T15:45:00Z",
       "publishedAtTs": 1788709500000,
       "rawContent": "Washington Post : Trump perde tempo para restringir voto por correio",
-      "linkStatus": "unknown",
-      "lastChecked": null
+      "linkStatus": "active",
+      "lastChecked": 1788748314184
     },
     {
-      "id": "gdelt-ixe1bk9",
+      "id": "gdelt-02fpevl",
       "title": "Conheça a história da pioneira fábrica de aviões que precedeu a Embraer no Galeão",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -902,11 +710,11 @@
       "publishedAtStr": "2026-09-06T15:45:00Z",
       "publishedAtTs": 1788709500000,
       "rawContent": "Conheça a história da pioneira fábrica de aviões que precedeu a Embraer no Galeão",
-      "linkStatus": "unknown",
-      "lastChecked": null
+      "linkStatus": "active",
+      "lastChecked": 1788748314184
     },
     {
-      "id": "gdelt-yk2ru4f",
+      "id": "gdelt-p7ljykr",
       "title": "Minha Casa , Minha Vida  domina  mercado e evidencia fragilidade nos demais setores",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -918,27 +726,43 @@
       "publishedAtStr": "2026-09-06T15:45:00Z",
       "publishedAtTs": 1788709500000,
       "rawContent": "Minha Casa , Minha Vida  domina  mercado e evidencia fragilidade nos demais setores",
-      "linkStatus": "unknown",
-      "lastChecked": null
+      "linkStatus": "active",
+      "lastChecked": 1788748314184
     },
     {
-      "id": "gdelt-i50xo5w",
-      "title": "Acidente com ônibus de excursão deixa 25 mortos em Cabo Verde",
-      "sourceName": "G1 Mundo",
-      "sourceUrl": "https://g1.globo.com/mundo/",
-      "sourceType": "Imprensa Comercial Brasileira",
-      "sourceEditorial": "Portal de notícias mainstream do Grupo Globo",
+      "id": "gdelt-pyjidca",
+      "title": "Justiça paralisa lavra da Sigma Mineração até consulta a Quilombo do Baú em Araçuaí ( MG )",
+      "sourceName": "Brasil de Fato",
+      "sourceUrl": "https://www.brasildefato.com.br/",
+      "sourceType": "Jornal / Movimentos Sociais",
+      "sourceEditorial": "Mídia popular focada em Direitos Humanos e Sul Global",
       "country": "Brasil",
       "paywall": false,
-      "originalUrl": "https://g1.globo.com/mundo/noticia/2026/09/06/acidente-com-onibus-de-excursao-estudantil-deixa-mortos-em-cabo-verde.ghtml",
-      "publishedAtStr": "2026-09-06T14:30:00Z",
-      "publishedAtTs": 1788705000000,
-      "rawContent": "Acidente com ônibus de excursão deixa 25 mortos em Cabo Verde",
-      "linkStatus": "unknown",
-      "lastChecked": null
+      "originalUrl": "https://www.brasildefato.com.br/2026/09/06/justica-paralisa-lavra-da-sigma-mineracao-ate-consulta-a-quilombo-do-bau-em-aracuai-mg/",
+      "publishedAtStr": "2026-09-06T14:00:00Z",
+      "publishedAtTs": 1788703200000,
+      "rawContent": "Justiça paralisa lavra da Sigma Mineração até consulta a Quilombo do Baú em Araçuaí ( MG )",
+      "linkStatus": "active",
+      "lastChecked": 1788748314184
     },
     {
-      "id": "gdelt-4g3537d",
+      "id": "gdelt-d8fvgnd",
+      "title": "Com atos em todo o país , 32º Grito dos Excluídos reivindica moradia e fim da escala 6×1",
+      "sourceName": "Brasil de Fato",
+      "sourceUrl": "https://www.brasildefato.com.br/",
+      "sourceType": "Jornal / Movimentos Sociais",
+      "sourceEditorial": "Mídia popular focada em Direitos Humanos e Sul Global",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://www.brasildefato.com.br/2026/09/06/com-atos-em-todo-o-pais-32o-grito-dos-excluidos-reivindica-moradia-e-fim-da-escala-6x1/",
+      "publishedAtStr": "2026-09-06T14:00:00Z",
+      "publishedAtTs": 1788703200000,
+      "rawContent": "Com atos em todo o país , 32º Grito dos Excluídos reivindica moradia e fim da escala 6×1",
+      "linkStatus": "active",
+      "lastChecked": 1788748314184
+    },
+    {
+      "id": "gdelt-6gvtjag",
       "title": "Enviados de Trump chegam à Ucrânia para tentar reativar negociações de paz",
       "sourceName": "Estadão Internacional",
       "sourceUrl": "https://www.estadao.com.br/internacional/",
@@ -950,187 +774,11 @@
       "publishedAtStr": "2026-09-06T13:30:00Z",
       "publishedAtTs": 1788701400000,
       "rawContent": "Enviados de Trump chegam à Ucrânia para tentar reativar negociações de paz",
-      "linkStatus": "unknown",
-      "lastChecked": null
+      "linkStatus": "active",
+      "lastChecked": 1788748314184
     },
     {
-      "id": "gdelt-2bhznl7",
-      "title": "Israel volta a bombardear sul do Líbano",
-      "sourceName": "G1 Mundo",
-      "sourceUrl": "https://g1.globo.com/mundo/",
-      "sourceType": "Imprensa Comercial Brasileira",
-      "sourceEditorial": "Portal de notícias mainstream do Grupo Globo",
-      "country": "Brasil",
-      "paywall": false,
-      "originalUrl": "https://g1.globo.com/mundo/noticia/2026/09/06/sul-do-libano-bombardeios.ghtml",
-      "publishedAtStr": "2026-09-06T12:45:00Z",
-      "publishedAtTs": 1788698700000,
-      "rawContent": "Israel volta a bombardear sul do Líbano",
-      "linkStatus": "unknown",
-      "lastChecked": null
-    },
-    {
-      "id": "gdelt-bb1aiyi",
-      "title": "Quem é o candidato que pode se tornar o primeiro governador de extrema direita da Alemanha desde a Segunda Guerra",
-      "sourceName": "G1 Mundo",
-      "sourceUrl": "https://g1.globo.com/mundo/",
-      "sourceType": "Imprensa Comercial Brasileira",
-      "sourceEditorial": "Portal de notícias mainstream do Grupo Globo",
-      "country": "Brasil",
-      "paywall": false,
-      "originalUrl": "https://g1.globo.com/mundo/noticia/2026/09/06/quem-e-ulrich-siegmund-candidato-governador-extrema-direita-alemanha.ghtml",
-      "publishedAtStr": "2026-09-06T12:45:00Z",
-      "publishedAtTs": 1788698700000,
-      "rawContent": "Quem é o candidato que pode se tornar o primeiro governador de extrema direita da Alemanha desde a Segunda Guerra",
-      "linkStatus": "unknown",
-      "lastChecked": null
-    },
-    {
-      "id": "gdelt-8ff60l8",
-      "title": "Enviados dos EUA chegam a Kiev após reunião com Putin em Moscou",
-      "sourceName": "G1 Mundo",
-      "sourceUrl": "https://g1.globo.com/mundo/",
-      "sourceType": "Imprensa Comercial Brasileira",
-      "sourceEditorial": "Portal de notícias mainstream do Grupo Globo",
-      "country": "Brasil",
-      "paywall": false,
-      "originalUrl": "https://g1.globo.com/mundo/noticia/2026/09/06/enviados-dos-eua-kiev.ghtml",
-      "publishedAtStr": "2026-09-06T12:45:00Z",
-      "publishedAtTs": 1788698700000,
-      "rawContent": "Enviados dos EUA chegam a Kiev após reunião com Putin em Moscou",
-      "linkStatus": "unknown",
-      "lastChecked": null
-    },
-    {
-      "id": "gdelt-fwcf8ez",
-      "title": "Urnas abrem na Alemanha em eleio estadual com AfD liderando pesquisa",
-      "sourceName": "G1 Mundo",
-      "sourceUrl": "https://g1.globo.com/mundo/",
-      "sourceType": "Imprensa Comercial Brasileira",
-      "sourceEditorial": "Portal de notícias mainstream do Grupo Globo",
-      "country": "Brasil",
-      "paywall": false,
-      "originalUrl": "https://g1.globo.com/mundo/noticia/2026/09/06/eleicao-alemanha-saxonia-anhalt.ghtml",
-      "publishedAtStr": "2026-09-06T12:45:00Z",
-      "publishedAtTs": 1788698700000,
-      "rawContent": "Urnas abrem na Alemanha em eleio estadual com AfD liderando pesquisa",
-      "linkStatus": "unknown",
-      "lastChecked": null
-    },
-    {
-      "id": "gdelt-15a0l8a",
-      "title": "Vulcão  filhote do Krakatoa  entra em erupo na Indonésia",
-      "sourceName": "G1 Mundo",
-      "sourceUrl": "https://g1.globo.com/mundo/",
-      "sourceType": "Imprensa Comercial Brasileira",
-      "sourceEditorial": "Portal de notícias mainstream do Grupo Globo",
-      "country": "Brasil",
-      "paywall": false,
-      "originalUrl": "https://g1.globo.com/mundo/noticia/2026/09/06/vulcao-filhote-do-krakatoa-entra-em-erupcao-na-indonesia-afeta-voos-na-asia-e-deixa-150-mil-passageiros-retidos.ghtml",
-      "publishedAtStr": "2026-09-06T12:45:00Z",
-      "publishedAtTs": 1788698700000,
-      "rawContent": "Vulcão  filhote do Krakatoa  entra em erupo na Indonésia",
-      "linkStatus": "unknown",
-      "lastChecked": null
-    },
-    {
-      "id": "gdelt-tcshh2o",
-      "title": "Família relata alívio após resgate de chinês que ficou 10 dias preso em túnel no Nepal",
-      "sourceName": "G1 Mundo",
-      "sourceUrl": "https://g1.globo.com/mundo/",
-      "sourceType": "Imprensa Comercial Brasileira",
-      "sourceEditorial": "Portal de notícias mainstream do Grupo Globo",
-      "country": "Brasil",
-      "paywall": false,
-      "originalUrl": "https://g1.globo.com/mundo/noticia/2026/09/06/familia-alivio-chines-resgatado-tunel-10-dias-nepal.ghtml",
-      "publishedAtStr": "2026-09-06T12:45:00Z",
-      "publishedAtTs": 1788698700000,
-      "rawContent": "Família relata alívio após resgate de chinês que ficou 10 dias preso em túnel no Nepal",
-      "linkStatus": "unknown",
-      "lastChecked": null
-    },
-    {
-      "id": "gdelt-jqfqqdh",
-      "title": "Rússia e Ucrânia trocam ataques durante visita dos EUA",
-      "sourceName": "DW Brasil",
-      "sourceUrl": "https://www.dw.com/pt-br/",
-      "sourceType": "Imprensa Internacional / Pública",
-      "sourceEditorial": "Emissora pública da Alemanha; foco em diplomacia e direitos humanos",
-      "country": "Alemanha",
-      "paywall": false,
-      "originalUrl": "https://www.dw.com/pt-br/r%C3%BAssia-e-ucr%C3%A2nia-trocam-ataques-mas-evitam-capitais-durante-visita-dos-eua/a-79053395",
-      "publishedAtStr": "2026-09-06T12:00:00Z",
-      "publishedAtTs": 1788696000000,
-      "rawContent": "Rússia e Ucrânia trocam ataques durante visita dos EUA",
-      "linkStatus": "unknown",
-      "lastChecked": null
-    },
-    {
-      "id": "gdelt-09hwjzk",
-      "title": "Maduro ignorou a soberania popular e teve que entregar a soberania nacional , afirma jornalista que deixou Venezuela após ameaças",
-      "sourceName": "O Globo Mundo",
-      "sourceUrl": "https://oglobo.globo.com/mundo/",
-      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
-      "sourceEditorial": "Jornal diário (Grupo Globo) - Conteúdo sob assinatura",
-      "country": "Brasil",
-      "paywall": true,
-      "originalUrl": "https://oglobo.globo.com/mundo/noticia/2026/09/06/maduro-ignorou-a-soberania-popular-e-teve-que-entregar-a-soberania-nacional-afirma-jornalista-que-deixou-venezuela-apos-ameacas.ghtml",
-      "publishedAtStr": "2026-09-06T12:00:00Z",
-      "publishedAtTs": 1788696000000,
-      "rawContent": "Maduro ignorou a soberania popular e teve que entregar a soberania nacional , afirma jornalista que deixou Venezuela após ameaças",
-      "linkStatus": "unknown",
-      "lastChecked": null
-    },
-    {
-      "id": "gdelt-vqwc3al",
-      "title": "Alemanha planeja escudo antissabotagem após ataque híbrido",
-      "sourceName": "DW Brasil",
-      "sourceUrl": "https://www.dw.com/pt-br/",
-      "sourceType": "Imprensa Internacional / Pública",
-      "sourceEditorial": "Emissora pública da Alemanha; foco em diplomacia e direitos humanos",
-      "country": "Alemanha",
-      "paywall": false,
-      "originalUrl": "https://www.dw.com/pt-br/alemanha-planeja-escudo-antissabotagem-ap%C3%B3s-ataque-a-aeroporto/a-79054268",
-      "publishedAtStr": "2026-09-06T12:00:00Z",
-      "publishedAtTs": 1788696000000,
-      "rawContent": "Alemanha planeja escudo antissabotagem após ataque híbrido",
-      "linkStatus": "unknown",
-      "lastChecked": null
-    },
-    {
-      "id": "gdelt-eh0mhoj",
-      "title": "Homem morre após saltar de píer e mergulhar de cabeça no mar na Turquia",
-      "sourceName": "O Globo Mundo",
-      "sourceUrl": "https://oglobo.globo.com/mundo/",
-      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
-      "sourceEditorial": "Jornal diário (Grupo Globo) - Conteúdo sob assinatura",
-      "country": "Brasil",
-      "paywall": true,
-      "originalUrl": "https://oglobo.globo.com/mundo/epoca/noticia/2026/09/06/homem-morre-apos-saltar-de-pier-e-mergulhar-de-cabeca-no-mar-na-turquia.ghtml",
-      "publishedAtStr": "2026-09-06T12:00:00Z",
-      "publishedAtTs": 1788696000000,
-      "rawContent": "Homem morre após saltar de píer e mergulhar de cabeça no mar na Turquia",
-      "linkStatus": "unknown",
-      "lastChecked": null
-    },
-    {
-      "id": "gdelt-8xt8qvg",
-      "title": "Seis aeroportos da Indonésia suspendem operações após erupo do vulcão Anak Krakatoa",
-      "sourceName": "O Globo Mundo",
-      "sourceUrl": "https://oglobo.globo.com/mundo/",
-      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
-      "sourceEditorial": "Jornal diário (Grupo Globo) - Conteúdo sob assinatura",
-      "country": "Brasil",
-      "paywall": true,
-      "originalUrl": "https://oglobo.globo.com/mundo/noticia/2026/09/06/seis-aeroportos-da-indonesia-suspendem-operacoes-apos-erupcao-do-vulcao-anak-krakatoa.ghtml",
-      "publishedAtStr": "2026-09-06T12:00:00Z",
-      "publishedAtTs": 1788696000000,
-      "rawContent": "Seis aeroportos da Indonésia suspendem operações após erupo do vulcão Anak Krakatoa",
-      "linkStatus": "unknown",
-      "lastChecked": null
-    },
-    {
-      "id": "gdelt-eljxq78",
+      "id": "gdelt-wn9flsu",
       "title": "Eleio estadual na Alemanha pode levar extrema direita ao poder pela primeira vez desde a 2ª Guerra",
       "sourceName": "Estadão Internacional",
       "sourceUrl": "https://www.estadao.com.br/internacional/",
@@ -1142,56 +790,8 @@
       "publishedAtStr": "2026-09-06T11:15:00Z",
       "publishedAtTs": 1788693300000,
       "rawContent": "Eleio estadual na Alemanha pode levar extrema direita ao poder pela primeira vez desde a 2ª Guerra",
-      "linkStatus": "unknown",
-      "lastChecked": null
-    },
-    {
-      "id": "gdelt-57rmynj",
-      "title": "Quem é Alejandro Betancourt , o bilionário do petróleo venezuelano",
-      "sourceName": "G1 Mundo",
-      "sourceUrl": "https://g1.globo.com/mundo/",
-      "sourceType": "Imprensa Comercial Brasileira",
-      "sourceEditorial": "Portal de notícias mainstream do Grupo Globo",
-      "country": "Brasil",
-      "paywall": false,
-      "originalUrl": "https://g1.globo.com/mundo/noticia/2026/09/06/quem-e-alejandro-betancourt-o-polemico-bilionario-por-tras-do-acordo-de-petroleo-entre-eua-e-venezuela.ghtml",
-      "publishedAtStr": "2026-09-06T11:00:00Z",
-      "publishedAtTs": 1788692400000,
-      "rawContent": "Quem é Alejandro Betancourt , o bilionário do petróleo venezuelano",
-      "linkStatus": "unknown",
-      "lastChecked": null
-    },
-    {
-      "id": "gdelt-ricdkzx",
-      "title": "Apresentadora egípcia é condenada à morte por enforcamento após envolvimento com tráfico de drogas",
-      "sourceName": "O Globo Mundo",
-      "sourceUrl": "https://oglobo.globo.com/mundo/",
-      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
-      "sourceEditorial": "Jornal diário (Grupo Globo) - Conteúdo sob assinatura",
-      "country": "Brasil",
-      "paywall": true,
-      "originalUrl": "https://oglobo.globo.com/mundo/noticia/2026/09/06/apresentadora-egipcia-e-condenada-a-morte-por-enforcamento-apos-envolvimento-com-trafico-de-drogas.ghtml",
-      "publishedAtStr": "2026-09-06T10:00:00Z",
-      "publishedAtTs": 1788688800000,
-      "rawContent": "Apresentadora egípcia é condenada à morte por enforcamento após envolvimento com tráfico de drogas",
-      "linkStatus": "unknown",
-      "lastChecked": null
-    },
-    {
-      "id": "gdelt-6h4iq0v",
-      "title": "Em Gana , caixões personalizados contam a história de quem morreu",
-      "sourceName": "G1 Mundo",
-      "sourceUrl": "https://g1.globo.com/mundo/",
-      "sourceType": "Imprensa Comercial Brasileira",
-      "sourceEditorial": "Portal de notícias mainstream do Grupo Globo",
-      "country": "Brasil",
-      "paywall": false,
-      "originalUrl": "https://g1.globo.com/mundo/noticia/2026/09/06/em-gana-caixoes-personalizados-contam-a-historia-de-quem-morreu.ghtml",
-      "publishedAtStr": "2026-09-06T09:30:00Z",
-      "publishedAtTs": 1788687000000,
-      "rawContent": "Em Gana , caixões personalizados contam a história de quem morreu",
-      "linkStatus": "unknown",
-      "lastChecked": null
+      "linkStatus": "active",
+      "lastChecked": 1788748314184
     }
   ]
 }
