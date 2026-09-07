@@ -1,16 +1,64 @@
 {
-  "updatedAt": "2026-09-07T20:47:29.322Z",
+  "updatedAt": "2026-09-07T20:58:49.678Z",
   "periodUsed": "24h",
   "count": 23,
   "linkVerificationStats": {
-    "checkedThisRun": 0,
-    "active": 0,
+    "checkedThisRun": 3,
+    "active": 3,
     "broken": 0,
     "unknown": 0
   },
   "articles": [
     {
-      "id": "gdelt-353on7u",
+      "id": "gdelt-lw3gef1",
+      "title": "Forças de Israel matam 12 pessoas , incluindo 2 crianças , no Líbano",
+      "sourceName": "G1 Mundo",
+      "sourceUrl": "https://g1.globo.com/mundo/",
+      "sourceType": "Imprensa Comercial Brasileira",
+      "sourceEditorial": "Portal de notícias mainstream do Grupo Globo",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://g1.globo.com/mundo/noticia/2026/09/07/forcas-de-israel-matam-12-pessoas-incluindo-2-criancas-em-ataque-aereo-no-libano.ghtml",
+      "publishedAtStr": "2026-09-07T20:30:00Z",
+      "publishedAtTs": 1788813000000,
+      "rawContent": "Forças de Israel matam 12 pessoas , incluindo 2 crianças , no Líbano",
+      "linkStatus": "active",
+      "lastChecked": 1788814725503
+    },
+    {
+      "id": "gdelt-mhjru8y",
+      "title": "Cuba e Estados Unidos : bloqueio custou US$ 8 , 1 bi , diz ministro",
+      "sourceName": "G1 Mundo",
+      "sourceUrl": "https://g1.globo.com/mundo/",
+      "sourceType": "Imprensa Comercial Brasileira",
+      "sourceEditorial": "Portal de notícias mainstream do Grupo Globo",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://g1.globo.com/mundo/noticia/2026/09/07/cuba-diz-que-nao-ha-negociacoes-com-os-eua-e-chama-bloqueio-de-genocida.ghtml",
+      "publishedAtStr": "2026-09-07T20:30:00Z",
+      "publishedAtTs": 1788813000000,
+      "rawContent": "Cuba e Estados Unidos : bloqueio custou US$ 8 , 1 bi , diz ministro",
+      "linkStatus": "active",
+      "lastChecked": 1788814725503
+    },
+    {
+      "id": "gdelt-hmrxkbq",
+      "title": "Chanceler alemão classifica vitória da AfD como resultado ísmico",
+      "sourceName": "G1 Mundo",
+      "sourceUrl": "https://g1.globo.com/mundo/",
+      "sourceType": "Imprensa Comercial Brasileira",
+      "sourceEditorial": "Portal de notícias mainstream do Grupo Globo",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://g1.globo.com/mundo/noticia/2026/09/07/chanceler-alemao-classifica-vitoria-da-afd-como-resultado-sismico-e-diz-estar-profundamente-chocado.ghtml",
+      "publishedAtStr": "2026-09-07T20:30:00Z",
+      "publishedAtTs": 1788813000000,
+      "rawContent": "Chanceler alemão classifica vitória da AfD como resultado ísmico",
+      "linkStatus": "active",
+      "lastChecked": 1788814725503
+    },
+    {
+      "id": "gdelt-iifkmao",
       "title": "Os pombos  diferentõe que ajudaram Darwin a criar Teoria da Evoluo",
       "sourceName": "BBC News Brasil",
       "sourceUrl": "https://www.bbc.com/portuguese",
@@ -26,7 +74,7 @@
       "lastChecked": 1788812508000
     },
     {
-      "id": "gdelt-52s8mil",
+      "id": "gdelt-hxb765h",
       "title": "11 de Setembro : os novos vídeos que indicam possível papel de agente da Arábia Saudita nos atentados",
       "sourceName": "BBC News Brasil",
       "sourceUrl": "https://www.bbc.com/portuguese",
@@ -42,7 +90,7 @@
       "lastChecked": 1788812508000
     },
     {
-      "id": "gdelt-h8mfft8",
+      "id": "gdelt-qulfcnb",
       "title": "AfD na Saxônia - Anhalt : Direita radical busca formar governo",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -58,7 +106,7 @@
       "lastChecked": 1788812508000
     },
     {
-      "id": "gdelt-znw2tsd",
+      "id": "gdelt-mxl99kr",
       "title": "Trump defende ideia de mudar o nome do Novo México para  Nova América",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -74,55 +122,7 @@
       "lastChecked": 1788812508000
     },
     {
-      "id": "gdelt-u09meyc",
-      "title": "Rússia e Coreia do Norte inauguram primeira ponte rodoviária entre os dois países",
-      "sourceName": "Brasil de Fato",
-      "sourceUrl": "https://www.brasildefato.com.br/",
-      "sourceType": "Jornal / Movimentos Sociais",
-      "sourceEditorial": "Mídia popular focada em Direitos Humanos e Sul Global",
-      "country": "Brasil",
-      "paywall": false,
-      "originalUrl": "https://www.brasildefato.com.br/2026/09/07/russia-e-coreia-do-norte-inauguram-primeira-ponte-rodoviaria-entre-os-dois-paises/",
-      "publishedAtStr": "2026-09-07T19:00:00Z",
-      "publishedAtTs": 1788807600000,
-      "rawContent": "Rússia e Coreia do Norte inauguram primeira ponte rodoviária entre os dois países",
-      "linkStatus": "active",
-      "lastChecked": 1788809440809
-    },
-    {
-      "id": "gdelt-lxwdrwv",
-      "title": "Kremlin : visita dos enviados dos EUA a Moscou e Kiev representa um  passo rumo à paz",
-      "sourceName": "Brasil de Fato",
-      "sourceUrl": "https://www.brasildefato.com.br/",
-      "sourceType": "Jornal / Movimentos Sociais",
-      "sourceEditorial": "Mídia popular focada em Direitos Humanos e Sul Global",
-      "country": "Brasil",
-      "paywall": false,
-      "originalUrl": "https://www.brasildefato.com.br/2026/09/07/kremlin-visita-dos-enviados-dos-eua-a-moscou-e-kiev-representa-um-passo-rumo-a-paz/",
-      "publishedAtStr": "2026-09-07T19:00:00Z",
-      "publishedAtTs": 1788807600000,
-      "rawContent": "Kremlin : visita dos enviados dos EUA a Moscou e Kiev representa um  passo rumo à paz",
-      "linkStatus": "active",
-      "lastChecked": 1788809440809
-    },
-    {
-      "id": "gdelt-gwgn8tv",
-      "title": "Sem o fim da escravidão , processo de independência no Brasil foi inacabado , diz historiador",
-      "sourceName": "Brasil de Fato",
-      "sourceUrl": "https://www.brasildefato.com.br/",
-      "sourceType": "Jornal / Movimentos Sociais",
-      "sourceEditorial": "Mídia popular focada em Direitos Humanos e Sul Global",
-      "country": "Brasil",
-      "paywall": false,
-      "originalUrl": "https://www.brasildefato.com.br/podcast/bem-viver/2026/09/07/sem-o-fim-da-escravidao-processo-de-independencia-no-brasil-foi-inacabado-diz-historiador/",
-      "publishedAtStr": "2026-09-07T19:00:00Z",
-      "publishedAtTs": 1788807600000,
-      "rawContent": "Sem o fim da escravidão , processo de independência no Brasil foi inacabado , diz historiador",
-      "linkStatus": "active",
-      "lastChecked": 1788809440809
-    },
-    {
-      "id": "gdelt-qpublja",
+      "id": "gdelt-jn5wzzk",
       "title": "Musk e Orbán celebram votao da AfD ; líder polonês critica",
       "sourceName": "DW Brasil",
       "sourceUrl": "https://www.dw.com/pt-br/",
@@ -138,7 +138,7 @@
       "lastChecked": 1788812508000
     },
     {
-      "id": "gdelt-wts3dgr",
+      "id": "gdelt-6a0akd7",
       "title": "Funcionários de farmácias relatam pavor com assaltos por canetas emagrecedoras",
       "sourceName": "BBC News Brasil",
       "sourceUrl": "https://www.bbc.com/portuguese",
@@ -154,7 +154,7 @@
       "lastChecked": 1788812508000
     },
     {
-      "id": "gdelt-wowkgnj",
+      "id": "gdelt-ibswoju",
       "title": "Chanceler alemão diz estar  profundamente chocado  com vitória do AfD , de extrema direita , em eleio regional",
       "sourceName": "O Globo Mundo",
       "sourceUrl": "https://oglobo.globo.com/mundo/",
@@ -170,7 +170,7 @@
       "lastChecked": 1788812508000
     },
     {
-      "id": "gdelt-bp43f1v",
+      "id": "gdelt-hqt3brz",
       "title": "Merz se diz  profundamente chocado  após vitória da AfD",
       "sourceName": "DW Brasil",
       "sourceUrl": "https://www.dw.com/pt-br/",
@@ -186,7 +186,7 @@
       "lastChecked": 1788812508000
     },
     {
-      "id": "gdelt-pgqcf9k",
+      "id": "gdelt-wfrirwz",
       "title": "Eleies : o que é permitido no uso de IA nas campanhas",
       "sourceName": "DW Brasil",
       "sourceUrl": "https://www.dw.com/pt-br/",
@@ -202,7 +202,7 @@
       "lastChecked": 1788812508000
     },
     {
-      "id": "gdelt-as0d3jw",
+      "id": "gdelt-ck78y3a",
       "title": "Nepal tem dia de luto 13 dias após avalanche devastadora",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -218,7 +218,7 @@
       "lastChecked": 1788812508000
     },
     {
-      "id": "gdelt-l8jog21",
+      "id": "gdelt-7e57513",
       "title": "Erupo de vulcão cancela milhares de voos na Indonésia",
       "sourceName": "DW Brasil",
       "sourceUrl": "https://www.dw.com/pt-br/",
@@ -234,7 +234,7 @@
       "lastChecked": 1788812508000
     },
     {
-      "id": "gdelt-s4orhn0",
+      "id": "gdelt-2oje0fw",
       "title": "Acidente com avião de carga da Amazon deixa mortos em Miami",
       "sourceName": "DW Brasil",
       "sourceUrl": "https://www.dw.com/pt-br/",
@@ -250,7 +250,7 @@
       "lastChecked": 1788812508000
     },
     {
-      "id": "gdelt-qkzs8pi",
+      "id": "gdelt-34z4ku4",
       "title": "Avalanche em montanha deixa ao menos 11 mortos no norte do Cáucaso , na Rússia",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -266,7 +266,7 @@
       "lastChecked": 1788812508000
     },
     {
-      "id": "gdelt-xbwc1l1",
+      "id": "gdelt-8eiz27c",
       "title": "Análise : Vitória da extrema direita em eleio regional na Alemanha envia sinal a capitais europeias",
       "sourceName": "O Globo Mundo",
       "sourceUrl": "https://oglobo.globo.com/mundo/",
@@ -282,7 +282,7 @@
       "lastChecked": 1788812508000
     },
     {
-      "id": "gdelt-4q2rht8",
+      "id": "gdelt-wc4hzoh",
       "title": "Trump propõe mudar nome de estado dos EUA :  Nova América",
       "sourceName": "O Globo Mundo",
       "sourceUrl": "https://oglobo.globo.com/mundo/",
@@ -298,7 +298,7 @@
       "lastChecked": 1788812508000
     },
     {
-      "id": "gdelt-az9eo01",
+      "id": "gdelt-00x4x30",
       "title": "AfD cresce entre mulheres e jovens no leste alemão",
       "sourceName": "DW Brasil",
       "sourceUrl": "https://www.dw.com/pt-br/",
@@ -314,7 +314,7 @@
       "lastChecked": 1788812508000
     },
     {
-      "id": "gdelt-ozer9lh",
+      "id": "gdelt-eiaq5rg",
       "title": "Ataques israelenses no sul do Líbano deixam 4 mortos , sendo 2 mulheres",
       "sourceName": "Agência Brasil",
       "sourceUrl": "https://agenciabrasil.ebc.com.br/internacional",
@@ -330,7 +330,7 @@
       "lastChecked": 1788812508000
     },
     {
-      "id": "gdelt-igs9fkv",
+      "id": "gdelt-sw953o2",
       "title": "Mulher é encontrada viva no Nepal , mais de dez dias após avalanche",
       "sourceName": "Agência Brasil",
       "sourceUrl": "https://agenciabrasil.ebc.com.br/internacional",
@@ -346,7 +346,7 @@
       "lastChecked": 1788812508000
     },
     {
-      "id": "gdelt-maproqn",
+      "id": "gdelt-r69znra",
       "title": "Ultradireita obtém votao esmagadora no leste alemão",
       "sourceName": "DW Brasil",
       "sourceUrl": "https://www.dw.com/pt-br/",
@@ -362,7 +362,7 @@
       "lastChecked": 1788812508000
     },
     {
-      "id": "gdelt-i98b0j2",
+      "id": "gdelt-2iwjp7k",
       "title": "Chefe de Segurança Nacional do Irã anuncia zona de bloqueio além de Ormuz em nova ameaça a tráfego naval",
       "sourceName": "O Globo Mundo",
       "sourceUrl": "https://oglobo.globo.com/mundo/",
