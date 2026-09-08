@@ -1,16 +1,16 @@
 {
-  "updatedAt": "2026-09-08T09:52:54.644Z",
+  "updatedAt": "2026-09-08T10:17:31.029Z",
   "periodUsed": "24h",
-  "count": 23,
+  "count": 32,
   "linkVerificationStats": {
-    "checkedThisRun": 23,
-    "active": 23,
+    "checkedThisRun": 9,
+    "active": 9,
     "broken": 0,
     "unknown": 0
   },
   "articles": [
     {
-      "id": "gdelt-2z5rhqq",
+      "id": "gdelt-8y38gou",
       "title": "Britânico de 68 anos perde aposentadoria e fica sem teto na Tailândia após cair em golpe amoroso",
       "sourceName": "O Globo Mundo",
       "sourceUrl": "https://oglobo.globo.com/mundo/",
@@ -26,7 +26,7 @@
       "lastChecked": 1788861158843
     },
     {
-      "id": "gdelt-fjh6d16",
+      "id": "gdelt-fbpf2xd",
       "title": "Houthis atacam instalações de energia na Arábia Saudita e anunciam escalada do conflito",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -42,7 +42,7 @@
       "lastChecked": 1788861158843
     },
     {
-      "id": "gdelt-jisjhb7",
+      "id": "gdelt-bwgianr",
       "title": "Avião de pequeno porte bate em rede elétrica e cai em avenida na Flórida ; piloto morre",
       "sourceName": "O Globo Mundo",
       "sourceUrl": "https://oglobo.globo.com/mundo/",
@@ -58,7 +58,7 @@
       "lastChecked": 1788861158843
     },
     {
-      "id": "gdelt-ykc2akn",
+      "id": "gdelt-686vbl1",
       "title": "Alemanha contesta as acusações de genocídio em Gaza na Corte da ONU",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -74,7 +74,103 @@
       "lastChecked": 1788861158843
     },
     {
-      "id": "gdelt-d5jr0yc",
+      "id": "gdelt-78yn550",
+      "title": "Grito dos Excluídos defende soberania na eleio e vida das mulheres no Distrito Federal",
+      "sourceName": "Brasil de Fato",
+      "sourceUrl": "https://www.brasildefato.com.br/",
+      "sourceType": "Jornal / Movimentos Sociais",
+      "sourceEditorial": "Mídia popular focada em Direitos Humanos e Sul Global",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://www.brasildefato.com.br/2026/09/07/grito-dos-excluidos-defende-soberania-na-eleicao-e-vida-das-mulheres-no-distrito-federal/",
+      "publishedAtStr": "2026-09-07T23:45:00Z",
+      "publishedAtTs": 1788824700000,
+      "rawContent": "Grito dos Excluídos defende soberania na eleio e vida das mulheres no Distrito Federal",
+      "linkStatus": "active",
+      "lastChecked": 1788862647711
+    },
+    {
+      "id": "gdelt-5umiwv6",
+      "title": "China endurece regras e responsabiliza criadores de deepfakes e clones de voz sem consentimento",
+      "sourceName": "Brasil de Fato",
+      "sourceUrl": "https://www.brasildefato.com.br/",
+      "sourceType": "Jornal / Movimentos Sociais",
+      "sourceEditorial": "Mídia popular focada em Direitos Humanos e Sul Global",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://www.brasildefato.com.br/2026/09/07/china-endurece-regras-e-responsabiliza-criadores-de-deepfakes-e-clones-de-voz-sem-consentimento/",
+      "publishedAtStr": "2026-09-07T23:45:00Z",
+      "publishedAtTs": 1788824700000,
+      "rawContent": "China endurece regras e responsabiliza criadores de deepfakes e clones de voz sem consentimento",
+      "linkStatus": "active",
+      "lastChecked": 1788862647711
+    },
+    {
+      "id": "gdelt-ekc44vs",
+      "title": "7 de setembro na Paulista : Flávio tenta se descolar de Vorcaro em ato com símbolos dos EUA e manifestantes pedindo interveno de Trump",
+      "sourceName": "Brasil de Fato",
+      "sourceUrl": "https://www.brasildefato.com.br/",
+      "sourceType": "Jornal / Movimentos Sociais",
+      "sourceEditorial": "Mídia popular focada em Direitos Humanos e Sul Global",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://www.brasildefato.com.br/2026/09/07/7-de-setembro-na-paulista-flavio-tenta-se-descolar-de-vorcaro-em-ato-com-simbolos-dos-eua-e-manifestantes-pedindo-intervencao-de-trump/",
+      "publishedAtStr": "2026-09-07T23:45:00Z",
+      "publishedAtTs": 1788824700000,
+      "rawContent": "7 de setembro na Paulista : Flávio tenta se descolar de Vorcaro em ato com símbolos dos EUA e manifestantes pedindo interveno de Trump",
+      "linkStatus": "active",
+      "lastChecked": 1788862647711
+    },
+    {
+      "id": "gdelt-40cggj3",
+      "title": "Soberania se torna tema fulcral nas eleie , diz cientista política sobre discurso de Lula",
+      "sourceName": "Brasil de Fato",
+      "sourceUrl": "https://www.brasildefato.com.br/",
+      "sourceType": "Jornal / Movimentos Sociais",
+      "sourceEditorial": "Mídia popular focada em Direitos Humanos e Sul Global",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://www.brasildefato.com.br/2026/09/07/soberania-se-torna-tema-fulcral-nas-eleicoes-diz-cientista-politica-sobre-discurso-de-lula/",
+      "publishedAtStr": "2026-09-07T23:45:00Z",
+      "publishedAtTs": 1788824700000,
+      "rawContent": "Soberania se torna tema fulcral nas eleie , diz cientista política sobre discurso de Lula",
+      "linkStatus": "active",
+      "lastChecked": 1788862647711
+    },
+    {
+      "id": "gdelt-y9suzmo",
+      "title": "32º Grito dos Excluídos e Excluídas une moradia , terra e vida das mulheres nas ruas de Porto Alegre",
+      "sourceName": "Brasil de Fato",
+      "sourceUrl": "https://www.brasildefato.com.br/",
+      "sourceType": "Jornal / Movimentos Sociais",
+      "sourceEditorial": "Mídia popular focada em Direitos Humanos e Sul Global",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://www.brasildefato.com.br/2026/09/07/32o-grito-dos-excluidos-e-excluidas-une-moradia-terra-e-vida-das-mulheres-nas-ruas-de-porto-alegre/",
+      "publishedAtStr": "2026-09-07T23:45:00Z",
+      "publishedAtTs": 1788824700000,
+      "rawContent": "32º Grito dos Excluídos e Excluídas une moradia , terra e vida das mulheres nas ruas de Porto Alegre",
+      "linkStatus": "active",
+      "lastChecked": 1788862647711
+    },
+    {
+      "id": "gdelt-g3erv32",
+      "title": "China atualiza para 43 mortos pelo desastre na fronteira com Nepal e centenas seguem desaparecidos",
+      "sourceName": "Brasil de Fato",
+      "sourceUrl": "https://www.brasildefato.com.br/",
+      "sourceType": "Jornal / Movimentos Sociais",
+      "sourceEditorial": "Mídia popular focada em Direitos Humanos e Sul Global",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://www.brasildefato.com.br/2026/09/07/china-atualiza-para-43-mortos-pelo-desastre-na-fronteira-com-nepal-e-centenas-seguem-desaparecidos/",
+      "publishedAtStr": "2026-09-07T23:45:00Z",
+      "publishedAtTs": 1788824700000,
+      "rawContent": "China atualiza para 43 mortos pelo desastre na fronteira com Nepal e centenas seguem desaparecidos",
+      "linkStatus": "active",
+      "lastChecked": 1788862647711
+    },
+    {
+      "id": "gdelt-6s2e0kb",
       "title": "Rússia fecha consulado alemão em São Petersburgo em meio a tensão entre os países após ataques contra aeroporto e prédio em Munique",
       "sourceName": "O Globo Mundo",
       "sourceUrl": "https://oglobo.globo.com/mundo/",
@@ -90,7 +186,7 @@
       "lastChecked": 1788861158843
     },
     {
-      "id": "gdelt-ac0v69m",
+      "id": "gdelt-pgg74ss",
       "title": "Funeral de general condenado pelo Massacre de Srbrenica atrai multidão na Sérvia e provoca indignação na UE",
       "sourceName": "O Globo Mundo",
       "sourceUrl": "https://oglobo.globo.com/mundo/",
@@ -106,7 +202,7 @@
       "lastChecked": 1788861158843
     },
     {
-      "id": "gdelt-fgwrqwz",
+      "id": "gdelt-gusa58l",
       "title": "Caixa - preta de avião da Amazon que saiu da pista e pegou fogo em Miami é recuperada e segue para análise",
       "sourceName": "O Globo Mundo",
       "sourceUrl": "https://oglobo.globo.com/mundo/",
@@ -122,7 +218,7 @@
       "lastChecked": 1788861158843
     },
     {
-      "id": "gdelt-zpqpdjb",
+      "id": "gdelt-yjpwf8o",
       "title": "IA pode representar risco  existencial , alerta representante da ONU",
       "sourceName": "Agência Brasil",
       "sourceUrl": "https://agenciabrasil.ebc.com.br/internacional",
@@ -138,7 +234,7 @@
       "lastChecked": 1788861158843
     },
     {
-      "id": "gdelt-j6n9yj6",
+      "id": "gdelt-eoart9k",
       "title": "Alemanha poderá ter déficit de mais de 700 mil trabalhadores",
       "sourceName": "DW Brasil",
       "sourceUrl": "https://www.dw.com/pt-br/",
@@ -154,7 +250,7 @@
       "lastChecked": 1788861158843
     },
     {
-      "id": "gdelt-kjg493d",
+      "id": "gdelt-k3ku39d",
       "title": "Rússia retalia Alemanha e fecha consulado em São Petesburgo",
       "sourceName": "DW Brasil",
       "sourceUrl": "https://www.dw.com/pt-br/",
@@ -170,7 +266,7 @@
       "lastChecked": 1788861158843
     },
     {
-      "id": "gdelt-5f8e849",
+      "id": "gdelt-8h6fuy8",
       "title": "VW abre caminho para fábrica desativada produzir armas",
       "sourceName": "DW Brasil",
       "sourceUrl": "https://www.dw.com/pt-br/",
@@ -186,7 +282,7 @@
       "lastChecked": 1788861158843
     },
     {
-      "id": "gdelt-7h75lhf",
+      "id": "gdelt-5qr9qs7",
       "title": "Forças de Israel matam 12 pessoas , incluindo 2 crianças , no Líbano",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -202,7 +298,7 @@
       "lastChecked": 1788861158843
     },
     {
-      "id": "gdelt-cgv56e3",
+      "id": "gdelt-7624n4i",
       "title": "Cuba e Estados Unidos : bloqueio custou US$ 8 , 1 bi , diz ministro",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -218,7 +314,7 @@
       "lastChecked": 1788861158843
     },
     {
-      "id": "gdelt-0awxn3p",
+      "id": "gdelt-s8kqx8i",
       "title": "Chanceler alemão classifica vitória da AfD como resultado ísmico",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -234,7 +330,7 @@
       "lastChecked": 1788861158843
     },
     {
-      "id": "gdelt-vy7mn4p",
+      "id": "gdelt-8lom11j",
       "title": "Os pombos  diferentõe que ajudaram Darwin a criar Teoria da Evoluo",
       "sourceName": "BBC News Brasil",
       "sourceUrl": "https://www.bbc.com/portuguese",
@@ -250,7 +346,7 @@
       "lastChecked": 1788861158843
     },
     {
-      "id": "gdelt-kklondw",
+      "id": "gdelt-oy154r3",
       "title": "11 de Setembro : os novos vídeos que indicam possível papel de agente da Arábia Saudita nos atentados",
       "sourceName": "BBC News Brasil",
       "sourceUrl": "https://www.bbc.com/portuguese",
@@ -266,7 +362,7 @@
       "lastChecked": 1788861158843
     },
     {
-      "id": "gdelt-rsd4lp5",
+      "id": "gdelt-cwsgysf",
       "title": "AfD na Saxônia - Anhalt : Direita radical busca formar governo",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -282,7 +378,7 @@
       "lastChecked": 1788861158843
     },
     {
-      "id": "gdelt-1ly2dgt",
+      "id": "gdelt-jl7rws9",
       "title": "Trump defende ideia de mudar o nome do Novo México para  Nova América",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -298,7 +394,55 @@
       "lastChecked": 1788861158843
     },
     {
-      "id": "gdelt-lh4gkbr",
+      "id": "gdelt-pmsn4bf",
+      "title": "Rússia e Coreia do Norte inauguram primeira ponte rodoviária entre os dois países",
+      "sourceName": "Brasil de Fato",
+      "sourceUrl": "https://www.brasildefato.com.br/",
+      "sourceType": "Jornal / Movimentos Sociais",
+      "sourceEditorial": "Mídia popular focada em Direitos Humanos e Sul Global",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://www.brasildefato.com.br/2026/09/07/russia-e-coreia-do-norte-inauguram-primeira-ponte-rodoviaria-entre-os-dois-paises/",
+      "publishedAtStr": "2026-09-07T19:00:00Z",
+      "publishedAtTs": 1788807600000,
+      "rawContent": "Rússia e Coreia do Norte inauguram primeira ponte rodoviária entre os dois países",
+      "linkStatus": "active",
+      "lastChecked": 1788862647711
+    },
+    {
+      "id": "gdelt-lvejug9",
+      "title": "Kremlin : visita dos enviados dos EUA a Moscou e Kiev representa um  passo rumo à paz",
+      "sourceName": "Brasil de Fato",
+      "sourceUrl": "https://www.brasildefato.com.br/",
+      "sourceType": "Jornal / Movimentos Sociais",
+      "sourceEditorial": "Mídia popular focada em Direitos Humanos e Sul Global",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://www.brasildefato.com.br/2026/09/07/kremlin-visita-dos-enviados-dos-eua-a-moscou-e-kiev-representa-um-passo-rumo-a-paz/",
+      "publishedAtStr": "2026-09-07T19:00:00Z",
+      "publishedAtTs": 1788807600000,
+      "rawContent": "Kremlin : visita dos enviados dos EUA a Moscou e Kiev representa um  passo rumo à paz",
+      "linkStatus": "active",
+      "lastChecked": 1788862647711
+    },
+    {
+      "id": "gdelt-n5ib9qt",
+      "title": "Sem o fim da escravidão , processo de independência no Brasil foi inacabado , diz historiador",
+      "sourceName": "Brasil de Fato",
+      "sourceUrl": "https://www.brasildefato.com.br/",
+      "sourceType": "Jornal / Movimentos Sociais",
+      "sourceEditorial": "Mídia popular focada em Direitos Humanos e Sul Global",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://www.brasildefato.com.br/podcast/bem-viver/2026/09/07/sem-o-fim-da-escravidao-processo-de-independencia-no-brasil-foi-inacabado-diz-historiador/",
+      "publishedAtStr": "2026-09-07T19:00:00Z",
+      "publishedAtTs": 1788807600000,
+      "rawContent": "Sem o fim da escravidão , processo de independência no Brasil foi inacabado , diz historiador",
+      "linkStatus": "active",
+      "lastChecked": 1788862647711
+    },
+    {
+      "id": "gdelt-4gltivn",
       "title": "Musk e Orbán celebram votao da AfD ; líder polonês critica",
       "sourceName": "DW Brasil",
       "sourceUrl": "https://www.dw.com/pt-br/",
@@ -314,7 +458,7 @@
       "lastChecked": 1788861158843
     },
     {
-      "id": "gdelt-5zeeln9",
+      "id": "gdelt-54mkeua",
       "title": "Funcionários de farmácias relatam pavor com assaltos por canetas emagrecedoras",
       "sourceName": "BBC News Brasil",
       "sourceUrl": "https://www.bbc.com/portuguese",
@@ -330,7 +474,7 @@
       "lastChecked": 1788861158843
     },
     {
-      "id": "gdelt-xs93hdj",
+      "id": "gdelt-3p5huxl",
       "title": "Chanceler alemão diz estar  profundamente chocado  com vitória do AfD , de extrema direita , em eleio regional",
       "sourceName": "O Globo Mundo",
       "sourceUrl": "https://oglobo.globo.com/mundo/",
@@ -346,7 +490,7 @@
       "lastChecked": 1788861158843
     },
     {
-      "id": "gdelt-17zk9g1",
+      "id": "gdelt-f5x5nld",
       "title": "Merz se diz  profundamente chocado  após vitória da AfD",
       "sourceName": "DW Brasil",
       "sourceUrl": "https://www.dw.com/pt-br/",
@@ -362,7 +506,7 @@
       "lastChecked": 1788861158843
     },
     {
-      "id": "gdelt-quxefvd",
+      "id": "gdelt-7s1k7am",
       "title": "Eleies : o que é permitido no uso de IA nas campanhas",
       "sourceName": "DW Brasil",
       "sourceUrl": "https://www.dw.com/pt-br/",
