@@ -1,80 +1,16 @@
 {
-  "updatedAt": "2026-09-08T09:18:34.676Z",
+  "updatedAt": "2026-09-08T09:35:18.605Z",
   "periodUsed": "24h",
-  "count": 81,
+  "count": 58,
   "linkVerificationStats": {
-    "checkedThisRun": 40,
-    "active": 40,
+    "checkedThisRun": 1,
+    "active": 1,
     "broken": 0,
     "unknown": 0
   },
   "articles": [
     {
-      "id": "gdelt-dnzw0gw",
-      "title": "Britânico de 68 anos perde aposentadoria e fica sem teto na Tailândia após cair em golpe amoroso",
-      "sourceName": "O Globo Mundo",
-      "sourceUrl": "https://oglobo.globo.com/mundo/",
-      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
-      "sourceEditorial": "Jornal diário (Grupo Globo) - Conteúdo sob assinatura",
-      "country": "Brasil",
-      "paywall": true,
-      "originalUrl": "https://oglobo.globo.com/mundo/epoca/noticia/2026/09/08/britanico-de-68-anos-perde-aposentadoria-e-fica-sem-teto-na-tailandia-apos-cair-em-golpe-amoroso.ghtml",
-      "publishedAtStr": "2026-09-08T07:45:00Z",
-      "publishedAtTs": 1788853500000,
-      "rawContent": "Britânico de 68 anos perde aposentadoria e fica sem teto na Tailândia após cair em golpe amoroso",
-      "linkStatus": "active",
-      "lastChecked": 1788859088600
-    },
-    {
-      "id": "gdelt-thfbq35",
-      "title": "Houthis atacam instalações de energia na Arábia Saudita e anunciam escalada do conflito",
-      "sourceName": "G1 Mundo",
-      "sourceUrl": "https://g1.globo.com/mundo/",
-      "sourceType": "Imprensa Comercial Brasileira",
-      "sourceEditorial": "Portal de notícias mainstream do Grupo Globo",
-      "country": "Brasil",
-      "paywall": false,
-      "originalUrl": "https://g1.globo.com/mundo/noticia/2026/09/08/houthis-atacam-instalacoes-de-energia-na-arabia-saudita-e-anunciam-escalada-do-conflito.ghtml",
-      "publishedAtStr": "2026-09-08T07:15:00Z",
-      "publishedAtTs": 1788851700000,
-      "rawContent": "Houthis atacam instalações de energia na Arábia Saudita e anunciam escalada do conflito",
-      "linkStatus": "active",
-      "lastChecked": 1788859088600
-    },
-    {
-      "id": "gdelt-r9pmonk",
-      "title": "Avião de pequeno porte bate em rede elétrica e cai em avenida na Flórida ; piloto morre",
-      "sourceName": "O Globo Mundo",
-      "sourceUrl": "https://oglobo.globo.com/mundo/",
-      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
-      "sourceEditorial": "Jornal diário (Grupo Globo) - Conteúdo sob assinatura",
-      "country": "Brasil",
-      "paywall": true,
-      "originalUrl": "https://oglobo.globo.com/mundo/noticia/2026/09/07/aviao-de-pequeno-porte-bate-em-rede-eletrica-e-cai-em-avenida-na-florida-piloto-morre.ghtml",
-      "publishedAtStr": "2026-09-08T03:00:00Z",
-      "publishedAtTs": 1788836400000,
-      "rawContent": "Avião de pequeno porte bate em rede elétrica e cai em avenida na Flórida ; piloto morre",
-      "linkStatus": "active",
-      "lastChecked": 1788859088600
-    },
-    {
-      "id": "gdelt-uf6i0gn",
-      "title": "Alemanha contesta as acusações de genocídio em Gaza na Corte da ONU",
-      "sourceName": "G1 Mundo",
-      "sourceUrl": "https://g1.globo.com/mundo/",
-      "sourceType": "Imprensa Comercial Brasileira",
-      "sourceEditorial": "Portal de notícias mainstream do Grupo Globo",
-      "country": "Brasil",
-      "paywall": false,
-      "originalUrl": "https://g1.globo.com/mundo/noticia/2026/09/07/alemanha-contesta-as-acusacoes-de-genocidio-em-gaza-na-corte-da-onu.ghtml",
-      "publishedAtStr": "2026-09-08T01:30:00Z",
-      "publishedAtTs": 1788831000000,
-      "rawContent": "Alemanha contesta as acusações de genocídio em Gaza na Corte da ONU",
-      "linkStatus": "active",
-      "lastChecked": 1788859088600
-    },
-    {
-      "id": "gdelt-x6k7g6e",
+      "id": "gdelt-ostpwe3",
       "title": "Quaest : desaprovação de Lula sobe a 50 % e aprovação cai para 43 %",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -90,7 +26,7 @@
       "lastChecked": 1788858044937
     },
     {
-      "id": "gdelt-4xxtl0d",
+      "id": "gdelt-oogkr74",
       "title": "Quaest : vantagem de Lula some e 2º turno com Flávio fica em 41 % a 41 %",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -106,7 +42,7 @@
       "lastChecked": 1788858044937
     },
     {
-      "id": "gdelt-u8aclr6",
+      "id": "gdelt-p84iyu8",
       "title": "Flávio associa Lula a Moraes e diz que pretende acabar com  consórcio  entre os dois",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -122,7 +58,7 @@
       "lastChecked": 1788858044937
     },
     {
-      "id": "gdelt-v4b0m4u",
+      "id": "gdelt-8dc4i4j",
       "title": "Quaest : Lula tem 36 % e Flávio , 29 % no primeiro turno , a menos de um mês do 1º turno",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -138,7 +74,7 @@
       "lastChecked": 1788858044937
     },
     {
-      "id": "gdelt-05m27np",
+      "id": "gdelt-64195q0",
       "title": "Quanto custa comer no Rock in Rio ? Veja quais são as opções e os preços no festival",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -154,7 +90,7 @@
       "lastChecked": 1788858044937
     },
     {
-      "id": "gdelt-ts8tqrg",
+      "id": "gdelt-6iwxmp8",
       "title": "Novas regras do Campo de Marte ampliam restrições a prédios em SP ; o que muda ?",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -170,7 +106,7 @@
       "lastChecked": 1788858044937
     },
     {
-      "id": "gdelt-6vr2x8g",
+      "id": "gdelt-02ll05e",
       "title": "Aes da Novartis despencam após remédio para colesterol fracassar em estudo",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -186,7 +122,7 @@
       "lastChecked": 1788858044937
     },
     {
-      "id": "gdelt-g7r2edr",
+      "id": "gdelt-7tq88ak",
       "title": "Para quem tentar interferir nas eleições , digo que não vai dar certo , afirma Flávio",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -202,7 +138,7 @@
       "lastChecked": 1788858044937
     },
     {
-      "id": "gdelt-ecr86q3",
+      "id": "gdelt-qgkbarc",
       "title": "Tarcísio diz que ninguém está acima da Constituio :  Precisamos de respostas",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -218,7 +154,7 @@
       "lastChecked": 1788858044937
     },
     {
-      "id": "gdelt-zyjmnnl",
+      "id": "gdelt-hmchfoe",
       "title": "Quaest : rejeio de Lula fica em 53 %; a de Flávio sobe para 55 %",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -234,7 +170,7 @@
       "lastChecked": 1788858044937
     },
     {
-      "id": "gdelt-2zfsct5",
+      "id": "gdelt-nmqd7zu",
       "title": "Valdemar Costa Neto : com Flávio eleito , Bolsonaro estará com a gente no dia seguinte",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -250,7 +186,7 @@
       "lastChecked": 1788858044937
     },
     {
-      "id": "gdelt-uar112n",
+      "id": "gdelt-3kyo2gq",
       "title": "Entregas de aeronaves da Airbus aumentam 9 % no ano até agosto",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -266,7 +202,7 @@
       "lastChecked": 1788858044937
     },
     {
-      "id": "gdelt-pndof67",
+      "id": "gdelt-laq3ruk",
       "title": "Quer morar de graça na Califórnia ? Vaga oferece casa em farol histórico",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -282,7 +218,7 @@
       "lastChecked": 1788858044937
     },
     {
-      "id": "gdelt-8y7so0j",
+      "id": "gdelt-a3n2auv",
       "title": "Monitor da USP estima 28 , 5 mil pessoas em ato de Flávio Bolsonaro na Avenida Paulista",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -298,7 +234,7 @@
       "lastChecked": 1788858044937
     },
     {
-      "id": "gdelt-iftrcc8",
+      "id": "gdelt-gjrlz81",
       "title": "Charles III esclarece situação de Harry e Meghan , após retorno de casal ao Reino Unido",
       "sourceName": "Veja Mundo",
       "sourceUrl": "https://veja.abril.com.br/mundo/",
@@ -314,71 +250,7 @@
       "lastChecked": 1788858044937
     },
     {
-      "id": "gdelt-s7ykf5v",
-      "title": "Rússia fecha consulado alemão em São Petersburgo em meio a tensão entre os países após ataques contra aeroporto e prédio em Munique",
-      "sourceName": "O Globo Mundo",
-      "sourceUrl": "https://oglobo.globo.com/mundo/",
-      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
-      "sourceEditorial": "Jornal diário (Grupo Globo) - Conteúdo sob assinatura",
-      "country": "Brasil",
-      "paywall": true,
-      "originalUrl": "https://oglobo.globo.com/mundo/noticia/2026/09/07/russia-fecha-consulado-alemao-em-sao-petersburgo-em-meio-a-tensao-entre-os-paises-apos-ataques-contra-aeroporto-e-predio-em-munique.ghtml",
-      "publishedAtStr": "2026-09-07T22:00:00Z",
-      "publishedAtTs": 1788818400000,
-      "rawContent": "Rússia fecha consulado alemão em São Petersburgo em meio a tensão entre os países após ataques contra aeroporto e prédio em Munique",
-      "linkStatus": "active",
-      "lastChecked": 1788859088600
-    },
-    {
-      "id": "gdelt-pulj7n7",
-      "title": "Funeral de general condenado pelo Massacre de Srbrenica atrai multidão na Sérvia e provoca indignação na UE",
-      "sourceName": "O Globo Mundo",
-      "sourceUrl": "https://oglobo.globo.com/mundo/",
-      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
-      "sourceEditorial": "Jornal diário (Grupo Globo) - Conteúdo sob assinatura",
-      "country": "Brasil",
-      "paywall": true,
-      "originalUrl": "https://oglobo.globo.com/mundo/noticia/2026/09/07/funeral-de-general-condenado-pelo-massacre-de-srbrenica-atrai-multidao-na-servia-e-provoca-indignacao-na-ue.ghtml",
-      "publishedAtStr": "2026-09-07T22:00:00Z",
-      "publishedAtTs": 1788818400000,
-      "rawContent": "Funeral de general condenado pelo Massacre de Srbrenica atrai multidão na Sérvia e provoca indignação na UE",
-      "linkStatus": "active",
-      "lastChecked": 1788859088600
-    },
-    {
-      "id": "gdelt-x50qsdu",
-      "title": "Caixa - preta de avião da Amazon que saiu da pista e pegou fogo em Miami é recuperada e segue para análise",
-      "sourceName": "O Globo Mundo",
-      "sourceUrl": "https://oglobo.globo.com/mundo/",
-      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
-      "sourceEditorial": "Jornal diário (Grupo Globo) - Conteúdo sob assinatura",
-      "country": "Brasil",
-      "paywall": true,
-      "originalUrl": "https://oglobo.globo.com/mundo/noticia/2026/09/07/caixa-preta-de-aviao-da-amazon-que-saiu-da-pista-e-pegou-fogo-em-miami-e-recuperada-e-segue-para-analise.ghtml",
-      "publishedAtStr": "2026-09-07T22:00:00Z",
-      "publishedAtTs": 1788818400000,
-      "rawContent": "Caixa - preta de avião da Amazon que saiu da pista e pegou fogo em Miami é recuperada e segue para análise",
-      "linkStatus": "active",
-      "lastChecked": 1788859088600
-    },
-    {
-      "id": "gdelt-0cb7gw7",
-      "title": "IA pode representar risco  existencial , alerta representante da ONU",
-      "sourceName": "Agência Brasil",
-      "sourceUrl": "https://agenciabrasil.ebc.com.br/internacional",
-      "sourceType": "Agência Estatal",
-      "sourceEditorial": "Agência pública de notícias da EBC (Governo Federal)",
-      "country": "Brasil",
-      "paywall": false,
-      "originalUrl": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-09/ia-pode-representar-risco-existencial-alerta-representante-da-onu",
-      "publishedAtStr": "2026-09-07T22:00:00Z",
-      "publishedAtTs": 1788818400000,
-      "rawContent": "IA pode representar risco  existencial , alerta representante da ONU",
-      "linkStatus": "active",
-      "lastChecked": 1788859088600
-    },
-    {
-      "id": "gdelt-qb1pxkm",
+      "id": "gdelt-ujo3792",
       "title": "Programa de governo na Saxônia - Anhalt dá indícios de como a AfD pensa a Alemanha",
       "sourceName": "Estadão Internacional",
       "sourceUrl": "https://www.estadao.com.br/internacional/",
@@ -394,7 +266,7 @@
       "lastChecked": 1788858044937
     },
     {
-      "id": "gdelt-80vmgns",
+      "id": "gdelt-7q8jmm0",
       "title": "Golpistas roubam US$ 240 milhões em bitcoin e torram fortuna em carros , mansões e festas",
       "sourceName": "Estadão Internacional",
       "sourceUrl": "https://www.estadao.com.br/internacional/",
@@ -410,55 +282,7 @@
       "lastChecked": 1788858044937
     },
     {
-      "id": "gdelt-7w2wm27",
-      "title": "Alemanha poderá ter déficit de mais de 700 mil trabalhadores",
-      "sourceName": "DW Brasil",
-      "sourceUrl": "https://www.dw.com/pt-br/",
-      "sourceType": "Imprensa Internacional / Pública",
-      "sourceEditorial": "Emissora pública da Alemanha; foco em diplomacia e direitos humanos",
-      "country": "Alemanha",
-      "paywall": false,
-      "originalUrl": "https://www.dw.com/pt-br/falta-de-trabalhadores-na-alemanha-pode-superar-700-mil-at%C3%A9-2029/a-79152923",
-      "publishedAtStr": "2026-09-07T21:45:00Z",
-      "publishedAtTs": 1788817500000,
-      "rawContent": "Alemanha poderá ter déficit de mais de 700 mil trabalhadores",
-      "linkStatus": "active",
-      "lastChecked": 1788859088600
-    },
-    {
-      "id": "gdelt-zw7vts5",
-      "title": "Rússia retalia Alemanha e fecha consulado em São Petesburgo",
-      "sourceName": "DW Brasil",
-      "sourceUrl": "https://www.dw.com/pt-br/",
-      "sourceType": "Imprensa Internacional / Pública",
-      "sourceEditorial": "Emissora pública da Alemanha; foco em diplomacia e direitos humanos",
-      "country": "Alemanha",
-      "paywall": false,
-      "originalUrl": "https://www.dw.com/pt-br/r%C3%BAssia-retalia-alemanha-e-fecha-consulado-em-s%C3%A3o-petesburgo/a-79152601",
-      "publishedAtStr": "2026-09-07T21:00:00Z",
-      "publishedAtTs": 1788814800000,
-      "rawContent": "Rússia retalia Alemanha e fecha consulado em São Petesburgo",
-      "linkStatus": "active",
-      "lastChecked": 1788859088600
-    },
-    {
-      "id": "gdelt-ejt4lax",
-      "title": "VW abre caminho para fábrica desativada produzir armas",
-      "sourceName": "DW Brasil",
-      "sourceUrl": "https://www.dw.com/pt-br/",
-      "sourceType": "Imprensa Internacional / Pública",
-      "sourceEditorial": "Emissora pública da Alemanha; foco em diplomacia e direitos humanos",
-      "country": "Alemanha",
-      "paywall": false,
-      "originalUrl": "https://www.dw.com/pt-br/volkswagen-abre-caminho-para-converter-f%C3%A1brica-desativada-para-produ%C3%A7%C3%A3o-de-armas/a-79151688",
-      "publishedAtStr": "2026-09-07T21:00:00Z",
-      "publishedAtTs": 1788814800000,
-      "rawContent": "VW abre caminho para fábrica desativada produzir armas",
-      "linkStatus": "active",
-      "lastChecked": 1788859088600
-    },
-    {
-      "id": "gdelt-f3m1snx",
+      "id": "gdelt-d1xq9d0",
       "title": "Funeral do  açougueiro da Bósnia , condenado por genocídio , reúne multidão na Sérvia",
       "sourceName": "Veja Mundo",
       "sourceUrl": "https://veja.abril.com.br/mundo/",
@@ -474,7 +298,7 @@
       "lastChecked": 1788858044937
     },
     {
-      "id": "gdelt-jjma9or",
+      "id": "gdelt-byg18ro",
       "title": "Mais de R$ 40 bilhões : Cuba teve  impacto recorde  nas finanças por embargo de Trump",
       "sourceName": "Veja Mundo",
       "sourceUrl": "https://veja.abril.com.br/mundo/",
@@ -490,55 +314,7 @@
       "lastChecked": 1788858044937
     },
     {
-      "id": "gdelt-k13xvt5",
-      "title": "Forças de Israel matam 12 pessoas , incluindo 2 crianças , no Líbano",
-      "sourceName": "G1 Mundo",
-      "sourceUrl": "https://g1.globo.com/mundo/",
-      "sourceType": "Imprensa Comercial Brasileira",
-      "sourceEditorial": "Portal de notícias mainstream do Grupo Globo",
-      "country": "Brasil",
-      "paywall": false,
-      "originalUrl": "https://g1.globo.com/mundo/noticia/2026/09/07/forcas-de-israel-matam-12-pessoas-incluindo-2-criancas-em-ataque-aereo-no-libano.ghtml",
-      "publishedAtStr": "2026-09-07T20:30:00Z",
-      "publishedAtTs": 1788813000000,
-      "rawContent": "Forças de Israel matam 12 pessoas , incluindo 2 crianças , no Líbano",
-      "linkStatus": "active",
-      "lastChecked": 1788859088600
-    },
-    {
-      "id": "gdelt-hl4u6pc",
-      "title": "Cuba e Estados Unidos : bloqueio custou US$ 8 , 1 bi , diz ministro",
-      "sourceName": "G1 Mundo",
-      "sourceUrl": "https://g1.globo.com/mundo/",
-      "sourceType": "Imprensa Comercial Brasileira",
-      "sourceEditorial": "Portal de notícias mainstream do Grupo Globo",
-      "country": "Brasil",
-      "paywall": false,
-      "originalUrl": "https://g1.globo.com/mundo/noticia/2026/09/07/cuba-diz-que-nao-ha-negociacoes-com-os-eua-e-chama-bloqueio-de-genocida.ghtml",
-      "publishedAtStr": "2026-09-07T20:30:00Z",
-      "publishedAtTs": 1788813000000,
-      "rawContent": "Cuba e Estados Unidos : bloqueio custou US$ 8 , 1 bi , diz ministro",
-      "linkStatus": "active",
-      "lastChecked": 1788859088600
-    },
-    {
-      "id": "gdelt-n4ty8qo",
-      "title": "Chanceler alemão classifica vitória da AfD como resultado ísmico",
-      "sourceName": "G1 Mundo",
-      "sourceUrl": "https://g1.globo.com/mundo/",
-      "sourceType": "Imprensa Comercial Brasileira",
-      "sourceEditorial": "Portal de notícias mainstream do Grupo Globo",
-      "country": "Brasil",
-      "paywall": false,
-      "originalUrl": "https://g1.globo.com/mundo/noticia/2026/09/07/chanceler-alemao-classifica-vitoria-da-afd-como-resultado-sismico-e-diz-estar-profundamente-chocado.ghtml",
-      "publishedAtStr": "2026-09-07T20:30:00Z",
-      "publishedAtTs": 1788813000000,
-      "rawContent": "Chanceler alemão classifica vitória da AfD como resultado ísmico",
-      "linkStatus": "active",
-      "lastChecked": 1788859088600
-    },
-    {
-      "id": "gdelt-0c54q6g",
+      "id": "gdelt-5w2b7e8",
       "title": "Diante da pressão de Trump , União Europeia anuncia 200 milhões de euros para a Groenlândia",
       "sourceName": "Estadão Internacional",
       "sourceUrl": "https://www.estadao.com.br/internacional/",
@@ -554,7 +330,7 @@
       "lastChecked": 1788858044937
     },
     {
-      "id": "gdelt-ojvmf46",
+      "id": "gdelt-inevf1f",
       "title": "Cresce otimismo sobre negociações de paz entre Ucrânia e Rússia após visita de enviados de Trump",
       "sourceName": "Estadão Internacional",
       "sourceUrl": "https://www.estadao.com.br/internacional/",
@@ -570,7 +346,7 @@
       "lastChecked": 1788858044937
     },
     {
-      "id": "gdelt-se14m03",
+      "id": "gdelt-z8uwsmr",
       "title": "Nunes leva camisetas de apoio a André Mendonça para ato de Flávio na Paulista",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -586,7 +362,7 @@
       "lastChecked": 1788858044937
     },
     {
-      "id": "gdelt-2voj8sc",
+      "id": "gdelt-wralq52",
       "title": "Ex - chefão da F1 , Ecclestone é detido em Portugal após ser encontrado com espingarda",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -602,7 +378,7 @@
       "lastChecked": 1788858044937
     },
     {
-      "id": "gdelt-22et4tw",
+      "id": "gdelt-46m1yt4",
       "title": "Quaest divulga nova pesquisa neste 7 de setembro ; veja o que estará no levantamento",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -618,7 +394,7 @@
       "lastChecked": 1788858044937
     },
     {
-      "id": "gdelt-lij2gc1",
+      "id": "gdelt-ytof50g",
       "title": "Direita protesta contra Moraes em capitais e pressiona Senado por impeachment",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -634,7 +410,7 @@
       "lastChecked": 1788858044937
     },
     {
-      "id": "gdelt-alw1sj8",
+      "id": "gdelt-2yaerj7",
       "title": "Eleio será 50 % construo e 50 % destruio do adversário , prevê marqueteiro",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -650,7 +426,7 @@
       "lastChecked": 1788858044937
     },
     {
-      "id": "gdelt-apbmk8k",
+      "id": "gdelt-0ob7pu6",
       "title": "Como empresas e países tentam transformar o degelo do Ártico em vantagem econômica",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -666,7 +442,7 @@
       "lastChecked": 1788858044937
     },
     {
-      "id": "gdelt-t98qitx",
+      "id": "gdelt-zjybxgu",
       "title": "Semana do Cinema terá ingressos a partir de R$ 10 em todo o país : veja datas",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -682,7 +458,7 @@
       "lastChecked": 1788858044937
     },
     {
-      "id": "gdelt-b3mniid",
+      "id": "gdelt-dz48qr2",
       "title": "Trump defende ideia de mudar o nome do Novo México para  Nova América",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -698,7 +474,7 @@
       "lastChecked": 1788858044937
     },
     {
-      "id": "gdelt-n7g6uia",
+      "id": "gdelt-0elxoee",
       "title": "Cobre dispara para máxima histórica enquanto turbulência tarifária pressiona mercado",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -714,7 +490,7 @@
       "lastChecked": 1788858044937
     },
     {
-      "id": "gdelt-vk8lvr1",
+      "id": "gdelt-40v6ni3",
       "title": "China aumenta reservas em US$ 19 , 5 bi e compra ouro no maior ritmo em 3 anos",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -730,7 +506,7 @@
       "lastChecked": 1788858044937
     },
     {
-      "id": "gdelt-gg9sdnn",
+      "id": "gdelt-8tc7otj",
       "title": "Vai faltar vinho ? Seca e calor derrubam produo francesa ao menor nível desde 1957",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -746,7 +522,7 @@
       "lastChecked": 1788858044937
     },
     {
-      "id": "gdelt-0b5omlb",
+      "id": "gdelt-zdlvfs6",
       "title": "Shein perde US$ 5 bi e tem uma das piores semanas após IPO em Hong Kong",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -762,7 +538,7 @@
       "lastChecked": 1788858044937
     },
     {
-      "id": "gdelt-bk64r8x",
+      "id": "gdelt-wyrccus",
       "title": "Já pensando na próxima folga ? Veja quais são os próximos feriados do 2º semestre",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -778,7 +554,7 @@
       "lastChecked": 1788858044937
     },
     {
-      "id": "gdelt-kazgg9f",
+      "id": "gdelt-dxcxxvu",
       "title": "Trump faz ofensiva à canadense Bombardier e dá novo passo na guerra comercial",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -794,7 +570,7 @@
       "lastChecked": 1788858044937
     },
     {
-      "id": "gdelt-q6lhpqg",
+      "id": "gdelt-k30x2mj",
       "title": "Fora da Esplanada , bolsonaristas protestam contra Lula e Moraes e a favor de Mendonça",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -810,7 +586,7 @@
       "lastChecked": 1788858044937
     },
     {
-      "id": "gdelt-lwj1jxw",
+      "id": "gdelt-ichzk3k",
       "title": "IA representa risco existencial para humanidade , diz chefe de direitos humanos da ONU",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -826,7 +602,7 @@
       "lastChecked": 1788858044937
     },
     {
-      "id": "gdelt-ktig4j1",
+      "id": "gdelt-wp6botg",
       "title": "Rei Charles diz que Harry e Meghan continuam membros da realeza sem funções oficiais",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -842,7 +618,7 @@
       "lastChecked": 1788858044937
     },
     {
-      "id": "gdelt-fj086wf",
+      "id": "gdelt-0r56riu",
       "title": "UE promete investimentos na Groenlândia após pressão de Trump para obter controle",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -858,7 +634,7 @@
       "lastChecked": 1788858044937
     },
     {
-      "id": "gdelt-al9xgkc",
+      "id": "gdelt-hubp7ws",
       "title": "Confusão perto da Paulista tem bombas da PM antes de ato de 7 de Setembro",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -874,7 +650,7 @@
       "lastChecked": 1788858044937
     },
     {
-      "id": "gdelt-3csuth7",
+      "id": "gdelt-7qcmbzy",
       "title": "Dia do Cliente : 7 erros para evitar ao aproveitar promoes",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -890,7 +666,7 @@
       "lastChecked": 1788859088600
     },
     {
-      "id": "gdelt-kfg79fz",
+      "id": "gdelt-iggttvg",
       "title": "Bilionário anuncia venda de ilha por US$ 7 , 9 mi , mas governo diz que terra não é dele",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -906,7 +682,7 @@
       "lastChecked": 1788859088600
     },
     {
-      "id": "gdelt-c21d504",
+      "id": "gdelt-q9snpiv",
       "title": "Nepal concentra esforços para encontrar 900 trabalhadores de usinas hidrelétricas",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -922,7 +698,7 @@
       "lastChecked": 1788859088600
     },
     {
-      "id": "gdelt-91f6dqn",
+      "id": "gdelt-bt0pjo9",
       "title": "Bolsas da Europa fecham perto da estabilidade , de olho em techs e no Oriente Médio",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -938,7 +714,7 @@
       "lastChecked": 1788859088600
     },
     {
-      "id": "gdelt-tnsvzqk",
+      "id": "gdelt-yye71lq",
       "title": "Petróleo Brent fecha em alta e se aproxima de US$ 100 , com novos ataques no Irã",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -954,7 +730,7 @@
       "lastChecked": 1788859088600
     },
     {
-      "id": "gdelt-gvwrzeh",
+      "id": "gdelt-f6bjq11",
       "title": "Por que o 7 de Setembro de 2022 deixou Bolsonaro inelegível ? Entenda",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -970,7 +746,7 @@
       "lastChecked": 1788859088600
     },
     {
-      "id": "gdelt-cxik8ug",
+      "id": "gdelt-yqjctp4",
       "title": "Demissões e corte de custos : o que está por trás da crise da Jaguar Land Rover",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -986,7 +762,7 @@
       "lastChecked": 1788859088600
     },
     {
-      "id": "gdelt-v3c7da0",
+      "id": "gdelt-hx45k7d",
       "title": "Secom diz que 70 mil estiveram na Esplanada em desfile do 7 de Setembro",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -1002,7 +778,7 @@
       "lastChecked": 1788859088600
     },
     {
-      "id": "gdelt-cboliaa",
+      "id": "gdelt-oyxb12k",
       "title": "Milhares vão a funeral de ex - general condenado por genocídio na Bósnia",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -1018,7 +794,7 @@
       "lastChecked": 1788859088600
     },
     {
-      "id": "gdelt-sr61zn3",
+      "id": "gdelt-ns8k9nr",
       "title": "Renan diz que ascensão de Cury é  covardia  e  ciclo de rivotril :  Discurso vazio",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -1034,71 +810,7 @@
       "lastChecked": 1788859088600
     },
     {
-      "id": "gdelt-vskcafg",
-      "title": "Os pombos  diferentõe que ajudaram Darwin a criar Teoria da Evoluo",
-      "sourceName": "BBC News Brasil",
-      "sourceUrl": "https://www.bbc.com/portuguese",
-      "sourceType": "Imprensa Internacional / Pública",
-      "sourceEditorial": "Emissora pública do Reino Unido; jornalismo global independente",
-      "country": "Reino Unido",
-      "paywall": false,
-      "originalUrl": "https://www.bbc.com/portuguese/articles/c62e509n9g5o",
-      "publishedAtStr": "2026-09-07T19:45:00Z",
-      "publishedAtTs": 1788810300000,
-      "rawContent": "Os pombos  diferentõe que ajudaram Darwin a criar Teoria da Evoluo",
-      "linkStatus": "active",
-      "lastChecked": 1788859088600
-    },
-    {
-      "id": "gdelt-ch0cjxo",
-      "title": "11 de Setembro : os novos vídeos que indicam possível papel de agente da Arábia Saudita nos atentados",
-      "sourceName": "BBC News Brasil",
-      "sourceUrl": "https://www.bbc.com/portuguese",
-      "sourceType": "Imprensa Internacional / Pública",
-      "sourceEditorial": "Emissora pública do Reino Unido; jornalismo global independente",
-      "country": "Reino Unido",
-      "paywall": false,
-      "originalUrl": "https://www.bbc.com/portuguese/articles/c74kzzk05zdo",
-      "publishedAtStr": "2026-09-07T19:30:00Z",
-      "publishedAtTs": 1788809400000,
-      "rawContent": "11 de Setembro : os novos vídeos que indicam possível papel de agente da Arábia Saudita nos atentados",
-      "linkStatus": "active",
-      "lastChecked": 1788859088600
-    },
-    {
-      "id": "gdelt-0ynythn",
-      "title": "AfD na Saxônia - Anhalt : Direita radical busca formar governo",
-      "sourceName": "G1 Mundo",
-      "sourceUrl": "https://g1.globo.com/mundo/",
-      "sourceType": "Imprensa Comercial Brasileira",
-      "sourceEditorial": "Portal de notícias mainstream do Grupo Globo",
-      "country": "Brasil",
-      "paywall": false,
-      "originalUrl": "https://g1.globo.com/mundo/noticia/2026/09/07/apos-vitoria-historica-em-eleicoes-regionais-direita-radical-alema-busca-apoio-para-formar-governo-na-saxonia.ghtml",
-      "publishedAtStr": "2026-09-07T19:30:00Z",
-      "publishedAtTs": 1788809400000,
-      "rawContent": "AfD na Saxônia - Anhalt : Direita radical busca formar governo",
-      "linkStatus": "active",
-      "lastChecked": 1788859088600
-    },
-    {
-      "id": "gdelt-8dyjv22",
-      "title": "Trump defende ideia de mudar o nome do Novo México para  Nova América",
-      "sourceName": "G1 Mundo",
-      "sourceUrl": "https://g1.globo.com/mundo/",
-      "sourceType": "Imprensa Comercial Brasileira",
-      "sourceEditorial": "Portal de notícias mainstream do Grupo Globo",
-      "country": "Brasil",
-      "paywall": false,
-      "originalUrl": "https://g1.globo.com/mundo/noticia/2026/09/07/trump-defende-ideia-de-mudar-o-nome-do-novo-mexico-para-nova-america.ghtml",
-      "publishedAtStr": "2026-09-07T19:30:00Z",
-      "publishedAtTs": 1788809400000,
-      "rawContent": "Trump defende ideia de mudar o nome do Novo México para  Nova América",
-      "linkStatus": "active",
-      "lastChecked": 1788859088600
-    },
-    {
-      "id": "gdelt-q62uw27",
+      "id": "gdelt-9di37gp",
       "title": "Perto dos 25 anos do 11 de Setembro , EUA tentam manter viva memória das vítimas",
       "sourceName": "Veja Mundo",
       "sourceUrl": "https://veja.abril.com.br/mundo/",
@@ -1114,7 +826,7 @@
       "lastChecked": 1788859088600
     },
     {
-      "id": "gdelt-gnpjm1x",
+      "id": "gdelt-boa933y",
       "title": "Contra ambições territoriais de Trump , UE anuncia R$ 1 tri em aportes para Groenlândia",
       "sourceName": "Veja Mundo",
       "sourceUrl": "https://veja.abril.com.br/mundo/",
@@ -1130,7 +842,7 @@
       "lastChecked": 1788859088600
     },
     {
-      "id": "gdelt-eeji3ln",
+      "id": "gdelt-nrf0j5r",
       "title": "Rússia fecha consulado alemão em São Petersburgo em retaliação após incidente com drone em Leipzig",
       "sourceName": "Estadão Internacional",
       "sourceUrl": "https://www.estadao.com.br/internacional/",
@@ -1146,87 +858,7 @@
       "lastChecked": 1788859088600
     },
     {
-      "id": "gdelt-8ro383n",
-      "title": "Musk e Orbán celebram votao da AfD ; líder polonês critica",
-      "sourceName": "DW Brasil",
-      "sourceUrl": "https://www.dw.com/pt-br/",
-      "sourceType": "Imprensa Internacional / Pública",
-      "sourceEditorial": "Emissora pública da Alemanha; foco em diplomacia e direitos humanos",
-      "country": "Alemanha",
-      "paywall": false,
-      "originalUrl": "https://www.dw.com/pt-br/musk-e-orb%C3%A1n-celebram-vota%C3%A7%C3%A3o-da-afd-l%C3%ADder-polon%C3%AAs-critica/a-79151201",
-      "publishedAtStr": "2026-09-07T17:00:00Z",
-      "publishedAtTs": 1788800400000,
-      "rawContent": "Musk e Orbán celebram votao da AfD ; líder polonês critica",
-      "linkStatus": "active",
-      "lastChecked": 1788859088600
-    },
-    {
-      "id": "gdelt-tcssx60",
-      "title": "Funcionários de farmácias relatam pavor com assaltos por canetas emagrecedoras",
-      "sourceName": "BBC News Brasil",
-      "sourceUrl": "https://www.bbc.com/portuguese",
-      "sourceType": "Imprensa Internacional / Pública",
-      "sourceEditorial": "Emissora pública do Reino Unido; jornalismo global independente",
-      "country": "Reino Unido",
-      "paywall": false,
-      "originalUrl": "https://www.bbc.com/portuguese/articles/czxzewx2qq5o",
-      "publishedAtStr": "2026-09-07T16:45:00Z",
-      "publishedAtTs": 1788799500000,
-      "rawContent": "Funcionários de farmácias relatam pavor com assaltos por canetas emagrecedoras",
-      "linkStatus": "active",
-      "lastChecked": 1788859088600
-    },
-    {
-      "id": "gdelt-z3hbomz",
-      "title": "Chanceler alemão diz estar  profundamente chocado  com vitória do AfD , de extrema direita , em eleio regional",
-      "sourceName": "O Globo Mundo",
-      "sourceUrl": "https://oglobo.globo.com/mundo/",
-      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
-      "sourceEditorial": "Jornal diário (Grupo Globo) - Conteúdo sob assinatura",
-      "country": "Brasil",
-      "paywall": true,
-      "originalUrl": "https://oglobo.globo.com/mundo/noticia/2026/09/07/chanceler-alemao-diz-estar-profundamente-chocado-com-vitoria-do-afd-de-extrema-direita-em-eleicao-regional.ghtml",
-      "publishedAtStr": "2026-09-07T16:15:00Z",
-      "publishedAtTs": 1788797700000,
-      "rawContent": "Chanceler alemão diz estar  profundamente chocado  com vitória do AfD , de extrema direita , em eleio regional",
-      "linkStatus": "active",
-      "lastChecked": 1788859088600
-    },
-    {
-      "id": "gdelt-xnzzkho",
-      "title": "Merz se diz  profundamente chocado  após vitória da AfD",
-      "sourceName": "DW Brasil",
-      "sourceUrl": "https://www.dw.com/pt-br/",
-      "sourceType": "Imprensa Internacional / Pública",
-      "sourceEditorial": "Emissora pública da Alemanha; foco em diplomacia e direitos humanos",
-      "country": "Alemanha",
-      "paywall": false,
-      "originalUrl": "https://www.dw.com/pt-br/merz-se-diz-profundamente-chocado-ap%C3%B3s-vit%C3%B3ria-da-afd/a-79147319",
-      "publishedAtStr": "2026-09-07T16:15:00Z",
-      "publishedAtTs": 1788797700000,
-      "rawContent": "Merz se diz  profundamente chocado  após vitória da AfD",
-      "linkStatus": "active",
-      "lastChecked": 1788859088600
-    },
-    {
-      "id": "gdelt-n6l2ocj",
-      "title": "Eleies : o que é permitido no uso de IA nas campanhas",
-      "sourceName": "DW Brasil",
-      "sourceUrl": "https://www.dw.com/pt-br/",
-      "sourceType": "Imprensa Internacional / Pública",
-      "sourceEditorial": "Emissora pública da Alemanha; foco em diplomacia e direitos humanos",
-      "country": "Alemanha",
-      "paywall": false,
-      "originalUrl": "https://www.dw.com/pt-br/elei%C3%A7%C3%B5es-o-que-%C3%A9-permitido-no-uso-de-ia-nas-campanhas/a-78895711",
-      "publishedAtStr": "2026-09-07T16:15:00Z",
-      "publishedAtTs": 1788797700000,
-      "rawContent": "Eleies : o que é permitido no uso de IA nas campanhas",
-      "linkStatus": "active",
-      "lastChecked": 1788859088600
-    },
-    {
-      "id": "gdelt-v25w7mb",
+      "id": "gdelt-vji1tdx",
       "title": "Os próximos passos após a vitória da extrema direita em eleio regional na Alemanha",
       "sourceName": "Veja Mundo",
       "sourceUrl": "https://veja.abril.com.br/mundo/",
@@ -1242,7 +874,7 @@
       "lastChecked": 1788859088600
     },
     {
-      "id": "gdelt-ywuam2r",
+      "id": "gdelt-dfcgc7f",
       "title": "IA entra na duplicata escritural e promete acelerar o crédito às empresas",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -1258,7 +890,7 @@
       "lastChecked": 1788859088600
     },
     {
-      "id": "gdelt-iplac0k",
+      "id": "gdelt-djg1vyz",
       "title": "Bolsas da Europa operam sem direo única , contrabalançando tech e petróleo",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -1274,7 +906,7 @@
       "lastChecked": 1788859088600
     },
     {
-      "id": "gdelt-vwg5n7s",
+      "id": "gdelt-dew6c1w",
       "title": "Jaguar Land Rover anuncia 4 mil cortes em reestruturação global",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -1290,7 +922,7 @@
       "lastChecked": 1788859088600
     },
     {
-      "id": "gdelt-2wg6d7d",
+      "id": "gdelt-hqcmcgj",
       "title": "O saldo da reunião entre Zelensky e enviados dos EUA para encerrar guerra na Ucrânia",
       "sourceName": "Veja Mundo",
       "sourceUrl": "https://veja.abril.com.br/mundo/",
@@ -1302,8 +934,8 @@
       "publishedAtStr": "2026-09-07T14:15:00Z",
       "publishedAtTs": 1788790500000,
       "rawContent": "O saldo da reunião entre Zelensky e enviados dos EUA para encerrar guerra na Ucrânia",
-      "linkStatus": "unknown",
-      "lastChecked": null
+      "linkStatus": "active",
+      "lastChecked": 1788860118174
     }
   ]
 }
