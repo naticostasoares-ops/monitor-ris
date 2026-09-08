@@ -1,16 +1,48 @@
 {
-  "updatedAt": "2026-09-08T19:24:24.483Z",
-  "periodUsed": "7d",
-  "count": 22,
+  "updatedAt": "2026-09-08T19:33:19.067Z",
+  "periodUsed": "24h",
+  "count": 21,
   "linkVerificationStats": {
-    "checkedThisRun": 22,
-    "active": 20,
+    "checkedThisRun": 2,
+    "active": 2,
     "broken": 0,
-    "unknown": 2
+    "unknown": 0
   },
   "articles": [
     {
-      "id": "gdelt-n7280e3",
+      "id": "gdelt-nej66yj",
+      "title": "A batalha no Peru para proteger do petróleo um rio amazônico",
+      "sourceName": "DW Brasil",
+      "sourceUrl": "https://www.dw.com/pt-br/",
+      "sourceType": "Imprensa Internacional / Pública",
+      "sourceEditorial": "Emissora pública da Alemanha; foco em diplomacia e direitos humanos",
+      "country": "Alemanha",
+      "paywall": false,
+      "originalUrl": "https://www.dw.com/pt-br/a-batalha-no-peru-para-proteger-do-petr%C3%B3leo-um-rio-amaz%C3%B4nico/a-79189387",
+      "publishedAtStr": "2026-09-08T19:00:00Z",
+      "publishedAtTs": 1788894000000,
+      "rawContent": "A batalha no Peru para proteger do petróleo um rio amazônico",
+      "linkStatus": "active",
+      "lastChecked": 1788895998001
+    },
+    {
+      "id": "gdelt-bg17rwe",
+      "title": "2ª Turma do STF forma maioria para afastar chefe da PF",
+      "sourceName": "DW Brasil",
+      "sourceUrl": "https://www.dw.com/pt-br/",
+      "sourceType": "Imprensa Internacional / Pública",
+      "sourceEditorial": "Emissora pública da Alemanha; foco em diplomacia e direitos humanos",
+      "country": "Alemanha",
+      "paywall": false,
+      "originalUrl": "https://www.dw.com/pt-br/2%C2%AA-turma-do-stf-forma-maioria-para-afastar-chefe-da-pf/a-79188258",
+      "publishedAtStr": "2026-09-08T19:00:00Z",
+      "publishedAtTs": 1788894000000,
+      "rawContent": "2ª Turma do STF forma maioria para afastar chefe da PF",
+      "linkStatus": "active",
+      "lastChecked": 1788895998001
+    },
+    {
+      "id": "gdelt-hzxt7up",
       "title": "Biden diz que último tratamento contra câncer teve  efeito esperado  e que está terminando livro de memórias",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -26,7 +58,7 @@
       "lastChecked": 1788895449591
     },
     {
-      "id": "gdelt-a1vb1d9",
+      "id": "gdelt-4nu2xxa",
       "title": "Rússia retalia Alemanha e fecha consulado em São Petersburgo",
       "sourceName": "DW Brasil",
       "sourceUrl": "https://www.dw.com/pt-br/",
@@ -42,7 +74,7 @@
       "lastChecked": 1788895449591
     },
     {
-      "id": "gdelt-mlfbgjo",
+      "id": "gdelt-t9oybp2",
       "title": "André Mendonça determina afastamento de diretor - geral da PF",
       "sourceName": "DW Brasil",
       "sourceUrl": "https://www.dw.com/pt-br/",
@@ -58,7 +90,7 @@
       "lastChecked": 1788895449591
     },
     {
-      "id": "gdelt-d4mqekd",
+      "id": "gdelt-k35skbx",
       "title": "Uniforme espacial de Trump gera comparao com farda nazista",
       "sourceName": "DW Brasil",
       "sourceUrl": "https://www.dw.com/pt-br/",
@@ -74,7 +106,7 @@
       "lastChecked": 1788895449591
     },
     {
-      "id": "gdelt-hk2blve",
+      "id": "gdelt-7u0caxe",
       "title": "Britânico de 68 anos perde aposentadoria e fica sem teto na Tailândia após cair em golpe amoroso",
       "sourceName": "O Globo Mundo",
       "sourceUrl": "https://oglobo.globo.com/mundo/",
@@ -90,7 +122,7 @@
       "lastChecked": 1788895449591
     },
     {
-      "id": "gdelt-sn2zqve",
+      "id": "gdelt-ov6mx9i",
       "title": "Houthis atacam instalações de energia na Arábia Saudita e anunciam escalada do conflito",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -106,7 +138,7 @@
       "lastChecked": 1788895449591
     },
     {
-      "id": "gdelt-gbdzjzk",
+      "id": "gdelt-2iognzq",
       "title": "Avião de pequeno porte bate em rede elétrica e cai em avenida na Flórida ; piloto morre",
       "sourceName": "O Globo Mundo",
       "sourceUrl": "https://oglobo.globo.com/mundo/",
@@ -122,7 +154,7 @@
       "lastChecked": 1788895449591
     },
     {
-      "id": "gdelt-i85qrx7",
+      "id": "gdelt-g6qsz84",
       "title": "Alemanha contesta as acusações de genocídio em Gaza na Corte da ONU",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -138,7 +170,7 @@
       "lastChecked": 1788895449591
     },
     {
-      "id": "gdelt-rqsasim",
+      "id": "gdelt-yarklt0",
       "title": "Rússia fecha consulado alemão em São Petersburgo em meio a tensão entre os países após ataques contra aeroporto e prédio em Munique",
       "sourceName": "O Globo Mundo",
       "sourceUrl": "https://oglobo.globo.com/mundo/",
@@ -154,7 +186,7 @@
       "lastChecked": 1788895449591
     },
     {
-      "id": "gdelt-ljlxpbs",
+      "id": "gdelt-88uf1vq",
       "title": "Funeral de general condenado pelo Massacre de Srbrenica atrai multidão na Sérvia e provoca indignação na UE",
       "sourceName": "O Globo Mundo",
       "sourceUrl": "https://oglobo.globo.com/mundo/",
@@ -170,7 +202,7 @@
       "lastChecked": 1788895449591
     },
     {
-      "id": "gdelt-dsxru55",
+      "id": "gdelt-erfu5ar",
       "title": "Caixa - preta de avião da Amazon que saiu da pista e pegou fogo em Miami é recuperada e segue para análise",
       "sourceName": "O Globo Mundo",
       "sourceUrl": "https://oglobo.globo.com/mundo/",
@@ -186,7 +218,7 @@
       "lastChecked": 1788895449591
     },
     {
-      "id": "gdelt-6xwyo05",
+      "id": "gdelt-21qenfj",
       "title": "IA pode representar risco  existencial , alerta representante da ONU",
       "sourceName": "Agência Brasil",
       "sourceUrl": "https://agenciabrasil.ebc.com.br/internacional",
@@ -202,7 +234,7 @@
       "lastChecked": 1788895449591
     },
     {
-      "id": "gdelt-vdwa40p",
+      "id": "gdelt-gi9sa1e",
       "title": "Alemanha poderá ter déficit de mais de 700 mil trabalhadores",
       "sourceName": "DW Brasil",
       "sourceUrl": "https://www.dw.com/pt-br/",
@@ -218,7 +250,7 @@
       "lastChecked": 1788895449591
     },
     {
-      "id": "gdelt-tvfp1go",
+      "id": "gdelt-apeolse",
       "title": "Rússia retalia Alemanha e fecha consulado em São Petesburgo",
       "sourceName": "DW Brasil",
       "sourceUrl": "https://www.dw.com/pt-br/",
@@ -234,7 +266,7 @@
       "lastChecked": 1788895449591
     },
     {
-      "id": "gdelt-crvoa6x",
+      "id": "gdelt-jzy7bbz",
       "title": "VW abre caminho para fábrica desativada produzir armas",
       "sourceName": "DW Brasil",
       "sourceUrl": "https://www.dw.com/pt-br/",
@@ -250,7 +282,7 @@
       "lastChecked": 1788895449591
     },
     {
-      "id": "gdelt-pllj64w",
+      "id": "gdelt-fmotu1w",
       "title": "Cuba e Estados Unidos : bloqueio custou US$ 8 , 1 bi , diz ministro",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -266,7 +298,7 @@
       "lastChecked": 1788895449591
     },
     {
-      "id": "gdelt-r19fh9o",
+      "id": "gdelt-qq1hx1h",
       "title": "Chanceler alemão classifica vitória da AfD como resultado ísmico",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -282,7 +314,7 @@
       "lastChecked": 1788895449591
     },
     {
-      "id": "gdelt-8wbd9sl",
+      "id": "gdelt-ltz5jiu",
       "title": "Forças de Israel matam 12 pessoas , incluindo 2 crianças , no Líbano",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -298,7 +330,7 @@
       "lastChecked": 1788895449591
     },
     {
-      "id": "gdelt-z5erhoc",
+      "id": "gdelt-dst11v3",
       "title": "Os pombos  diferentõe que ajudaram Darwin a criar Teoria da Evoluo",
       "sourceName": "BBC News Brasil",
       "sourceUrl": "https://www.bbc.com/portuguese",
@@ -310,54 +342,6 @@
       "publishedAtStr": "2026-09-07T19:45:00Z",
       "publishedAtTs": 1788810300000,
       "rawContent": "Os pombos  diferentõe que ajudaram Darwin a criar Teoria da Evoluo",
-      "linkStatus": "active",
-      "lastChecked": 1788895449591
-    },
-    {
-      "id": "gdelt-cdfvtsk",
-      "title": "11 de Setembro : os novos vídeos que indicam possível papel de agente da Arábia Saudita nos atentados",
-      "sourceName": "BBC News Brasil",
-      "sourceUrl": "https://www.bbc.com/portuguese",
-      "sourceType": "Imprensa Internacional / Pública",
-      "sourceEditorial": "Emissora pública do Reino Unido; jornalismo global independente",
-      "country": "Reino Unido",
-      "paywall": false,
-      "originalUrl": "https://www.bbc.com/portuguese/articles/c74kzzk05zdo",
-      "publishedAtStr": "2026-09-07T19:30:00Z",
-      "publishedAtTs": 1788809400000,
-      "rawContent": "11 de Setembro : os novos vídeos que indicam possível papel de agente da Arábia Saudita nos atentados",
-      "linkStatus": "active",
-      "lastChecked": 1788895449591
-    },
-    {
-      "id": "gdelt-v1fu2zu",
-      "title": "AfD na Saxônia - Anhalt : Direita radical busca formar governo",
-      "sourceName": "G1 Mundo",
-      "sourceUrl": "https://g1.globo.com/mundo/",
-      "sourceType": "Imprensa Comercial Brasileira",
-      "sourceEditorial": "Portal de notícias mainstream do Grupo Globo",
-      "country": "Brasil",
-      "paywall": false,
-      "originalUrl": "https://g1.globo.com/mundo/noticia/2026/09/07/apos-vitoria-historica-em-eleicoes-regionais-direita-radical-alema-busca-apoio-para-formar-governo-na-saxonia.ghtml",
-      "publishedAtStr": "2026-09-07T19:30:00Z",
-      "publishedAtTs": 1788809400000,
-      "rawContent": "AfD na Saxônia - Anhalt : Direita radical busca formar governo",
-      "linkStatus": "active",
-      "lastChecked": 1788895449591
-    },
-    {
-      "id": "gdelt-o6nzawn",
-      "title": "Trump defende ideia de mudar o nome do Novo México para  Nova América",
-      "sourceName": "G1 Mundo",
-      "sourceUrl": "https://g1.globo.com/mundo/",
-      "sourceType": "Imprensa Comercial Brasileira",
-      "sourceEditorial": "Portal de notícias mainstream do Grupo Globo",
-      "country": "Brasil",
-      "paywall": false,
-      "originalUrl": "https://g1.globo.com/mundo/noticia/2026/09/07/trump-defende-ideia-de-mudar-o-nome-do-novo-mexico-para-nova-america.ghtml",
-      "publishedAtStr": "2026-09-07T19:30:00Z",
-      "publishedAtTs": 1788809400000,
-      "rawContent": "Trump defende ideia de mudar o nome do Novo México para  Nova América",
       "linkStatus": "active",
       "lastChecked": 1788895449591
     }
