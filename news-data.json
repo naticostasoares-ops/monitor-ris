@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-09-08T23:30:28.985Z",
+  "updatedAt": "2026-09-08T23:44:04.291Z",
   "periodUsed": "24h",
-  "count": 115,
+  "count": 156,
   "linkVerificationStats": {
     "checkedThisRun": 40,
     "active": 40,
@@ -10,7 +10,151 @@
   },
   "articles": [
     {
-      "id": "gdelt-3hu026i",
+      "id": "gdelt-ctm1c1e",
+      "title": "Eleições SP : Tarcísio 42 %, Haddad 27 %, aponta Quaest",
+      "sourceName": "Brasil de Fato",
+      "sourceUrl": "https://www.brasildefato.com.br/",
+      "sourceType": "Jornal / Movimentos Sociais",
+      "sourceEditorial": "Mídia popular focada em Direitos Humanos e Sul Global",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://www.brasildefato.com.br/2026/09/08/eleicoes-sp-tarcisio-42-haddad-27-aponta-quaest/",
+      "publishedAtStr": "2026-09-08T23:15:00Z",
+      "publishedAtTs": 1788909300000,
+      "rawContent": "Eleições SP : Tarcísio 42 %, Haddad 27 %, aponta Quaest",
+      "linkStatus": "active",
+      "lastChecked": 1788911025483
+    },
+    {
+      "id": "gdelt-i1ka0cf",
+      "title": "40 anos de resistência camponesa : como o movimento Tèt Kole Ti Peyizan Ayisyen mobiliza a luta no Haiti",
+      "sourceName": "Brasil de Fato",
+      "sourceUrl": "https://www.brasildefato.com.br/",
+      "sourceType": "Jornal / Movimentos Sociais",
+      "sourceEditorial": "Mídia popular focada em Direitos Humanos e Sul Global",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://www.brasildefato.com.br/2026/09/08/40-anos-de-resistencia-camponesa-como-o-movimento-tet-kole-ti-peyizan-ayisyen-mobiliza-a-luta-no-haiti/",
+      "publishedAtStr": "2026-09-08T23:15:00Z",
+      "publishedAtTs": 1788909300000,
+      "rawContent": "40 anos de resistência camponesa : como o movimento Tèt Kole Ti Peyizan Ayisyen mobiliza a luta no Haiti",
+      "linkStatus": "active",
+      "lastChecked": 1788911025483
+    },
+    {
+      "id": "gdelt-tclmh0b",
+      "title": "Em  total apoio  a Andrei Rodrigues , onze diretores da PF colocam cargos à disposio após André Mendonça afastá - lo",
+      "sourceName": "Brasil de Fato",
+      "sourceUrl": "https://www.brasildefato.com.br/",
+      "sourceType": "Jornal / Movimentos Sociais",
+      "sourceEditorial": "Mídia popular focada em Direitos Humanos e Sul Global",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://www.brasildefato.com.br/2026/09/08/em-total-apoio-a-andrei-rodrigues-onze-diretores-da-pf-colocam-cargos-a-disposicao-apos-andre-mendonca-afasta-lo/",
+      "publishedAtStr": "2026-09-08T23:15:00Z",
+      "publishedAtTs": 1788909300000,
+      "rawContent": "Em  total apoio  a Andrei Rodrigues , onze diretores da PF colocam cargos à disposio após André Mendonça afastá - lo",
+      "linkStatus": "active",
+      "lastChecked": 1788911025483
+    },
+    {
+      "id": "gdelt-4bkt2ns",
+      "title": "Há uma descredibilização das decisões do poder Judiciário , afirma advogado especialista em tribunais superiores",
+      "sourceName": "Brasil de Fato",
+      "sourceUrl": "https://www.brasildefato.com.br/",
+      "sourceType": "Jornal / Movimentos Sociais",
+      "sourceEditorial": "Mídia popular focada em Direitos Humanos e Sul Global",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://www.brasildefato.com.br/2026/09/08/ha-uma-descredibilizacao-das-decisoes-do-poder-judiciario-afirma-advogado-especialista-em-tribunais-superiores/",
+      "publishedAtStr": "2026-09-08T23:15:00Z",
+      "publishedAtTs": 1788909300000,
+      "rawContent": "Há uma descredibilização das decisões do poder Judiciário , afirma advogado especialista em tribunais superiores",
+      "linkStatus": "active",
+      "lastChecked": 1788911025483
+    },
+    {
+      "id": "gdelt-1af7m23",
+      "title": "AGU recorre ao STF contra o afastamento do diretor - geral da Polícia Federal decidido por André Mendonça",
+      "sourceName": "Brasil de Fato",
+      "sourceUrl": "https://www.brasildefato.com.br/",
+      "sourceType": "Jornal / Movimentos Sociais",
+      "sourceEditorial": "Mídia popular focada em Direitos Humanos e Sul Global",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://www.brasildefato.com.br/2026/09/08/agu-recorre-ao-stf-contra-o-afastamento-do-diretor-geral-da-policia-federal-decidido-por-andre-mendonca/",
+      "publishedAtStr": "2026-09-08T23:15:00Z",
+      "publishedAtTs": 1788909300000,
+      "rawContent": "AGU recorre ao STF contra o afastamento do diretor - geral da Polícia Federal decidido por André Mendonça",
+      "linkStatus": "active",
+      "lastChecked": 1788911025483
+    },
+    {
+      "id": "gdelt-asfzvd9",
+      "title": "Mendonça  aposta alto demai para interferir nas eleições , afirma cientista político",
+      "sourceName": "Brasil de Fato",
+      "sourceUrl": "https://www.brasildefato.com.br/",
+      "sourceType": "Jornal / Movimentos Sociais",
+      "sourceEditorial": "Mídia popular focada em Direitos Humanos e Sul Global",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://www.brasildefato.com.br/2026/09/08/mendonca-aposta-alto-demais-para-interferir-nas-eleicoes-afirma-cientista-politico/",
+      "publishedAtStr": "2026-09-08T23:15:00Z",
+      "publishedAtTs": 1788909300000,
+      "rawContent": "Mendonça  aposta alto demai para interferir nas eleições , afirma cientista político",
+      "linkStatus": "active",
+      "lastChecked": 1788911025483
+    },
+    {
+      "id": "gdelt-ycir72z",
+      "title": "Exposio no MAC USP reúne 53 anos de ilustrações cubanas em apoio à luta contra o imperialismo",
+      "sourceName": "Brasil de Fato",
+      "sourceUrl": "https://www.brasildefato.com.br/",
+      "sourceType": "Jornal / Movimentos Sociais",
+      "sourceEditorial": "Mídia popular focada em Direitos Humanos e Sul Global",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://www.brasildefato.com.br/2026/09/08/exposicao-no-mac-usp-reune-53-anos-de-ilustracoes-cubanas-em-apoio-a-luta-contra-o-imperialismo/",
+      "publishedAtStr": "2026-09-08T23:15:00Z",
+      "publishedAtTs": 1788909300000,
+      "rawContent": "Exposio no MAC USP reúne 53 anos de ilustrações cubanas em apoio à luta contra o imperialismo",
+      "linkStatus": "active",
+      "lastChecked": 1788911025483
+    },
+    {
+      "id": "gdelt-vxs4qmz",
+      "title": "Marco Rubio chega à Colômbia e encontra De la Espriella no início de giro pela América Latina",
+      "sourceName": "Brasil de Fato",
+      "sourceUrl": "https://www.brasildefato.com.br/",
+      "sourceType": "Jornal / Movimentos Sociais",
+      "sourceEditorial": "Mídia popular focada em Direitos Humanos e Sul Global",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://www.brasildefato.com.br/2026/09/08/marco-rubio-chega-a-colombia-e-encontra-de-la-espriella-no-inicio-de-giro-pela-america-latina/",
+      "publishedAtStr": "2026-09-08T23:15:00Z",
+      "publishedAtTs": 1788909300000,
+      "rawContent": "Marco Rubio chega à Colômbia e encontra De la Espriella no início de giro pela América Latina",
+      "linkStatus": "active",
+      "lastChecked": 1788911025483
+    },
+    {
+      "id": "gdelt-442cu84",
+      "title": "Candidato do PSTU ao Senado em SP defende escala 4×3 , reindustrialização e desmilitarização da PM",
+      "sourceName": "Brasil de Fato",
+      "sourceUrl": "https://www.brasildefato.com.br/",
+      "sourceType": "Jornal / Movimentos Sociais",
+      "sourceEditorial": "Mídia popular focada em Direitos Humanos e Sul Global",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://www.brasildefato.com.br/2026/09/08/candidato-do-pstu-ao-senado-em-sp-defende-escala-4x3-reindustrializacao-e-desmilitarizacao-da-pm/",
+      "publishedAtStr": "2026-09-08T23:15:00Z",
+      "publishedAtTs": 1788909300000,
+      "rawContent": "Candidato do PSTU ao Senado em SP defende escala 4×3 , reindustrialização e desmilitarização da PM",
+      "linkStatus": "active",
+      "lastChecked": 1788911025483
+    },
+    {
+      "id": "gdelt-lync4ir",
       "title": "Novo projeto do príncipe Harry sobre a princesa Diana agrava a crise com William",
       "sourceName": "Veja Mundo",
       "sourceUrl": "https://veja.abril.com.br/mundo/",
@@ -26,7 +170,7 @@
       "lastChecked": 1788910213402
     },
     {
-      "id": "gdelt-bd0lcbs",
+      "id": "gdelt-fcsirbx",
       "title": "Irã captura submarino americano no Estreito de Ormuz , mas EUA minimizam perda",
       "sourceName": "Veja Mundo",
       "sourceUrl": "https://veja.abril.com.br/mundo/",
@@ -42,7 +186,7 @@
       "lastChecked": 1788910213402
     },
     {
-      "id": "gdelt-h2fc5um",
+      "id": "gdelt-rp5s7xb",
       "title": "Em telefonema , Putin e Trump têm conversa  extremamente franca  sobre guerra na Ucrânia",
       "sourceName": "Veja Mundo",
       "sourceUrl": "https://veja.abril.com.br/mundo/",
@@ -58,7 +202,87 @@
       "lastChecked": 1788910213402
     },
     {
-      "id": "gdelt-yw932ae",
+      "id": "gdelt-9xx389l",
+      "title": "Andrei Rodrigues afastado : delegados da PF temem  efeito cascata  e impacto duradouro da guerra Moraes - Mendonça na corporao",
+      "sourceName": "BBC News Brasil",
+      "sourceUrl": "https://www.bbc.com/portuguese",
+      "sourceType": "Imprensa Internacional / Pública",
+      "sourceEditorial": "Emissora pública do Reino Unido; jornalismo global independente",
+      "country": "Reino Unido",
+      "paywall": false,
+      "originalUrl": "https://www.bbc.com/portuguese/articles/c2l8704v88zo",
+      "publishedAtStr": "2026-09-08T22:15:00Z",
+      "publishedAtTs": 1788905700000,
+      "rawContent": "Andrei Rodrigues afastado : delegados da PF temem  efeito cascata  e impacto duradouro da guerra Moraes - Mendonça na corporao",
+      "linkStatus": "active",
+      "lastChecked": 1788911025483
+    },
+    {
+      "id": "gdelt-yc69wb1",
+      "title": "Secretário do Smithsonian anuncia saída do cargo em meio à pressão de Trump sobre como museus contam a história dos EUA",
+      "sourceName": "O Globo Mundo",
+      "sourceUrl": "https://oglobo.globo.com/mundo/",
+      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
+      "sourceEditorial": "Jornal diário (Grupo Globo) - Conteúdo sob assinatura",
+      "country": "Brasil",
+      "paywall": true,
+      "originalUrl": "https://oglobo.globo.com/mundo/noticia/2026/09/08/secretario-do-smithsonian-anuncia-saida-do-cargo-em-meio-a-pressao-de-trump-sobre-como-museus-contam-a-historia-dos-eua.ghtml",
+      "publishedAtStr": "2026-09-08T22:00:00Z",
+      "publishedAtTs": 1788904800000,
+      "rawContent": "Secretário do Smithsonian anuncia saída do cargo em meio à pressão de Trump sobre como museus contam a história dos EUA",
+      "linkStatus": "active",
+      "lastChecked": 1788911025483
+    },
+    {
+      "id": "gdelt-3v0sy1k",
+      "title": "Rubio fala em reconstruir relaes entre EUA e Colômbia após  erros",
+      "sourceName": "G1 Mundo",
+      "sourceUrl": "https://g1.globo.com/mundo/",
+      "sourceType": "Imprensa Comercial Brasileira",
+      "sourceEditorial": "Portal de notícias mainstream do Grupo Globo",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://g1.globo.com/mundo/noticia/2026/09/08/rubio-promete-reconstruir-relacao-com-colombia-apos-erros-da-esquerda.ghtml",
+      "publishedAtStr": "2026-09-08T22:00:00Z",
+      "publishedAtTs": 1788904800000,
+      "rawContent": "Rubio fala em reconstruir relaes entre EUA e Colômbia após  erros",
+      "linkStatus": "active",
+      "lastChecked": 1788911025483
+    },
+    {
+      "id": "gdelt-a78jj5u",
+      "title": "Homem cego dirige 240 km embriagado usando luzes de caminhão como guia , é senteciado à prisão e liberado , no Reino Unido",
+      "sourceName": "O Globo Mundo",
+      "sourceUrl": "https://oglobo.globo.com/mundo/",
+      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
+      "sourceEditorial": "Jornal diário (Grupo Globo) - Conteúdo sob assinatura",
+      "country": "Brasil",
+      "paywall": true,
+      "originalUrl": "https://oglobo.globo.com/mundo/epoca/noticia/2026/09/08/homem-cego-dirige-240-km-embriagado-usando-luzes-de-caminhao-como-guia-e-senteciado-a-prisao-e-liberado-no-reino-unido.ghtml",
+      "publishedAtStr": "2026-09-08T22:00:00Z",
+      "publishedAtTs": 1788904800000,
+      "rawContent": "Homem cego dirige 240 km embriagado usando luzes de caminhão como guia , é senteciado à prisão e liberado , no Reino Unido",
+      "linkStatus": "active",
+      "lastChecked": 1788911025483
+    },
+    {
+      "id": "gdelt-wast8nx",
+      "title": "Com pressão por combate ao tráfico , Rubio se reúne com presidente da Colômbia em início de viagem à América do Sul",
+      "sourceName": "O Globo Mundo",
+      "sourceUrl": "https://oglobo.globo.com/mundo/",
+      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
+      "sourceEditorial": "Jornal diário (Grupo Globo) - Conteúdo sob assinatura",
+      "country": "Brasil",
+      "paywall": true,
+      "originalUrl": "https://oglobo.globo.com/mundo/noticia/2026/09/08/com-pressao-por-combate-ao-trafico-rubio-se-reune-com-presidente-da-colombia-em-inicio-de-viagem-a-america-do-sul.ghtml",
+      "publishedAtStr": "2026-09-08T22:00:00Z",
+      "publishedAtTs": 1788904800000,
+      "rawContent": "Com pressão por combate ao tráfico , Rubio se reúne com presidente da Colômbia em início de viagem à América do Sul",
+      "linkStatus": "active",
+      "lastChecked": 1788911025483
+    },
+    {
+      "id": "gdelt-b53qa9b",
       "title": "Trump diz a Putin que fim da guerra na Ucrânia pode restaurar relações entre EUA e Rússia",
       "sourceName": "Estadão Internacional",
       "sourceUrl": "https://www.estadao.com.br/internacional/",
@@ -74,7 +298,39 @@
       "lastChecked": 1788910213402
     },
     {
-      "id": "gdelt-yupoxyi",
+      "id": "gdelt-uo805zg",
+      "title": "Diretores da PF entregam cargos em apoio a Andrei Rodrigues",
+      "sourceName": "DW Brasil",
+      "sourceUrl": "https://www.dw.com/pt-br/",
+      "sourceType": "Imprensa Internacional / Pública",
+      "sourceEditorial": "Emissora pública da Alemanha; foco em diplomacia e direitos humanos",
+      "country": "Alemanha",
+      "paywall": false,
+      "originalUrl": "https://www.dw.com/pt-br/onze-diretores-da-pf-entregam-cargos-em-apoio-a-andrei-rodrigues/a-79193987",
+      "publishedAtStr": "2026-09-08T20:00:00Z",
+      "publishedAtTs": 1788897600000,
+      "rawContent": "Diretores da PF entregam cargos em apoio a Andrei Rodrigues",
+      "linkStatus": "active",
+      "lastChecked": 1788911025483
+    },
+    {
+      "id": "gdelt-cc44gf7",
+      "title": "Justiça espanhola abre investigação sobre migrantes em Ceuta",
+      "sourceName": "G1 Mundo",
+      "sourceUrl": "https://g1.globo.com/mundo/",
+      "sourceType": "Imprensa Comercial Brasileira",
+      "sourceEditorial": "Portal de notícias mainstream do Grupo Globo",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://g1.globo.com/mundo/noticia/2026/09/08/justica-espanhola-abre-investigacao-sobre-chegada-massiva-de-migrantes-em-ceuta.ghtml",
+      "publishedAtStr": "2026-09-08T20:00:00Z",
+      "publishedAtTs": 1788897600000,
+      "rawContent": "Justiça espanhola abre investigação sobre migrantes em Ceuta",
+      "linkStatus": "active",
+      "lastChecked": 1788911025483
+    },
+    {
+      "id": "gdelt-lnihg8r",
       "title": "Mendonça determina afastamento de Andrei Rodrigues do comando da PF em nova escalada da crise no STF",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -90,7 +346,7 @@
       "lastChecked": 1788910213402
     },
     {
-      "id": "gdelt-3i9odzs",
+      "id": "gdelt-kftptzi",
       "title": "Treze ministros aposentados do STF cobram apuração rigorosa da  mais aguda crise  na Corte – CartaCapital",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -106,7 +362,7 @@
       "lastChecked": 1788910213402
     },
     {
-      "id": "gdelt-ll86l5z",
+      "id": "gdelt-y2x9fbm",
       "title": "Coordenador da campanha de Lula defende acionar o Conselho da República contra decisão de Mendonça",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -122,7 +378,7 @@
       "lastChecked": 1788910213402
     },
     {
-      "id": "gdelt-xyratu8",
+      "id": "gdelt-22ne04a",
       "title": "Mendonça agiu com o fígado contra Moraes e não há chance de acordo de cavalheiros , diz advogada",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -138,7 +394,7 @@
       "lastChecked": 1788910213402
     },
     {
-      "id": "gdelt-6hs1ry8",
+      "id": "gdelt-5j6ipxk",
       "title": "Polícia indicia 13 pessoas pelo caso do ciclista espancado em Copacabana",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -154,7 +410,7 @@
       "lastChecked": 1788910213402
     },
     {
-      "id": "gdelt-2gftu3z",
+      "id": "gdelt-ygapjtu",
       "title": "Governo Trump lança games para perseguir imigrantes",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -170,7 +426,7 @@
       "lastChecked": 1788910213402
     },
     {
-      "id": "gdelt-m3uonaa",
+      "id": "gdelt-vx61eqy",
       "title": "Guiana vai receber imigrantes deportados dos EUA",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -186,7 +442,7 @@
       "lastChecked": 1788910213402
     },
     {
-      "id": "gdelt-c1wyu54",
+      "id": "gdelt-p22tbkq",
       "title": "Brasil não fez mea - culpa e golpe contra Dilma pode se repetir , diz Eugênio Aragão",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -202,7 +458,7 @@
       "lastChecked": 1788910213402
     },
     {
-      "id": "gdelt-xcht0ya",
+      "id": "gdelt-z62ozoc",
       "title": "Flávio Bolsonaro diz que é preciso  proteger o STF de Alexandre de Moraes",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -218,7 +474,7 @@
       "lastChecked": 1788910213402
     },
     {
-      "id": "gdelt-elj65rr",
+      "id": "gdelt-f2nbtxj",
       "title": "Os números da nova pesquisa Nexus / BTG para a presidência em 1º turno",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -234,7 +490,7 @@
       "lastChecked": 1788910213402
     },
     {
-      "id": "gdelt-r942dnm",
+      "id": "gdelt-30doq4l",
       "title": "Terra arrasada – CartaCapital",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -250,7 +506,7 @@
       "lastChecked": 1788910213402
     },
     {
-      "id": "gdelt-pv7t77l",
+      "id": "gdelt-6re81e4",
       "title": "Diretores da PF colocam cargos à disposio após afastamento de Andrei Rodrigues",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -266,7 +522,7 @@
       "lastChecked": 1788910213402
     },
     {
-      "id": "gdelt-g4fg8ei",
+      "id": "gdelt-m2wwoxp",
       "title": "AGU contestará decisão de Mendonça que afastou Andrei Rodrigues da PF",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -282,7 +538,7 @@
       "lastChecked": 1788910213402
     },
     {
-      "id": "gdelt-km3et55",
+      "id": "gdelt-dklwkn8",
       "title": "Países muçulmanos condenam planos de Israel para expulsar palestinos de Gaza",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -298,7 +554,7 @@
       "lastChecked": 1788910213402
     },
     {
-      "id": "gdelt-xoqvpva",
+      "id": "gdelt-szawv6h",
       "title": "Grito dos Excluídos defende soberania nacional na Sé ; atos ocorrem em diversas cidades",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -314,7 +570,7 @@
       "lastChecked": 1788910213402
     },
     {
-      "id": "gdelt-5fbvzop",
+      "id": "gdelt-d0rd6t5",
       "title": "Real Time Big Data mostra empate técnico entre Hana Ghassan e Dr . Daniel no Pará",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -330,7 +586,7 @@
       "lastChecked": 1788910213402
     },
     {
-      "id": "gdelt-a0cqnf7",
+      "id": "gdelt-918drlm",
       "title": "Claudya celebra 60 anos de carreira com álbum ao vivo e vê lança álbum ao vivo e vê  cansaço  com os algoritmos – CartaCapital",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -346,7 +602,7 @@
       "lastChecked": 1788910213402
     },
     {
-      "id": "gdelt-iuccxjw",
+      "id": "gdelt-534cpti",
       "title": "Estudo aponta  fraude sistêmica  no Provão Paulista , criado pelo governo Tarcísio ; Seduc contesta – CartaCapital",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -362,7 +618,7 @@
       "lastChecked": 1788910213402
     },
     {
-      "id": "gdelt-5u9mjct",
+      "id": "gdelt-4vcus2f",
       "title": "O povo na Casa – CartaCapital",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -378,7 +634,7 @@
       "lastChecked": 1788910213402
     },
     {
-      "id": "gdelt-bcgy2jr",
+      "id": "gdelt-6jmmuu0",
       "title": "A disputa entre Lula e Flávio Bolsonaro no Amapá , segundo nova pesquisa",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -394,7 +650,7 @@
       "lastChecked": 1788910213402
     },
     {
-      "id": "gdelt-xjs5kfy",
+      "id": "gdelt-fmif47c",
       "title": "Número 2 da linha sucessória da PF sai em defesa de Andrei Rodrigues",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -410,7 +666,7 @@
       "lastChecked": 1788910213402
     },
     {
-      "id": "gdelt-4h1v523",
+      "id": "gdelt-t6e43l0",
       "title": "Ministério Público volta a cobrar medidas de proteo a menores no Discord",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -426,7 +682,7 @@
       "lastChecked": 1788910213402
     },
     {
-      "id": "gdelt-imqaptr",
+      "id": "gdelt-1grjv0e",
       "title": "Presidente ultradireitista da Colômbia flexibiliza restrições para porte de armas",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -442,7 +698,7 @@
       "lastChecked": 1788910213402
     },
     {
-      "id": "gdelt-ub2owx6",
+      "id": "gdelt-kxwn2ju",
       "title": "MEs operam com mais de 20 contas bancárias e 60 % contrataram crédito em 12 meses , mostra pesquisa",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -458,7 +714,7 @@
       "lastChecked": 1788910213402
     },
     {
-      "id": "gdelt-atd7df4",
+      "id": "gdelt-4iljtnt",
       "title": "Fim da taxa das blusinhas exige corte de custos , diz CONAJE – CartaCapital",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -474,7 +730,7 @@
       "lastChecked": 1788910213402
     },
     {
-      "id": "gdelt-psyxqjy",
+      "id": "gdelt-hmlmyzn",
       "title": "O elétrico de Gotham – CartaCapital",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -490,7 +746,7 @@
       "lastChecked": 1788910213402
     },
     {
-      "id": "gdelt-v0eqpve",
+      "id": "gdelt-vvjqycq",
       "title": "Ladrões roubam quatro obras do Museu Renoir na França",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -506,7 +762,7 @@
       "lastChecked": 1788910213402
     },
     {
-      "id": "gdelt-aerf0wz",
+      "id": "gdelt-i40eori",
       "title": "Voo cego – CartaCapital",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -522,7 +778,7 @@
       "lastChecked": 1788910213402
     },
     {
-      "id": "gdelt-g9mzmg7",
+      "id": "gdelt-loezr16",
       "title": "Pacha Mama – CartaCapital",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -538,7 +794,7 @@
       "lastChecked": 1788910213402
     },
     {
-      "id": "gdelt-207msqa",
+      "id": "gdelt-fs5zse0",
       "title": "Quase empatada com Zema e Caiado , candidata quer estatizar bancos e a Vale – CartaCapital",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -554,7 +810,7 @@
       "lastChecked": 1788910213402
     },
     {
-      "id": "gdelt-vdryr57",
+      "id": "gdelt-ro034df",
       "title": "2ª Turma tem maioria para mandar afastar o diretor da PF , mas Gilmar pede vista",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -570,7 +826,7 @@
       "lastChecked": 1788910213402
     },
     {
-      "id": "gdelt-nf9c3yd",
+      "id": "gdelt-knz9xct",
       "title": "Ministros não podem usar o STF como escudo contra desvios individuais , diz Celso de Mello – CartaCapital",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -586,7 +842,7 @@
       "lastChecked": 1788910213402
     },
     {
-      "id": "gdelt-2rhfi29",
+      "id": "gdelt-khudhef",
       "title": "China endurece regras sobre IA contra deepfakes e clonagem de voz",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -602,7 +858,7 @@
       "lastChecked": 1788910213402
     },
     {
-      "id": "gdelt-cu898n5",
+      "id": "gdelt-5tez54a",
       "title": "Lula aparece à frente de Flávio Bolsonaro em MG , mostra pesquisa Atlas – CartaCapital",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -618,7 +874,55 @@
       "lastChecked": 1788910213402
     },
     {
-      "id": "gdelt-jpelb7w",
+      "id": "gdelt-lgohgqj",
+      "title": "A batalha no Peru para proteger do petróleo um rio amazônico",
+      "sourceName": "DW Brasil",
+      "sourceUrl": "https://www.dw.com/pt-br/",
+      "sourceType": "Imprensa Internacional / Pública",
+      "sourceEditorial": "Emissora pública da Alemanha; foco em diplomacia e direitos humanos",
+      "country": "Alemanha",
+      "paywall": false,
+      "originalUrl": "https://www.dw.com/pt-br/a-batalha-no-peru-para-proteger-do-petr%C3%B3leo-um-rio-amaz%C3%B4nico/a-79189387",
+      "publishedAtStr": "2026-09-08T19:00:00Z",
+      "publishedAtTs": 1788894000000,
+      "rawContent": "A batalha no Peru para proteger do petróleo um rio amazônico",
+      "linkStatus": "active",
+      "lastChecked": 1788911025483
+    },
+    {
+      "id": "gdelt-90sx33k",
+      "title": "2ª Turma do STF forma maioria para afastar chefe da PF",
+      "sourceName": "DW Brasil",
+      "sourceUrl": "https://www.dw.com/pt-br/",
+      "sourceType": "Imprensa Internacional / Pública",
+      "sourceEditorial": "Emissora pública da Alemanha; foco em diplomacia e direitos humanos",
+      "country": "Alemanha",
+      "paywall": false,
+      "originalUrl": "https://www.dw.com/pt-br/2%C2%AA-turma-do-stf-forma-maioria-para-afastar-chefe-da-pf/a-79188258",
+      "publishedAtStr": "2026-09-08T19:00:00Z",
+      "publishedAtTs": 1788894000000,
+      "rawContent": "2ª Turma do STF forma maioria para afastar chefe da PF",
+      "linkStatus": "active",
+      "lastChecked": 1788911025483
+    },
+    {
+      "id": "gdelt-umezmu3",
+      "title": "Biden diz que último tratamento contra câncer teve  efeito esperado  e que está terminando livro de memórias",
+      "sourceName": "G1 Mundo",
+      "sourceUrl": "https://g1.globo.com/mundo/",
+      "sourceType": "Imprensa Comercial Brasileira",
+      "sourceEditorial": "Portal de notícias mainstream do Grupo Globo",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://g1.globo.com/mundo/noticia/2026/09/08/biden-diz-que-ultimo-tratamento-contra-cancer-teve-efeito-esperado-e-que-esta-terminando-livro-de-memorias.ghtml",
+      "publishedAtStr": "2026-09-08T18:45:00Z",
+      "publishedAtTs": 1788893100000,
+      "rawContent": "Biden diz que último tratamento contra câncer teve  efeito esperado  e que está terminando livro de memórias",
+      "linkStatus": "active",
+      "lastChecked": 1788911025483
+    },
+    {
+      "id": "gdelt-l5sfkdr",
       "title": "Rubio inicia pela Colômbia viagem para reforçar influência dos EUA na América Latina",
       "sourceName": "Estadão Internacional",
       "sourceUrl": "https://www.estadao.com.br/internacional/",
@@ -634,7 +938,135 @@
       "lastChecked": 1788910213402
     },
     {
-      "id": "gdelt-rkad9qw",
+      "id": "gdelt-rstl6ci",
+      "title": "Segunda Turma do STF forma maioria para afastar diretor - geral da PF",
+      "sourceName": "Brasil de Fato",
+      "sourceUrl": "https://www.brasildefato.com.br/",
+      "sourceType": "Jornal / Movimentos Sociais",
+      "sourceEditorial": "Mídia popular focada em Direitos Humanos e Sul Global",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://www.brasildefato.com.br/2026/09/08/segunda-turma-do-stf-forma-maioria-para-afastar-diretor-geral-da-pf/",
+      "publishedAtStr": "2026-09-08T18:45:00Z",
+      "publishedAtTs": 1788893100000,
+      "rawContent": "Segunda Turma do STF forma maioria para afastar diretor - geral da PF",
+      "linkStatus": "active",
+      "lastChecked": 1788911025483
+    },
+    {
+      "id": "gdelt-siq5t5j",
+      "title": "Reino Unido anuncia veto a produtos de assentamentos ilegais na Cisjordânia e acusa Israel de  limpeza étnica",
+      "sourceName": "Brasil de Fato",
+      "sourceUrl": "https://www.brasildefato.com.br/",
+      "sourceType": "Jornal / Movimentos Sociais",
+      "sourceEditorial": "Mídia popular focada em Direitos Humanos e Sul Global",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://www.brasildefato.com.br/2026/09/08/reino-unido-anuncia-veto-a-produtos-de-assentamentos-ilegais-na-cisjordania-e-acusa-israel-de-limpeza-etnica/",
+      "publishedAtStr": "2026-09-08T18:45:00Z",
+      "publishedAtTs": 1788893100000,
+      "rawContent": "Reino Unido anuncia veto a produtos de assentamentos ilegais na Cisjordânia e acusa Israel de  limpeza étnica",
+      "linkStatus": "active",
+      "lastChecked": 1788911025483
+    },
+    {
+      "id": "gdelt-gzkm1o9",
+      "title": "Pisa : Brasil reduz diferença para países ricos no desempenho escolar",
+      "sourceName": "Brasil de Fato",
+      "sourceUrl": "https://www.brasildefato.com.br/",
+      "sourceType": "Jornal / Movimentos Sociais",
+      "sourceEditorial": "Mídia popular focada em Direitos Humanos e Sul Global",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://www.brasildefato.com.br/2026/09/08/pisa-brasil-reduz-diferenca-para-paises-ricos-no-desempenho-escolar/",
+      "publishedAtStr": "2026-09-08T18:45:00Z",
+      "publishedAtTs": 1788893100000,
+      "rawContent": "Pisa : Brasil reduz diferença para países ricos no desempenho escolar",
+      "linkStatus": "active",
+      "lastChecked": 1788911025483
+    },
+    {
+      "id": "gdelt-920u5aa",
+      "title": "Hungria expulsa dez diplomatas russos e Moscou promete resposta  dura",
+      "sourceName": "Brasil de Fato",
+      "sourceUrl": "https://www.brasildefato.com.br/",
+      "sourceType": "Jornal / Movimentos Sociais",
+      "sourceEditorial": "Mídia popular focada em Direitos Humanos e Sul Global",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://www.brasildefato.com.br/2026/09/08/hungria-expulsa-dez-diplomatas-russos-e-moscou-promete-resposta-dura/",
+      "publishedAtStr": "2026-09-08T18:45:00Z",
+      "publishedAtTs": 1788893100000,
+      "rawContent": "Hungria expulsa dez diplomatas russos e Moscou promete resposta  dura",
+      "linkStatus": "active",
+      "lastChecked": 1788911025483
+    },
+    {
+      "id": "gdelt-6ej7zsw",
+      "title": "Putin e Trump discutem resoluo da guerra da Ucrânia após visita de enviados dos EUA",
+      "sourceName": "Brasil de Fato",
+      "sourceUrl": "https://www.brasildefato.com.br/",
+      "sourceType": "Jornal / Movimentos Sociais",
+      "sourceEditorial": "Mídia popular focada em Direitos Humanos e Sul Global",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://www.brasildefato.com.br/2026/09/08/putin-e-trump-discutem-resolucao-da-guerra-da-ucrania-apos-visita-de-enviados-dos-eua/",
+      "publishedAtStr": "2026-09-08T18:45:00Z",
+      "publishedAtTs": 1788893100000,
+      "rawContent": "Putin e Trump discutem resoluo da guerra da Ucrânia após visita de enviados dos EUA",
+      "linkStatus": "active",
+      "lastChecked": 1788911025483
+    },
+    {
+      "id": "gdelt-zzuf35f",
+      "title": "Até que ponto os EUA já entraram na eleio brasileira ? Confira live exclusiva do Clube de Membros do BdF",
+      "sourceName": "Brasil de Fato",
+      "sourceUrl": "https://www.brasildefato.com.br/",
+      "sourceType": "Jornal / Movimentos Sociais",
+      "sourceEditorial": "Mídia popular focada em Direitos Humanos e Sul Global",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://www.brasildefato.com.br/2026/09/08/ate-que-ponto-os-eua-ja-entraram-na-eleicao-brasileira-confira-live-exclusiva-do-clube-de-membros-do-bdf/",
+      "publishedAtStr": "2026-09-08T18:45:00Z",
+      "publishedAtTs": 1788893100000,
+      "rawContent": "Até que ponto os EUA já entraram na eleio brasileira ? Confira live exclusiva do Clube de Membros do BdF",
+      "linkStatus": "active",
+      "lastChecked": 1788911025483
+    },
+    {
+      "id": "gdelt-tngvr08",
+      "title": "Eleições 2026 : história , programa e lutas da classe trabalhadora",
+      "sourceName": "Brasil de Fato",
+      "sourceUrl": "https://www.brasildefato.com.br/",
+      "sourceType": "Jornal / Movimentos Sociais",
+      "sourceEditorial": "Mídia popular focada em Direitos Humanos e Sul Global",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://www.brasildefato.com.br/colunista/movimento-de-trabalhadoras-e-trabalhadores-por-direitos/2026/09/08/eleicoes-2026-historia-programa-e-lutas-da-classe-trabalhadora/",
+      "publishedAtStr": "2026-09-08T18:45:00Z",
+      "publishedAtTs": 1788893100000,
+      "rawContent": "Eleições 2026 : história , programa e lutas da classe trabalhadora",
+      "linkStatus": "active",
+      "lastChecked": 1788911025483
+    },
+    {
+      "id": "gdelt-9e8qpfr",
+      "title": "Malafaia é muito midiático e distante da realidade dos pastores , diz membro de Frente Evangélica",
+      "sourceName": "Brasil de Fato",
+      "sourceUrl": "https://www.brasildefato.com.br/",
+      "sourceType": "Jornal / Movimentos Sociais",
+      "sourceEditorial": "Mídia popular focada em Direitos Humanos e Sul Global",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://www.brasildefato.com.br/podcast/bem-viver/2026/09/08/malafaia-e-muito-midiatico-e-distante-da-realidade-dos-pastores-diz-membro-de-frente-evangelica/",
+      "publishedAtStr": "2026-09-08T18:45:00Z",
+      "publishedAtTs": 1788893100000,
+      "rawContent": "Malafaia é muito midiático e distante da realidade dos pastores , diz membro de Frente Evangélica",
+      "linkStatus": "active",
+      "lastChecked": 1788911025483
+    },
+    {
+      "id": "gdelt-qvjp3ab",
       "title": "Lula se reúne com ministros para discutir afastamento de Andrei Rodrigues da PF",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -650,7 +1082,7 @@
       "lastChecked": 1788910213402
     },
     {
-      "id": "gdelt-15y2d48",
+      "id": "gdelt-7hcuy66",
       "title": "TSE proíbe propaganda e uso de adesivos de candidatos em carros de app nas eleições",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -662,11 +1094,11 @@
       "publishedAtStr": "2026-09-08T18:15:00Z",
       "publishedAtTs": 1788891300000,
       "rawContent": "TSE proíbe propaganda e uso de adesivos de candidatos em carros de app nas eleições",
-      "linkStatus": "unknown",
-      "lastChecked": null
+      "linkStatus": "active",
+      "lastChecked": 1788911025483
     },
     {
-      "id": "gdelt-ul8v51d",
+      "id": "gdelt-xg9xel4",
       "title": "Por que a Anthropic teria desistido da compra da Decart por US$ 6 bilhões ?",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -678,11 +1110,11 @@
       "publishedAtStr": "2026-09-08T18:15:00Z",
       "publishedAtTs": 1788891300000,
       "rawContent": "Por que a Anthropic teria desistido da compra da Decart por US$ 6 bilhões ?",
-      "linkStatus": "unknown",
-      "lastChecked": null
+      "linkStatus": "active",
+      "lastChecked": 1788911025483
     },
     {
-      "id": "gdelt-3662ft1",
+      "id": "gdelt-yjhzhsh",
       "title": "Andrei Rodrigues desiste de participar de evento da PF e é defendido por nº 2",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -694,11 +1126,11 @@
       "publishedAtStr": "2026-09-08T18:15:00Z",
       "publishedAtTs": 1788891300000,
       "rawContent": "Andrei Rodrigues desiste de participar de evento da PF e é defendido por nº 2",
-      "linkStatus": "unknown",
-      "lastChecked": null
+      "linkStatus": "active",
+      "lastChecked": 1788911025483
     },
     {
-      "id": "gdelt-yg6huqj",
+      "id": "gdelt-hffz8ak",
       "title": "Qualcomm conquista Amazon em disputa por chips de IA e fecha acordo de longo prazo",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -710,11 +1142,11 @@
       "publishedAtStr": "2026-09-08T18:15:00Z",
       "publishedAtTs": 1788891300000,
       "rawContent": "Qualcomm conquista Amazon em disputa por chips de IA e fecha acordo de longo prazo",
-      "linkStatus": "unknown",
-      "lastChecked": null
+      "linkStatus": "active",
+      "lastChecked": 1788911025483
     },
     {
-      "id": "gdelt-n4x4yit",
+      "id": "gdelt-8sat2z3",
       "title": "Os 5 recados de Mendonça a Moraes na decisão de afastar o diretor - geral da PF",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -726,11 +1158,11 @@
       "publishedAtStr": "2026-09-08T18:15:00Z",
       "publishedAtTs": 1788891300000,
       "rawContent": "Os 5 recados de Mendonça a Moraes na decisão de afastar o diretor - geral da PF",
-      "linkStatus": "unknown",
-      "lastChecked": null
+      "linkStatus": "active",
+      "lastChecked": 1788911025483
     },
     {
-      "id": "gdelt-45ayavx",
+      "id": "gdelt-73jr8io",
       "title": "Índice de preços ao consumidor nos países da OCDE tem alta anual de 4 , 1 % em julho",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -742,11 +1174,11 @@
       "publishedAtStr": "2026-09-08T18:15:00Z",
       "publishedAtTs": 1788891300000,
       "rawContent": "Índice de preços ao consumidor nos países da OCDE tem alta anual de 4 , 1 % em julho",
-      "linkStatus": "unknown",
-      "lastChecked": null
+      "linkStatus": "active",
+      "lastChecked": 1788911025483
     },
     {
-      "id": "gdelt-9y6irgr",
+      "id": "gdelt-097zw2t",
       "title": "Negociação de paz não avança e aliados já preveem guerra na Ucrânia até 2027",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -758,11 +1190,11 @@
       "publishedAtStr": "2026-09-08T18:15:00Z",
       "publishedAtTs": 1788891300000,
       "rawContent": "Negociação de paz não avança e aliados já preveem guerra na Ucrânia até 2027",
-      "linkStatus": "unknown",
-      "lastChecked": null
+      "linkStatus": "active",
+      "lastChecked": 1788911025483
     },
     {
-      "id": "gdelt-mcm4vrt",
+      "id": "gdelt-jik1331",
       "title": "Foco da decisão de Mendonça , relatório da PF admitia que não ter  valor probatório",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -774,11 +1206,11 @@
       "publishedAtStr": "2026-09-08T18:15:00Z",
       "publishedAtTs": 1788891300000,
       "rawContent": "Foco da decisão de Mendonça , relatório da PF admitia que não ter  valor probatório",
-      "linkStatus": "unknown",
-      "lastChecked": null
+      "linkStatus": "active",
+      "lastChecked": 1788911025483
     },
     {
-      "id": "gdelt-jxrguas",
+      "id": "gdelt-7u71pqf",
       "title": "UE e Canadá negociam parceria mais ampla para reforçar laços em comércio e segurança",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -790,11 +1222,11 @@
       "publishedAtStr": "2026-09-08T18:15:00Z",
       "publishedAtTs": 1788891300000,
       "rawContent": "UE e Canadá negociam parceria mais ampla para reforçar laços em comércio e segurança",
-      "linkStatus": "unknown",
-      "lastChecked": null
+      "linkStatus": "active",
+      "lastChecked": 1788911025483
     },
     {
-      "id": "gdelt-78cbz41",
+      "id": "gdelt-xl5obpq",
       "title": "AGU vê possível invasão de competência de Lula em afastamento do chefe da PF",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -806,11 +1238,11 @@
       "publishedAtStr": "2026-09-08T18:15:00Z",
       "publishedAtTs": 1788891300000,
       "rawContent": "AGU vê possível invasão de competência de Lula em afastamento do chefe da PF",
-      "linkStatus": "unknown",
-      "lastChecked": null
+      "linkStatus": "active",
+      "lastChecked": 1788911025483
     },
     {
-      "id": "gdelt-liwij1m",
+      "id": "gdelt-ajglzgb",
       "title": "Boeing tem queda nas entregas em agosto",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -822,11 +1254,11 @@
       "publishedAtStr": "2026-09-08T18:15:00Z",
       "publishedAtTs": 1788891300000,
       "rawContent": "Boeing tem queda nas entregas em agosto",
-      "linkStatus": "unknown",
-      "lastChecked": null
+      "linkStatus": "active",
+      "lastChecked": 1788911025483
     },
     {
-      "id": "gdelt-zt541i4",
+      "id": "gdelt-ty7wr3a",
       "title": "Expectativas de inflação nos EUA de 1 e 5 anos ficam estáveis , mostra Fed de NY",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -838,11 +1270,11 @@
       "publishedAtStr": "2026-09-08T18:15:00Z",
       "publishedAtTs": 1788891300000,
       "rawContent": "Expectativas de inflação nos EUA de 1 e 5 anos ficam estáveis , mostra Fed de NY",
-      "linkStatus": "unknown",
-      "lastChecked": null
+      "linkStatus": "active",
+      "lastChecked": 1788911025483
     },
     {
-      "id": "gdelt-vxkjnwa",
+      "id": "gdelt-noeofiq",
       "title": "Fundo imobiliário cancela venda de imóvel em SP e prevê vacância de 11 % no portfólio",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -854,11 +1286,11 @@
       "publishedAtStr": "2026-09-08T18:15:00Z",
       "publishedAtTs": 1788891300000,
       "rawContent": "Fundo imobiliário cancela venda de imóvel em SP e prevê vacância de 11 % no portfólio",
-      "linkStatus": "unknown",
-      "lastChecked": null
+      "linkStatus": "active",
+      "lastChecked": 1788911025483
     },
     {
-      "id": "gdelt-2tdvlsw",
+      "id": "gdelt-68xv9k7",
       "title": "Bolsas da Europa fecham sem direo com petróleo em alta",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -874,7 +1306,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-15bn7b6",
+      "id": "gdelt-6fhgatf",
       "title": "Decisão de Mendonça expõe racha no STF e abre debate sobre imparcialidade",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -890,7 +1322,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-uas0s3n",
+      "id": "gdelt-3veazc9",
       "title": "Mercado se anima com eleições e aumenta aposta em ativos brasileiros , que disparam",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -906,7 +1338,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-0w0d5r0",
+      "id": "gdelt-zy4hte7",
       "title": "Cuidar sem limitar : como preservar a autonomia e a independência dos idosos",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -922,7 +1354,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-j8h8opi",
+      "id": "gdelt-383lp2l",
       "title": "Reino Unido anuncia emenda para reinstituir sanções contra o Irã por  aes hostis",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -938,7 +1370,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-2p7wmqw",
+      "id": "gdelt-59huy8w",
       "title": "Ministro de Lula diz que decisão de Mendonça sobre Andrei  cheira como eleitoral",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -954,7 +1386,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-9mpbylq",
+      "id": "gdelt-cm5vy2y",
       "title": "Aes brasileiras têm recomendação elevada por banco gringo ; Selic a 11 , 25 % é gatilho",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -970,7 +1402,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-kbx5844",
+      "id": "gdelt-or2xa1b",
       "title": "Suspensões no Estreito de Ormuz afetam mais pequenas empresas , alerta agência da ONU",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -986,7 +1418,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-5z72cv0",
+      "id": "gdelt-glgdfw4",
       "title": "VALE3 : Por que aes da Vale sobem nesta terça ?",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -1002,7 +1434,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-x1hgd7l",
+      "id": "gdelt-y0gzae3",
       "title": "Tarifas de até 50 % do Canadá sobre produtos dos EUA entram em vigor",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -1018,7 +1450,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-sr53azc",
+      "id": "gdelt-7sr7iyp",
       "title": "Com demanda de motores em alta , GE Aerospace compra CPP por US$ 11 , 75 bi",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -1034,7 +1466,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-zthf3qc",
+      "id": "gdelt-m2r6zja",
       "title": "Petrobras ( PETR4 ) deve retomar perfuração na Margem Equatorial na próxima semana",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -1050,7 +1482,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-db69azl",
+      "id": "gdelt-53tj7ha",
       "title": "Zema comemora pedido do Novo que embasou decisão contra diretor - geral da PF",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -1066,7 +1498,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-45ndalq",
+      "id": "gdelt-c2axmb0",
       "title": "Mentorias , networking e acesso a fundadores e CEOs : o que esperar da B55 Conference",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -1082,7 +1514,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-i9a54b4",
+      "id": "gdelt-npc8pyd",
       "title": "Vale a pena travar juro da renda fixa agora ? IPCA desta sexta vira teste de fogo",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -1098,7 +1530,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-1v39zcz",
+      "id": "gdelt-obxlu83",
       "title": "Ex - presidente dos banqueiros suos é condenado por esquema de propinas de US$ 101 mi",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -1114,7 +1546,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-gi2tryh",
+      "id": "gdelt-9h8tnva",
       "title": "Após uma década de desenvolvimento , Apple lança iPhone dobrável de mais de US$ 2 . 000",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -1130,7 +1562,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-my96j52",
+      "id": "gdelt-fiminpz",
       "title": "Novo golpe altera QR Code do Pix e desvia dinheiro de compras on - line",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -1146,7 +1578,55 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-ljr9t48",
+      "id": "gdelt-7aer3rw",
+      "title": "Rússia retalia Alemanha e fecha consulado em São Petersburgo",
+      "sourceName": "DW Brasil",
+      "sourceUrl": "https://www.dw.com/pt-br/",
+      "sourceType": "Imprensa Internacional / Pública",
+      "sourceEditorial": "Emissora pública da Alemanha; foco em diplomacia e direitos humanos",
+      "country": "Alemanha",
+      "paywall": false,
+      "originalUrl": "https://www.dw.com/pt-br/r%C3%BAssia-retalia-alemanha-e-fecha-consulado-em-s%C3%A3o-petersburgo/a-79152601",
+      "publishedAtStr": "2026-09-08T14:30:00Z",
+      "publishedAtTs": 1788877800000,
+      "rawContent": "Rússia retalia Alemanha e fecha consulado em São Petersburgo",
+      "linkStatus": "unknown",
+      "lastChecked": null
+    },
+    {
+      "id": "gdelt-6zio0ud",
+      "title": "André Mendonça determina afastamento de diretor - geral da PF",
+      "sourceName": "DW Brasil",
+      "sourceUrl": "https://www.dw.com/pt-br/",
+      "sourceType": "Imprensa Internacional / Pública",
+      "sourceEditorial": "Emissora pública da Alemanha; foco em diplomacia e direitos humanos",
+      "country": "Alemanha",
+      "paywall": false,
+      "originalUrl": "https://www.dw.com/pt-br/andr%C3%A9-mendon%C3%A7a-determina-afastamento-de-diretor-geral-da-pf/a-79188258",
+      "publishedAtStr": "2026-09-08T14:30:00Z",
+      "publishedAtTs": 1788877800000,
+      "rawContent": "André Mendonça determina afastamento de diretor - geral da PF",
+      "linkStatus": "unknown",
+      "lastChecked": null
+    },
+    {
+      "id": "gdelt-8qh24et",
+      "title": "Uniforme espacial de Trump gera comparao com farda nazista",
+      "sourceName": "DW Brasil",
+      "sourceUrl": "https://www.dw.com/pt-br/",
+      "sourceType": "Imprensa Internacional / Pública",
+      "sourceEditorial": "Emissora pública da Alemanha; foco em diplomacia e direitos humanos",
+      "country": "Alemanha",
+      "paywall": false,
+      "originalUrl": "https://www.dw.com/pt-br/uniforme-espacial-de-trump-gera-compara%C3%A7%C3%A3o-com-farda-nazista/a-79158758",
+      "publishedAtStr": "2026-09-08T14:30:00Z",
+      "publishedAtTs": 1788877800000,
+      "rawContent": "Uniforme espacial de Trump gera comparao com farda nazista",
+      "linkStatus": "unknown",
+      "lastChecked": null
+    },
+    {
+      "id": "gdelt-je6e9wb",
       "title": "Em carta a Fachin , ministros aposentados pedem apuração rigorosa de crise no STF",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -1162,7 +1642,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-r6vn1un",
+      "id": "gdelt-drpxihd",
       "title": "Quem é Andrei Rodrigues , diretor da PF afastado por André Mendonça",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -1178,7 +1658,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-45tvv5w",
+      "id": "gdelt-oaiik0p",
       "title": "Pisa : Brasil reduz diferença para países ricos no desempenho escolar",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -1194,7 +1674,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-mv1md7l",
+      "id": "gdelt-c0w3376",
       "title": "Exportações da China saltam com demanda por alta tecnologia e inteligência artificial",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -1210,7 +1690,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-lcmlygq",
+      "id": "gdelt-2fgbm4p",
       "title": "IRB , CVC , GPS , Vibra , CPFL e mais aes para acompanhar hoje",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -1226,7 +1706,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-jm3jvfi",
+      "id": "gdelt-tgicaks",
       "title": "Minério de ferro amplia ganhos em meio à queda nos embarques",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -1242,7 +1722,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-ajgsce1",
+      "id": "gdelt-zyhofzg",
       "title": "Ibovespa está esticado ? Bitcoin pode buscar US$ 100 mil ? Veja os próximos níveis",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -1258,7 +1738,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-ihxguyf",
+      "id": "gdelt-hylft6m",
       "title": "Ibovespa Futuro sobe com pesquisas eleitorais no foco ; petróleo se aproxima de US$100",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -1274,7 +1754,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-wyic6jr",
+      "id": "gdelt-q8vs7hj",
       "title": "Menos da metade dos adolescentes sabe interpretar texto no Brasil , indica Pisa",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -1290,7 +1770,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-87hbdm6",
+      "id": "gdelt-yo3d7pe",
       "title": "Argentina investigará empresas por projetos petrolíferos perto das Ilhas Malvinas",
       "sourceName": "Estadão Internacional",
       "sourceUrl": "https://www.estadao.com.br/internacional/",
@@ -1306,7 +1786,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-yvn98t5",
+      "id": "gdelt-myq1fju",
       "title": "Presidente da OAB pede transparência e cobra resposta do STF em meio a crise na Corte",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -1322,7 +1802,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-m9xlvpv",
+      "id": "gdelt-vwwfxaa",
       "title": "Sabesp ( SBSP3 ) tem preço - alvo elevado pelo JPMorgan após reunião com CFO ; ao sobe",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -1338,7 +1818,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-wzmub4p",
+      "id": "gdelt-0g6sbci",
       "title": "Frio e terras baratas : Como a Patagônia pode virar a bola da vez dos data centers ?",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -1354,7 +1834,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-t5qlkvc",
+      "id": "gdelt-nyfchpq",
       "title": "Islândia convoca embaixador dos EUA após mapa publicado por Trump",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -1370,7 +1850,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-nsy5qi7",
+      "id": "gdelt-o49m686",
       "title": "Líder mais bem pago do mundo terá aumento de 60 % e vai doar tudo",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -1386,7 +1866,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-px0as0u",
+      "id": "gdelt-394fmbs",
       "title": "Caso Vorcaro - Moraes : o que falta para STF decidir se abre investigação",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -1402,7 +1882,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-7nrix97",
+      "id": "gdelt-jxmf0af",
       "title": "Importações de minério de ferro pela China superam expectativas em agosto",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -1418,7 +1898,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-gi1kxdq",
+      "id": "gdelt-av78zy8",
       "title": "Houthis atacam instalações energéticas sauditas e preços do petróleo sobem",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -1434,7 +1914,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-gkf8g99",
+      "id": "gdelt-c57x7qg",
       "title": "Prompts para entender conceitos complexos : 4 formas de usar a IA",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -1450,7 +1930,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-xlgrwaj",
+      "id": "gdelt-4dhxf7i",
       "title": "Dólar cai a R$ 5 , 10 após pesquisas mostrarem disputa acirrada entre Lula e Flávio",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -1466,7 +1946,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-wfnyphp",
+      "id": "gdelt-iphufdw",
       "title": "Após afastamento , Mendonça manda PF abrir investigação contra Andrei Rodrigues",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -1482,7 +1962,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-o7ycadm",
+      "id": "gdelt-2vvick2",
       "title": "4 prompts para usar IA em viagens internacionais",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -1498,7 +1978,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-sfr2jpy",
+      "id": "gdelt-p904jjh",
       "title": "Mendonça diz que relatório citado por Moraes prejudicou investigações do caso Master",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -1514,7 +1994,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-zw3a07n",
+      "id": "gdelt-htg6e7r",
       "title": "Minidólar ( WDOV26 ) busca recuperao ; veja os pontos técnicos do dia",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -1530,7 +2010,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-cs0ji5s",
+      "id": "gdelt-m3yrqxx",
       "title": "Volkswagen vai converter uma fábrica na Alemanha para equipamentos de defesa",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -1546,7 +2026,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-thvm2gc",
+      "id": "gdelt-kwfaqfa",
       "title": "Não tem dinheiro para todo mundo : onde estão as oportunidades na crise de crédito",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -1562,7 +2042,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-4cl97jy",
+      "id": "gdelt-p79mxai",
       "title": "Caso Master : Mendonça determina afastamento do diretor - geral da PF Andrei Rodrigues",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -1578,7 +2058,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-3tt6t2q",
+      "id": "gdelt-kcifod5",
       "title": "Islândia convoca embaixador americano após Trump publicar mapa que mostra país como parte dos EUA",
       "sourceName": "Estadão Internacional",
       "sourceUrl": "https://www.estadao.com.br/internacional/",
@@ -1594,7 +2074,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-jyrw5ra",
+      "id": "gdelt-qp6fb01",
       "title": "ASML e TSMC assinam acordo para desenvolver fotomáscaras para fabricação de chips",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -1610,7 +2090,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-mgadpe6",
+      "id": "gdelt-pqo8gqu",
       "title": "Ibovespa abre com alta de 1 , 5 % e sobe acima dos 188 mil pontos",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -1626,7 +2106,87 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-x4c3v7o",
+      "id": "gdelt-k1z8rec",
+      "title": "Proposta sobre facções de Flávio Bolsonaro contraria candidatos do próprio PL e especialistas",
+      "sourceName": "Brasil de Fato",
+      "sourceUrl": "https://www.brasildefato.com.br/",
+      "sourceType": "Jornal / Movimentos Sociais",
+      "sourceEditorial": "Mídia popular focada em Direitos Humanos e Sul Global",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://www.brasildefato.com.br/2026/09/08/proposta-sobre-faccoes-de-flavio-bolsonaro-contraria-candidatos-do-proprio-pl-e-especialistas/",
+      "publishedAtStr": "2026-09-08T14:30:00Z",
+      "publishedAtTs": 1788877800000,
+      "rawContent": "Proposta sobre facções de Flávio Bolsonaro contraria candidatos do próprio PL e especialistas",
+      "linkStatus": "unknown",
+      "lastChecked": null
+    },
+    {
+      "id": "gdelt-oe24t7g",
+      "title": "Britânico de 68 anos perde aposentadoria e fica sem teto na Tailândia após cair em golpe amoroso",
+      "sourceName": "O Globo Mundo",
+      "sourceUrl": "https://oglobo.globo.com/mundo/",
+      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
+      "sourceEditorial": "Jornal diário (Grupo Globo) - Conteúdo sob assinatura",
+      "country": "Brasil",
+      "paywall": true,
+      "originalUrl": "https://oglobo.globo.com/mundo/epoca/noticia/2026/09/08/britanico-de-68-anos-perde-aposentadoria-e-fica-sem-teto-na-tailandia-apos-cair-em-golpe-amoroso.ghtml",
+      "publishedAtStr": "2026-09-08T07:45:00Z",
+      "publishedAtTs": 1788853500000,
+      "rawContent": "Britânico de 68 anos perde aposentadoria e fica sem teto na Tailândia após cair em golpe amoroso",
+      "linkStatus": "unknown",
+      "lastChecked": null
+    },
+    {
+      "id": "gdelt-cad8z3p",
+      "title": "Houthis atacam instalações de energia na Arábia Saudita e anunciam escalada do conflito",
+      "sourceName": "G1 Mundo",
+      "sourceUrl": "https://g1.globo.com/mundo/",
+      "sourceType": "Imprensa Comercial Brasileira",
+      "sourceEditorial": "Portal de notícias mainstream do Grupo Globo",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://g1.globo.com/mundo/noticia/2026/09/08/houthis-atacam-instalacoes-de-energia-na-arabia-saudita-e-anunciam-escalada-do-conflito.ghtml",
+      "publishedAtStr": "2026-09-08T07:15:00Z",
+      "publishedAtTs": 1788851700000,
+      "rawContent": "Houthis atacam instalações de energia na Arábia Saudita e anunciam escalada do conflito",
+      "linkStatus": "unknown",
+      "lastChecked": null
+    },
+    {
+      "id": "gdelt-vfl9i9t",
+      "title": "Avião de pequeno porte bate em rede elétrica e cai em avenida na Flórida ; piloto morre",
+      "sourceName": "O Globo Mundo",
+      "sourceUrl": "https://oglobo.globo.com/mundo/",
+      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
+      "sourceEditorial": "Jornal diário (Grupo Globo) - Conteúdo sob assinatura",
+      "country": "Brasil",
+      "paywall": true,
+      "originalUrl": "https://oglobo.globo.com/mundo/noticia/2026/09/07/aviao-de-pequeno-porte-bate-em-rede-eletrica-e-cai-em-avenida-na-florida-piloto-morre.ghtml",
+      "publishedAtStr": "2026-09-08T03:00:00Z",
+      "publishedAtTs": 1788836400000,
+      "rawContent": "Avião de pequeno porte bate em rede elétrica e cai em avenida na Flórida ; piloto morre",
+      "linkStatus": "unknown",
+      "lastChecked": null
+    },
+    {
+      "id": "gdelt-brrfsoc",
+      "title": "Alemanha contesta as acusações de genocídio em Gaza na Corte da ONU",
+      "sourceName": "G1 Mundo",
+      "sourceUrl": "https://g1.globo.com/mundo/",
+      "sourceType": "Imprensa Comercial Brasileira",
+      "sourceEditorial": "Portal de notícias mainstream do Grupo Globo",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://g1.globo.com/mundo/noticia/2026/09/07/alemanha-contesta-as-acusacoes-de-genocidio-em-gaza-na-corte-da-onu.ghtml",
+      "publishedAtStr": "2026-09-08T01:30:00Z",
+      "publishedAtTs": 1788831000000,
+      "rawContent": "Alemanha contesta as acusações de genocídio em Gaza na Corte da ONU",
+      "linkStatus": "unknown",
+      "lastChecked": null
+    },
+    {
+      "id": "gdelt-9ovwu6i",
       "title": "Quaest : desaprovação de Lula sobe a 50 % e aprovação cai para 43 %",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -1642,7 +2202,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-8ujpvzr",
+      "id": "gdelt-nk5nfvm",
       "title": "Quaest : vantagem de Lula some e 2º turno com Flávio fica em 41 % a 41 %",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -1658,7 +2218,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-flrboon",
+      "id": "gdelt-gs0g7uj",
       "title": "Flávio associa Lula a Moraes e diz que pretende acabar com  consórcio  entre os dois",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -1674,7 +2234,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-axdb80x",
+      "id": "gdelt-i0yd23t",
       "title": "Quaest : Lula tem 36 % e Flávio , 29 % no primeiro turno , a menos de um mês do 1º turno",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -1690,7 +2250,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-hgvgx1i",
+      "id": "gdelt-kzyow1q",
       "title": "Quanto custa comer no Rock in Rio ? Veja quais são as opções e os preços no festival",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -1706,7 +2266,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-pgglpyb",
+      "id": "gdelt-eom7e3v",
       "title": "Novas regras do Campo de Marte ampliam restrições a prédios em SP ; o que muda ?",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -1722,7 +2282,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-7ng2fdm",
+      "id": "gdelt-eqpcv25",
       "title": "Aes da Novartis despencam após remédio para colesterol fracassar em estudo",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -1738,7 +2298,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-man2nzo",
+      "id": "gdelt-763xq3n",
       "title": "Para quem tentar interferir nas eleições , digo que não vai dar certo , afirma Flávio",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -1754,7 +2314,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-6qwtrym",
+      "id": "gdelt-fzcvnff",
       "title": "Tarcísio diz que ninguém está acima da Constituio :  Precisamos de respostas",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -1770,7 +2330,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-yqmvy0j",
+      "id": "gdelt-1drj00v",
       "title": "Quaest : rejeio de Lula fica em 53 %; a de Flávio sobe para 55 %",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -1786,7 +2346,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-egzuaw5",
+      "id": "gdelt-z6dxt20",
       "title": "Valdemar Costa Neto : com Flávio eleito , Bolsonaro estará com a gente no dia seguinte",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -1802,7 +2362,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-n0qs1cw",
+      "id": "gdelt-7ocrxz7",
       "title": "Entregas de aeronaves da Airbus aumentam 9 % no ano até agosto",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -1818,7 +2378,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-4mj6lsh",
+      "id": "gdelt-ygtmla8",
       "title": "Quer morar de graça na Califórnia ? Vaga oferece casa em farol histórico",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -1834,7 +2394,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-z702b1y",
+      "id": "gdelt-9lh1hsk",
       "title": "Monitor da USP estima 28 , 5 mil pessoas em ato de Flávio Bolsonaro na Avenida Paulista",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -1846,6 +2406,102 @@
       "publishedAtStr": "2026-09-08T00:30:00Z",
       "publishedAtTs": 1788827400000,
       "rawContent": "Monitor da USP estima 28 , 5 mil pessoas em ato de Flávio Bolsonaro na Avenida Paulista",
+      "linkStatus": "unknown",
+      "lastChecked": null
+    },
+    {
+      "id": "gdelt-xqup0g6",
+      "title": "Grito dos Excluídos defende soberania na eleio e vida das mulheres no Distrito Federal",
+      "sourceName": "Brasil de Fato",
+      "sourceUrl": "https://www.brasildefato.com.br/",
+      "sourceType": "Jornal / Movimentos Sociais",
+      "sourceEditorial": "Mídia popular focada em Direitos Humanos e Sul Global",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://www.brasildefato.com.br/2026/09/07/grito-dos-excluidos-defende-soberania-na-eleicao-e-vida-das-mulheres-no-distrito-federal/",
+      "publishedAtStr": "2026-09-07T23:45:00Z",
+      "publishedAtTs": 1788824700000,
+      "rawContent": "Grito dos Excluídos defende soberania na eleio e vida das mulheres no Distrito Federal",
+      "linkStatus": "unknown",
+      "lastChecked": null
+    },
+    {
+      "id": "gdelt-ilhg6mg",
+      "title": "China endurece regras e responsabiliza criadores de deepfakes e clones de voz sem consentimento",
+      "sourceName": "Brasil de Fato",
+      "sourceUrl": "https://www.brasildefato.com.br/",
+      "sourceType": "Jornal / Movimentos Sociais",
+      "sourceEditorial": "Mídia popular focada em Direitos Humanos e Sul Global",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://www.brasildefato.com.br/2026/09/07/china-endurece-regras-e-responsabiliza-criadores-de-deepfakes-e-clones-de-voz-sem-consentimento/",
+      "publishedAtStr": "2026-09-07T23:45:00Z",
+      "publishedAtTs": 1788824700000,
+      "rawContent": "China endurece regras e responsabiliza criadores de deepfakes e clones de voz sem consentimento",
+      "linkStatus": "unknown",
+      "lastChecked": null
+    },
+    {
+      "id": "gdelt-jk8cyzm",
+      "title": "7 de setembro na Paulista : Flávio tenta se descolar de Vorcaro em ato com símbolos dos EUA e manifestantes pedindo interveno de Trump",
+      "sourceName": "Brasil de Fato",
+      "sourceUrl": "https://www.brasildefato.com.br/",
+      "sourceType": "Jornal / Movimentos Sociais",
+      "sourceEditorial": "Mídia popular focada em Direitos Humanos e Sul Global",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://www.brasildefato.com.br/2026/09/07/7-de-setembro-na-paulista-flavio-tenta-se-descolar-de-vorcaro-em-ato-com-simbolos-dos-eua-e-manifestantes-pedindo-intervencao-de-trump/",
+      "publishedAtStr": "2026-09-07T23:45:00Z",
+      "publishedAtTs": 1788824700000,
+      "rawContent": "7 de setembro na Paulista : Flávio tenta se descolar de Vorcaro em ato com símbolos dos EUA e manifestantes pedindo interveno de Trump",
+      "linkStatus": "unknown",
+      "lastChecked": null
+    },
+    {
+      "id": "gdelt-bjf0hzl",
+      "title": "Soberania se torna tema fulcral nas eleie , diz cientista política sobre discurso de Lula",
+      "sourceName": "Brasil de Fato",
+      "sourceUrl": "https://www.brasildefato.com.br/",
+      "sourceType": "Jornal / Movimentos Sociais",
+      "sourceEditorial": "Mídia popular focada em Direitos Humanos e Sul Global",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://www.brasildefato.com.br/2026/09/07/soberania-se-torna-tema-fulcral-nas-eleicoes-diz-cientista-politica-sobre-discurso-de-lula/",
+      "publishedAtStr": "2026-09-07T23:45:00Z",
+      "publishedAtTs": 1788824700000,
+      "rawContent": "Soberania se torna tema fulcral nas eleie , diz cientista política sobre discurso de Lula",
+      "linkStatus": "unknown",
+      "lastChecked": null
+    },
+    {
+      "id": "gdelt-lefm7ru",
+      "title": "32º Grito dos Excluídos e Excluídas une moradia , terra e vida das mulheres nas ruas de Porto Alegre",
+      "sourceName": "Brasil de Fato",
+      "sourceUrl": "https://www.brasildefato.com.br/",
+      "sourceType": "Jornal / Movimentos Sociais",
+      "sourceEditorial": "Mídia popular focada em Direitos Humanos e Sul Global",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://www.brasildefato.com.br/2026/09/07/32o-grito-dos-excluidos-e-excluidas-une-moradia-terra-e-vida-das-mulheres-nas-ruas-de-porto-alegre/",
+      "publishedAtStr": "2026-09-07T23:45:00Z",
+      "publishedAtTs": 1788824700000,
+      "rawContent": "32º Grito dos Excluídos e Excluídas une moradia , terra e vida das mulheres nas ruas de Porto Alegre",
+      "linkStatus": "unknown",
+      "lastChecked": null
+    },
+    {
+      "id": "gdelt-5zsy0sv",
+      "title": "China atualiza para 43 mortos pelo desastre na fronteira com Nepal e centenas seguem desaparecidos",
+      "sourceName": "Brasil de Fato",
+      "sourceUrl": "https://www.brasildefato.com.br/",
+      "sourceType": "Jornal / Movimentos Sociais",
+      "sourceEditorial": "Mídia popular focada em Direitos Humanos e Sul Global",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://www.brasildefato.com.br/2026/09/07/china-atualiza-para-43-mortos-pelo-desastre-na-fronteira-com-nepal-e-centenas-seguem-desaparecidos/",
+      "publishedAtStr": "2026-09-07T23:45:00Z",
+      "publishedAtTs": 1788824700000,
+      "rawContent": "China atualiza para 43 mortos pelo desastre na fronteira com Nepal e centenas seguem desaparecidos",
       "linkStatus": "unknown",
       "lastChecked": null
     }
