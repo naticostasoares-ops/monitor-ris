@@ -1,16 +1,32 @@
 {
-  "updatedAt": "2026-09-09T18:19:24.401Z",
+  "updatedAt": "2026-09-09T18:38:06.785Z",
   "periodUsed": "24h",
-  "count": 44,
+  "count": 45,
   "linkVerificationStats": {
-    "checkedThisRun": 0,
-    "active": 0,
+    "checkedThisRun": 1,
+    "active": 1,
     "broken": 0,
     "unknown": 0
   },
   "articles": [
     {
-      "id": "gdelt-etbibyl",
+      "id": "gdelt-x7rrabw",
+      "title": "Mulheres são 34 , 35 % das candidaturas no RS , mas avanço na representação política segue lento",
+      "sourceName": "Brasil de Fato",
+      "sourceUrl": "https://www.brasildefato.com.br/",
+      "sourceType": "Jornal / Movimentos Sociais",
+      "sourceEditorial": "Mídia popular focada em Direitos Humanos e Sul Global",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://www.brasildefato.com.br/2026/09/09/mulheres-sao-3435-das-candidaturas-no-rs-mas-avanco-na-representacao-politica-segue-lento/",
+      "publishedAtStr": "2026-09-09T18:15:00Z",
+      "publishedAtTs": 1788977700000,
+      "rawContent": "Mulheres são 34 , 35 % das candidaturas no RS , mas avanço na representação política segue lento",
+      "linkStatus": "active",
+      "lastChecked": 1788979086369
+    },
+    {
+      "id": "gdelt-bsagcqo",
       "title": "Análise : Com pressão sobre Israel por colonos na Cisjordânia , Europa marca nova divergência com os EUA",
       "sourceName": "O Globo Mundo",
       "sourceUrl": "https://oglobo.globo.com/mundo/",
@@ -26,7 +42,7 @@
       "lastChecked": 1788975908542
     },
     {
-      "id": "gdelt-4767naj",
+      "id": "gdelt-q2rlcwo",
       "title": "Irã acelera ritmo de construo em suposta área nuclear na montanha Pickaxe , segundo analistas dos EUA",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -42,7 +58,7 @@
       "lastChecked": 1788975908542
     },
     {
-      "id": "gdelt-afqco0k",
+      "id": "gdelt-4wmmxtz",
       "title": "Partiu cedo demai , diz amigo após morte de Miss Áustria",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -58,7 +74,7 @@
       "lastChecked": 1788975908542
     },
     {
-      "id": "gdelt-gkqhpf9",
+      "id": "gdelt-arem0eu",
       "title": "Ucrânia realiza ataque massivo com drones e deixa quatro mortos em cidade russa",
       "sourceName": "Brasil de Fato",
       "sourceUrl": "https://www.brasildefato.com.br/",
@@ -74,7 +90,7 @@
       "lastChecked": 1788975908542
     },
     {
-      "id": "gdelt-rx8fr9h",
+      "id": "gdelt-j2gp95q",
       "title": "OCX será espinha dorsal da Grande Eurásia , diz economista russo idealizador da moeda comum do Brics",
       "sourceName": "Brasil de Fato",
       "sourceUrl": "https://www.brasildefato.com.br/",
@@ -90,7 +106,7 @@
       "lastChecked": 1788975908542
     },
     {
-      "id": "gdelt-a2m0up1",
+      "id": "gdelt-zk3l1e1",
       "title": "Influenciador morre após procedimento de aumento peniano na Tailândia",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -106,7 +122,7 @@
       "lastChecked": 1788975908542
     },
     {
-      "id": "gdelt-wng0k6k",
+      "id": "gdelt-lsbpq2x",
       "title": "Miss Áustria morre aos 22 anos",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -122,7 +138,7 @@
       "lastChecked": 1788975908542
     },
     {
-      "id": "gdelt-6z6w3hw",
+      "id": "gdelt-49gm0gu",
       "title": "Sérvia dissolve parlamento e convoca eleições parlamentares",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -138,7 +154,7 @@
       "lastChecked": 1788975908542
     },
     {
-      "id": "gdelt-3apb2mo",
+      "id": "gdelt-ncv7cga",
       "title": "Houthis dizem que Arábia Saudita atacou  vária regiões do Iêmen",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -154,7 +170,7 @@
       "lastChecked": 1788975908542
     },
     {
-      "id": "gdelt-82zy6oj",
+      "id": "gdelt-zftpyp5",
       "title": "Escalada da guerra interna no tribunal politizado : o que disse a imprensa internacional sobre afastamento do diretor da PF",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -170,7 +186,7 @@
       "lastChecked": 1788975908542
     },
     {
-      "id": "gdelt-btzad28",
+      "id": "gdelt-b0sz8j9",
       "title": "Premiê de Singapura ganha aumento de salário de mais de R$ 5 milhões",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -186,7 +202,7 @@
       "lastChecked": 1788975908542
     },
     {
-      "id": "gdelt-g7v2h0i",
+      "id": "gdelt-czx05il",
       "title": "Funeral do rei Harald reúne multidão na Noruega ; FOTOS",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -202,7 +218,7 @@
       "lastChecked": 1788975908542
     },
     {
-      "id": "gdelt-odwm61q",
+      "id": "gdelt-12zbea1",
       "title": "Novo uniforme da Força Espacial proposto por Trump gera comparaes com farda nazista e Star Wars",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -218,7 +234,7 @@
       "lastChecked": 1788975908542
     },
     {
-      "id": "gdelt-n4kgon1",
+      "id": "gdelt-5686igs",
       "title": "Criança é salva de atropelamento no México",
       "sourceName": "BBC News Brasil",
       "sourceUrl": "https://www.bbc.com/portuguese",
@@ -234,7 +250,7 @@
       "lastChecked": 1788975908542
     },
     {
-      "id": "gdelt-txggitv",
+      "id": "gdelt-9zjf0zj",
       "title": "EAU alertaram Netanyahu sobre ataque do Hamas , diz jornal",
       "sourceName": "DW Brasil",
       "sourceUrl": "https://www.dw.com/pt-br/",
@@ -250,7 +266,7 @@
       "lastChecked": 1788975908542
     },
     {
-      "id": "gdelt-aejbikb",
+      "id": "gdelt-eysc61r",
       "title": "EUA perseguem mais de 66 mil migrantes deportados no exterior para cobrar R$ 2 , 15 bilhões em multas não pagas",
       "sourceName": "O Globo Mundo",
       "sourceUrl": "https://oglobo.globo.com/mundo/",
@@ -266,7 +282,7 @@
       "lastChecked": 1788975908542
     },
     {
-      "id": "gdelt-y4egod8",
+      "id": "gdelt-wuq7zbv",
       "title": "Mãe de 25 anos morre em acidente de carro nos EUA ; seis filhos sobrevivem",
       "sourceName": "O Globo Mundo",
       "sourceUrl": "https://oglobo.globo.com/mundo/",
@@ -282,7 +298,7 @@
       "lastChecked": 1788975908542
     },
     {
-      "id": "gdelt-o1slda0",
+      "id": "gdelt-16pdby0",
       "title": "Sem lista oficial de desaparecidos , famílias recorrem às redes sociais para buscar notícias de vítimas da enchente no Tibete",
       "sourceName": "O Globo Mundo",
       "sourceUrl": "https://oglobo.globo.com/mundo/",
@@ -298,7 +314,7 @@
       "lastChecked": 1788975908542
     },
     {
-      "id": "gdelt-uz22m68",
+      "id": "gdelt-79tuor7",
       "title": "Tumba com restos mortais de 38 pessoas é descoberta em cidadela pré - hispânica no Peru",
       "sourceName": "O Globo Mundo",
       "sourceUrl": "https://oglobo.globo.com/mundo/",
@@ -314,7 +330,7 @@
       "lastChecked": 1788975908542
     },
     {
-      "id": "gdelt-5os90i7",
+      "id": "gdelt-6t1ke9g",
       "title": "Fotojornalistas desaparecem no mar ao seguir para cobrir erupo de vulcão na Indonésia",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -330,7 +346,7 @@
       "lastChecked": 1788975908542
     },
     {
-      "id": "gdelt-veh3j53",
+      "id": "gdelt-2yqv09i",
       "title": "CVM multa Vorcaro em R$ 20 milhões por fraude em fundo imobiliário",
       "sourceName": "Brasil de Fato",
       "sourceUrl": "https://www.brasildefato.com.br/",
@@ -346,7 +362,7 @@
       "lastChecked": 1788975908542
     },
     {
-      "id": "gdelt-pvh6aw3",
+      "id": "gdelt-xm9c62k",
       "title": "BookTok : Como o TikTok muda o consumo e a produo de livros",
       "sourceName": "Brasil de Fato",
       "sourceUrl": "https://www.brasildefato.com.br/",
@@ -362,7 +378,7 @@
       "lastChecked": 1788975908542
     },
     {
-      "id": "gdelt-v3oa79p",
+      "id": "gdelt-rn2qdnx",
       "title": "Quaest no RJ : Eduardo Paes tem 39 % e Douglas Ruas , 18 %",
       "sourceName": "Brasil de Fato",
       "sourceUrl": "https://www.brasildefato.com.br/",
@@ -378,7 +394,7 @@
       "lastChecked": 1788975908542
     },
     {
-      "id": "gdelt-z33u17q",
+      "id": "gdelt-v83gpqy",
       "title": "Como a PF construiu sua independência com apoio do PT e por que ela resiste a crises políticas",
       "sourceName": "Brasil de Fato",
       "sourceUrl": "https://www.brasildefato.com.br/",
@@ -394,7 +410,7 @@
       "lastChecked": 1788975908542
     },
     {
-      "id": "gdelt-rf7phco",
+      "id": "gdelt-06yidg5",
       "title": "Governo da Espanha pede desculpas por polêmica  lista negra  de jornalistas ; entenda",
       "sourceName": "O Globo Mundo",
       "sourceUrl": "https://oglobo.globo.com/mundo/",
@@ -410,7 +426,7 @@
       "lastChecked": 1788975908542
     },
     {
-      "id": "gdelt-359f5lp",
+      "id": "gdelt-2ellt73",
       "title": "Trump comemora vitória da extrema direita na Alemanha",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -426,7 +442,7 @@
       "lastChecked": 1788975908542
     },
     {
-      "id": "gdelt-ba8bi4u",
+      "id": "gdelt-0tejzxc",
       "title": "Irã captura drone submarino dos EUA",
       "sourceName": "DW Brasil",
       "sourceUrl": "https://www.dw.com/pt-br/",
@@ -442,7 +458,7 @@
       "lastChecked": 1788975908542
     },
     {
-      "id": "gdelt-rg6znhj",
+      "id": "gdelt-plp17b9",
       "title": "Eleições SP : Tarcísio 42 %, Haddad 27 %, aponta Quaest",
       "sourceName": "Brasil de Fato",
       "sourceUrl": "https://www.brasildefato.com.br/",
@@ -458,7 +474,7 @@
       "lastChecked": 1788975908542
     },
     {
-      "id": "gdelt-cw3cgc0",
+      "id": "gdelt-ralimgg",
       "title": "40 anos de resistência camponesa : como o movimento Tèt Kole Ti Peyizan Ayisyen mobiliza a luta no Haiti",
       "sourceName": "Brasil de Fato",
       "sourceUrl": "https://www.brasildefato.com.br/",
@@ -474,7 +490,7 @@
       "lastChecked": 1788975908542
     },
     {
-      "id": "gdelt-qqcuqg7",
+      "id": "gdelt-wnzoaur",
       "title": "Em  total apoio  a Andrei Rodrigues , onze diretores da PF colocam cargos à disposio após André Mendonça afastá - lo",
       "sourceName": "Brasil de Fato",
       "sourceUrl": "https://www.brasildefato.com.br/",
@@ -490,7 +506,7 @@
       "lastChecked": 1788975908542
     },
     {
-      "id": "gdelt-n8q8pyo",
+      "id": "gdelt-qujlqpc",
       "title": "Há uma descredibilização das decisões do poder Judiciário , afirma advogado especialista em tribunais superiores",
       "sourceName": "Brasil de Fato",
       "sourceUrl": "https://www.brasildefato.com.br/",
@@ -506,7 +522,7 @@
       "lastChecked": 1788975908542
     },
     {
-      "id": "gdelt-1s42qgc",
+      "id": "gdelt-wlxe3nt",
       "title": "AGU recorre ao STF contra o afastamento do diretor - geral da Polícia Federal decidido por André Mendonça",
       "sourceName": "Brasil de Fato",
       "sourceUrl": "https://www.brasildefato.com.br/",
@@ -522,7 +538,7 @@
       "lastChecked": 1788975908542
     },
     {
-      "id": "gdelt-2otnh4p",
+      "id": "gdelt-epysazz",
       "title": "Mendonça  aposta alto demai para interferir nas eleições , afirma cientista político",
       "sourceName": "Brasil de Fato",
       "sourceUrl": "https://www.brasildefato.com.br/",
@@ -538,7 +554,7 @@
       "lastChecked": 1788975908542
     },
     {
-      "id": "gdelt-pe4yjz1",
+      "id": "gdelt-nhj2ysy",
       "title": "Exposio no MAC USP reúne 53 anos de ilustrações cubanas em apoio à luta contra o imperialismo",
       "sourceName": "Brasil de Fato",
       "sourceUrl": "https://www.brasildefato.com.br/",
@@ -554,7 +570,7 @@
       "lastChecked": 1788975908542
     },
     {
-      "id": "gdelt-quqfblr",
+      "id": "gdelt-1houu22",
       "title": "Marco Rubio chega à Colômbia e encontra De la Espriella no início de giro pela América Latina",
       "sourceName": "Brasil de Fato",
       "sourceUrl": "https://www.brasildefato.com.br/",
@@ -570,7 +586,7 @@
       "lastChecked": 1788975908542
     },
     {
-      "id": "gdelt-cpjno51",
+      "id": "gdelt-qzokclq",
       "title": "Candidato do PSTU ao Senado em SP defende escala 4×3 , reindustrialização e desmilitarização da PM",
       "sourceName": "Brasil de Fato",
       "sourceUrl": "https://www.brasildefato.com.br/",
@@ -586,7 +602,7 @@
       "lastChecked": 1788975908542
     },
     {
-      "id": "gdelt-lnryx5l",
+      "id": "gdelt-ybuxqpf",
       "title": "Malafaia é muito midiático e distante da realidade dos pastores , diz membro de Frente Evangélica",
       "sourceName": "Brasil de Fato",
       "sourceUrl": "https://www.brasildefato.com.br/",
@@ -602,7 +618,7 @@
       "lastChecked": 1788975908542
     },
     {
-      "id": "gdelt-ec8xcde",
+      "id": "gdelt-r6yx3h1",
       "title": "Reino Unido anuncia veto a produtos de assentamentos ilegais na Cisjordânia e acusa Israel de  limpeza étnica",
       "sourceName": "Brasil de Fato",
       "sourceUrl": "https://www.brasildefato.com.br/",
@@ -618,7 +634,7 @@
       "lastChecked": 1788975908542
     },
     {
-      "id": "gdelt-gajs32r",
+      "id": "gdelt-2i719pr",
       "title": "Pisa : Brasil reduz diferença para países ricos no desempenho escolar",
       "sourceName": "Brasil de Fato",
       "sourceUrl": "https://www.brasildefato.com.br/",
@@ -634,7 +650,7 @@
       "lastChecked": 1788975908542
     },
     {
-      "id": "gdelt-1yjoji8",
+      "id": "gdelt-5rhmac5",
       "title": "Hungria expulsa dez diplomatas russos e Moscou promete resposta  dura",
       "sourceName": "Brasil de Fato",
       "sourceUrl": "https://www.brasildefato.com.br/",
@@ -650,7 +666,7 @@
       "lastChecked": 1788975908542
     },
     {
-      "id": "gdelt-qwmv162",
+      "id": "gdelt-2j457tu",
       "title": "Putin e Trump discutem resoluo da guerra da Ucrânia após visita de enviados dos EUA",
       "sourceName": "Brasil de Fato",
       "sourceUrl": "https://www.brasildefato.com.br/",
@@ -666,7 +682,7 @@
       "lastChecked": 1788977098736
     },
     {
-      "id": "gdelt-7zu51q5",
+      "id": "gdelt-z1np5gv",
       "title": "Até que ponto os EUA já entraram na eleio brasileira ? Confira live exclusiva do Clube de Membros do BdF",
       "sourceName": "Brasil de Fato",
       "sourceUrl": "https://www.brasildefato.com.br/",
@@ -682,7 +698,7 @@
       "lastChecked": 1788977098736
     },
     {
-      "id": "gdelt-r2bq97p",
+      "id": "gdelt-569j87g",
       "title": "Eleições 2026 : história , programa e lutas da classe trabalhadora",
       "sourceName": "Brasil de Fato",
       "sourceUrl": "https://www.brasildefato.com.br/",
@@ -698,7 +714,7 @@
       "lastChecked": 1788977098736
     },
     {
-      "id": "gdelt-97s1pre",
+      "id": "gdelt-9jsyo7d",
       "title": "Segunda Turma do STF forma maioria para afastar diretor - geral da PF",
       "sourceName": "Brasil de Fato",
       "sourceUrl": "https://www.brasildefato.com.br/",
