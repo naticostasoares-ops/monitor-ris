@@ -1,16 +1,112 @@
 {
-  "updatedAt": "2026-09-09T22:53:27.616Z",
+  "updatedAt": "2026-09-09T23:21:35.120Z",
   "periodUsed": "7d",
-  "count": 102,
+  "count": 107,
   "linkVerificationStats": {
-    "checkedThisRun": 1,
-    "active": 1,
+    "checkedThisRun": 6,
+    "active": 6,
     "broken": 0,
     "unknown": 0
   },
   "articles": [
     {
-      "id": "gdelt-s0pdjdr",
+      "id": "gdelt-b477gmn",
+      "title": "Taxas dos DIs sobem em dia de realização de lucros e petróleo acima de US$100",
+      "sourceName": "InfoMoney",
+      "sourceUrl": "https://www.infomoney.com.br/",
+      "sourceType": "Imprensa Comercial Brasileira",
+      "sourceEditorial": "Portal especializado em mercados e economia global",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://www.infomoney.com.br/mercados/taxas-dos-dis-sobem-em-dia-de-realizacao-de-lucros-e-petroleo-acima-de-us100/",
+      "publishedAtStr": "2026-09-09T22:45:00Z",
+      "publishedAtTs": 1788993900000,
+      "rawContent": "Taxas dos DIs sobem em dia de realização de lucros e petróleo acima de US$100",
+      "linkStatus": "active",
+      "lastChecked": 1788996091966
+    },
+    {
+      "id": "gdelt-kx1pljk",
+      "title": "Plano do Tesouro dos EUA de recompra de títulos falha e juro bate recorde de 3 anos",
+      "sourceName": "InfoMoney",
+      "sourceUrl": "https://www.infomoney.com.br/",
+      "sourceType": "Imprensa Comercial Brasileira",
+      "sourceEditorial": "Portal especializado em mercados e economia global",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://www.infomoney.com.br/business/global/plano-do-tesouro-dos-eua-de-recompra-de-titulos-falha-e-juro-bate-recorde-de-3-anos/",
+      "publishedAtStr": "2026-09-09T22:45:00Z",
+      "publishedAtTs": 1788993900000,
+      "rawContent": "Plano do Tesouro dos EUA de recompra de títulos falha e juro bate recorde de 3 anos",
+      "linkStatus": "active",
+      "lastChecked": 1788996091966
+    },
+    {
+      "id": "gdelt-20hyc92",
+      "title": "Fachin suspende decisões de Mendonça e Dino sobre comando da PF",
+      "sourceName": "InfoMoney",
+      "sourceUrl": "https://www.infomoney.com.br/",
+      "sourceType": "Imprensa Comercial Brasileira",
+      "sourceEditorial": "Portal especializado em mercados e economia global",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://www.infomoney.com.br/politica/fachin-suspende-decisoes-de-mendonca-e-dino-sobre-comando-da-pf/",
+      "publishedAtStr": "2026-09-09T22:45:00Z",
+      "publishedAtTs": 1788993900000,
+      "rawContent": "Fachin suspende decisões de Mendonça e Dino sobre comando da PF",
+      "linkStatus": "active",
+      "lastChecked": 1788996091966
+    },
+    {
+      "id": "gdelt-ynvmqt7",
+      "title": "Ibovespa hoje : acompanhe em tempo real a Bolsa de Valores",
+      "sourceName": "InfoMoney",
+      "sourceUrl": "https://www.infomoney.com.br/",
+      "sourceType": "Imprensa Comercial Brasileira",
+      "sourceEditorial": "Portal especializado em mercados e economia global",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-09092026/",
+      "publishedAtStr": "2026-09-09T22:45:00Z",
+      "publishedAtTs": 1788993900000,
+      "rawContent": "Ibovespa hoje : acompanhe em tempo real a Bolsa de Valores",
+      "linkStatus": "active",
+      "lastChecked": 1788996091966
+    },
+    {
+      "id": "gdelt-kk50kcz",
+      "title": "André Mendonça revoga prisão de filho do  Careca do INSS",
+      "sourceName": "InfoMoney",
+      "sourceUrl": "https://www.infomoney.com.br/",
+      "sourceType": "Imprensa Comercial Brasileira",
+      "sourceEditorial": "Portal especializado em mercados e economia global",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://www.infomoney.com.br/politica/andre-mendonca-revoga-prisao-de-filho-do-careca-do-inss/",
+      "publishedAtStr": "2026-09-09T22:45:00Z",
+      "publishedAtTs": 1788993900000,
+      "rawContent": "André Mendonça revoga prisão de filho do  Careca do INSS",
+      "linkStatus": "active",
+      "lastChecked": 1788996091966
+    },
+    {
+      "id": "gdelt-uwvnvl0",
+      "title": "Como um escândalo na Bolívia respinga na direita da América Latina",
+      "sourceName": "Estadão Internacional",
+      "sourceUrl": "https://www.estadao.com.br/internacional/",
+      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
+      "sourceEditorial": "Jornal tradicional de geopolítica - Conteúdo sob assinatura",
+      "country": "Brasil",
+      "paywall": true,
+      "originalUrl": "https://www.estadao.com.br/internacional/como-um-escandalo-na-bolivia-respinga-na-direita-da-america-latina/",
+      "publishedAtStr": "2026-09-09T22:30:00Z",
+      "publishedAtTs": 1788993000000,
+      "rawContent": "Como um escândalo na Bolívia respinga na direita da América Latina",
+      "linkStatus": "active",
+      "lastChecked": 1788996091966
+    },
+    {
+      "id": "gdelt-s9aadjd",
       "title": "Guerra Moraes x Mendonça : o que Fachin decidiu e o que acontece agora com os ministros do STF",
       "sourceName": "BBC News Brasil",
       "sourceUrl": "https://www.bbc.com/portuguese",
@@ -26,7 +122,7 @@
       "lastChecked": 1788994406813
     },
     {
-      "id": "gdelt-cnakl6v",
+      "id": "gdelt-i888s9d",
       "title": "Crescimento da AfD ameaça o governo Merz e próximos capítulos ainda estão por vir",
       "sourceName": "Estadão Internacional",
       "sourceUrl": "https://www.estadao.com.br/internacional/",
@@ -42,7 +138,7 @@
       "lastChecked": 1788993145318
     },
     {
-      "id": "gdelt-x6xav2u",
+      "id": "gdelt-4fv3da1",
       "title": "Calor faz vinícolas francesas elevarem álcool do champanhe",
       "sourceName": "DW Brasil",
       "sourceUrl": "https://www.dw.com/pt-br/",
@@ -58,7 +154,7 @@
       "lastChecked": 1788992183606
     },
     {
-      "id": "gdelt-ypae3dj",
+      "id": "gdelt-w0igp9v",
       "title": "Menino de 5 anos é resgatado após ficar pendurado com a cabeça presa em grades de janela no sexto andar de prédio na China",
       "sourceName": "O Globo Mundo",
       "sourceUrl": "https://oglobo.globo.com/mundo/",
@@ -74,7 +170,7 @@
       "lastChecked": 1788992183606
     },
     {
-      "id": "gdelt-8r2idib",
+      "id": "gdelt-dghf40n",
       "title": "Colisão entre trem e caminhão na Polônia deixa um morto e 20 feridos",
       "sourceName": "O Globo Mundo",
       "sourceUrl": "https://oglobo.globo.com/mundo/",
@@ -90,7 +186,7 @@
       "lastChecked": 1788992183606
     },
     {
-      "id": "gdelt-pu929w4",
+      "id": "gdelt-dkfxqql",
       "title": "Avião de Zelensky quase foi atingido por drone ao deixar Moldávia , diz premier da Noruega",
       "sourceName": "O Globo Mundo",
       "sourceUrl": "https://oglobo.globo.com/mundo/",
@@ -106,7 +202,7 @@
       "lastChecked": 1788992183606
     },
     {
-      "id": "gdelt-u5wikiy",
+      "id": "gdelt-5dpak6g",
       "title": "Fachin derruba decisões sobre PF e tira Fake News de Moraes",
       "sourceName": "DW Brasil",
       "sourceUrl": "https://www.dw.com/pt-br/",
@@ -122,7 +218,7 @@
       "lastChecked": 1788992183606
     },
     {
-      "id": "gdelt-joih4vk",
+      "id": "gdelt-cggpj9e",
       "title": "Cachorro - quente também pode ganhar versões mais saudáveis : veja 3 receitas para o lanche da tarde – CartaCapital",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -138,7 +234,7 @@
       "lastChecked": 1788990275699
     },
     {
-      "id": "gdelt-pzy8sfx",
+      "id": "gdelt-nfu45qq",
       "title": "Caiado e Renan Santos realizam  debate paralelo  na próxima semana",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -154,7 +250,7 @@
       "lastChecked": 1788990275699
     },
     {
-      "id": "gdelt-5r9ksdt",
+      "id": "gdelt-hw306by",
       "title": "Moraes manda PF ouvir deputado do PL que pediu investigação contra Dino",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -170,7 +266,7 @@
       "lastChecked": 1788990275699
     },
     {
-      "id": "gdelt-rtnjev5",
+      "id": "gdelt-vbvqv20",
       "title": "Fachin suspende decisão de Mendonça que afastou Andrei Rodrigues da PF",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -186,7 +282,7 @@
       "lastChecked": 1788990275699
     },
     {
-      "id": "gdelt-mg92qfz",
+      "id": "gdelt-126i517",
       "title": "Novo uniforme espacial divulgado por Trump gera comparação com trajes nazistas",
       "sourceName": "Veja Mundo",
       "sourceUrl": "https://veja.abril.com.br/mundo/",
@@ -202,7 +298,7 @@
       "lastChecked": 1788990275699
     },
     {
-      "id": "gdelt-lxf72l9",
+      "id": "gdelt-z3jbz1r",
       "title": "16 anos depois , como está menino que chocou o mundo por fumar 40 cigarros por dia",
       "sourceName": "Veja Mundo",
       "sourceUrl": "https://veja.abril.com.br/mundo/",
@@ -218,7 +314,7 @@
       "lastChecked": 1788990275699
     },
     {
-      "id": "gdelt-m31xo7f",
+      "id": "gdelt-hzjn1ca",
       "title": "Em turnê sul - americana , Marco Rubio chega ao Equador para visitar mais um aliado",
       "sourceName": "Veja Mundo",
       "sourceUrl": "https://veja.abril.com.br/mundo/",
@@ -234,7 +330,7 @@
       "lastChecked": 1788990275699
     },
     {
-      "id": "gdelt-fnxm00c",
+      "id": "gdelt-x8vsefe",
       "title": "Enteado do rei da Noruega , condenado por estupro , é evitado por familiares em funeral",
       "sourceName": "Veja Mundo",
       "sourceUrl": "https://veja.abril.com.br/mundo/",
@@ -250,7 +346,7 @@
       "lastChecked": 1788990275699
     },
     {
-      "id": "gdelt-wslfj49",
+      "id": "gdelt-8r5r0hq",
       "title": "Após dobrar equipe , Requin foca em consultoria e mira R$ 2 , 5 bilhões em custódia",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -266,7 +362,7 @@
       "lastChecked": 1788990275699
     },
     {
-      "id": "gdelt-t61a4gr",
+      "id": "gdelt-qu8yofl",
       "title": "Bolsas da Europa fecham em queda pressionadas por petróleo Brent a US$ 100",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -282,7 +378,7 @@
       "lastChecked": 1788990275699
     },
     {
-      "id": "gdelt-qfxz7c9",
+      "id": "gdelt-e18qi6o",
       "title": "História dos dobráveis : Samsung testou , Huawei inovou , Apple chega agora",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -298,7 +394,7 @@
       "lastChecked": 1788990275699
     },
     {
-      "id": "gdelt-avnsclz",
+      "id": "gdelt-4ph2x80",
       "title": "Irã ameaça ampliar guerra com os EUA e diz estar pronto para conflito prolongado",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -314,7 +410,7 @@
       "lastChecked": 1788990275699
     },
     {
-      "id": "gdelt-7obq9p3",
+      "id": "gdelt-5yz9q22",
       "title": "A guerra que Vorcaro não venceu sozinho : como o Supremo virou palco do próprio escândalo",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -330,7 +426,7 @@
       "lastChecked": 1788990275699
     },
     {
-      "id": "gdelt-dgbmkrv",
+      "id": "gdelt-0v24lyx",
       "title": "Brasil tem fluxo cambial negativo de US$ 6 , 693 bi em setembro até dia 4 , diz BC",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -346,7 +442,7 @@
       "lastChecked": 1788990275699
     },
     {
-      "id": "gdelt-1j80ljq",
+      "id": "gdelt-b4fx0jq",
       "title": "Oscar : Academia Brasileira de Cinema revela os 6 filmes que podem representar Brasil",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -362,7 +458,7 @@
       "lastChecked": 1788990275699
     },
     {
-      "id": "gdelt-szxbuv9",
+      "id": "gdelt-77flbdn",
       "title": "Tarcísio : STF está  batendo cabeça  e não consegue garantir segurança jurídica",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -378,7 +474,7 @@
       "lastChecked": 1788990275699
     },
     {
-      "id": "gdelt-vup16qj",
+      "id": "gdelt-com4vk6",
       "title": "Exportações do Brasil para os EUA até agosto são as menores desde 2023",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -394,7 +490,7 @@
       "lastChecked": 1788990275699
     },
     {
-      "id": "gdelt-f3gz2au",
+      "id": "gdelt-w1ib0vv",
       "title": "Nas redes , 73 % discordam do afastamento do diretor da PF por Mendonça , diz pesquisa",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -410,7 +506,7 @@
       "lastChecked": 1788990275699
     },
     {
-      "id": "gdelt-az90wl7",
+      "id": "gdelt-fnfsk8e",
       "title": "Ranking das Campeãs de Dividendos 2026 : veja as empresas que se destacaram",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -426,7 +522,7 @@
       "lastChecked": 1788990275699
     },
     {
-      "id": "gdelt-w75ubxy",
+      "id": "gdelt-kxqhdj4",
       "title": "Ministros cobram interveno de Fachin após nova escalada da crise no STF",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -442,7 +538,7 @@
       "lastChecked": 1788990275699
     },
     {
-      "id": "gdelt-mkh282y",
+      "id": "gdelt-gvte5yi",
       "title": "CNH : STF permite uso de carro particular no exame de direo",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -458,7 +554,7 @@
       "lastChecked": 1788990275699
     },
     {
-      "id": "gdelt-7f5067f",
+      "id": "gdelt-kyaxhb4",
       "title": "Trump prevê fim da guerra com Irã após  midterms  e promete gasolina mais barata",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -474,7 +570,7 @@
       "lastChecked": 1788990275699
     },
     {
-      "id": "gdelt-vjspio9",
+      "id": "gdelt-4qi5shw",
       "title": "iPhone Duo , da Apple , vai custar a partir de R$ 21 . 999 no Brasil ; veja",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -490,7 +586,7 @@
       "lastChecked": 1788990275699
     },
     {
-      "id": "gdelt-rt7jb5c",
+      "id": "gdelt-0u5zfky",
       "title": "XP : Preços da celulose melhoram , mas ventos positivos não devem durar",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -506,7 +602,7 @@
       "lastChecked": 1788990275699
     },
     {
-      "id": "gdelt-exzcugl",
+      "id": "gdelt-yanehp4",
       "title": "Tesouro dos EUA sanciona empresas da China sob alegação de crime cibernético",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -522,7 +618,7 @@
       "lastChecked": 1788990275699
     },
     {
-      "id": "gdelt-igejm2o",
+      "id": "gdelt-f4jzpqp",
       "title": "Ao lado de apoiadores , Flávio refaz percurso em que Bolsonaro levou facada em 2018",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -538,7 +634,7 @@
       "lastChecked": 1788990275699
     },
     {
-      "id": "gdelt-02a2epk",
+      "id": "gdelt-7f8hikk",
       "title": "UE propõe novas restries ao Airbnb e aluguéis de temporada",
       "sourceName": "DW Brasil",
       "sourceUrl": "https://www.dw.com/pt-br/",
@@ -554,7 +650,7 @@
       "lastChecked": 1788992183606
     },
     {
-      "id": "gdelt-08f6a0u",
+      "id": "gdelt-e60hzsd",
       "title": "Avião de Zelensky quase é atingido por drone a caminho de Oslo , diz premiê da Noruega",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -570,7 +666,7 @@
       "lastChecked": 1788992183606
     },
     {
-      "id": "gdelt-4bgrn4g",
+      "id": "gdelt-k9jm03p",
       "title": "Andrei Rodrigues chega à sede da PF após Flávio Dino suspender decisão de André Mendonça",
       "sourceName": "Valor Econômico",
       "sourceUrl": "https://valor.globo.com/",
@@ -586,7 +682,7 @@
       "lastChecked": 1788990275699
     },
     {
-      "id": "gdelt-xseqy2h",
+      "id": "gdelt-81a87g4",
       "title": "Casa Branca exclui de site oficial jogo  Tetri que simulava muros na fronteira",
       "sourceName": "Veja Mundo",
       "sourceUrl": "https://veja.abril.com.br/mundo/",
@@ -602,7 +698,7 @@
       "lastChecked": 1788990275699
     },
     {
-      "id": "gdelt-hpzg2n9",
+      "id": "gdelt-is0gs5s",
       "title": "Simples Nacional : prazo para solicitar adesão muda e está aberto até o fim do mês",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -618,7 +714,7 @@
       "lastChecked": 1788990275699
     },
     {
-      "id": "gdelt-prpgat3",
+      "id": "gdelt-w7lwavu",
       "title": "Rachas por falta de verba e alianças estaduais desafiam Flávio Bolsonaro no Nordeste",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -634,7 +730,7 @@
       "lastChecked": 1788990275699
     },
     {
-      "id": "gdelt-ev9q58f",
+      "id": "gdelt-a776ks4",
       "title": "CNI , Fiesp e CNC cobram julgamento público e urgente sobre crise no STF",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -650,7 +746,7 @@
       "lastChecked": 1788990275699
     },
     {
-      "id": "gdelt-pl4tbwx",
+      "id": "gdelt-6va2s1m",
       "title": "Caso Master , guerra entre ministros e PF : entenda a crise que atinge o STF",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -666,7 +762,7 @@
       "lastChecked": 1788990275699
     },
     {
-      "id": "gdelt-20354wv",
+      "id": "gdelt-7qs8d9w",
       "title": "Mendonça procura Fachin após Dino reintegrar chefe da PF e cobra resposta do STF",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -682,7 +778,7 @@
       "lastChecked": 1788990275699
     },
     {
-      "id": "gdelt-pl2rrx2",
+      "id": "gdelt-ebozoj7",
       "title": "Virou várzea , diz Flávio Bolsonaro sobre reconduo de Andrei Rodrigues",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -698,7 +794,7 @@
       "lastChecked": 1788990275699
     },
     {
-      "id": "gdelt-cjjr7vt",
+      "id": "gdelt-yx81nhq",
       "title": "Centcom nega ataque do Irã a dois navios dos EUA e diz ter destruído 10 petroleiros",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -714,7 +810,7 @@
       "lastChecked": 1788990275699
     },
     {
-      "id": "gdelt-pbudc4y",
+      "id": "gdelt-fqb0dhk",
       "title": "FII de shopping busca na venda de ativos o  tempero  para estabilidade dos dividendos",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -730,7 +826,7 @@
       "lastChecked": 1788990275699
     },
     {
-      "id": "gdelt-s2fleua",
+      "id": "gdelt-yc9558h",
       "title": "IA deveria liberar o chefe para liderar , mas alguns voltaram a executar",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -746,7 +842,7 @@
       "lastChecked": 1788990275699
     },
     {
-      "id": "gdelt-axuzrl7",
+      "id": "gdelt-1tc2f4q",
       "title": "Campanha de Lula lança site para comparar preços com gestão Bolsonaro",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -762,7 +858,7 @@
       "lastChecked": 1788990275699
     },
     {
-      "id": "gdelt-2vodgyq",
+      "id": "gdelt-r2tmrqs",
       "title": "Fachin repete falhas apontadas por colegas em nova crise do STF",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -778,7 +874,7 @@
       "lastChecked": 1788990275699
     },
     {
-      "id": "gdelt-d83rjhy",
+      "id": "gdelt-3rocw1i",
       "title": "Apple recua na bolsa antes de lançamento de celular dobrável",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -794,7 +890,7 @@
       "lastChecked": 1788990275699
     },
     {
-      "id": "gdelt-vaz38wi",
+      "id": "gdelt-g77aez5",
       "title": "Huawei no banco dos réus em NY : acusações incluem fraude e segredos comerciais",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -810,7 +906,7 @@
       "lastChecked": 1788991092582
     },
     {
-      "id": "gdelt-uw5mxx0",
+      "id": "gdelt-2tb6oi6",
       "title": "Defesa Civil alerta para chuvas fortes e rajadas de vento em São Paulo",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -826,7 +922,7 @@
       "lastChecked": 1788991092582
     },
     {
-      "id": "gdelt-6oxm0go",
+      "id": "gdelt-9pfzc3l",
       "title": "AGU mantém pedido para afastamento de Andrei seja julgado em plenário do STF",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -842,7 +938,7 @@
       "lastChecked": 1788991092582
     },
     {
-      "id": "gdelt-hmer1ik",
+      "id": "gdelt-f0rfozi",
       "title": "Multidão se despede do rei Harald na Noruega",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -858,7 +954,7 @@
       "lastChecked": 1788991092582
     },
     {
-      "id": "gdelt-3wck67o",
+      "id": "gdelt-w2t55pv",
       "title": "Análise : Com pressão sobre Israel por colonos na Cisjordânia , Europa marca nova divergência com os EUA",
       "sourceName": "O Globo Mundo",
       "sourceUrl": "https://oglobo.globo.com/mundo/",
@@ -874,7 +970,7 @@
       "lastChecked": 1788992183606
     },
     {
-      "id": "gdelt-4mv1yc6",
+      "id": "gdelt-aez8obp",
       "title": "Irã acelera ritmo de construo em suposta área nuclear na montanha Pickaxe , segundo analistas dos EUA",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -890,7 +986,7 @@
       "lastChecked": 1788992183606
     },
     {
-      "id": "gdelt-si7v8pf",
+      "id": "gdelt-nkcknw7",
       "title": "Partiu cedo demai , diz amigo após morte de Miss Áustria",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -906,7 +1002,7 @@
       "lastChecked": 1788992183606
     },
     {
-      "id": "gdelt-6vgisll",
+      "id": "gdelt-p31bimq",
       "title": "Pesquisa Palver mostra empate entre Lula e Flávio Bolsonaro nos dois turnos",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -922,7 +1018,7 @@
       "lastChecked": 1788991092582
     },
     {
-      "id": "gdelt-mpcmbv0",
+      "id": "gdelt-8ajw6gr",
       "title": "Há alternativas para o Brasil crescer de forma sustentável",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -938,7 +1034,7 @@
       "lastChecked": 1788991092582
     },
     {
-      "id": "gdelt-uq64s1x",
+      "id": "gdelt-5f9s64l",
       "title": "Real Time Big Data mostra liderança de Michelle Bolsonaro na disputa pelo Senado no DF – CartaCapital",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -954,7 +1050,7 @@
       "lastChecked": 1788991092582
     },
     {
-      "id": "gdelt-2e19axi",
+      "id": "gdelt-w6xsnbn",
       "title": "Lula e Flávio Bolsonaro empatam em 1º e 2º turnos , segundo pesquisa Meio / Ideia – CartaCapital",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -970,7 +1066,7 @@
       "lastChecked": 1788991092582
     },
     {
-      "id": "gdelt-iofrfew",
+      "id": "gdelt-nf3j24r",
       "title": "Empreendedorismo negro ganha masterclasses gratuitas – CartaCapital",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -986,7 +1082,7 @@
       "lastChecked": 1788991092582
     },
     {
-      "id": "gdelt-6va613k",
+      "id": "gdelt-nj5zl2w",
       "title": "Influenciador morre após procedimento de aumento peniano na Tailândia",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -1002,7 +1098,7 @@
       "lastChecked": 1788992183606
     },
     {
-      "id": "gdelt-igz1i6p",
+      "id": "gdelt-0df27rs",
       "title": "Miss Áustria morre aos 22 anos",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -1018,7 +1114,7 @@
       "lastChecked": 1788992183606
     },
     {
-      "id": "gdelt-i2vh1hi",
+      "id": "gdelt-jogs7yk",
       "title": "Sérvia dissolve parlamento e convoca eleições parlamentares",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -1034,7 +1130,7 @@
       "lastChecked": 1788992183606
     },
     {
-      "id": "gdelt-dicpwnt",
+      "id": "gdelt-0lsd3p7",
       "title": "A disputa pela presidência na Bahia , segundo o Real Time Big Data",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -1050,7 +1146,7 @@
       "lastChecked": 1788991092582
     },
     {
-      "id": "gdelt-quu4002",
+      "id": "gdelt-sndfu8l",
       "title": "Houthis dizem que Arábia Saudita atacou  vária regiões do Iêmen",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -1066,7 +1162,7 @@
       "lastChecked": 1788992183606
     },
     {
-      "id": "gdelt-q7ugcl4",
+      "id": "gdelt-whmp7nw",
       "title": "Escalada da guerra interna no tribunal politizado : o que disse a imprensa internacional sobre afastamento do diretor da PF",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -1082,7 +1178,7 @@
       "lastChecked": 1788992183606
     },
     {
-      "id": "gdelt-0zapddy",
+      "id": "gdelt-a5h0062",
       "title": "Agenda dos candidatos : Lula vai ao Piauí e Flávio Bolsonaro retoma campanha em Juiz de Fora",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -1098,7 +1194,7 @@
       "lastChecked": 1788991092582
     },
     {
-      "id": "gdelt-1vm1wyb",
+      "id": "gdelt-zzgdxzd",
       "title": "Cotação do petróleo alcança US$ 100 com agravamento da situação no Oriente Médio",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -1114,7 +1210,7 @@
       "lastChecked": 1788991092582
     },
     {
-      "id": "gdelt-c0a2cks",
+      "id": "gdelt-pq8d3mv",
       "title": "Cebolinha chega a SP e veste camisa de novo clube no Brasileirão – CartaCapital",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -1130,7 +1226,7 @@
       "lastChecked": 1788991092582
     },
     {
-      "id": "gdelt-eu3pcog",
+      "id": "gdelt-2vmjqvj",
       "title": "Como os data centers se tornaram uma questão política nos EUA",
       "sourceName": "Estadão Internacional",
       "sourceUrl": "https://www.estadao.com.br/internacional/",
@@ -1146,7 +1242,7 @@
       "lastChecked": 1788991092582
     },
     {
-      "id": "gdelt-m393rqa",
+      "id": "gdelt-l9fyifs",
       "title": "EUA impõem tarifas de 50 % sobre nova lista de produtos canadenses",
       "sourceName": "Estadão Internacional",
       "sourceUrl": "https://www.estadao.com.br/internacional/",
@@ -1162,7 +1258,7 @@
       "lastChecked": 1788991092582
     },
     {
-      "id": "gdelt-dvdcntv",
+      "id": "gdelt-qwda50g",
       "title": "Trump comemora vitória da extrema - direita em eleições regionais da Alemanha",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -1178,7 +1274,7 @@
       "lastChecked": 1788991092582
     },
     {
-      "id": "gdelt-2tyh7v8",
+      "id": "gdelt-f6ta59e",
       "title": "Caos nos aeroportos britânicos : mais de 1 . 000 voos cancelados por problema no controle de tráfego",
       "sourceName": "Estadão Internacional",
       "sourceUrl": "https://www.estadao.com.br/internacional/",
@@ -1194,7 +1290,7 @@
       "lastChecked": 1788991092582
     },
     {
-      "id": "gdelt-jty875d",
+      "id": "gdelt-4rbbekc",
       "title": "Fachin dá 72 horas para Mendonça se manifestar sobre recurso da AGU",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -1210,7 +1306,7 @@
       "lastChecked": 1788991092582
     },
     {
-      "id": "gdelt-6bf6rra",
+      "id": "gdelt-g99rk0y",
       "title": "OAB - DF abre processo disciplinar contra escritório de esposa de Moraes",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -1226,7 +1322,7 @@
       "lastChecked": 1788991092582
     },
     {
-      "id": "gdelt-vsbq59s",
+      "id": "gdelt-swm7toh",
       "title": "TRE - PR aprova registro de candidatura de Deltan Dallagnol ao Senado",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -1242,7 +1338,7 @@
       "lastChecked": 1788991092582
     },
     {
-      "id": "gdelt-izzya0d",
+      "id": "gdelt-xp2wghn",
       "title": "Associação de delegados da PF critica afastamento de Andrei e cobra julgamento pelo plenário do STF",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -1258,7 +1354,7 @@
       "lastChecked": 1788991092582
     },
     {
-      "id": "gdelt-ieb8p9f",
+      "id": "gdelt-02zhzpf",
       "title": "Mendonça revoga tornozeleira de ex - ministro da Previdência do governo Bolsonaro",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -1274,7 +1370,7 @@
       "lastChecked": 1788991092582
     },
     {
-      "id": "gdelt-tm4yklg",
+      "id": "gdelt-3ybnff7",
       "title": "EUA dizem ter destruído 5 petroleiros iranianos após ataques com mísseis contra um navio da Marinha",
       "sourceName": "Estadão Internacional",
       "sourceUrl": "https://www.estadao.com.br/internacional/",
@@ -1290,7 +1386,7 @@
       "lastChecked": 1788991092582
     },
     {
-      "id": "gdelt-czoaf83",
+      "id": "gdelt-vrdwina",
       "title": "Comissão de Valores Mobiliários condena Daniel Vorcaro e pai por fraude – CartaCapital",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -1306,7 +1402,7 @@
       "lastChecked": 1788991092582
     },
     {
-      "id": "gdelt-5lwuh19",
+      "id": "gdelt-1ql9h95",
       "title": "D - Wave fecha acordo de US$ 100 milhões com EUA para avançar em computação quântica",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -1322,7 +1418,7 @@
       "lastChecked": 1788991092582
     },
     {
-      "id": "gdelt-457mdy5",
+      "id": "gdelt-1ss6vd6",
       "title": "M & M e Twix vs produtores de açúcar : indústrias acusam manipulação de preços",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -1338,7 +1434,7 @@
       "lastChecked": 1788991092582
     },
     {
-      "id": "gdelt-8xakuka",
+      "id": "gdelt-1gk317z",
       "title": "Congonhas após 23h : Anac aprova ampliação de horário em situações excepcionais",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -1354,7 +1450,7 @@
       "lastChecked": 1788991092582
     },
     {
-      "id": "gdelt-u2qa1ts",
+      "id": "gdelt-1w3sczb",
       "title": "Apple Watch Series 12 e Ultra 4 : o que esperar do lançamento da Apple além do iPhone",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -1370,7 +1466,7 @@
       "lastChecked": 1788991092582
     },
     {
-      "id": "gdelt-f3x964l",
+      "id": "gdelt-p7ar5xy",
       "title": "Marcos Cruz assume presidência da Tenda ( TEND3 )",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -1386,7 +1482,7 @@
       "lastChecked": 1788991092582
     },
     {
-      "id": "gdelt-u6jewmy",
+      "id": "gdelt-gfz5v8b",
       "title": "Gilmar afirma que plenário do STF deve analisar afastamento de chefe da PF",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -1402,7 +1498,7 @@
       "lastChecked": 1788991092582
     },
     {
-      "id": "gdelt-pxgi9mf",
+      "id": "gdelt-x27b6sg",
       "title": "Valia planeja expandir base em 30 % e superar 200 mil participantes até 2028",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -1418,7 +1514,7 @@
       "lastChecked": 1788991092582
     },
     {
-      "id": "gdelt-mrtox89",
+      "id": "gdelt-ga7toax",
       "title": "AGU pede ao presidente do STF suspensão de decisão que afastou diretor - geral da PF",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -1434,7 +1530,7 @@
       "lastChecked": 1788991092582
     },
     {
-      "id": "gdelt-om57ug9",
+      "id": "gdelt-wlymb8y",
       "title": "Sob pressão , Fachin avalia substituir Mendonça em relatoria dos casos Master e INSS",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -1450,7 +1546,7 @@
       "lastChecked": 1788991092582
     },
     {
-      "id": "gdelt-qbm8i28",
+      "id": "gdelt-3jjcxot",
       "title": "Brasil terá mais 4 feriados prolongados até o final do ano ; próximo será em outubro",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -1466,7 +1562,7 @@
       "lastChecked": 1788991092582
     },
     {
-      "id": "gdelt-nukcqjx",
+      "id": "gdelt-86kry1g",
       "title": "Primeiro leilão de transmissão para 2027 prevê R$ 12 , 9 bi de investimentos",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -1482,7 +1578,7 @@
       "lastChecked": 1788991092582
     },
     {
-      "id": "gdelt-5tv6m3w",
+      "id": "gdelt-ru5zh40",
       "title": "AGU vai a Fachin para suspender a liminar que afastou Andrei Rodrigues da PF",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -1498,7 +1594,7 @@
       "lastChecked": 1788991092582
     },
     {
-      "id": "gdelt-484da8f",
+      "id": "gdelt-811uo4e",
       "title": "Saída de Mendonça da relatoria do Caso Master amenizaria o clima no STF , diz Kakay – CartaCapital",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -1514,7 +1610,7 @@
       "lastChecked": 1788991092582
     },
     {
-      "id": "gdelt-j4q2odx",
+      "id": "gdelt-0o0k3j7",
       "title": "Quaest mostra Raquel Lyra 6 pontos à frente de João Campos em Pernambuco",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -1530,7 +1626,7 @@
       "lastChecked": 1788991092582
     },
     {
-      "id": "gdelt-vzsribt",
+      "id": "gdelt-ynx32sb",
       "title": "TRE nega pedido de impugnação de sindicalista  candidato de Lula  a deputado por SP – CartaCapital",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -1546,7 +1642,7 @@
       "lastChecked": 1788991092582
     },
     {
-      "id": "gdelt-wbn81ld",
+      "id": "gdelt-yafae82",
       "title": "Netanyahu teria sido avisado sobre o ataque do Hamas dias antes do 7 de Outubro , diz jornal",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -1562,7 +1658,7 @@
       "lastChecked": 1788991092582
     },
     {
-      "id": "gdelt-bki22sz",
+      "id": "gdelt-pwfybrc",
       "title": "Quaest : A disputa entre Lula e Flávio Bolsonaro em SP , MG , RJ , DF e PE – CartaCapital",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -1578,7 +1674,7 @@
       "lastChecked": 1788992183606
     },
     {
-      "id": "gdelt-836y5mc",
+      "id": "gdelt-xi2pa7n",
       "title": "Quaest : Flávio Bolsonaro tem 31 % no Distrito Federal ; Lula , 28 % – CartaCapital",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -1594,7 +1690,7 @@
       "lastChecked": 1788992183606
     },
     {
-      "id": "gdelt-ssf33dt",
+      "id": "gdelt-iexw08g",
       "title": "Observatório das Eleies : crise no STF contamina a corrida presidencial",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -1610,7 +1706,7 @@
       "lastChecked": 1788992183606
     },
     {
-      "id": "gdelt-vh0lso5",
+      "id": "gdelt-xi03y8r",
       "title": "Esse macarrão com carne moída e brócolis é uma opo completa para um jantar nutritivo – CartaCapital",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -1622,22 +1718,6 @@
       "publishedAtStr": "2026-09-08T23:45:00Z",
       "publishedAtTs": 1788911100000,
       "rawContent": "Esse macarrão com carne moída e brócolis é uma opo completa para um jantar nutritivo – CartaCapital",
-      "linkStatus": "active",
-      "lastChecked": 1788992183606
-    },
-    {
-      "id": "gdelt-vwteg2z",
-      "title": "Novo projeto do príncipe Harry sobre a princesa Diana agrava a crise com William",
-      "sourceName": "Veja Mundo",
-      "sourceUrl": "https://veja.abril.com.br/mundo/",
-      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
-      "sourceEditorial": "Revista semanal - Conteúdo sob assinatura parcial",
-      "country": "Brasil",
-      "paywall": true,
-      "originalUrl": "https://veja.abril.com.br/mundo/novo-projeto-do-principe-harry-sobre-a-princesa-diana-agrava-a-crise-com-william/",
-      "publishedAtStr": "2026-09-08T23:00:00Z",
-      "publishedAtTs": 1788908400000,
-      "rawContent": "Novo projeto do príncipe Harry sobre a princesa Diana agrava a crise com William",
       "linkStatus": "active",
       "lastChecked": 1788992183606
     }
