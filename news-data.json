@@ -1,16 +1,16 @@
 {
-  "updatedAt": "2026-09-10T22:44:51.651Z",
+  "updatedAt": "2026-09-10T22:54:57.115Z",
   "periodUsed": "24h",
-  "count": 22,
+  "count": 35,
   "linkVerificationStats": {
-    "checkedThisRun": 22,
-    "active": 22,
+    "checkedThisRun": 13,
+    "active": 13,
     "broken": 0,
     "unknown": 0
   },
   "articles": [
     {
-      "id": "gdelt-5nmthn3",
+      "id": "gdelt-ryfv59r",
       "title": "Fuzil e seis armas de bolsonarista Mário Frias são apreendidos em operação sobre  Dark Horse ; PF apura crime de posse ilegal",
       "sourceName": "Brasil de Fato",
       "sourceUrl": "https://www.brasildefato.com.br/",
@@ -26,7 +26,7 @@
       "lastChecked": 1789080283281
     },
     {
-      "id": "gdelt-q1il10e",
+      "id": "gdelt-25zkksr",
       "title": "Incêndio em navio de carga deixa 25 mortos na China",
       "sourceName": "Brasil de Fato",
       "sourceUrl": "https://www.brasildefato.com.br/",
@@ -42,7 +42,7 @@
       "lastChecked": 1789080283281
     },
     {
-      "id": "gdelt-14sajck",
+      "id": "gdelt-n44r8j8",
       "title": "Aquecimento global acelera frequência de catástrofes nos Himalaias , diz pesquisador chinês",
       "sourceName": "Brasil de Fato",
       "sourceUrl": "https://www.brasildefato.com.br/",
@@ -58,7 +58,7 @@
       "lastChecked": 1789080283281
     },
     {
-      "id": "gdelt-7c8h575",
+      "id": "gdelt-0j5lxkm",
       "title": "Xi Jinping confirma presença em cúpula do Brics na Índia em meio à reaproximação entre os países",
       "sourceName": "Brasil de Fato",
       "sourceUrl": "https://www.brasildefato.com.br/",
@@ -74,7 +74,7 @@
       "lastChecked": 1789080283281
     },
     {
-      "id": "gdelt-l6c0ghq",
+      "id": "gdelt-1tx7w76",
       "title": "Presidente de Cuba , Miguel Díaz - Canel , entrega Medalha da Amizade ao MST",
       "sourceName": "Brasil de Fato",
       "sourceUrl": "https://www.brasildefato.com.br/",
@@ -90,7 +90,7 @@
       "lastChecked": 1789080283281
     },
     {
-      "id": "gdelt-80nmuxa",
+      "id": "gdelt-uts1k95",
       "title": "Ministro Flávio Dino derruba sigilo de decisão sobre  Dark Horse  e cita Mario Frias , Bia Kicis e Marcos Pollon , deputados do PL",
       "sourceName": "Brasil de Fato",
       "sourceUrl": "https://www.brasildefato.com.br/",
@@ -106,7 +106,7 @@
       "lastChecked": 1789080283281
     },
     {
-      "id": "gdelt-9nue8jy",
+      "id": "gdelt-w4dky5o",
       "title": "Com graves problemas de saúde , Cilia Flores solicita prisão domiciliar nos Estados Unidos",
       "sourceName": "Brasil de Fato",
       "sourceUrl": "https://www.brasildefato.com.br/",
@@ -122,7 +122,7 @@
       "lastChecked": 1789080283281
     },
     {
-      "id": "gdelt-c05jiuo",
+      "id": "gdelt-jikx4hi",
       "title": "Preveno ao suicídio : profissionais de saúde destacam riscos com bets",
       "sourceName": "Brasil de Fato",
       "sourceUrl": "https://www.brasildefato.com.br/",
@@ -138,7 +138,7 @@
       "lastChecked": 1789080283281
     },
     {
-      "id": "gdelt-lde3qvj",
+      "id": "gdelt-cqufy51",
       "title": "Dia do Cerrado : projeto no DF utiliza brincadeiras para estimular cuidado com o bioma",
       "sourceName": "Brasil de Fato",
       "sourceUrl": "https://www.brasildefato.com.br/",
@@ -154,7 +154,7 @@
       "lastChecked": 1789080283281
     },
     {
-      "id": "gdelt-thcat3b",
+      "id": "gdelt-21xsup8",
       "title": "Pesquisa Real Time / Big Data aponta empate técnico entre Zucco e Juliana Brizola na disputa pelo governo do RS",
       "sourceName": "Brasil de Fato",
       "sourceUrl": "https://www.brasildefato.com.br/",
@@ -170,7 +170,215 @@
       "lastChecked": 1789080283281
     },
     {
-      "id": "gdelt-fwy3c3r",
+      "id": "gdelt-xdculsd",
+      "title": "Presidente da Sérvia dissolve Parlamento e antecipa eleies",
+      "sourceName": "DW Brasil",
+      "sourceUrl": "https://www.dw.com/pt-br/",
+      "sourceType": "Imprensa Internacional / Pública",
+      "sourceEditorial": "Emissora pública da Alemanha; foco em diplomacia e direitos humanos",
+      "country": "Alemanha",
+      "paywall": false,
+      "originalUrl": "https://www.dw.com/pt-br/presidente-da-s%C3%A9rvia-dissolve-parlamento-e-anuncia-novas-elei%C3%A7%C3%B5es/a-79219815",
+      "publishedAtStr": "2026-09-10T17:00:00Z",
+      "publishedAtTs": 1789059600000,
+      "rawContent": "Presidente da Sérvia dissolve Parlamento e antecipa eleies",
+      "linkStatus": "active",
+      "lastChecked": 1789080881669
+    },
+    {
+      "id": "gdelt-d3p5o9o",
+      "title": "Putin nega boatos , mas russos temem mobilizao para guerra",
+      "sourceName": "DW Brasil",
+      "sourceUrl": "https://www.dw.com/pt-br/",
+      "sourceType": "Imprensa Internacional / Pública",
+      "sourceEditorial": "Emissora pública da Alemanha; foco em diplomacia e direitos humanos",
+      "country": "Alemanha",
+      "paywall": false,
+      "originalUrl": "https://www.dw.com/pt-br/putin-nega-boatos-mas-russos-temem-mobiliza%C3%A7%C3%A3o-para-guerra/a-79214245",
+      "publishedAtStr": "2026-09-10T17:00:00Z",
+      "publishedAtTs": 1789059600000,
+      "rawContent": "Putin nega boatos , mas russos temem mobilizao para guerra",
+      "linkStatus": "active",
+      "lastChecked": 1789080881669
+    },
+    {
+      "id": "gdelt-otleskd",
+      "title": "Tratado pelo fim de testes nucleares : letra morta ou esperança de paz ?",
+      "sourceName": "G1 Mundo",
+      "sourceUrl": "https://g1.globo.com/mundo/",
+      "sourceType": "Imprensa Comercial Brasileira",
+      "sourceEditorial": "Portal de notícias mainstream do Grupo Globo",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://g1.globo.com/mundo/noticia/2026/09/10/tratado-pelo-fim-de-testes-nucleares-letra-morta-ou-esperanca-de-paz.ghtml",
+      "publishedAtStr": "2026-09-10T17:00:00Z",
+      "publishedAtTs": 1789059600000,
+      "rawContent": "Tratado pelo fim de testes nucleares : letra morta ou esperança de paz ?",
+      "linkStatus": "active",
+      "lastChecked": 1789080881669
+    },
+    {
+      "id": "gdelt-l78w5mj",
+      "title": "Alemanha quer bloquear extrema direita de acessar plano da Otan",
+      "sourceName": "G1 Mundo",
+      "sourceUrl": "https://g1.globo.com/mundo/",
+      "sourceType": "Imprensa Comercial Brasileira",
+      "sourceEditorial": "Portal de notícias mainstream do Grupo Globo",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://g1.globo.com/mundo/noticia/2026/09/10/alemanha-quer-bloquear-extrema-direita-plano-secreto-otan-diz-agencia.ghtml",
+      "publishedAtStr": "2026-09-10T17:00:00Z",
+      "publishedAtTs": 1789059600000,
+      "rawContent": "Alemanha quer bloquear extrema direita de acessar plano da Otan",
+      "linkStatus": "active",
+      "lastChecked": 1789080881669
+    },
+    {
+      "id": "gdelt-vxy1nun",
+      "title": "Trump promete R$ 25 mil para cada americano adulto enquanto aprovação de seu governo despenca para 33 %",
+      "sourceName": "G1 Mundo",
+      "sourceUrl": "https://g1.globo.com/mundo/",
+      "sourceType": "Imprensa Comercial Brasileira",
+      "sourceEditorial": "Portal de notícias mainstream do Grupo Globo",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://g1.globo.com/mundo/noticia/2026/09/10/trump-promete-r-25-mil-para-cada-americano-adulto-enquanto-aprovacao-de-seu-governo-despenca-para-33percent.ghtml",
+      "publishedAtStr": "2026-09-10T15:30:00Z",
+      "publishedAtTs": 1789054200000,
+      "rawContent": "Trump promete R$ 25 mil para cada americano adulto enquanto aprovação de seu governo despenca para 33 %",
+      "linkStatus": "active",
+      "lastChecked": 1789080881669
+    },
+    {
+      "id": "gdelt-saryisv",
+      "title": "PF apura suposto desvio de emendas para filme  Dark Horse",
+      "sourceName": "DW Brasil",
+      "sourceUrl": "https://www.dw.com/pt-br/",
+      "sourceType": "Imprensa Internacional / Pública",
+      "sourceEditorial": "Emissora pública da Alemanha; foco em diplomacia e direitos humanos",
+      "country": "Alemanha",
+      "paywall": false,
+      "originalUrl": "https://www.dw.com/pt-br/pf-apura-suposto-desvio-de-emendas-para-bancar-filme-dark-horse/a-79216003",
+      "publishedAtStr": "2026-09-10T15:30:00Z",
+      "publishedAtTs": 1789054200000,
+      "rawContent": "PF apura suposto desvio de emendas para filme  Dark Horse",
+      "linkStatus": "active",
+      "lastChecked": 1789080881669
+    },
+    {
+      "id": "gdelt-btjbx1p",
+      "title": "China debate reduzir a importância do inglês nas escolas",
+      "sourceName": "DW Brasil",
+      "sourceUrl": "https://www.dw.com/pt-br/",
+      "sourceType": "Imprensa Internacional / Pública",
+      "sourceEditorial": "Emissora pública da Alemanha; foco em diplomacia e direitos humanos",
+      "country": "Alemanha",
+      "paywall": false,
+      "originalUrl": "https://www.dw.com/pt-br/china-debate-reduzir-a-import%C3%A2ncia-do-ingl%C3%AAs-nas-escolas/a-79211825",
+      "publishedAtStr": "2026-09-10T14:00:00Z",
+      "publishedAtTs": 1789048800000,
+      "rawContent": "China debate reduzir a importância do inglês nas escolas",
+      "linkStatus": "active",
+      "lastChecked": 1789080881669
+    },
+    {
+      "id": "gdelt-vk7t4zd",
+      "title": "O que é o inquérito das fake news",
+      "sourceName": "DW Brasil",
+      "sourceUrl": "https://www.dw.com/pt-br/",
+      "sourceType": "Imprensa Internacional / Pública",
+      "sourceEditorial": "Emissora pública da Alemanha; foco em diplomacia e direitos humanos",
+      "country": "Alemanha",
+      "paywall": false,
+      "originalUrl": "https://www.dw.com/pt-br/o-que-%C3%A9-o-inqu%C3%A9rito-das-fake-news/a-79210398",
+      "publishedAtStr": "2026-09-10T12:15:00Z",
+      "publishedAtTs": 1789042500000,
+      "rawContent": "O que é o inquérito das fake news",
+      "linkStatus": "active",
+      "lastChecked": 1789080881669
+    },
+    {
+      "id": "gdelt-93pjtaq",
+      "title": "Trump promete US$ 5 mil se republicanos ganharem eleies",
+      "sourceName": "DW Brasil",
+      "sourceUrl": "https://www.dw.com/pt-br/",
+      "sourceType": "Imprensa Internacional / Pública",
+      "sourceEditorial": "Emissora pública da Alemanha; foco em diplomacia e direitos humanos",
+      "country": "Alemanha",
+      "paywall": false,
+      "originalUrl": "https://www.dw.com/pt-br/trump-promete-us-5-mil-se-republicanos-ganharem-elei%C3%A7%C3%B5es/a-79210151",
+      "publishedAtStr": "2026-09-10T12:15:00Z",
+      "publishedAtTs": 1789042500000,
+      "rawContent": "Trump promete US$ 5 mil se republicanos ganharem eleies",
+      "linkStatus": "active",
+      "lastChecked": 1789080881669
+    },
+    {
+      "id": "gdelt-q24030g",
+      "title": "Coreia do Sul diz que tenta descobrir se Kim Jong - un tem um filho",
+      "sourceName": "G1 Mundo",
+      "sourceUrl": "https://g1.globo.com/mundo/",
+      "sourceType": "Imprensa Comercial Brasileira",
+      "sourceEditorial": "Portal de notícias mainstream do Grupo Globo",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://g1.globo.com/mundo/noticia/2026/09/10/coreia-do-sul-tenta-descobrir-se-kim-jong-un-tem-um-filho-mais-velho.ghtml",
+      "publishedAtStr": "2026-09-10T11:45:00Z",
+      "publishedAtTs": 1789040700000,
+      "rawContent": "Coreia do Sul diz que tenta descobrir se Kim Jong - un tem um filho",
+      "linkStatus": "active",
+      "lastChecked": 1789080881669
+    },
+    {
+      "id": "gdelt-vx16709",
+      "title": "Incêndio em navio de bandeira estrangeira deixa  numerosas vítima em porto da China",
+      "sourceName": "O Globo Mundo",
+      "sourceUrl": "https://oglobo.globo.com/mundo/",
+      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
+      "sourceEditorial": "Jornal diário (Grupo Globo) - Conteúdo sob assinatura",
+      "country": "Brasil",
+      "paywall": true,
+      "originalUrl": "https://oglobo.globo.com/mundo/noticia/2026/09/10/incendio-em-navio-durante-manutencao-deixa-varias-vitimas-em-porto-da-china.ghtml",
+      "publishedAtStr": "2026-09-10T11:00:00Z",
+      "publishedAtTs": 1789038000000,
+      "rawContent": "Incêndio em navio de bandeira estrangeira deixa  numerosas vítima em porto da China",
+      "linkStatus": "active",
+      "lastChecked": 1789080881669
+    },
+    {
+      "id": "gdelt-xfoxtbh",
+      "title": "Mãe é presa após fugir com filho de 6 anos que estava desaparecido havia uma semana nos EUA",
+      "sourceName": "O Globo Mundo",
+      "sourceUrl": "https://oglobo.globo.com/mundo/",
+      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
+      "sourceEditorial": "Jornal diário (Grupo Globo) - Conteúdo sob assinatura",
+      "country": "Brasil",
+      "paywall": true,
+      "originalUrl": "https://oglobo.globo.com/mundo/epoca/noticia/2026/09/10/mae-e-presa-apos-fugir-com-filho-de-6-anos-que-estava-desaparecido-havia-uma-semana-nos-eua.ghtml",
+      "publishedAtStr": "2026-09-10T11:00:00Z",
+      "publishedAtTs": 1789038000000,
+      "rawContent": "Mãe é presa após fugir com filho de 6 anos que estava desaparecido havia uma semana nos EUA",
+      "linkStatus": "active",
+      "lastChecked": 1789080881669
+    },
+    {
+      "id": "gdelt-6odjl8l",
+      "title": "Conheça Hugo , cavalo de quase 2 metros reconhecido pelo Guinness como o mais alto do mundo ( e que ainda pode crescer )",
+      "sourceName": "O Globo Mundo",
+      "sourceUrl": "https://oglobo.globo.com/mundo/",
+      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
+      "sourceEditorial": "Jornal diário (Grupo Globo) - Conteúdo sob assinatura",
+      "country": "Brasil",
+      "paywall": true,
+      "originalUrl": "https://oglobo.globo.com/mundo/epoca/noticia/2026/09/10/conheca-hugo-cavalo-de-quase-2-metros-reconhecido-pelo-guinness-como-o-mais-alto-do-mundo-e-que-ainda-pode-crescer.ghtml",
+      "publishedAtStr": "2026-09-10T11:00:00Z",
+      "publishedAtTs": 1789038000000,
+      "rawContent": "Conheça Hugo , cavalo de quase 2 metros reconhecido pelo Guinness como o mais alto do mundo ( e que ainda pode crescer )",
+      "linkStatus": "active",
+      "lastChecked": 1789080881669
+    },
+    {
+      "id": "gdelt-a03h6f4",
       "title": "Trabalhadores da Caixa anunciam greve nacional por tempo indeterminado a partir desta semana",
       "sourceName": "Brasil de Fato",
       "sourceUrl": "https://www.brasildefato.com.br/",
@@ -186,7 +394,7 @@
       "lastChecked": 1789080283281
     },
     {
-      "id": "gdelt-4q2bhlk",
+      "id": "gdelt-vsy7jga",
       "title": "Conselho de Direitos Humanos da ONU exige fim do bloqueio dos EUA contra Cuba",
       "sourceName": "Brasil de Fato",
       "sourceUrl": "https://www.brasildefato.com.br/",
@@ -202,7 +410,7 @@
       "lastChecked": 1789080283281
     },
     {
-      "id": "gdelt-lglthvm",
+      "id": "gdelt-pyg4by9",
       "title": "Fachin convoca plenário do STF para analisar decisão de Mendonça sobre relação de Moraes com Vorcaro",
       "sourceName": "Brasil de Fato",
       "sourceUrl": "https://www.brasildefato.com.br/",
@@ -218,7 +426,7 @@
       "lastChecked": 1789080283281
     },
     {
-      "id": "gdelt-a42xl57",
+      "id": "gdelt-4xrc4po",
       "title": "Estudo comprova que devastação na Amazônia ameaça segurança hídrica do Sul e Sudeste",
       "sourceName": "Brasil de Fato",
       "sourceUrl": "https://www.brasildefato.com.br/",
@@ -234,7 +442,7 @@
       "lastChecked": 1789080283281
     },
     {
-      "id": "gdelt-5bhjhxn",
+      "id": "gdelt-po35eei",
       "title": "Mendonça aceita delação de empresário que enviou R$ 60 milhões a fundo ligado a Eduardo Bolsonaro",
       "sourceName": "Brasil de Fato",
       "sourceUrl": "https://www.brasildefato.com.br/",
@@ -250,7 +458,7 @@
       "lastChecked": 1789080283281
     },
     {
-      "id": "gdelt-1ryi6ci",
+      "id": "gdelt-1lfyw2p",
       "title": "Em São Paulo , Instituto Baru oferece alimentação saudável direto do pequeno agricultor",
       "sourceName": "Brasil de Fato",
       "sourceUrl": "https://www.brasildefato.com.br/",
@@ -266,7 +474,7 @@
       "lastChecked": 1789080283281
     },
     {
-      "id": "gdelt-jyu69w1",
+      "id": "gdelt-1ouzi10",
       "title": "Decisão de Mendonça mostrou uso político de estrutura do Estado a partir do STF , diz advogado",
       "sourceName": "Brasil de Fato",
       "sourceUrl": "https://www.brasildefato.com.br/",
@@ -282,7 +490,7 @@
       "lastChecked": 1789080283281
     },
     {
-      "id": "gdelt-lt5c3dt",
+      "id": "gdelt-u0a31gc",
       "title": "O que pensa a juventude latino - americana de países governados pela direita sobre seus governos ?",
       "sourceName": "Brasil de Fato",
       "sourceUrl": "https://www.brasildefato.com.br/",
@@ -298,7 +506,7 @@
       "lastChecked": 1789080283281
     },
     {
-      "id": "gdelt-rvhqlho",
+      "id": "gdelt-ectv7pi",
       "title": "Debate eleitoral sumiu do mapa : Paulo Motoryn comenta ascensão de Augusto Cury e disputa no STF",
       "sourceName": "Brasil de Fato",
       "sourceUrl": "https://www.brasildefato.com.br/",
@@ -314,7 +522,7 @@
       "lastChecked": 1789080283281
     },
     {
-      "id": "gdelt-ndpl5d1",
+      "id": "gdelt-blzdych",
       "title": "Fachin reage : presidente do STF derruba decisão de Mendonça e tira inquérito das Fake News de Moraes",
       "sourceName": "Brasil de Fato",
       "sourceUrl": "https://www.brasildefato.com.br/",
@@ -330,7 +538,7 @@
       "lastChecked": 1789080283281
     },
     {
-      "id": "gdelt-7kgg4hv",
+      "id": "gdelt-j7b6nlc",
       "title": "Dino fez o que presidente do STF deveria ter feito , avalia advogado e cientista político",
       "sourceName": "Brasil de Fato",
       "sourceUrl": "https://www.brasildefato.com.br/",
@@ -346,7 +554,7 @@
       "lastChecked": 1789080283281
     },
     {
-      "id": "gdelt-uj8n8yk",
+      "id": "gdelt-96573oz",
       "title": "O fascismo nos EUA só pode ser detido pelo povo estadunidense , diz cônsul de Cuba",
       "sourceName": "Brasil de Fato",
       "sourceUrl": "https://www.brasildefato.com.br/",
