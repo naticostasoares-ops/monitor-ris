@@ -1,16 +1,64 @@
 {
-  "updatedAt": "2026-09-10T02:01:42.867Z",
+  "updatedAt": "2026-09-10T02:17:08.021Z",
   "periodUsed": "24h",
-  "count": 20,
+  "count": 34,
   "linkVerificationStats": {
-    "checkedThisRun": 20,
-    "active": 20,
+    "checkedThisRun": 14,
+    "active": 14,
     "broken": 0,
     "unknown": 0
   },
   "articles": [
     {
-      "id": "gdelt-jjvxutp",
+      "id": "gdelt-ugyw2vq",
+      "title": "Incêndio em balsa nas Filipinas deixa cinco mortos e 87 desaparecidos",
+      "sourceName": "O Globo Mundo",
+      "sourceUrl": "https://oglobo.globo.com/mundo/",
+      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
+      "sourceEditorial": "Jornal diário (Grupo Globo) - Conteúdo sob assinatura",
+      "country": "Brasil",
+      "paywall": true,
+      "originalUrl": "https://oglobo.globo.com/mundo/noticia/2026/09/09/incendio-em-balsa-nas-filipinas-deixa-cinco-mortos-e-87-desaparecidos.ghtml",
+      "publishedAtStr": "2026-09-10T01:45:00Z",
+      "publishedAtTs": 1789004700000,
+      "rawContent": "Incêndio em balsa nas Filipinas deixa cinco mortos e 87 desaparecidos",
+      "linkStatus": "active",
+      "lastChecked": 1789006606810
+    },
+    {
+      "id": "gdelt-htxfc2w",
+      "title": "EUA vão endurecer a guerra contra o narcotráfico no Equador",
+      "sourceName": "G1 Mundo",
+      "sourceUrl": "https://g1.globo.com/mundo/",
+      "sourceType": "Imprensa Comercial Brasileira",
+      "sourceEditorial": "Portal de notícias mainstream do Grupo Globo",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://g1.globo.com/mundo/noticia/2026/09/09/eua-anunciam-que-vao-endurecer-a-guerra-contra-o-narcotrafico-no-equador.ghtml",
+      "publishedAtStr": "2026-09-10T00:30:00Z",
+      "publishedAtTs": 1789000200000,
+      "rawContent": "EUA vão endurecer a guerra contra o narcotráfico no Equador",
+      "linkStatus": "active",
+      "lastChecked": 1789006606810
+    },
+    {
+      "id": "gdelt-psqiknu",
+      "title": "25 anos do 11 de Setembro : Al Qaeda enfraqueceu , mas resiste",
+      "sourceName": "DW Brasil",
+      "sourceUrl": "https://www.dw.com/pt-br/",
+      "sourceType": "Imprensa Internacional / Pública",
+      "sourceEditorial": "Emissora pública da Alemanha; foco em diplomacia e direitos humanos",
+      "country": "Alemanha",
+      "paywall": false,
+      "originalUrl": "https://www.dw.com/pt-br/25-anos-ap%C3%B3s-o-11-de-setembro-al-qaeda-est%C3%A1-enfraquecida-mas-n%C3%A3o-extinta/a-79202877",
+      "publishedAtStr": "2026-09-09T23:45:00Z",
+      "publishedAtTs": 1788997500000,
+      "rawContent": "25 anos do 11 de Setembro : Al Qaeda enfraqueceu , mas resiste",
+      "linkStatus": "active",
+      "lastChecked": 1789006606810
+    },
+    {
+      "id": "gdelt-qktegbd",
       "title": "Debate eleitoral sumiu do mapa : Paulo Motoryn comenta ascensão de Augusto Cury e disputa no STF",
       "sourceName": "Brasil de Fato",
       "sourceUrl": "https://www.brasildefato.com.br/",
@@ -26,7 +74,7 @@
       "lastChecked": 1789005696214
     },
     {
-      "id": "gdelt-bgafrhj",
+      "id": "gdelt-zx3r9la",
       "title": "Fachin reage : presidente do STF derruba decisão de Mendonça e tira inquérito das Fake News de Moraes",
       "sourceName": "Brasil de Fato",
       "sourceUrl": "https://www.brasildefato.com.br/",
@@ -42,7 +90,7 @@
       "lastChecked": 1789005696214
     },
     {
-      "id": "gdelt-va8y9tj",
+      "id": "gdelt-4zop4ly",
       "title": "Dino fez o que presidente do STF deveria ter feito , avalia advogado e cientista político",
       "sourceName": "Brasil de Fato",
       "sourceUrl": "https://www.brasildefato.com.br/",
@@ -58,7 +106,7 @@
       "lastChecked": 1789005696214
     },
     {
-      "id": "gdelt-wpjk4np",
+      "id": "gdelt-ula4s1a",
       "title": "O fascismo nos EUA só pode ser detido pelo povo estadunidense , diz cônsul de Cuba",
       "sourceName": "Brasil de Fato",
       "sourceUrl": "https://www.brasildefato.com.br/",
@@ -74,7 +122,135 @@
       "lastChecked": 1789005696214
     },
     {
-      "id": "gdelt-zb6q39m",
+      "id": "gdelt-oihwnhx",
+      "title": "Guerra Moraes x Mendonça : o que Fachin decidiu e o que acontece agora com os ministros do STF",
+      "sourceName": "BBC News Brasil",
+      "sourceUrl": "https://www.bbc.com/portuguese",
+      "sourceType": "Imprensa Internacional / Pública",
+      "sourceEditorial": "Emissora pública do Reino Unido; jornalismo global independente",
+      "country": "Reino Unido",
+      "paywall": false,
+      "originalUrl": "https://www.bbc.com/portuguese/articles/c5y423dne20o",
+      "publishedAtStr": "2026-09-09T22:15:00Z",
+      "publishedAtTs": 1788992100000,
+      "rawContent": "Guerra Moraes x Mendonça : o que Fachin decidiu e o que acontece agora com os ministros do STF",
+      "linkStatus": "active",
+      "lastChecked": 1789006606810
+    },
+    {
+      "id": "gdelt-pihkij0",
+      "title": "Calor faz vinícolas francesas elevarem álcool do champanhe",
+      "sourceName": "DW Brasil",
+      "sourceUrl": "https://www.dw.com/pt-br/",
+      "sourceType": "Imprensa Internacional / Pública",
+      "sourceEditorial": "Emissora pública da Alemanha; foco em diplomacia e direitos humanos",
+      "country": "Alemanha",
+      "paywall": false,
+      "originalUrl": "https://www.dw.com/pt-br/calor-faz-vin%C3%ADcolas-francesas-elevarem-%C3%A1lcool-do-champanhe/a-79207114",
+      "publishedAtStr": "2026-09-09T21:30:00Z",
+      "publishedAtTs": 1788989400000,
+      "rawContent": "Calor faz vinícolas francesas elevarem álcool do champanhe",
+      "linkStatus": "active",
+      "lastChecked": 1789006606810
+    },
+    {
+      "id": "gdelt-888dfrl",
+      "title": "Menino de 5 anos é resgatado após ficar pendurado com a cabeça presa em grades de janela no sexto andar de prédio na China",
+      "sourceName": "O Globo Mundo",
+      "sourceUrl": "https://oglobo.globo.com/mundo/",
+      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
+      "sourceEditorial": "Jornal diário (Grupo Globo) - Conteúdo sob assinatura",
+      "country": "Brasil",
+      "paywall": true,
+      "originalUrl": "https://oglobo.globo.com/mundo/epoca/noticia/2026/09/09/menino-de-5-anos-e-resgatado-apos-ficar-pendurado-com-a-cabeca-presa-em-grades-de-janela-no-sexto-andar-de-predio-na-china.ghtml",
+      "publishedAtStr": "2026-09-09T21:30:00Z",
+      "publishedAtTs": 1788989400000,
+      "rawContent": "Menino de 5 anos é resgatado após ficar pendurado com a cabeça presa em grades de janela no sexto andar de prédio na China",
+      "linkStatus": "active",
+      "lastChecked": 1789006606810
+    },
+    {
+      "id": "gdelt-zvy8yxc",
+      "title": "Colisão entre trem e caminhão na Polônia deixa um morto e 20 feridos",
+      "sourceName": "O Globo Mundo",
+      "sourceUrl": "https://oglobo.globo.com/mundo/",
+      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
+      "sourceEditorial": "Jornal diário (Grupo Globo) - Conteúdo sob assinatura",
+      "country": "Brasil",
+      "paywall": true,
+      "originalUrl": "https://oglobo.globo.com/mundo/noticia/2026/09/09/trem-descarrila-apos-bater-em-caminhao-na-polonia-uma-pessoa-morre-e-20-ficam-feridas.ghtml",
+      "publishedAtStr": "2026-09-09T21:30:00Z",
+      "publishedAtTs": 1788989400000,
+      "rawContent": "Colisão entre trem e caminhão na Polônia deixa um morto e 20 feridos",
+      "linkStatus": "active",
+      "lastChecked": 1789006606810
+    },
+    {
+      "id": "gdelt-7k63fbe",
+      "title": "Avião de Zelensky quase foi atingido por drone ao deixar Moldávia , diz premier da Noruega",
+      "sourceName": "O Globo Mundo",
+      "sourceUrl": "https://oglobo.globo.com/mundo/",
+      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
+      "sourceEditorial": "Jornal diário (Grupo Globo) - Conteúdo sob assinatura",
+      "country": "Brasil",
+      "paywall": true,
+      "originalUrl": "https://oglobo.globo.com/mundo/noticia/2026/09/09/aviao-de-zelensky-quase-foi-atingido-por-drone-ao-deixar-moldavia-diz-premier-da-noruega.ghtml",
+      "publishedAtStr": "2026-09-09T21:30:00Z",
+      "publishedAtTs": 1788989400000,
+      "rawContent": "Avião de Zelensky quase foi atingido por drone ao deixar Moldávia , diz premier da Noruega",
+      "linkStatus": "active",
+      "lastChecked": 1789006606810
+    },
+    {
+      "id": "gdelt-unn0mtz",
+      "title": "Fachin derruba decisões sobre PF e tira Fake News de Moraes",
+      "sourceName": "DW Brasil",
+      "sourceUrl": "https://www.dw.com/pt-br/",
+      "sourceType": "Imprensa Internacional / Pública",
+      "sourceEditorial": "Emissora pública da Alemanha; foco em diplomacia e direitos humanos",
+      "country": "Alemanha",
+      "paywall": false,
+      "originalUrl": "https://www.dw.com/pt-br/fachin-derruba-decis%C3%B5es-sobre-pf-e-tira-inqu%C3%A9rito-das-fake-news-de-moraes/a-79207703",
+      "publishedAtStr": "2026-09-09T21:30:00Z",
+      "publishedAtTs": 1788989400000,
+      "rawContent": "Fachin derruba decisões sobre PF e tira Fake News de Moraes",
+      "linkStatus": "active",
+      "lastChecked": 1789006606810
+    },
+    {
+      "id": "gdelt-g4ql06b",
+      "title": "Avião de Zelensky quase é atingido por drone a caminho de Oslo , diz premiê da Noruega",
+      "sourceName": "G1 Mundo",
+      "sourceUrl": "https://g1.globo.com/mundo/",
+      "sourceType": "Imprensa Comercial Brasileira",
+      "sourceEditorial": "Portal de notícias mainstream do Grupo Globo",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://g1.globo.com/mundo/noticia/2026/09/09/aviao-de-zelensky-quase-e-atingido-por-drone-a-caminho-de-oslo-diz-premie-da-noruega.ghtml",
+      "publishedAtStr": "2026-09-09T18:45:00Z",
+      "publishedAtTs": 1788979500000,
+      "rawContent": "Avião de Zelensky quase é atingido por drone a caminho de Oslo , diz premiê da Noruega",
+      "linkStatus": "active",
+      "lastChecked": 1789006606810
+    },
+    {
+      "id": "gdelt-px0z1mt",
+      "title": "UE propõe novas restries ao Airbnb e aluguéis de temporada",
+      "sourceName": "DW Brasil",
+      "sourceUrl": "https://www.dw.com/pt-br/",
+      "sourceType": "Imprensa Internacional / Pública",
+      "sourceEditorial": "Emissora pública da Alemanha; foco em diplomacia e direitos humanos",
+      "country": "Alemanha",
+      "paywall": false,
+      "originalUrl": "https://www.dw.com/pt-br/ue-prop%C3%B5e-novas-restri%C3%A7%C3%B5es-ao-airbnb-e-alugu%C3%A9is-de-temporada/a-79205815",
+      "publishedAtStr": "2026-09-09T18:45:00Z",
+      "publishedAtTs": 1788979500000,
+      "rawContent": "UE propõe novas restries ao Airbnb e aluguéis de temporada",
+      "linkStatus": "active",
+      "lastChecked": 1789006606810
+    },
+    {
+      "id": "gdelt-zqype8o",
       "title": "Agroecologia , justiça climática e resiliência hídrica são apresentadas por movimentos populares e órgãos públicos como estratégias de enfrentamento ao El Niño",
       "sourceName": "Brasil de Fato",
       "sourceUrl": "https://www.brasildefato.com.br/",
@@ -90,7 +266,7 @@
       "lastChecked": 1789005696214
     },
     {
-      "id": "gdelt-s5gyzp5",
+      "id": "gdelt-ezswwm0",
       "title": "João Campos reduz distância , mas Raquel Lyra ainda venceria no 1º turno se eleio em Pernambuco fosse hoje , indica pesquisa Quaest",
       "sourceName": "Brasil de Fato",
       "sourceUrl": "https://www.brasildefato.com.br/",
@@ -106,7 +282,7 @@
       "lastChecked": 1789005696214
     },
     {
-      "id": "gdelt-uhdpgg6",
+      "id": "gdelt-q9eod5g",
       "title": "Como a extrema direita constrói sua relação com as mulheres ?",
       "sourceName": "Brasil de Fato",
       "sourceUrl": "https://www.brasildefato.com.br/",
@@ -122,7 +298,7 @@
       "lastChecked": 1789005696214
     },
     {
-      "id": "gdelt-yx6gu4o",
+      "id": "gdelt-7bof7cu",
       "title": "Eleições 2026 : candidaturas serão chamadas a assumir compromissos com água , clima e agricultura familiar na Paraíba",
       "sourceName": "Brasil de Fato",
       "sourceUrl": "https://www.brasildefato.com.br/",
@@ -138,7 +314,7 @@
       "lastChecked": 1789005696214
     },
     {
-      "id": "gdelt-5mi6m3x",
+      "id": "gdelt-6jrljvb",
       "title": "Pequim reafirma laços estratégicos com Pyongyang no 78º aniversário da Coreia do Norte",
       "sourceName": "Brasil de Fato",
       "sourceUrl": "https://www.brasildefato.com.br/",
@@ -154,7 +330,7 @@
       "lastChecked": 1789005696214
     },
     {
-      "id": "gdelt-t3zub50",
+      "id": "gdelt-8u9e8mf",
       "title": "Mulheres são 34 , 35 % das candidaturas no RS , mas avanço na representação política segue lento",
       "sourceName": "Brasil de Fato",
       "sourceUrl": "https://www.brasildefato.com.br/",
@@ -170,7 +346,7 @@
       "lastChecked": 1789005696214
     },
     {
-      "id": "gdelt-bb5ghkx",
+      "id": "gdelt-7qgto9x",
       "title": "RealTime Big Data : Michelle Bolsonaro ( PL ) tem 26 % na pesquisa para o Senado no DF",
       "sourceName": "Brasil de Fato",
       "sourceUrl": "https://www.brasildefato.com.br/",
@@ -186,7 +362,7 @@
       "lastChecked": 1789005696214
     },
     {
-      "id": "gdelt-sslyb2c",
+      "id": "gdelt-kzvsf1r",
       "title": "Lula cobra  quebra completa de sigilo  das investigações dos envolvidos no caso Master e volta a criticar vazamentos seletivos",
       "sourceName": "Brasil de Fato",
       "sourceUrl": "https://www.brasildefato.com.br/",
@@ -202,7 +378,7 @@
       "lastChecked": 1789005696214
     },
     {
-      "id": "gdelt-dfhqac8",
+      "id": "gdelt-rod53ff",
       "title": "Eleições em MG : Cleitinho tem 32 %; Patrus e Kalil têm 11 %, diz Quaest",
       "sourceName": "Brasil de Fato",
       "sourceUrl": "https://www.brasildefato.com.br/",
@@ -218,7 +394,7 @@
       "lastChecked": 1789005696214
     },
     {
-      "id": "gdelt-5h17r2a",
+      "id": "gdelt-cqe8uwv",
       "title": "Dino reverte decisão de Mendonça e reintegra cúpula da Polícia Federal",
       "sourceName": "Brasil de Fato",
       "sourceUrl": "https://www.brasildefato.com.br/",
@@ -234,7 +410,55 @@
       "lastChecked": 1789005696214
     },
     {
-      "id": "gdelt-tsjtplp",
+      "id": "gdelt-cwo24rg",
+      "title": "Análise : Com pressão sobre Israel por colonos na Cisjordânia , Europa marca nova divergência com os EUA",
+      "sourceName": "O Globo Mundo",
+      "sourceUrl": "https://oglobo.globo.com/mundo/",
+      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
+      "sourceEditorial": "Jornal diário (Grupo Globo) - Conteúdo sob assinatura",
+      "country": "Brasil",
+      "paywall": true,
+      "originalUrl": "https://oglobo.globo.com/mundo/noticia/2026/09/09/analise-europa-rompe-com-os-eua-e-se-une-para-pressionar-israel-por-assentamentos-na-cisjordania.ghtml",
+      "publishedAtStr": "2026-09-09T16:30:00Z",
+      "publishedAtTs": 1788971400000,
+      "rawContent": "Análise : Com pressão sobre Israel por colonos na Cisjordânia , Europa marca nova divergência com os EUA",
+      "linkStatus": "active",
+      "lastChecked": 1789006606810
+    },
+    {
+      "id": "gdelt-qnr1ywi",
+      "title": "Irã acelera ritmo de construo em suposta área nuclear na montanha Pickaxe , segundo analistas dos EUA",
+      "sourceName": "G1 Mundo",
+      "sourceUrl": "https://g1.globo.com/mundo/",
+      "sourceType": "Imprensa Comercial Brasileira",
+      "sourceEditorial": "Portal de notícias mainstream do Grupo Globo",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://g1.globo.com/mundo/noticia/2026/09/09/ira-acelera-ritmo-construcao-area-nuclear-pickaxe.ghtml",
+      "publishedAtStr": "2026-09-09T15:00:00Z",
+      "publishedAtTs": 1788966000000,
+      "rawContent": "Irã acelera ritmo de construo em suposta área nuclear na montanha Pickaxe , segundo analistas dos EUA",
+      "linkStatus": "active",
+      "lastChecked": 1789006606810
+    },
+    {
+      "id": "gdelt-8j57bzj",
+      "title": "Partiu cedo demai , diz amigo após morte de Miss Áustria",
+      "sourceName": "G1 Mundo",
+      "sourceUrl": "https://g1.globo.com/mundo/",
+      "sourceType": "Imprensa Comercial Brasileira",
+      "sourceEditorial": "Portal de notícias mainstream do Grupo Globo",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://g1.globo.com/mundo/noticia/2026/09/09/partiu-cedo-demais-morte-austria.ghtml",
+      "publishedAtStr": "2026-09-09T14:30:00Z",
+      "publishedAtTs": 1788964200000,
+      "rawContent": "Partiu cedo demai , diz amigo após morte de Miss Áustria",
+      "linkStatus": "active",
+      "lastChecked": 1789006606810
+    },
+    {
+      "id": "gdelt-274sl2h",
       "title": "Ucrânia realiza ataque massivo com drones e deixa quatro mortos em cidade russa",
       "sourceName": "Brasil de Fato",
       "sourceUrl": "https://www.brasildefato.com.br/",
@@ -250,7 +474,7 @@
       "lastChecked": 1789005696214
     },
     {
-      "id": "gdelt-uil5gym",
+      "id": "gdelt-w8xd3id",
       "title": "OCX será espinha dorsal da Grande Eurásia , diz economista russo idealizador da moeda comum do Brics",
       "sourceName": "Brasil de Fato",
       "sourceUrl": "https://www.brasildefato.com.br/",
@@ -266,7 +490,7 @@
       "lastChecked": 1789005696214
     },
     {
-      "id": "gdelt-7ifqcsd",
+      "id": "gdelt-7ad9hbe",
       "title": "CVM multa Vorcaro em R$ 20 milhões por fraude em fundo imobiliário",
       "sourceName": "Brasil de Fato",
       "sourceUrl": "https://www.brasildefato.com.br/",
@@ -282,7 +506,7 @@
       "lastChecked": 1789005696214
     },
     {
-      "id": "gdelt-luyelwp",
+      "id": "gdelt-h2vwqfp",
       "title": "BookTok : Como o TikTok muda o consumo e a produo de livros",
       "sourceName": "Brasil de Fato",
       "sourceUrl": "https://www.brasildefato.com.br/",
@@ -298,7 +522,7 @@
       "lastChecked": 1789005696214
     },
     {
-      "id": "gdelt-ce6secy",
+      "id": "gdelt-ipggknl",
       "title": "Quaest no RJ : Eduardo Paes tem 39 % e Douglas Ruas , 18 %",
       "sourceName": "Brasil de Fato",
       "sourceUrl": "https://www.brasildefato.com.br/",
@@ -314,7 +538,7 @@
       "lastChecked": 1789005696214
     },
     {
-      "id": "gdelt-ckdkrtm",
+      "id": "gdelt-vnee46a",
       "title": "Como a PF construiu sua independência com apoio do PT e por que ela resiste a crises políticas",
       "sourceName": "Brasil de Fato",
       "sourceUrl": "https://www.brasildefato.com.br/",
