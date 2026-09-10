@@ -1,16 +1,208 @@
 {
-  "updatedAt": "2026-09-10T11:59:44.624Z",
+  "updatedAt": "2026-09-10T12:20:07.550Z",
   "periodUsed": "24h",
-  "count": 70,
+  "count": 102,
   "linkVerificationStats": {
-    "checkedThisRun": 8,
-    "active": 8,
+    "checkedThisRun": 32,
+    "active": 31,
     "broken": 0,
-    "unknown": 0
+    "unknown": 1
   },
   "articles": [
     {
-      "id": "gdelt-qjztake",
+      "id": "gdelt-ck2ax04",
+      "title": "Coreia do Sul diz que tenta descobrir se Kim Jong - un tem um filho",
+      "sourceName": "G1 Mundo",
+      "sourceUrl": "https://g1.globo.com/mundo/",
+      "sourceType": "Imprensa Comercial Brasileira",
+      "sourceEditorial": "Portal de notícias mainstream do Grupo Globo",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://g1.globo.com/mundo/noticia/2026/09/10/coreia-do-sul-tenta-descobrir-se-kim-jong-un-tem-um-filho-mais-velho.ghtml",
+      "publishedAtStr": "2026-09-10T11:45:00Z",
+      "publishedAtTs": 1789040700000,
+      "rawContent": "Coreia do Sul diz que tenta descobrir se Kim Jong - un tem um filho",
+      "linkStatus": "active",
+      "lastChecked": 1789042786293
+    },
+    {
+      "id": "gdelt-utji6cb",
+      "title": "Escalabilidade vira aposta de gigantes do e - commerce antes da Black Friday",
+      "sourceName": "CartaCapital",
+      "sourceUrl": "https://www.cartacapital.com.br/",
+      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
+      "sourceEditorial": "Jornalismo progressista - Conteúdo sob assinatura parcial",
+      "country": "Brasil",
+      "paywall": true,
+      "originalUrl": "https://www.cartacapital.com.br/do-micro-ao-macro/escalabilidade-e-commerce-black-friday/",
+      "publishedAtStr": "2026-09-10T11:45:00Z",
+      "publishedAtTs": 1789040700000,
+      "rawContent": "Escalabilidade vira aposta de gigantes do e - commerce antes da Black Friday",
+      "linkStatus": "active",
+      "lastChecked": 1789042786293
+    },
+    {
+      "id": "gdelt-rsnfrnx",
+      "title": "PF faz operação sobre possíveis desvios de emendas para filme sobre Jair Bolsonaro",
+      "sourceName": "CartaCapital",
+      "sourceUrl": "https://www.cartacapital.com.br/",
+      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
+      "sourceEditorial": "Jornalismo progressista - Conteúdo sob assinatura parcial",
+      "country": "Brasil",
+      "paywall": true,
+      "originalUrl": "https://www.cartacapital.com.br/justica/pf-faz-operacao-sobre-possiveis-desvios-de-emendas-para-filme-sobre-jair-bolsonaro/",
+      "publishedAtStr": "2026-09-10T11:45:00Z",
+      "publishedAtTs": 1789040700000,
+      "rawContent": "PF faz operação sobre possíveis desvios de emendas para filme sobre Jair Bolsonaro",
+      "linkStatus": "active",
+      "lastChecked": 1789042786293
+    },
+    {
+      "id": "gdelt-yoghhk4",
+      "title": "A  goleada  de Lula sobre Flávio Bolsonaro no Maranhão – CartaCapital",
+      "sourceName": "CartaCapital",
+      "sourceUrl": "https://www.cartacapital.com.br/",
+      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
+      "sourceEditorial": "Jornalismo progressista - Conteúdo sob assinatura parcial",
+      "country": "Brasil",
+      "paywall": true,
+      "originalUrl": "https://www.cartacapital.com.br/politica/a-goleada-de-lula-sobre-flavio-bolsonaro-no-maranhao/",
+      "publishedAtStr": "2026-09-10T11:45:00Z",
+      "publishedAtTs": 1789040700000,
+      "rawContent": "A  goleada  de Lula sobre Flávio Bolsonaro no Maranhão – CartaCapital",
+      "linkStatus": "active",
+      "lastChecked": 1789042786293
+    },
+    {
+      "id": "gdelt-wwpa3h3",
+      "title": "Pastor morre após cair em piscina de navio durante comemoração de casamento na Itália",
+      "sourceName": "O Globo Mundo",
+      "sourceUrl": "https://oglobo.globo.com/mundo/",
+      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
+      "sourceEditorial": "Jornal diário (Grupo Globo) - Conteúdo sob assinatura",
+      "country": "Brasil",
+      "paywall": true,
+      "originalUrl": "https://oglobo.globo.com/mundo/epoca/noticia/2026/09/10/pastor-morre-apos-cair-em-piscina-de-navio-durante-comemoracao-de-casamento-na-italia.ghtml",
+      "publishedAtStr": "2026-09-10T11:00:00Z",
+      "publishedAtTs": 1789038000000,
+      "rawContent": "Pastor morre após cair em piscina de navio durante comemoração de casamento na Itália",
+      "linkStatus": "active",
+      "lastChecked": 1789042786293
+    },
+    {
+      "id": "gdelt-6yy0450",
+      "title": "Justiça francesa investiga ex - prefeita de Paris e sucessor por denúncias de abusos em escolas",
+      "sourceName": "O Globo Mundo",
+      "sourceUrl": "https://oglobo.globo.com/mundo/",
+      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
+      "sourceEditorial": "Jornal diário (Grupo Globo) - Conteúdo sob assinatura",
+      "country": "Brasil",
+      "paywall": true,
+      "originalUrl": "https://oglobo.globo.com/mundo/noticia/2026/09/10/justica-francesa-investiga-ex-prefeita-de-paris-e-sucessor-por-denuncias-de-abusos-em-escolas.ghtml",
+      "publishedAtStr": "2026-09-10T11:00:00Z",
+      "publishedAtTs": 1789038000000,
+      "rawContent": "Justiça francesa investiga ex - prefeita de Paris e sucessor por denúncias de abusos em escolas",
+      "linkStatus": "active",
+      "lastChecked": 1789042786293
+    },
+    {
+      "id": "gdelt-c3mshkb",
+      "title": "O que acontece agora após as decisões de Fachin",
+      "sourceName": "DW Brasil",
+      "sourceUrl": "https://www.dw.com/pt-br/",
+      "sourceType": "Imprensa Internacional / Pública",
+      "sourceEditorial": "Emissora pública da Alemanha; foco em diplomacia e direitos humanos",
+      "country": "Alemanha",
+      "paywall": false,
+      "originalUrl": "https://www.dw.com/pt-br/o-que-acontece-agora-ap%C3%B3s-as-decis%C3%B5es-de-fachin/a-79210448",
+      "publishedAtStr": "2026-09-10T11:00:00Z",
+      "publishedAtTs": 1789038000000,
+      "rawContent": "O que acontece agora após as decisões de Fachin",
+      "linkStatus": "active",
+      "lastChecked": 1789042786293
+    },
+    {
+      "id": "gdelt-r65fbju",
+      "title": "Incêndio em navio de bandeira estrangeira deixa  numerosas vítima em porto da China",
+      "sourceName": "O Globo Mundo",
+      "sourceUrl": "https://oglobo.globo.com/mundo/",
+      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
+      "sourceEditorial": "Jornal diário (Grupo Globo) - Conteúdo sob assinatura",
+      "country": "Brasil",
+      "paywall": true,
+      "originalUrl": "https://oglobo.globo.com/mundo/noticia/2026/09/10/incendio-em-navio-durante-manutencao-deixa-varias-vitimas-em-porto-da-china.ghtml",
+      "publishedAtStr": "2026-09-10T11:00:00Z",
+      "publishedAtTs": 1789038000000,
+      "rawContent": "Incêndio em navio de bandeira estrangeira deixa  numerosas vítima em porto da China",
+      "linkStatus": "active",
+      "lastChecked": 1789042786293
+    },
+    {
+      "id": "gdelt-8ga4ws9",
+      "title": "Mãe é presa após fugir com filho de 6 anos que estava desaparecido havia uma semana nos EUA",
+      "sourceName": "O Globo Mundo",
+      "sourceUrl": "https://oglobo.globo.com/mundo/",
+      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
+      "sourceEditorial": "Jornal diário (Grupo Globo) - Conteúdo sob assinatura",
+      "country": "Brasil",
+      "paywall": true,
+      "originalUrl": "https://oglobo.globo.com/mundo/epoca/noticia/2026/09/10/mae-e-presa-apos-fugir-com-filho-de-6-anos-que-estava-desaparecido-havia-uma-semana-nos-eua.ghtml",
+      "publishedAtStr": "2026-09-10T11:00:00Z",
+      "publishedAtTs": 1789038000000,
+      "rawContent": "Mãe é presa após fugir com filho de 6 anos que estava desaparecido havia uma semana nos EUA",
+      "linkStatus": "active",
+      "lastChecked": 1789042786293
+    },
+    {
+      "id": "gdelt-vim8xca",
+      "title": "Conheça Hugo , cavalo de quase 2 metros reconhecido pelo Guinness como o mais alto do mundo ( e que ainda pode crescer )",
+      "sourceName": "O Globo Mundo",
+      "sourceUrl": "https://oglobo.globo.com/mundo/",
+      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
+      "sourceEditorial": "Jornal diário (Grupo Globo) - Conteúdo sob assinatura",
+      "country": "Brasil",
+      "paywall": true,
+      "originalUrl": "https://oglobo.globo.com/mundo/epoca/noticia/2026/09/10/conheca-hugo-cavalo-de-quase-2-metros-reconhecido-pelo-guinness-como-o-mais-alto-do-mundo-e-que-ainda-pode-crescer.ghtml",
+      "publishedAtStr": "2026-09-10T11:00:00Z",
+      "publishedAtTs": 1789038000000,
+      "rawContent": "Conheça Hugo , cavalo de quase 2 metros reconhecido pelo Guinness como o mais alto do mundo ( e que ainda pode crescer )",
+      "linkStatus": "active",
+      "lastChecked": 1789042786293
+    },
+    {
+      "id": "gdelt-nftrca7",
+      "title": "O que acontece agora após decisões de Fachin",
+      "sourceName": "DW Brasil",
+      "sourceUrl": "https://www.dw.com/pt-br/",
+      "sourceType": "Imprensa Internacional / Pública",
+      "sourceEditorial": "Emissora pública da Alemanha; foco em diplomacia e direitos humanos",
+      "country": "Alemanha",
+      "paywall": false,
+      "originalUrl": "https://www.dw.com/pt-br/o-que-acontece-agora-ap%C3%B3s-decis%C3%B5es-de-fachin/a-79210448",
+      "publishedAtStr": "2026-09-10T09:45:00Z",
+      "publishedAtTs": 1789033500000,
+      "rawContent": "O que acontece agora após decisões de Fachin",
+      "linkStatus": "unknown",
+      "lastChecked": 1789042786293
+    },
+    {
+      "id": "gdelt-gphffzu",
+      "title": "EUA parabenizaram mais de 180 países em 12 meses ; Brasil ficou de fora",
+      "sourceName": "G1 Mundo",
+      "sourceUrl": "https://g1.globo.com/mundo/",
+      "sourceType": "Imprensa Comercial Brasileira",
+      "sourceEditorial": "Portal de notícias mainstream do Grupo Globo",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://g1.globo.com/mundo/noticia/2026/09/10/eua-parabenizaram-mais-de-180-paises-em-12-meses-brasil-coreia-do-norte-ira-sao-ignorados.ghtml",
+      "publishedAtStr": "2026-09-10T09:30:00Z",
+      "publishedAtTs": 1789032600000,
+      "rawContent": "EUA parabenizaram mais de 180 países em 12 meses ; Brasil ficou de fora",
+      "linkStatus": "active",
+      "lastChecked": 1789042786293
+    },
+    {
+      "id": "gdelt-5eeldud",
       "title": "Nvidia diz que IA capaz de rivalizar com humanos chegou ; mercado não compra a ideia",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -26,7 +218,151 @@
       "lastChecked": 1789040027487
     },
     {
-      "id": "gdelt-4y6tlf1",
+      "id": "gdelt-0pevppi",
+      "title": "tudo brincadeira : estudo propõe que orcas atacam barcos para se divertir e até levam presentes à tripulação",
+      "sourceName": "O Globo Mundo",
+      "sourceUrl": "https://oglobo.globo.com/mundo/",
+      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
+      "sourceEditorial": "Jornal diário (Grupo Globo) - Conteúdo sob assinatura",
+      "country": "Brasil",
+      "paywall": true,
+      "originalUrl": "https://oglobo.globo.com/mundo/clima-e-ciencia/noticia/2026/09/10/e-tudo-brincadeira-estudo-propoe-que-orcas-atacam-barcos-para-se-divertir-e-ate-levam-presentes-a-tripulacao.ghtml",
+      "publishedAtStr": "2026-09-10T09:00:00Z",
+      "publishedAtTs": 1789030800000,
+      "rawContent": "tudo brincadeira : estudo propõe que orcas atacam barcos para se divertir e até levam presentes à tripulação",
+      "linkStatus": "active",
+      "lastChecked": 1789042786293
+    },
+    {
+      "id": "gdelt-cdjnau7",
+      "title": "Merz cancela telefonema com Trump após celebrao pela AfD",
+      "sourceName": "DW Brasil",
+      "sourceUrl": "https://www.dw.com/pt-br/",
+      "sourceType": "Imprensa Internacional / Pública",
+      "sourceEditorial": "Emissora pública da Alemanha; foco em diplomacia e direitos humanos",
+      "country": "Alemanha",
+      "paywall": false,
+      "originalUrl": "https://www.dw.com/pt-br/merz-cancela-telefonema-com-trump-ap%C3%B3s-celebra%C3%A7%C3%A3o-pela-afd/a-79204213",
+      "publishedAtStr": "2026-09-10T07:15:00Z",
+      "publishedAtTs": 1789024500000,
+      "rawContent": "Merz cancela telefonema com Trump após celebrao pela AfD",
+      "linkStatus": "active",
+      "lastChecked": 1789042786293
+    },
+    {
+      "id": "gdelt-9nkev9q",
+      "title": "Ex - presidente do Equador é condenado por venda irregular de testes de Covid - 19 no auge da pandemia",
+      "sourceName": "O Globo Mundo",
+      "sourceUrl": "https://oglobo.globo.com/mundo/",
+      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
+      "sourceEditorial": "Jornal diário (Grupo Globo) - Conteúdo sob assinatura",
+      "country": "Brasil",
+      "paywall": true,
+      "originalUrl": "https://oglobo.globo.com/mundo/noticia/2026/09/10/ex-presidente-do-equador-e-condenado-por-venda-irregular-de-testes-de-covid-19-no-auge-da-pandemia.ghtml",
+      "publishedAtStr": "2026-09-10T06:15:00Z",
+      "publishedAtTs": 1789020900000,
+      "rawContent": "Ex - presidente do Equador é condenado por venda irregular de testes de Covid - 19 no auge da pandemia",
+      "linkStatus": "active",
+      "lastChecked": 1789042786293
+    },
+    {
+      "id": "gdelt-qg20z1c",
+      "title": "Suspeitos de assassinato de candidato à presidência do Equador serão extraditados para os EUA",
+      "sourceName": "O Globo Mundo",
+      "sourceUrl": "https://oglobo.globo.com/mundo/",
+      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
+      "sourceEditorial": "Jornal diário (Grupo Globo) - Conteúdo sob assinatura",
+      "country": "Brasil",
+      "paywall": true,
+      "originalUrl": "https://oglobo.globo.com/mundo/noticia/2026/09/10/suspeitos-de-assassinato-de-candidato-a-presidencia-do-equador-serao-extraditados-para-os-eua.ghtml",
+      "publishedAtStr": "2026-09-10T06:15:00Z",
+      "publishedAtTs": 1789020900000,
+      "rawContent": "Suspeitos de assassinato de candidato à presidência do Equador serão extraditados para os EUA",
+      "linkStatus": "active",
+      "lastChecked": 1789042786293
+    },
+    {
+      "id": "gdelt-mh7kxda",
+      "title": "Juradas do caso de Lindsay Clancy relatam frustração com colega que barrou absolvio da mãe que matou 3 filhos nos EUA",
+      "sourceName": "O Globo Mundo",
+      "sourceUrl": "https://oglobo.globo.com/mundo/",
+      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
+      "sourceEditorial": "Jornal diário (Grupo Globo) - Conteúdo sob assinatura",
+      "country": "Brasil",
+      "paywall": true,
+      "originalUrl": "https://oglobo.globo.com/mundo/noticia/2026/09/10/juradas-do-caso-de-lindsay-clancy-relatam-frustracao-com-colega-que-barrou-absolvicao-da-mae-que-matou-3-filhos-nos-eua.ghtml",
+      "publishedAtStr": "2026-09-10T06:15:00Z",
+      "publishedAtTs": 1789020900000,
+      "rawContent": "Juradas do caso de Lindsay Clancy relatam frustração com colega que barrou absolvio da mãe que matou 3 filhos nos EUA",
+      "linkStatus": "active",
+      "lastChecked": 1789042786293
+    },
+    {
+      "id": "gdelt-drx3r1s",
+      "title": "Natalie Harp : quem é a assistente dedicada de Trump , apelidada de  impressora humana  e presenteada com R$ 229 mil em dinheiro",
+      "sourceName": "O Globo Mundo",
+      "sourceUrl": "https://oglobo.globo.com/mundo/",
+      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
+      "sourceEditorial": "Jornal diário (Grupo Globo) - Conteúdo sob assinatura",
+      "country": "Brasil",
+      "paywall": true,
+      "originalUrl": "https://oglobo.globo.com/mundo/noticia/2026/09/10/natalie-harp-quem-e-a-assistente-dedicada-de-trump-apelidada-de-impressora-humana-e-presenteada-com-r-229-mil-em-dinheiro.ghtml",
+      "publishedAtStr": "2026-09-10T06:15:00Z",
+      "publishedAtTs": 1789020900000,
+      "rawContent": "Natalie Harp : quem é a assistente dedicada de Trump , apelidada de  impressora humana  e presenteada com R$ 229 mil em dinheiro",
+      "linkStatus": "active",
+      "lastChecked": 1789042786293
+    },
+    {
+      "id": "gdelt-ka5w6qf",
+      "title": "Choque , confusão e horror em tempo real : ela filmou os atentados de 11 de Setembro e só viu as imagens agora , após 25 anos",
+      "sourceName": "O Globo Mundo",
+      "sourceUrl": "https://oglobo.globo.com/mundo/",
+      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
+      "sourceEditorial": "Jornal diário (Grupo Globo) - Conteúdo sob assinatura",
+      "country": "Brasil",
+      "paywall": true,
+      "originalUrl": "https://oglobo.globo.com/mundo/noticia/2026/09/10/choque-confusao-e-horror-em-tempo-real-ela-filmou-os-atentados-de-11-de-setembro-e-so-viu-as-imagens-agora-apos-25-anos.ghtml",
+      "publishedAtStr": "2026-09-10T06:00:00Z",
+      "publishedAtTs": 1789020000000,
+      "rawContent": "Choque , confusão e horror em tempo real : ela filmou os atentados de 11 de Setembro e só viu as imagens agora , após 25 anos",
+      "linkStatus": "active",
+      "lastChecked": 1789042786293
+    },
+    {
+      "id": "gdelt-vog41cl",
+      "title": "Estou boltando : erro de ortografia revela assassinato na Argentina",
+      "sourceName": "G1 Mundo",
+      "sourceUrl": "https://g1.globo.com/mundo/",
+      "sourceType": "Imprensa Comercial Brasileira",
+      "sourceEditorial": "Portal de notícias mainstream do Grupo Globo",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://g1.globo.com/mundo/noticia/2026/09/10/estou-boltando-erro-de-ortografia-em-mensagem-no-whatsapp-revela-tortura-e-assassinato-de-arquiteto-na-argentina.ghtml",
+      "publishedAtStr": "2026-09-10T05:45:00Z",
+      "publishedAtTs": 1789019100000,
+      "rawContent": "Estou boltando : erro de ortografia revela assassinato na Argentina",
+      "linkStatus": "active",
+      "lastChecked": 1789042786293
+    },
+    {
+      "id": "gdelt-40c129z",
+      "title": "Incêndio em balsa deixa cinco mortos e 87 desaparecidos nas Filipinas",
+      "sourceName": "G1 Mundo",
+      "sourceUrl": "https://g1.globo.com/mundo/",
+      "sourceType": "Imprensa Comercial Brasileira",
+      "sourceEditorial": "Portal de notícias mainstream do Grupo Globo",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://g1.globo.com/mundo/noticia/2026/09/10/incendio-em-balsa-deixa-mortos-e-desaparecidos-nas-filipinas.ghtml",
+      "publishedAtStr": "2026-09-10T04:15:00Z",
+      "publishedAtTs": 1789013700000,
+      "rawContent": "Incêndio em balsa deixa cinco mortos e 87 desaparecidos nas Filipinas",
+      "linkStatus": "active",
+      "lastChecked": 1789042786293
+    },
+    {
+      "id": "gdelt-q9ksgks",
       "title": "Fracking de petróleo e gás entra em debate no STJ",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -42,7 +378,7 @@
       "lastChecked": 1789040027487
     },
     {
-      "id": "gdelt-ff9l8kd",
+      "id": "gdelt-v3w4fgs",
       "title": "André Mendonça manda soltar filho do  Careca do INS – CartaCapital",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -58,7 +394,39 @@
       "lastChecked": 1789040027487
     },
     {
-      "id": "gdelt-bl4scvo",
+      "id": "gdelt-ryvz8rh",
+      "title": "Trump promete dar mais de R$ 25 mil por adulto se republicanos vencerem eleições de novembro",
+      "sourceName": "G1 Mundo",
+      "sourceUrl": "https://g1.globo.com/mundo/",
+      "sourceType": "Imprensa Comercial Brasileira",
+      "sourceEditorial": "Portal de notícias mainstream do Grupo Globo",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://g1.globo.com/mundo/noticia/2026/09/09/trump-promete-dar-mais-de-r-25-mil-por-adulto-se-republicanos-vencerem-eleicoes-de-novembro.ghtml",
+      "publishedAtStr": "2026-09-10T03:45:00Z",
+      "publishedAtTs": 1789011900000,
+      "rawContent": "Trump promete dar mais de R$ 25 mil por adulto se republicanos vencerem eleições de novembro",
+      "linkStatus": "active",
+      "lastChecked": 1789042786293
+    },
+    {
+      "id": "gdelt-4ndluve",
+      "title": "Chanceler alemão cancela conversa com Trump após vitória da AfD",
+      "sourceName": "G1 Mundo",
+      "sourceUrl": "https://g1.globo.com/mundo/",
+      "sourceType": "Imprensa Comercial Brasileira",
+      "sourceEditorial": "Portal de notícias mainstream do Grupo Globo",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://g1.globo.com/mundo/noticia/2026/09/10/chanceler-da-alemanha-cancela-conversa-com-trump-apos-presidente-dos-eua-celebrar-vitoria-da-extrema-direita.ghtml",
+      "publishedAtStr": "2026-09-10T03:45:00Z",
+      "publishedAtTs": 1789011900000,
+      "rawContent": "Chanceler alemão cancela conversa com Trump após vitória da AfD",
+      "linkStatus": "active",
+      "lastChecked": 1789042786293
+    },
+    {
+      "id": "gdelt-qb1n3gf",
       "title": "Incêndio em balsa deixa cinco mortos e 87 desaparecidos nas Filipinas",
       "sourceName": "Estadão Internacional",
       "sourceUrl": "https://www.estadao.com.br/internacional/",
@@ -74,7 +442,7 @@
       "lastChecked": 1789040027487
     },
     {
-      "id": "gdelt-8gbuulf",
+      "id": "gdelt-06v0pl4",
       "title": "Por que o Google está colocando 13 bilhões de euros na Finlândia ?",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -90,7 +458,55 @@
       "lastChecked": 1789040027487
     },
     {
-      "id": "gdelt-he80l1h",
+      "id": "gdelt-dfltg0f",
+      "title": "Incêndio em balsa nas Filipinas deixa cinco mortos e 87 desaparecidos",
+      "sourceName": "O Globo Mundo",
+      "sourceUrl": "https://oglobo.globo.com/mundo/",
+      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
+      "sourceEditorial": "Jornal diário (Grupo Globo) - Conteúdo sob assinatura",
+      "country": "Brasil",
+      "paywall": true,
+      "originalUrl": "https://oglobo.globo.com/mundo/noticia/2026/09/09/incendio-em-balsa-nas-filipinas-deixa-cinco-mortos-e-87-desaparecidos.ghtml",
+      "publishedAtStr": "2026-09-10T01:45:00Z",
+      "publishedAtTs": 1789004700000,
+      "rawContent": "Incêndio em balsa nas Filipinas deixa cinco mortos e 87 desaparecidos",
+      "linkStatus": "active",
+      "lastChecked": 1789042786293
+    },
+    {
+      "id": "gdelt-j4eogk8",
+      "title": "EUA vão endurecer a guerra contra o narcotráfico no Equador",
+      "sourceName": "G1 Mundo",
+      "sourceUrl": "https://g1.globo.com/mundo/",
+      "sourceType": "Imprensa Comercial Brasileira",
+      "sourceEditorial": "Portal de notícias mainstream do Grupo Globo",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://g1.globo.com/mundo/noticia/2026/09/09/eua-anunciam-que-vao-endurecer-a-guerra-contra-o-narcotrafico-no-equador.ghtml",
+      "publishedAtStr": "2026-09-10T00:30:00Z",
+      "publishedAtTs": 1789000200000,
+      "rawContent": "EUA vão endurecer a guerra contra o narcotráfico no Equador",
+      "linkStatus": "active",
+      "lastChecked": 1789042786293
+    },
+    {
+      "id": "gdelt-yxvjaqb",
+      "title": "25 anos do 11 de Setembro : Al Qaeda enfraqueceu , mas resiste",
+      "sourceName": "DW Brasil",
+      "sourceUrl": "https://www.dw.com/pt-br/",
+      "sourceType": "Imprensa Internacional / Pública",
+      "sourceEditorial": "Emissora pública da Alemanha; foco em diplomacia e direitos humanos",
+      "country": "Alemanha",
+      "paywall": false,
+      "originalUrl": "https://www.dw.com/pt-br/25-anos-ap%C3%B3s-o-11-de-setembro-al-qaeda-est%C3%A1-enfraquecida-mas-n%C3%A3o-extinta/a-79202877",
+      "publishedAtStr": "2026-09-09T23:45:00Z",
+      "publishedAtTs": 1788997500000,
+      "rawContent": "25 anos do 11 de Setembro : Al Qaeda enfraqueceu , mas resiste",
+      "linkStatus": "active",
+      "lastChecked": 1789042786293
+    },
+    {
+      "id": "gdelt-6er0ta5",
       "title": "Nepal recorre a drones para enviar ajuda humanitária a vítimas de inundações",
       "sourceName": "Veja Mundo",
       "sourceUrl": "https://veja.abril.com.br/mundo/",
@@ -106,7 +522,7 @@
       "lastChecked": 1789040027487
     },
     {
-      "id": "gdelt-teg4vqi",
+      "id": "gdelt-mpk8rj4",
       "title": "Sem ideia para o jantar ? Veja 3 receitas de almôndegas fáceis e ricas em proteínas – CartaCapital",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -122,7 +538,7 @@
       "lastChecked": 1789040027487
     },
     {
-      "id": "gdelt-867sdl6",
+      "id": "gdelt-wm7q9ll",
       "title": "Couve , limão e gengibre : aprenda a preparar esse suco verde para incluir na dieta – CartaCapital",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -138,7 +554,7 @@
       "lastChecked": 1789040027487
     },
     {
-      "id": "gdelt-6pdusjd",
+      "id": "gdelt-b0fqhnb",
       "title": "PF intima Campos Neto e Galípolo para dar depoimentos sobre o caso Master",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -154,7 +570,7 @@
       "lastChecked": 1789040027487
     },
     {
-      "id": "gdelt-yn0hrub",
+      "id": "gdelt-7eaxsbi",
       "title": "Fachin retira Moraes do inquérito das fake News e assume a relatoria – CartaCapital",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -170,7 +586,7 @@
       "lastChecked": 1789040027487
     },
     {
-      "id": "gdelt-7rte02m",
+      "id": "gdelt-th67h9p",
       "title": "Subsídios à gasolina e ao diesel são ampliados após alta do petróleo",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -186,7 +602,7 @@
       "lastChecked": 1789040027487
     },
     {
-      "id": "gdelt-ywkx83n",
+      "id": "gdelt-seo33n2",
       "title": "Fachin marca julgamento de pedido de investigação de Moraes",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -202,7 +618,7 @@
       "lastChecked": 1789040027487
     },
     {
-      "id": "gdelt-tspbtnd",
+      "id": "gdelt-qwemh4g",
       "title": "PF intima Galípolo , Campos Neto , Aquino e André Esteves a deporem como testemunhas no caso Master",
       "sourceName": "Valor Econômico",
       "sourceUrl": "https://valor.globo.com/",
@@ -218,7 +634,7 @@
       "lastChecked": 1789040027487
     },
     {
-      "id": "gdelt-mjiobui",
+      "id": "gdelt-z2q0o0n",
       "title": "Toffoli rejeita novo habeas corpus que tentava soltar Bolsonaro",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -234,7 +650,7 @@
       "lastChecked": 1789040027487
     },
     {
-      "id": "gdelt-sawhi5y",
+      "id": "gdelt-7sln91r",
       "title": "Ibovespa hoje : acompanhe em tempo real a Bolsa de Valores",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -250,7 +666,7 @@
       "lastChecked": 1789040027487
     },
     {
-      "id": "gdelt-dt1xd69",
+      "id": "gdelt-gi63uzv",
       "title": "André Mendonça revoga prisão de filho do  Careca do INSS",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -266,7 +682,7 @@
       "lastChecked": 1789040027487
     },
     {
-      "id": "gdelt-jh513nt",
+      "id": "gdelt-psd7t8o",
       "title": "Taxas dos DIs sobem em dia de realização de lucros e petróleo acima de US$100",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -282,7 +698,7 @@
       "lastChecked": 1789040027487
     },
     {
-      "id": "gdelt-i8jgd72",
+      "id": "gdelt-oqkt9ou",
       "title": "Plano do Tesouro dos EUA de recompra de títulos falha e juro bate recorde de 3 anos",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -298,7 +714,7 @@
       "lastChecked": 1789040027487
     },
     {
-      "id": "gdelt-g2gtuv3",
+      "id": "gdelt-xtx5una",
       "title": "Fachin suspende decisões de Mendonça e Dino sobre comando da PF",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -314,7 +730,7 @@
       "lastChecked": 1789040027487
     },
     {
-      "id": "gdelt-wjm6lmi",
+      "id": "gdelt-zre0qmm",
       "title": "Como um escândalo na Bolívia respinga na direita da América Latina",
       "sourceName": "Estadão Internacional",
       "sourceUrl": "https://www.estadao.com.br/internacional/",
@@ -330,7 +746,23 @@
       "lastChecked": 1789040027487
     },
     {
-      "id": "gdelt-xjklu7y",
+      "id": "gdelt-wziiqn4",
+      "title": "Guerra Moraes x Mendonça : o que Fachin decidiu e o que acontece agora com os ministros do STF",
+      "sourceName": "BBC News Brasil",
+      "sourceUrl": "https://www.bbc.com/portuguese",
+      "sourceType": "Imprensa Internacional / Pública",
+      "sourceEditorial": "Emissora pública do Reino Unido; jornalismo global independente",
+      "country": "Reino Unido",
+      "paywall": false,
+      "originalUrl": "https://www.bbc.com/portuguese/articles/c5y423dne20o",
+      "publishedAtStr": "2026-09-09T22:15:00Z",
+      "publishedAtTs": 1788992100000,
+      "rawContent": "Guerra Moraes x Mendonça : o que Fachin decidiu e o que acontece agora com os ministros do STF",
+      "linkStatus": "active",
+      "lastChecked": 1789042786293
+    },
+    {
+      "id": "gdelt-brnyr9b",
       "title": "Crescimento da AfD ameaça o governo Merz e próximos capítulos ainda estão por vir",
       "sourceName": "Estadão Internacional",
       "sourceUrl": "https://www.estadao.com.br/internacional/",
@@ -346,7 +778,87 @@
       "lastChecked": 1789040027487
     },
     {
-      "id": "gdelt-0ldm25k",
+      "id": "gdelt-qlt1l9m",
+      "title": "Calor faz vinícolas francesas elevarem álcool do champanhe",
+      "sourceName": "DW Brasil",
+      "sourceUrl": "https://www.dw.com/pt-br/",
+      "sourceType": "Imprensa Internacional / Pública",
+      "sourceEditorial": "Emissora pública da Alemanha; foco em diplomacia e direitos humanos",
+      "country": "Alemanha",
+      "paywall": false,
+      "originalUrl": "https://www.dw.com/pt-br/calor-faz-vin%C3%ADcolas-francesas-elevarem-%C3%A1lcool-do-champanhe/a-79207114",
+      "publishedAtStr": "2026-09-09T21:30:00Z",
+      "publishedAtTs": 1788989400000,
+      "rawContent": "Calor faz vinícolas francesas elevarem álcool do champanhe",
+      "linkStatus": "active",
+      "lastChecked": 1789042786293
+    },
+    {
+      "id": "gdelt-phn4irf",
+      "title": "Menino de 5 anos é resgatado após ficar pendurado com a cabeça presa em grades de janela no sexto andar de prédio na China",
+      "sourceName": "O Globo Mundo",
+      "sourceUrl": "https://oglobo.globo.com/mundo/",
+      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
+      "sourceEditorial": "Jornal diário (Grupo Globo) - Conteúdo sob assinatura",
+      "country": "Brasil",
+      "paywall": true,
+      "originalUrl": "https://oglobo.globo.com/mundo/epoca/noticia/2026/09/09/menino-de-5-anos-e-resgatado-apos-ficar-pendurado-com-a-cabeca-presa-em-grades-de-janela-no-sexto-andar-de-predio-na-china.ghtml",
+      "publishedAtStr": "2026-09-09T21:30:00Z",
+      "publishedAtTs": 1788989400000,
+      "rawContent": "Menino de 5 anos é resgatado após ficar pendurado com a cabeça presa em grades de janela no sexto andar de prédio na China",
+      "linkStatus": "active",
+      "lastChecked": 1789042786293
+    },
+    {
+      "id": "gdelt-uq3bkjg",
+      "title": "Colisão entre trem e caminhão na Polônia deixa um morto e 20 feridos",
+      "sourceName": "O Globo Mundo",
+      "sourceUrl": "https://oglobo.globo.com/mundo/",
+      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
+      "sourceEditorial": "Jornal diário (Grupo Globo) - Conteúdo sob assinatura",
+      "country": "Brasil",
+      "paywall": true,
+      "originalUrl": "https://oglobo.globo.com/mundo/noticia/2026/09/09/trem-descarrila-apos-bater-em-caminhao-na-polonia-uma-pessoa-morre-e-20-ficam-feridas.ghtml",
+      "publishedAtStr": "2026-09-09T21:30:00Z",
+      "publishedAtTs": 1788989400000,
+      "rawContent": "Colisão entre trem e caminhão na Polônia deixa um morto e 20 feridos",
+      "linkStatus": "active",
+      "lastChecked": 1789042786293
+    },
+    {
+      "id": "gdelt-3bhsd1e",
+      "title": "Avião de Zelensky quase foi atingido por drone ao deixar Moldávia , diz premier da Noruega",
+      "sourceName": "O Globo Mundo",
+      "sourceUrl": "https://oglobo.globo.com/mundo/",
+      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
+      "sourceEditorial": "Jornal diário (Grupo Globo) - Conteúdo sob assinatura",
+      "country": "Brasil",
+      "paywall": true,
+      "originalUrl": "https://oglobo.globo.com/mundo/noticia/2026/09/09/aviao-de-zelensky-quase-foi-atingido-por-drone-ao-deixar-moldavia-diz-premier-da-noruega.ghtml",
+      "publishedAtStr": "2026-09-09T21:30:00Z",
+      "publishedAtTs": 1788989400000,
+      "rawContent": "Avião de Zelensky quase foi atingido por drone ao deixar Moldávia , diz premier da Noruega",
+      "linkStatus": "active",
+      "lastChecked": 1789042786293
+    },
+    {
+      "id": "gdelt-fp75ozd",
+      "title": "Fachin derruba decisões sobre PF e tira Fake News de Moraes",
+      "sourceName": "DW Brasil",
+      "sourceUrl": "https://www.dw.com/pt-br/",
+      "sourceType": "Imprensa Internacional / Pública",
+      "sourceEditorial": "Emissora pública da Alemanha; foco em diplomacia e direitos humanos",
+      "country": "Alemanha",
+      "paywall": false,
+      "originalUrl": "https://www.dw.com/pt-br/fachin-derruba-decis%C3%B5es-sobre-pf-e-tira-inqu%C3%A9rito-das-fake-news-de-moraes/a-79207703",
+      "publishedAtStr": "2026-09-09T21:30:00Z",
+      "publishedAtTs": 1788989400000,
+      "rawContent": "Fachin derruba decisões sobre PF e tira Fake News de Moraes",
+      "linkStatus": "active",
+      "lastChecked": 1789042786293
+    },
+    {
+      "id": "gdelt-xjbeme9",
       "title": "Fachin suspende decisão de Mendonça que afastou Andrei Rodrigues da PF",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -362,7 +874,7 @@
       "lastChecked": 1789040027487
     },
     {
-      "id": "gdelt-3gutalt",
+      "id": "gdelt-l915avp",
       "title": "Cachorro - quente também pode ganhar versões mais saudáveis : veja 3 receitas para o lanche da tarde – CartaCapital",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -378,7 +890,7 @@
       "lastChecked": 1789040886239
     },
     {
-      "id": "gdelt-x4pc02f",
+      "id": "gdelt-lbzkkra",
       "title": "Caiado e Renan Santos realizam  debate paralelo  na próxima semana",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -394,7 +906,7 @@
       "lastChecked": 1789040886239
     },
     {
-      "id": "gdelt-g4jlwe9",
+      "id": "gdelt-p5blvhx",
       "title": "Moraes manda PF ouvir deputado do PL que pediu investigação contra Dino",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -410,7 +922,7 @@
       "lastChecked": 1789040886239
     },
     {
-      "id": "gdelt-gfeanbj",
+      "id": "gdelt-dxgg1r3",
       "title": "Novo uniforme espacial divulgado por Trump gera comparação com trajes nazistas",
       "sourceName": "Veja Mundo",
       "sourceUrl": "https://veja.abril.com.br/mundo/",
@@ -426,7 +938,7 @@
       "lastChecked": 1789040886239
     },
     {
-      "id": "gdelt-9ydr3vn",
+      "id": "gdelt-5ysgk8h",
       "title": "16 anos depois , como está menino que chocou o mundo por fumar 40 cigarros por dia",
       "sourceName": "Veja Mundo",
       "sourceUrl": "https://veja.abril.com.br/mundo/",
@@ -442,7 +954,7 @@
       "lastChecked": 1789040886239
     },
     {
-      "id": "gdelt-oit0cel",
+      "id": "gdelt-ow675k3",
       "title": "Em turnê sul - americana , Marco Rubio chega ao Equador para visitar mais um aliado",
       "sourceName": "Veja Mundo",
       "sourceUrl": "https://veja.abril.com.br/mundo/",
@@ -458,7 +970,7 @@
       "lastChecked": 1789040886239
     },
     {
-      "id": "gdelt-syi9ahp",
+      "id": "gdelt-hudcju1",
       "title": "Enteado do rei da Noruega , condenado por estupro , é evitado por familiares em funeral",
       "sourceName": "Veja Mundo",
       "sourceUrl": "https://veja.abril.com.br/mundo/",
@@ -474,7 +986,7 @@
       "lastChecked": 1789040886239
     },
     {
-      "id": "gdelt-tkbrp1m",
+      "id": "gdelt-jvjdkos",
       "title": "Após dobrar equipe , Requin foca em consultoria e mira R$ 2 , 5 bilhões em custódia",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -490,7 +1002,7 @@
       "lastChecked": 1789040886239
     },
     {
-      "id": "gdelt-kewsr2p",
+      "id": "gdelt-i7oeifr",
       "title": "Bolsas da Europa fecham em queda pressionadas por petróleo Brent a US$ 100",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -506,7 +1018,7 @@
       "lastChecked": 1789040886239
     },
     {
-      "id": "gdelt-11xuwu6",
+      "id": "gdelt-jer0adq",
       "title": "História dos dobráveis : Samsung testou , Huawei inovou , Apple chega agora",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -522,7 +1034,7 @@
       "lastChecked": 1789040886239
     },
     {
-      "id": "gdelt-e7ep4ol",
+      "id": "gdelt-jmexwpb",
       "title": "Irã ameaça ampliar guerra com os EUA e diz estar pronto para conflito prolongado",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -538,7 +1050,7 @@
       "lastChecked": 1789040886239
     },
     {
-      "id": "gdelt-gzjlqdu",
+      "id": "gdelt-e8h5sdq",
       "title": "A guerra que Vorcaro não venceu sozinho : como o Supremo virou palco do próprio escândalo",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -554,7 +1066,7 @@
       "lastChecked": 1789040886239
     },
     {
-      "id": "gdelt-9k2glw5",
+      "id": "gdelt-tlt2kgc",
       "title": "Brasil tem fluxo cambial negativo de US$ 6 , 693 bi em setembro até dia 4 , diz BC",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -570,7 +1082,7 @@
       "lastChecked": 1789040886239
     },
     {
-      "id": "gdelt-vcf0f2o",
+      "id": "gdelt-s6c2ze3",
       "title": "Oscar : Academia Brasileira de Cinema revela os 6 filmes que podem representar Brasil",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -586,7 +1098,7 @@
       "lastChecked": 1789040886239
     },
     {
-      "id": "gdelt-7drht1k",
+      "id": "gdelt-emxi4ag",
       "title": "Tarcísio : STF está  batendo cabeça  e não consegue garantir segurança jurídica",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -602,7 +1114,7 @@
       "lastChecked": 1789040886239
     },
     {
-      "id": "gdelt-up4htwd",
+      "id": "gdelt-0t1lzgs",
       "title": "Exportações do Brasil para os EUA até agosto são as menores desde 2023",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -618,7 +1130,7 @@
       "lastChecked": 1789040886239
     },
     {
-      "id": "gdelt-003jxhr",
+      "id": "gdelt-85vl1cd",
       "title": "Nas redes , 73 % discordam do afastamento do diretor da PF por Mendonça , diz pesquisa",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -634,7 +1146,7 @@
       "lastChecked": 1789040886239
     },
     {
-      "id": "gdelt-8fiwuiy",
+      "id": "gdelt-2rhanbk",
       "title": "Ranking das Campeãs de Dividendos 2026 : veja as empresas que se destacaram",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -650,7 +1162,7 @@
       "lastChecked": 1789040886239
     },
     {
-      "id": "gdelt-j0ehcvl",
+      "id": "gdelt-gfelchr",
       "title": "Ministros cobram interveno de Fachin após nova escalada da crise no STF",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -666,7 +1178,7 @@
       "lastChecked": 1789040886239
     },
     {
-      "id": "gdelt-lanzai5",
+      "id": "gdelt-07k04gq",
       "title": "CNH : STF permite uso de carro particular no exame de direo",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -682,7 +1194,7 @@
       "lastChecked": 1789040886239
     },
     {
-      "id": "gdelt-v7ziivb",
+      "id": "gdelt-ktd5jma",
       "title": "Trump prevê fim da guerra com Irã após  midterms  e promete gasolina mais barata",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -698,7 +1210,7 @@
       "lastChecked": 1789040886239
     },
     {
-      "id": "gdelt-0074y3l",
+      "id": "gdelt-j20ol6c",
       "title": "iPhone Duo , da Apple , vai custar a partir de R$ 21 . 999 no Brasil ; veja",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -714,7 +1226,7 @@
       "lastChecked": 1789040886239
     },
     {
-      "id": "gdelt-6sxpm7d",
+      "id": "gdelt-9v0pt59",
       "title": "XP : Preços da celulose melhoram , mas ventos positivos não devem durar",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -730,7 +1242,7 @@
       "lastChecked": 1789040886239
     },
     {
-      "id": "gdelt-t3wiy66",
+      "id": "gdelt-dy0mxuw",
       "title": "Tesouro dos EUA sanciona empresas da China sob alegação de crime cibernético",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -746,7 +1258,7 @@
       "lastChecked": 1789040886239
     },
     {
-      "id": "gdelt-7ddz30v",
+      "id": "gdelt-qvh0pas",
       "title": "Ao lado de apoiadores , Flávio refaz percurso em que Bolsonaro levou facada em 2018",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -762,7 +1274,7 @@
       "lastChecked": 1789040886239
     },
     {
-      "id": "gdelt-68g3ncr",
+      "id": "gdelt-qjoxmzv",
       "title": "Andrei Rodrigues chega à sede da PF após Flávio Dino suspender decisão de André Mendonça",
       "sourceName": "Valor Econômico",
       "sourceUrl": "https://valor.globo.com/",
@@ -778,7 +1290,7 @@
       "lastChecked": 1789040886239
     },
     {
-      "id": "gdelt-vscjisi",
+      "id": "gdelt-22cuwf0",
       "title": "Casa Branca exclui de site oficial jogo  Tetri que simulava muros na fronteira",
       "sourceName": "Veja Mundo",
       "sourceUrl": "https://veja.abril.com.br/mundo/",
@@ -794,7 +1306,7 @@
       "lastChecked": 1789040886239
     },
     {
-      "id": "gdelt-q4a2izb",
+      "id": "gdelt-2vtb2to",
       "title": "Simples Nacional : prazo para solicitar adesão muda e está aberto até o fim do mês",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -810,7 +1322,7 @@
       "lastChecked": 1789040886239
     },
     {
-      "id": "gdelt-6nfk9y7",
+      "id": "gdelt-p34juuq",
       "title": "Rachas por falta de verba e alianças estaduais desafiam Flávio Bolsonaro no Nordeste",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -826,7 +1338,7 @@
       "lastChecked": 1789040886239
     },
     {
-      "id": "gdelt-6pytfnq",
+      "id": "gdelt-zvv1tln",
       "title": "CNI , Fiesp e CNC cobram julgamento público e urgente sobre crise no STF",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -842,7 +1354,7 @@
       "lastChecked": 1789040886239
     },
     {
-      "id": "gdelt-ph5u6md",
+      "id": "gdelt-sqjv4ue",
       "title": "Caso Master , guerra entre ministros e PF : entenda a crise que atinge o STF",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -858,7 +1370,7 @@
       "lastChecked": 1789040886239
     },
     {
-      "id": "gdelt-jhgg5he",
+      "id": "gdelt-74oy7t4",
       "title": "Mendonça procura Fachin após Dino reintegrar chefe da PF e cobra resposta do STF",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -874,7 +1386,7 @@
       "lastChecked": 1789040886239
     },
     {
-      "id": "gdelt-prqjlun",
+      "id": "gdelt-bn8x5sn",
       "title": "Virou várzea , diz Flávio Bolsonaro sobre reconduo de Andrei Rodrigues",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -890,7 +1402,7 @@
       "lastChecked": 1789040886239
     },
     {
-      "id": "gdelt-ek9iswg",
+      "id": "gdelt-asdrjlq",
       "title": "Centcom nega ataque do Irã a dois navios dos EUA e diz ter destruído 10 petroleiros",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -906,7 +1418,7 @@
       "lastChecked": 1789040886239
     },
     {
-      "id": "gdelt-e02jr64",
+      "id": "gdelt-sld5ti2",
       "title": "FII de shopping busca na venda de ativos o  tempero  para estabilidade dos dividendos",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -922,7 +1434,7 @@
       "lastChecked": 1789040886239
     },
     {
-      "id": "gdelt-dn4wsbz",
+      "id": "gdelt-dxwi0vh",
       "title": "IA deveria liberar o chefe para liderar , mas alguns voltaram a executar",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -938,7 +1450,7 @@
       "lastChecked": 1789040886239
     },
     {
-      "id": "gdelt-u4j7gjn",
+      "id": "gdelt-dsdixad",
       "title": "Campanha de Lula lança site para comparar preços com gestão Bolsonaro",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -954,7 +1466,7 @@
       "lastChecked": 1789040886239
     },
     {
-      "id": "gdelt-xjmrp87",
+      "id": "gdelt-kf3l88e",
       "title": "Fachin repete falhas apontadas por colegas em nova crise do STF",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -970,7 +1482,7 @@
       "lastChecked": 1789040886239
     },
     {
-      "id": "gdelt-7e1bvss",
+      "id": "gdelt-t7ml1gw",
       "title": "Apple recua na bolsa antes de lançamento de celular dobrável",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -986,7 +1498,7 @@
       "lastChecked": 1789040886239
     },
     {
-      "id": "gdelt-v7jg47e",
+      "id": "gdelt-uthn9zx",
       "title": "Huawei no banco dos réus em NY : acusações incluem fraude e segredos comerciais",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -1002,7 +1514,7 @@
       "lastChecked": 1789040886239
     },
     {
-      "id": "gdelt-ruwp7su",
+      "id": "gdelt-hdr2kdr",
       "title": "Defesa Civil alerta para chuvas fortes e rajadas de vento em São Paulo",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -1018,7 +1530,7 @@
       "lastChecked": 1789041582069
     },
     {
-      "id": "gdelt-o1q7spy",
+      "id": "gdelt-60s4dsq",
       "title": "AGU mantém pedido para afastamento de Andrei seja julgado em plenário do STF",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -1034,7 +1546,7 @@
       "lastChecked": 1789041582069
     },
     {
-      "id": "gdelt-uzpgl4d",
+      "id": "gdelt-hazgv98",
       "title": "Multidão se despede do rei Harald na Noruega",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -1050,7 +1562,7 @@
       "lastChecked": 1789041582069
     },
     {
-      "id": "gdelt-s893irf",
+      "id": "gdelt-powbbvl",
       "title": "Pesquisa Palver mostra empate entre Lula e Flávio Bolsonaro nos dois turnos",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -1066,7 +1578,7 @@
       "lastChecked": 1789041582069
     },
     {
-      "id": "gdelt-190tu06",
+      "id": "gdelt-ww8fuvb",
       "title": "Há alternativas para o Brasil crescer de forma sustentável",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -1082,7 +1594,7 @@
       "lastChecked": 1789041582069
     },
     {
-      "id": "gdelt-evc996m",
+      "id": "gdelt-lmv78vo",
       "title": "Real Time Big Data mostra liderança de Michelle Bolsonaro na disputa pelo Senado no DF – CartaCapital",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -1098,7 +1610,7 @@
       "lastChecked": 1789041582069
     },
     {
-      "id": "gdelt-j6d4wos",
+      "id": "gdelt-juftppw",
       "title": "Lula e Flávio Bolsonaro empatam em 1º e 2º turnos , segundo pesquisa Meio / Ideia – CartaCapital",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -1114,7 +1626,7 @@
       "lastChecked": 1789041582069
     },
     {
-      "id": "gdelt-ycfbj9x",
+      "id": "gdelt-hhdto4j",
       "title": "Empreendedorismo negro ganha masterclasses gratuitas – CartaCapital",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
