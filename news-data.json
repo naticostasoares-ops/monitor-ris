@@ -1,16 +1,16 @@
 {
-  "updatedAt": "2026-09-10T20:46:16.041Z",
+  "updatedAt": "2026-09-10T20:58:13.444Z",
   "periodUsed": "24h",
-  "count": 46,
+  "count": 68,
   "linkVerificationStats": {
-    "checkedThisRun": 40,
-    "active": 39,
+    "checkedThisRun": 28,
+    "active": 28,
     "broken": 0,
-    "unknown": 1
+    "unknown": 0
   },
   "articles": [
     {
-      "id": "gdelt-h4438k9",
+      "id": "gdelt-rzv9k25",
       "title": "EUA : Tennessee pode executar a primeira mulher no corredor da morte em 200 anos",
       "sourceName": "Veja Mundo",
       "sourceUrl": "https://veja.abril.com.br/mundo/",
@@ -26,7 +26,7 @@
       "lastChecked": 1789073160120
     },
     {
-      "id": "gdelt-qszebm9",
+      "id": "gdelt-t32b7yv",
       "title": "Quanto custaria o dividendo de US$ 5 mil que Trump prometeu ? Ele pode fazer isso ?",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -42,7 +42,7 @@
       "lastChecked": 1789073160120
     },
     {
-      "id": "gdelt-bxeqsnb",
+      "id": "gdelt-osvd2vx",
       "title": "O que muda com BDRs no Ibovespa ? Expectativa é por maior diversidade e novos fluxos",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -58,7 +58,7 @@
       "lastChecked": 1789073160120
     },
     {
-      "id": "gdelt-3k6kram",
+      "id": "gdelt-tqmnaz3",
       "title": "Renan Santos diz que crise no STF é disputa de Poder com guerra entre  facções",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -74,7 +74,7 @@
       "lastChecked": 1789073160120
     },
     {
-      "id": "gdelt-tgdxbix",
+      "id": "gdelt-v8tjqaa",
       "title": "Eleições podem  mudar jogo  das construtoras , mas JPMorgan ainda prefere baixa renda",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -90,7 +90,7 @@
       "lastChecked": 1789073160120
     },
     {
-      "id": "gdelt-l39qpy3",
+      "id": "gdelt-9y0hdlf",
       "title": "Fogão , geladeira e fritadeira : Casas Bahia faz novo leilão com até 68 % de desconto",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -106,7 +106,7 @@
       "lastChecked": 1789073160120
     },
     {
-      "id": "gdelt-l0cg4we",
+      "id": "gdelt-xp1mfob",
       "title": "Eleio de Flávio ou reeleio de Lula ? AtlasIntel mede maior temor dos eleitores",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -122,7 +122,7 @@
       "lastChecked": 1789073160120
     },
     {
-      "id": "gdelt-rk7a2zb",
+      "id": "gdelt-usz33x3",
       "title": "Greve na Caixa e paralisação no BB : veja como fica o atendimento",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -138,7 +138,7 @@
       "lastChecked": 1789073160120
     },
     {
-      "id": "gdelt-y44bpfa",
+      "id": "gdelt-d49dlkn",
       "title": "De obra afetada pela Lava Jato a taxista e trader : a trajetória de Robert Machado",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -154,7 +154,7 @@
       "lastChecked": 1789073160120
     },
     {
-      "id": "gdelt-txxa7n2",
+      "id": "gdelt-nxg3fpk",
       "title": "Bombardeio russo contra shopping na Ucrânia mata ao menos 3 e deixa mais de 30 feridos",
       "sourceName": "Estadão Internacional",
       "sourceUrl": "https://www.estadao.com.br/internacional/",
@@ -170,7 +170,167 @@
       "lastChecked": 1789073160120
     },
     {
-      "id": "gdelt-9mtb849",
+      "id": "gdelt-tr2jzk5",
+      "title": "Fuzil e seis armas de bolsonarista Mário Frias são apreendidos em operação sobre  Dark Horse ; PF apura crime de posse ilegal",
+      "sourceName": "Brasil de Fato",
+      "sourceUrl": "https://www.brasildefato.com.br/",
+      "sourceType": "Jornal / Movimentos Sociais",
+      "sourceEditorial": "Mídia popular focada em Direitos Humanos e Sul Global",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://www.brasildefato.com.br/2026/09/10/fuzil-e-seis-armas-de-bolsonarista-mario-frias-sao-apreendidos-em-operacao-sobre-dark-horse-pf-apura-crime-de-posse-ilegal/",
+      "publishedAtStr": "2026-09-10T18:15:00Z",
+      "publishedAtTs": 1789064100000,
+      "rawContent": "Fuzil e seis armas de bolsonarista Mário Frias são apreendidos em operação sobre  Dark Horse ; PF apura crime de posse ilegal",
+      "linkStatus": "active",
+      "lastChecked": 1789073883366
+    },
+    {
+      "id": "gdelt-jkfhxvg",
+      "title": "Incêndio em navio de carga deixa 25 mortos na China",
+      "sourceName": "Brasil de Fato",
+      "sourceUrl": "https://www.brasildefato.com.br/",
+      "sourceType": "Jornal / Movimentos Sociais",
+      "sourceEditorial": "Mídia popular focada em Direitos Humanos e Sul Global",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://www.brasildefato.com.br/2026/09/10/incendio-em-navio-de-carga-deixa-25-mortos-na-china/",
+      "publishedAtStr": "2026-09-10T18:15:00Z",
+      "publishedAtTs": 1789064100000,
+      "rawContent": "Incêndio em navio de carga deixa 25 mortos na China",
+      "linkStatus": "active",
+      "lastChecked": 1789073883366
+    },
+    {
+      "id": "gdelt-0sqp32b",
+      "title": "Aquecimento global acelera frequência de catástrofes nos Himalaias , diz pesquisador chinês",
+      "sourceName": "Brasil de Fato",
+      "sourceUrl": "https://www.brasildefato.com.br/",
+      "sourceType": "Jornal / Movimentos Sociais",
+      "sourceEditorial": "Mídia popular focada em Direitos Humanos e Sul Global",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://www.brasildefato.com.br/2026/09/10/aquecimento-global-acelera-frequencia-de-catastrofes-nos-himalaias-diz-pesquisador-chines/",
+      "publishedAtStr": "2026-09-10T18:15:00Z",
+      "publishedAtTs": 1789064100000,
+      "rawContent": "Aquecimento global acelera frequência de catástrofes nos Himalaias , diz pesquisador chinês",
+      "linkStatus": "active",
+      "lastChecked": 1789073883366
+    },
+    {
+      "id": "gdelt-fqkbxu3",
+      "title": "Xi Jinping confirma presença em cúpula do Brics na Índia em meio à reaproximação entre os países",
+      "sourceName": "Brasil de Fato",
+      "sourceUrl": "https://www.brasildefato.com.br/",
+      "sourceType": "Jornal / Movimentos Sociais",
+      "sourceEditorial": "Mídia popular focada em Direitos Humanos e Sul Global",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://www.brasildefato.com.br/2026/09/10/xi-jinping-confirma-presenca-em-cupula-do-brics-na-india-em-meio-a-reaproximacao-entre-os-paises/",
+      "publishedAtStr": "2026-09-10T18:15:00Z",
+      "publishedAtTs": 1789064100000,
+      "rawContent": "Xi Jinping confirma presença em cúpula do Brics na Índia em meio à reaproximação entre os países",
+      "linkStatus": "active",
+      "lastChecked": 1789073883366
+    },
+    {
+      "id": "gdelt-4gab6qs",
+      "title": "Presidente de Cuba , Miguel Díaz - Canel , entrega Medalha da Amizade ao MST",
+      "sourceName": "Brasil de Fato",
+      "sourceUrl": "https://www.brasildefato.com.br/",
+      "sourceType": "Jornal / Movimentos Sociais",
+      "sourceEditorial": "Mídia popular focada em Direitos Humanos e Sul Global",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://www.brasildefato.com.br/2026/09/10/presidente-de-cuba-miguel-diaz-canel-entrega-medalha-da-amizade-ao-mst/",
+      "publishedAtStr": "2026-09-10T18:15:00Z",
+      "publishedAtTs": 1789064100000,
+      "rawContent": "Presidente de Cuba , Miguel Díaz - Canel , entrega Medalha da Amizade ao MST",
+      "linkStatus": "active",
+      "lastChecked": 1789073883366
+    },
+    {
+      "id": "gdelt-mzzcg78",
+      "title": "Ministro Flávio Dino derruba sigilo de decisão sobre  Dark Horse  e cita Mario Frias , Bia Kicis e Marcos Pollon , deputados do PL",
+      "sourceName": "Brasil de Fato",
+      "sourceUrl": "https://www.brasildefato.com.br/",
+      "sourceType": "Jornal / Movimentos Sociais",
+      "sourceEditorial": "Mídia popular focada em Direitos Humanos e Sul Global",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://www.brasildefato.com.br/2026/09/10/ministro-flavio-dino-derruba-sigilo-de-decisao-sobre-dark-horse-e-cita-deputados-do-pl/",
+      "publishedAtStr": "2026-09-10T18:15:00Z",
+      "publishedAtTs": 1789064100000,
+      "rawContent": "Ministro Flávio Dino derruba sigilo de decisão sobre  Dark Horse  e cita Mario Frias , Bia Kicis e Marcos Pollon , deputados do PL",
+      "linkStatus": "active",
+      "lastChecked": 1789073883366
+    },
+    {
+      "id": "gdelt-1p9kw46",
+      "title": "Com graves problemas de saúde , Cilia Flores solicita prisão domiciliar nos Estados Unidos",
+      "sourceName": "Brasil de Fato",
+      "sourceUrl": "https://www.brasildefato.com.br/",
+      "sourceType": "Jornal / Movimentos Sociais",
+      "sourceEditorial": "Mídia popular focada em Direitos Humanos e Sul Global",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://www.brasildefato.com.br/2026/09/10/com-graves-problemas-de-saude-cilia-flores-solicita-prisao-domiciliar-nos-estados-unidos/",
+      "publishedAtStr": "2026-09-10T18:15:00Z",
+      "publishedAtTs": 1789064100000,
+      "rawContent": "Com graves problemas de saúde , Cilia Flores solicita prisão domiciliar nos Estados Unidos",
+      "linkStatus": "active",
+      "lastChecked": 1789073883366
+    },
+    {
+      "id": "gdelt-1xw3377",
+      "title": "Preveno ao suicídio : profissionais de saúde destacam riscos com bets",
+      "sourceName": "Brasil de Fato",
+      "sourceUrl": "https://www.brasildefato.com.br/",
+      "sourceType": "Jornal / Movimentos Sociais",
+      "sourceEditorial": "Mídia popular focada em Direitos Humanos e Sul Global",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://www.brasildefato.com.br/2026/09/10/prevencao-ao-suicidio-profissionais-de-saude-destacam-riscos-com-bets/",
+      "publishedAtStr": "2026-09-10T18:15:00Z",
+      "publishedAtTs": 1789064100000,
+      "rawContent": "Preveno ao suicídio : profissionais de saúde destacam riscos com bets",
+      "linkStatus": "active",
+      "lastChecked": 1789073883366
+    },
+    {
+      "id": "gdelt-xqv5sfb",
+      "title": "Dia do Cerrado : projeto no DF utiliza brincadeiras para estimular cuidado com o bioma",
+      "sourceName": "Brasil de Fato",
+      "sourceUrl": "https://www.brasildefato.com.br/",
+      "sourceType": "Jornal / Movimentos Sociais",
+      "sourceEditorial": "Mídia popular focada em Direitos Humanos e Sul Global",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://www.brasildefato.com.br/2026/09/09/dia-do-cerrado-projeto-no-df-utiliza-brincadeiras-para-estimular-cuidado-com-o-bioma/",
+      "publishedAtStr": "2026-09-10T18:15:00Z",
+      "publishedAtTs": 1789064100000,
+      "rawContent": "Dia do Cerrado : projeto no DF utiliza brincadeiras para estimular cuidado com o bioma",
+      "linkStatus": "active",
+      "lastChecked": 1789073883366
+    },
+    {
+      "id": "gdelt-qhag4i9",
+      "title": "Pesquisa Real Time / Big Data aponta empate técnico entre Zucco e Juliana Brizola na disputa pelo governo do RS",
+      "sourceName": "Brasil de Fato",
+      "sourceUrl": "https://www.brasildefato.com.br/",
+      "sourceType": "Jornal / Movimentos Sociais",
+      "sourceEditorial": "Mídia popular focada em Direitos Humanos e Sul Global",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://www.brasildefato.com.br/2026/09/10/pesquisa-real-time-big-data-aponta-empate-tecnico-entre-zucco-e-juliana-brizola-na-disputa-pelo-governo-do-rs/",
+      "publishedAtStr": "2026-09-10T18:15:00Z",
+      "publishedAtTs": 1789064100000,
+      "rawContent": "Pesquisa Real Time / Big Data aponta empate técnico entre Zucco e Juliana Brizola na disputa pelo governo do RS",
+      "linkStatus": "active",
+      "lastChecked": 1789073883366
+    },
+    {
+      "id": "gdelt-l3aurpf",
       "title": "Incêndio em navio atracado em porto na China deixa ao menos 25 mortos",
       "sourceName": "Veja Mundo",
       "sourceUrl": "https://veja.abril.com.br/mundo/",
@@ -186,7 +346,7 @@
       "lastChecked": 1789073160120
     },
     {
-      "id": "gdelt-wzxex9v",
+      "id": "gdelt-2k22zzd",
       "title": "Novo filme revela sistemas secretos de IA usados por Israel em massacres em Gaza",
       "sourceName": "Veja Mundo",
       "sourceUrl": "https://veja.abril.com.br/mundo/",
@@ -202,7 +362,7 @@
       "lastChecked": 1789073160120
     },
     {
-      "id": "gdelt-tmj9vrk",
+      "id": "gdelt-xop6x3b",
       "title": "Calixto Salomão Filho : Crise no STF abre caminho para consolidar a democracia",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -218,7 +378,7 @@
       "lastChecked": 1789073160120
     },
     {
-      "id": "gdelt-rkvwiyy",
+      "id": "gdelt-6pidzjj",
       "title": "Em busca da reeleio , Mitidieri lidera corrida pelo governo de Sergipe , mostra pesquisa Atlas – CartaCapital",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -234,7 +394,7 @@
       "lastChecked": 1789073160120
     },
     {
-      "id": "gdelt-ased7cy",
+      "id": "gdelt-93hz7rf",
       "title": "PF apreende armas em endereços de Mário Frias na operação sobre  Dark Horse",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -250,7 +410,7 @@
       "lastChecked": 1789073160120
     },
     {
-      "id": "gdelt-iqirz7i",
+      "id": "gdelt-kkv2xsv",
       "title": "Real Time : Allyson venceria Cadu , do PT , no 2º turno do Rio Grande do Norte",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -266,7 +426,7 @@
       "lastChecked": 1789073160120
     },
     {
-      "id": "gdelt-ur3e33g",
+      "id": "gdelt-qvvvvdt",
       "title": "Moraes anuncia , mas depois cancela pronunciamento após Fachin marcar sessão sobre conversas com Vorcaro",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -282,7 +442,7 @@
       "lastChecked": 1789073160120
     },
     {
-      "id": "gdelt-qlrokpd",
+      "id": "gdelt-cv468ph",
       "title": "Real Time : Lula  goleia  Flávio Bolsonaro no Rio Grande do Norte",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -298,7 +458,7 @@
       "lastChecked": 1789073160120
     },
     {
-      "id": "gdelt-yqqok1n",
+      "id": "gdelt-9uumtly",
       "title": "Pesquisa Alfa mostra favoritismo de Moro para o governo do Paraná – CartaCapital",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -314,7 +474,7 @@
       "lastChecked": 1789073160120
     },
     {
-      "id": "gdelt-b6ajg37",
+      "id": "gdelt-jnhfv8o",
       "title": "Atlas : Lula tem 10 pontos de vantagem sobre Flávio Bolsonaro em Alagoas no 2º turno",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -330,7 +490,7 @@
       "lastChecked": 1789073160120
     },
     {
-      "id": "gdelt-dqt28s7",
+      "id": "gdelt-utlpyfu",
       "title": "Atlas mostra empate técnico entre JHC e Renan Filho na disputa por Alagoas",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -346,7 +506,7 @@
       "lastChecked": 1789073160120
     },
     {
-      "id": "gdelt-mqx7r5h",
+      "id": "gdelt-k23fhb6",
       "title": "Justiça do Equador condena ex - presidente Bucaram por corrupo na pandemia de covid",
       "sourceName": "Veja Mundo",
       "sourceUrl": "https://veja.abril.com.br/mundo/",
@@ -362,7 +522,7 @@
       "lastChecked": 1789073160120
     },
     {
-      "id": "gdelt-a39937j",
+      "id": "gdelt-8uvcsbk",
       "title": "Escalabilidade vira aposta de gigantes do e - commerce antes da Black Friday",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -378,7 +538,7 @@
       "lastChecked": 1789073160120
     },
     {
-      "id": "gdelt-7bdtyki",
+      "id": "gdelt-swtbaap",
       "title": "PF faz operação sobre possíveis desvios de emendas para filme sobre Jair Bolsonaro",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -394,7 +554,7 @@
       "lastChecked": 1789073160120
     },
     {
-      "id": "gdelt-fv5e9nw",
+      "id": "gdelt-y7x5qfj",
       "title": "A  goleada  de Lula sobre Flávio Bolsonaro no Maranhão – CartaCapital",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -410,7 +570,7 @@
       "lastChecked": 1789073160120
     },
     {
-      "id": "gdelt-aq1vwry",
+      "id": "gdelt-mi49p3t",
       "title": "Nvidia diz que IA capaz de rivalizar com humanos chegou ; mercado não compra a ideia",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -426,7 +586,23 @@
       "lastChecked": 1789073160120
     },
     {
-      "id": "gdelt-3w9aulw",
+      "id": "gdelt-i1i1rd7",
+      "title": "Trabalhadores da Caixa anunciam greve nacional por tempo indeterminado a partir desta semana",
+      "sourceName": "Brasil de Fato",
+      "sourceUrl": "https://www.brasildefato.com.br/",
+      "sourceType": "Jornal / Movimentos Sociais",
+      "sourceEditorial": "Mídia popular focada em Direitos Humanos e Sul Global",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://www.brasildefato.com.br/2026/09/09/trabalhadores-da-caixa-anunciam-greve-nacional-por-tempo-indeterminado-a-partir-desta-semana/",
+      "publishedAtStr": "2026-09-10T09:00:00Z",
+      "publishedAtTs": 1789030800000,
+      "rawContent": "Trabalhadores da Caixa anunciam greve nacional por tempo indeterminado a partir desta semana",
+      "linkStatus": "active",
+      "lastChecked": 1789073883366
+    },
+    {
+      "id": "gdelt-zzp137x",
       "title": "Fracking de petróleo e gás entra em debate no STJ",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -442,7 +618,7 @@
       "lastChecked": 1789073160120
     },
     {
-      "id": "gdelt-5fahjuo",
+      "id": "gdelt-gqoj6sg",
       "title": "André Mendonça manda soltar filho do  Careca do INS – CartaCapital",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -458,7 +634,119 @@
       "lastChecked": 1789073160120
     },
     {
-      "id": "gdelt-tn4hmtl",
+      "id": "gdelt-0fhba0h",
+      "title": "Conselho de Direitos Humanos da ONU exige fim do bloqueio dos EUA contra Cuba",
+      "sourceName": "Brasil de Fato",
+      "sourceUrl": "https://www.brasildefato.com.br/",
+      "sourceType": "Jornal / Movimentos Sociais",
+      "sourceEditorial": "Mídia popular focada em Direitos Humanos e Sul Global",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://www.brasildefato.com.br/2026/09/09/conselho-de-direitos-humanos-da-onu-exige-fim-do-bloqueio-dos-eua-contra-cuba/",
+      "publishedAtStr": "2026-09-10T04:15:00Z",
+      "publishedAtTs": 1789013700000,
+      "rawContent": "Conselho de Direitos Humanos da ONU exige fim do bloqueio dos EUA contra Cuba",
+      "linkStatus": "active",
+      "lastChecked": 1789073883366
+    },
+    {
+      "id": "gdelt-kf4zl56",
+      "title": "Fachin convoca plenário do STF para analisar decisão de Mendonça sobre relação de Moraes com Vorcaro",
+      "sourceName": "Brasil de Fato",
+      "sourceUrl": "https://www.brasildefato.com.br/",
+      "sourceType": "Jornal / Movimentos Sociais",
+      "sourceEditorial": "Mídia popular focada em Direitos Humanos e Sul Global",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://www.brasildefato.com.br/2026/09/09/fachin-convoca-plenario-do-stf-para-analisar-decisao-de-mendonca-sobre-relacao-de-moraes-com-vorcaro/",
+      "publishedAtStr": "2026-09-10T04:15:00Z",
+      "publishedAtTs": 1789013700000,
+      "rawContent": "Fachin convoca plenário do STF para analisar decisão de Mendonça sobre relação de Moraes com Vorcaro",
+      "linkStatus": "active",
+      "lastChecked": 1789073883366
+    },
+    {
+      "id": "gdelt-c22hnan",
+      "title": "Estudo comprova que devastação na Amazônia ameaça segurança hídrica do Sul e Sudeste",
+      "sourceName": "Brasil de Fato",
+      "sourceUrl": "https://www.brasildefato.com.br/",
+      "sourceType": "Jornal / Movimentos Sociais",
+      "sourceEditorial": "Mídia popular focada em Direitos Humanos e Sul Global",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://www.brasildefato.com.br/2026/09/09/estudo-comprova-que-devastacao-na-amazonia-ameaca-seguranca-hidrica-do-sul-e-sudeste/",
+      "publishedAtStr": "2026-09-10T04:15:00Z",
+      "publishedAtTs": 1789013700000,
+      "rawContent": "Estudo comprova que devastação na Amazônia ameaça segurança hídrica do Sul e Sudeste",
+      "linkStatus": "active",
+      "lastChecked": 1789073883366
+    },
+    {
+      "id": "gdelt-gqqq6p0",
+      "title": "Mendonça aceita delação de empresário que enviou R$ 60 milhões a fundo ligado a Eduardo Bolsonaro",
+      "sourceName": "Brasil de Fato",
+      "sourceUrl": "https://www.brasildefato.com.br/",
+      "sourceType": "Jornal / Movimentos Sociais",
+      "sourceEditorial": "Mídia popular focada em Direitos Humanos e Sul Global",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://www.brasildefato.com.br/2026/09/09/mendonca-aceita-delacao-de-empresario-que-enviou-r-60-milhoes-a-fundo-ligado-a-eduardo-bolsonaro/",
+      "publishedAtStr": "2026-09-10T04:15:00Z",
+      "publishedAtTs": 1789013700000,
+      "rawContent": "Mendonça aceita delação de empresário que enviou R$ 60 milhões a fundo ligado a Eduardo Bolsonaro",
+      "linkStatus": "active",
+      "lastChecked": 1789073883366
+    },
+    {
+      "id": "gdelt-wzokmix",
+      "title": "Em São Paulo , Instituto Baru oferece alimentação saudável direto do pequeno agricultor",
+      "sourceName": "Brasil de Fato",
+      "sourceUrl": "https://www.brasildefato.com.br/",
+      "sourceType": "Jornal / Movimentos Sociais",
+      "sourceEditorial": "Mídia popular focada em Direitos Humanos e Sul Global",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://www.brasildefato.com.br/2026/09/09/em-sao-paulo-instituto-baru-oferece-alimentacao-saudavel-direto-do-pequeno-agricultor/",
+      "publishedAtStr": "2026-09-10T04:15:00Z",
+      "publishedAtTs": 1789013700000,
+      "rawContent": "Em São Paulo , Instituto Baru oferece alimentação saudável direto do pequeno agricultor",
+      "linkStatus": "active",
+      "lastChecked": 1789073883366
+    },
+    {
+      "id": "gdelt-y6x7ylu",
+      "title": "Decisão de Mendonça mostrou uso político de estrutura do Estado a partir do STF , diz advogado",
+      "sourceName": "Brasil de Fato",
+      "sourceUrl": "https://www.brasildefato.com.br/",
+      "sourceType": "Jornal / Movimentos Sociais",
+      "sourceEditorial": "Mídia popular focada em Direitos Humanos e Sul Global",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://www.brasildefato.com.br/2026/09/09/decisao-de-mendonca-mostrou-uso-politico-de-estrutura-do-estado-a-partir-do-stf-diz-advogado/",
+      "publishedAtStr": "2026-09-10T04:15:00Z",
+      "publishedAtTs": 1789013700000,
+      "rawContent": "Decisão de Mendonça mostrou uso político de estrutura do Estado a partir do STF , diz advogado",
+      "linkStatus": "active",
+      "lastChecked": 1789073883366
+    },
+    {
+      "id": "gdelt-kx39ivu",
+      "title": "O que pensa a juventude latino - americana de países governados pela direita sobre seus governos ?",
+      "sourceName": "Brasil de Fato",
+      "sourceUrl": "https://www.brasildefato.com.br/",
+      "sourceType": "Jornal / Movimentos Sociais",
+      "sourceEditorial": "Mídia popular focada em Direitos Humanos e Sul Global",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://www.brasildefato.com.br/2026/09/09/o-que-pensa-a-juventude-latino-americana-de-paises-governados-pela-direita-sobre-seus-governos/",
+      "publishedAtStr": "2026-09-10T04:15:00Z",
+      "publishedAtTs": 1789013700000,
+      "rawContent": "O que pensa a juventude latino - americana de países governados pela direita sobre seus governos ?",
+      "linkStatus": "active",
+      "lastChecked": 1789073883366
+    },
+    {
+      "id": "gdelt-7co7mkd",
       "title": "Incêndio em balsa deixa cinco mortos e 87 desaparecidos nas Filipinas",
       "sourceName": "Estadão Internacional",
       "sourceUrl": "https://www.estadao.com.br/internacional/",
@@ -474,7 +762,7 @@
       "lastChecked": 1789073160120
     },
     {
-      "id": "gdelt-k873x8s",
+      "id": "gdelt-22u21rc",
       "title": "Por que o Google está colocando 13 bilhões de euros na Finlândia ?",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -490,7 +778,7 @@
       "lastChecked": 1789073160120
     },
     {
-      "id": "gdelt-ltvvpf1",
+      "id": "gdelt-90izv7q",
       "title": "Nepal recorre a drones para enviar ajuda humanitária a vítimas de inundações",
       "sourceName": "Veja Mundo",
       "sourceUrl": "https://veja.abril.com.br/mundo/",
@@ -506,7 +794,7 @@
       "lastChecked": 1789073160120
     },
     {
-      "id": "gdelt-7z4ij83",
+      "id": "gdelt-vi46wn7",
       "title": "Sem ideia para o jantar ? Veja 3 receitas de almôndegas fáceis e ricas em proteínas – CartaCapital",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -522,7 +810,7 @@
       "lastChecked": 1789073160120
     },
     {
-      "id": "gdelt-ppz1xsn",
+      "id": "gdelt-pummqtf",
       "title": "Couve , limão e gengibre : aprenda a preparar esse suco verde para incluir na dieta – CartaCapital",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -538,7 +826,7 @@
       "lastChecked": 1789073160120
     },
     {
-      "id": "gdelt-c9dp5c7",
+      "id": "gdelt-eunw6jm",
       "title": "PF intima Campos Neto e Galípolo para dar depoimentos sobre o caso Master",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -554,7 +842,7 @@
       "lastChecked": 1789073160120
     },
     {
-      "id": "gdelt-4c18a1e",
+      "id": "gdelt-62wdyou",
       "title": "Fachin retira Moraes do inquérito das fake News e assume a relatoria – CartaCapital",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -570,7 +858,7 @@
       "lastChecked": 1789073160120
     },
     {
-      "id": "gdelt-lcwbw66",
+      "id": "gdelt-6smya7e",
       "title": "Subsídios à gasolina e ao diesel são ampliados após alta do petróleo",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -586,7 +874,7 @@
       "lastChecked": 1789073160120
     },
     {
-      "id": "gdelt-0u73nem",
+      "id": "gdelt-e1a5h95",
       "title": "Fachin marca julgamento de pedido de investigação de Moraes",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -602,7 +890,7 @@
       "lastChecked": 1789073160120
     },
     {
-      "id": "gdelt-yo3r2g3",
+      "id": "gdelt-4hkjfjv",
       "title": "PF intima Galípolo , Campos Neto , Aquino e André Esteves a deporem como testemunhas no caso Master",
       "sourceName": "Valor Econômico",
       "sourceUrl": "https://valor.globo.com/",
@@ -618,7 +906,7 @@
       "lastChecked": 1789073160120
     },
     {
-      "id": "gdelt-rh8kmv1",
+      "id": "gdelt-uiu2izz",
       "title": "Toffoli rejeita novo habeas corpus que tentava soltar Bolsonaro",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -634,7 +922,71 @@
       "lastChecked": 1789073160120
     },
     {
-      "id": "gdelt-flmx8c4",
+      "id": "gdelt-7hf0tc8",
+      "title": "Debate eleitoral sumiu do mapa : Paulo Motoryn comenta ascensão de Augusto Cury e disputa no STF",
+      "sourceName": "Brasil de Fato",
+      "sourceUrl": "https://www.brasildefato.com.br/",
+      "sourceType": "Jornal / Movimentos Sociais",
+      "sourceEditorial": "Mídia popular focada em Direitos Humanos e Sul Global",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://www.brasildefato.com.br/podcast/brasil-de-fato-entrevista/2026/09/09/debate-eleitoral-sumiu-do-mapa-paulo-motoryn-comenta-ascensao-de-augusto-cury-e-crise-no-stf/",
+      "publishedAtStr": "2026-09-09T23:15:00Z",
+      "publishedAtTs": 1788995700000,
+      "rawContent": "Debate eleitoral sumiu do mapa : Paulo Motoryn comenta ascensão de Augusto Cury e disputa no STF",
+      "linkStatus": "active",
+      "lastChecked": 1789073883366
+    },
+    {
+      "id": "gdelt-dixsqp5",
+      "title": "Fachin reage : presidente do STF derruba decisão de Mendonça e tira inquérito das Fake News de Moraes",
+      "sourceName": "Brasil de Fato",
+      "sourceUrl": "https://www.brasildefato.com.br/",
+      "sourceType": "Jornal / Movimentos Sociais",
+      "sourceEditorial": "Mídia popular focada em Direitos Humanos e Sul Global",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://www.brasildefato.com.br/2026/09/09/fachin-reage-presidente-do-stf-derruba-decisao-de-mendonca-e-tira-inquerito-das-fake-news-de-moraes/",
+      "publishedAtStr": "2026-09-09T23:15:00Z",
+      "publishedAtTs": 1788995700000,
+      "rawContent": "Fachin reage : presidente do STF derruba decisão de Mendonça e tira inquérito das Fake News de Moraes",
+      "linkStatus": "active",
+      "lastChecked": 1789073883366
+    },
+    {
+      "id": "gdelt-3x6ofpt",
+      "title": "Dino fez o que presidente do STF deveria ter feito , avalia advogado e cientista político",
+      "sourceName": "Brasil de Fato",
+      "sourceUrl": "https://www.brasildefato.com.br/",
+      "sourceType": "Jornal / Movimentos Sociais",
+      "sourceEditorial": "Mídia popular focada em Direitos Humanos e Sul Global",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://www.brasildefato.com.br/2026/09/09/dino-fez-o-que-presidente-do-stf-deveria-ter-feito-avalia-advogado-e-cientista-politico/",
+      "publishedAtStr": "2026-09-09T23:15:00Z",
+      "publishedAtTs": 1788995700000,
+      "rawContent": "Dino fez o que presidente do STF deveria ter feito , avalia advogado e cientista político",
+      "linkStatus": "active",
+      "lastChecked": 1789073883366
+    },
+    {
+      "id": "gdelt-yhfu5qy",
+      "title": "O fascismo nos EUA só pode ser detido pelo povo estadunidense , diz cônsul de Cuba",
+      "sourceName": "Brasil de Fato",
+      "sourceUrl": "https://www.brasildefato.com.br/",
+      "sourceType": "Jornal / Movimentos Sociais",
+      "sourceEditorial": "Mídia popular focada em Direitos Humanos e Sul Global",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://www.brasildefato.com.br/2026/09/09/o-fascismo-nos-eua-so-pode-ser-detido-pelo-povo-estadunidense-diz-consul-de-cuba/",
+      "publishedAtStr": "2026-09-09T23:15:00Z",
+      "publishedAtTs": 1788995700000,
+      "rawContent": "O fascismo nos EUA só pode ser detido pelo povo estadunidense , diz cônsul de Cuba",
+      "linkStatus": "active",
+      "lastChecked": 1789073883366
+    },
+    {
+      "id": "gdelt-xhg3gux",
       "title": "Ibovespa hoje : acompanhe em tempo real a Bolsa de Valores",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -650,7 +1002,7 @@
       "lastChecked": 1789073160120
     },
     {
-      "id": "gdelt-pcewiru",
+      "id": "gdelt-eugcat8",
       "title": "André Mendonça revoga prisão de filho do  Careca do INSS",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -662,11 +1014,11 @@
       "publishedAtStr": "2026-09-09T22:45:00Z",
       "publishedAtTs": 1788993900000,
       "rawContent": "André Mendonça revoga prisão de filho do  Careca do INSS",
-      "linkStatus": "unknown",
-      "lastChecked": null
+      "linkStatus": "active",
+      "lastChecked": 1789073883366
     },
     {
-      "id": "gdelt-4ycehii",
+      "id": "gdelt-5dbwx94",
       "title": "Taxas dos DIs sobem em dia de realização de lucros e petróleo acima de US$100",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -678,11 +1030,11 @@
       "publishedAtStr": "2026-09-09T22:45:00Z",
       "publishedAtTs": 1788993900000,
       "rawContent": "Taxas dos DIs sobem em dia de realização de lucros e petróleo acima de US$100",
-      "linkStatus": "unknown",
-      "lastChecked": null
+      "linkStatus": "active",
+      "lastChecked": 1789073883366
     },
     {
-      "id": "gdelt-ncspgeq",
+      "id": "gdelt-r9i97hh",
       "title": "Plano do Tesouro dos EUA de recompra de títulos falha e juro bate recorde de 3 anos",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -694,11 +1046,11 @@
       "publishedAtStr": "2026-09-09T22:45:00Z",
       "publishedAtTs": 1788993900000,
       "rawContent": "Plano do Tesouro dos EUA de recompra de títulos falha e juro bate recorde de 3 anos",
-      "linkStatus": "unknown",
-      "lastChecked": null
+      "linkStatus": "active",
+      "lastChecked": 1789073883366
     },
     {
-      "id": "gdelt-6jm550l",
+      "id": "gdelt-fq78c69",
       "title": "Fachin suspende decisões de Mendonça e Dino sobre comando da PF",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -710,11 +1062,11 @@
       "publishedAtStr": "2026-09-09T22:45:00Z",
       "publishedAtTs": 1788993900000,
       "rawContent": "Fachin suspende decisões de Mendonça e Dino sobre comando da PF",
-      "linkStatus": "unknown",
-      "lastChecked": null
+      "linkStatus": "active",
+      "lastChecked": 1789073883366
     },
     {
-      "id": "gdelt-su8do2k",
+      "id": "gdelt-2ak98dz",
       "title": "Como um escândalo na Bolívia respinga na direita da América Latina",
       "sourceName": "Estadão Internacional",
       "sourceUrl": "https://www.estadao.com.br/internacional/",
@@ -726,11 +1078,11 @@
       "publishedAtStr": "2026-09-09T22:30:00Z",
       "publishedAtTs": 1788993000000,
       "rawContent": "Como um escândalo na Bolívia respinga na direita da América Latina",
-      "linkStatus": "unknown",
-      "lastChecked": null
+      "linkStatus": "active",
+      "lastChecked": 1789073883366
     },
     {
-      "id": "gdelt-4v91x5f",
+      "id": "gdelt-4ankqm4",
       "title": "Crescimento da AfD ameaça o governo Merz e próximos capítulos ainda estão por vir",
       "sourceName": "Estadão Internacional",
       "sourceUrl": "https://www.estadao.com.br/internacional/",
@@ -742,8 +1094,8 @@
       "publishedAtStr": "2026-09-09T22:00:00Z",
       "publishedAtTs": 1788991200000,
       "rawContent": "Crescimento da AfD ameaça o governo Merz e próximos capítulos ainda estão por vir",
-      "linkStatus": "unknown",
-      "lastChecked": null
+      "linkStatus": "active",
+      "lastChecked": 1789073883366
     }
   ]
 }
