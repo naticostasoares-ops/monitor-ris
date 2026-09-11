@@ -1,224 +1,304 @@
 {
-  "updatedAt": "2026-09-10T23:56:06.676Z",
+  "updatedAt": "2026-09-11T00:19:03.880Z",
   "periodUsed": "24h",
-  "count": 93,
+  "count": 77,
   "linkVerificationStats": {
-    "checkedThisRun": 40,
-    "active": 39,
+    "checkedThisRun": 23,
+    "active": 23,
     "broken": 0,
-    "unknown": 1
+    "unknown": 0
   },
   "articles": [
     {
-      "id": "gdelt-epns9lo",
-      "title": "Lula e PT cobram quebra de sigilo do caso Master enquanto Flávio Bolsonaro silencia",
-      "sourceName": "Brasil de Fato",
-      "sourceUrl": "https://www.brasildefato.com.br/",
-      "sourceType": "Jornal / Movimentos Sociais",
-      "sourceEditorial": "Mídia popular focada em Direitos Humanos e Sul Global",
+      "id": "gdelt-owma2sw",
+      "title": "Mulher de Nicolás Maduro pede prisão domiciliar por problemas cardíacos",
+      "sourceName": "G1 Mundo",
+      "sourceUrl": "https://g1.globo.com/mundo/",
+      "sourceType": "Imprensa Comercial Brasileira",
+      "sourceEditorial": "Portal de notícias mainstream do Grupo Globo",
       "country": "Brasil",
       "paywall": false,
-      "originalUrl": "https://www.brasildefato.com.br/2026/09/10/lula-e-pt-cobram-quebra-de-sigilo-do-caso-master-enquanto-flavio-bolsonaro-silencia/",
-      "publishedAtStr": "2026-09-10T22:45:00Z",
-      "publishedAtTs": 1789080300000,
-      "rawContent": "Lula e PT cobram quebra de sigilo do caso Master enquanto Flávio Bolsonaro silencia",
+      "originalUrl": "https://g1.globo.com/mundo/noticia/2026/09/10/mulher-de-nicolas-maduro-pede-prisao-domiciliar-por-problemas-cardiacos.ghtml",
+      "publishedAtStr": "2026-09-10T23:45:00Z",
+      "publishedAtTs": 1789083900000,
+      "rawContent": "Mulher de Nicolás Maduro pede prisão domiciliar por problemas cardíacos",
       "linkStatus": "active",
-      "lastChecked": 1789084550272
+      "lastChecked": 1789085934182
     },
     {
-      "id": "gdelt-ipp2ly3",
-      "title": "STF está fazendo de tudo para ser o protagonista das eleie , afirma cientista político",
-      "sourceName": "Brasil de Fato",
-      "sourceUrl": "https://www.brasildefato.com.br/",
-      "sourceType": "Jornal / Movimentos Sociais",
-      "sourceEditorial": "Mídia popular focada em Direitos Humanos e Sul Global",
+      "id": "gdelt-2jcabtg",
+      "title": "Guimarães Rosa merecia melhor – CartaCapital",
+      "sourceName": "CartaCapital",
+      "sourceUrl": "https://www.cartacapital.com.br/",
+      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
+      "sourceEditorial": "Jornalismo progressista - Conteúdo sob assinatura parcial",
       "country": "Brasil",
-      "paywall": false,
-      "originalUrl": "https://www.brasildefato.com.br/2026/09/10/stf-esta-fazendo-de-tudo-para-ser-o-protagonista-das-eleicoes-afirma-cientista-politico/",
-      "publishedAtStr": "2026-09-10T22:45:00Z",
-      "publishedAtTs": 1789080300000,
-      "rawContent": "STF está fazendo de tudo para ser o protagonista das eleie , afirma cientista político",
+      "paywall": true,
+      "originalUrl": "https://www.cartacapital.com.br/cultura/guimaraes-rosa-merecia-melhor/",
+      "publishedAtStr": "2026-09-10T23:45:00Z",
+      "publishedAtTs": 1789083900000,
+      "rawContent": "Guimarães Rosa merecia melhor – CartaCapital",
       "linkStatus": "active",
-      "lastChecked": 1789084550272
+      "lastChecked": 1789085934182
     },
     {
-      "id": "gdelt-8dyxkfg",
-      "title": "Putin participará da Cúpula dos Brics na Índia e confirma reunião com Dilma Rousseff",
-      "sourceName": "Brasil de Fato",
-      "sourceUrl": "https://www.brasildefato.com.br/",
-      "sourceType": "Jornal / Movimentos Sociais",
-      "sourceEditorial": "Mídia popular focada em Direitos Humanos e Sul Global",
+      "id": "gdelt-37iklw9",
+      "title": "Credibilidade em risco – CartaCapital",
+      "sourceName": "CartaCapital",
+      "sourceUrl": "https://www.cartacapital.com.br/",
+      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
+      "sourceEditorial": "Jornalismo progressista - Conteúdo sob assinatura parcial",
       "country": "Brasil",
-      "paywall": false,
-      "originalUrl": "https://www.brasildefato.com.br/2026/09/10/putin-participara-da-cupula-dos-brics-na-india-e-confirma-reuniao-com-dilma-rousseff/",
-      "publishedAtStr": "2026-09-10T22:45:00Z",
-      "publishedAtTs": 1789080300000,
-      "rawContent": "Putin participará da Cúpula dos Brics na Índia e confirma reunião com Dilma Rousseff",
+      "paywall": true,
+      "originalUrl": "https://www.cartacapital.com.br/carta-capital/credibilidade-em-risco/",
+      "publishedAtStr": "2026-09-10T23:45:00Z",
+      "publishedAtTs": 1789083900000,
+      "rawContent": "Credibilidade em risco – CartaCapital",
       "linkStatus": "active",
-      "lastChecked": 1789084550272
+      "lastChecked": 1789085934182
     },
     {
-      "id": "gdelt-41ijadb",
-      "title": "Lula sanciona iseno da  taxa das blusinha em compras até 50 dólares",
-      "sourceName": "Brasil de Fato",
-      "sourceUrl": "https://www.brasildefato.com.br/",
-      "sourceType": "Jornal / Movimentos Sociais",
-      "sourceEditorial": "Mídia popular focada em Direitos Humanos e Sul Global",
+      "id": "gdelt-p4bj0gz",
+      "title": "Marrocos nega envolvimento na entrada maciça de migrantes em Ceuta",
+      "sourceName": "CartaCapital",
+      "sourceUrl": "https://www.cartacapital.com.br/",
+      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
+      "sourceEditorial": "Jornalismo progressista - Conteúdo sob assinatura parcial",
       "country": "Brasil",
-      "paywall": false,
-      "originalUrl": "https://www.brasildefato.com.br/2026/09/10/lula-sanciona-isencao-da-taxa-das-blusinhas-em-compras-ate-50-dolares/",
-      "publishedAtStr": "2026-09-10T22:45:00Z",
-      "publishedAtTs": 1789080300000,
-      "rawContent": "Lula sanciona iseno da  taxa das blusinha em compras até 50 dólares",
+      "paywall": true,
+      "originalUrl": "https://www.cartacapital.com.br/mundo/marrocos-nega-envolvimento-na-entrada-macica-de-migrantes-em-ceuta/",
+      "publishedAtStr": "2026-09-10T23:45:00Z",
+      "publishedAtTs": 1789083900000,
+      "rawContent": "Marrocos nega envolvimento na entrada maciça de migrantes em Ceuta",
       "linkStatus": "active",
-      "lastChecked": 1789084550272
+      "lastChecked": 1789085934182
     },
     {
-      "id": "gdelt-kaz9mxn",
-      "title": "Ex - marqueteiro e amigo de Flávio Bolsonaro é o terceiro maior doador do filme Dark Horse , aponta PF",
-      "sourceName": "Brasil de Fato",
-      "sourceUrl": "https://www.brasildefato.com.br/",
-      "sourceType": "Jornal / Movimentos Sociais",
-      "sourceEditorial": "Mídia popular focada em Direitos Humanos e Sul Global",
+      "id": "gdelt-vp5rpxl",
+      "title": "MPF cobra R$ 1 , 7 bilhão de mineradora por garimpo ilegal em Terra Indígena Yanomami",
+      "sourceName": "CartaCapital",
+      "sourceUrl": "https://www.cartacapital.com.br/",
+      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
+      "sourceEditorial": "Jornalismo progressista - Conteúdo sob assinatura parcial",
       "country": "Brasil",
-      "paywall": false,
-      "originalUrl": "https://www.brasildefato.com.br/2026/09/10/ex-marqueteiro-e-amigo-de-flavio-bolsonaro-e-o-terceiro-maior-doador-do-filme-dark-horse-aponta-pf/",
-      "publishedAtStr": "2026-09-10T22:45:00Z",
-      "publishedAtTs": 1789080300000,
-      "rawContent": "Ex - marqueteiro e amigo de Flávio Bolsonaro é o terceiro maior doador do filme Dark Horse , aponta PF",
+      "paywall": true,
+      "originalUrl": "https://www.cartacapital.com.br/justica/mpf-cobra-r-17-bilhao-de-mineradora-por-garimpo-ilegal-em-terra-indigena-yanomami/",
+      "publishedAtStr": "2026-09-10T23:45:00Z",
+      "publishedAtTs": 1789083900000,
+      "rawContent": "MPF cobra R$ 1 , 7 bilhão de mineradora por garimpo ilegal em Terra Indígena Yanomami",
       "linkStatus": "active",
-      "lastChecked": 1789084550272
+      "lastChecked": 1789085934182
     },
     {
-      "id": "gdelt-k8enc2v",
-      "title": "Canetas emagrecedoras geraram uma constante  caça às gordura , diz autora de livro sobre o tema",
-      "sourceName": "Brasil de Fato",
-      "sourceUrl": "https://www.brasildefato.com.br/",
-      "sourceType": "Jornal / Movimentos Sociais",
-      "sourceEditorial": "Mídia popular focada em Direitos Humanos e Sul Global",
+      "id": "gdelt-3vdt73x",
+      "title": "Dos pincéis às armas – CartaCapital",
+      "sourceName": "CartaCapital",
+      "sourceUrl": "https://www.cartacapital.com.br/",
+      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
+      "sourceEditorial": "Jornalismo progressista - Conteúdo sob assinatura parcial",
       "country": "Brasil",
-      "paywall": false,
-      "originalUrl": "https://www.brasildefato.com.br/podcast/brasil-de-fato-entrevista/2026/09/10/canetas-emagrecedoras-geraram-uma-constante-caca-as-gorduras-diz-autora-de-livro-sobre-o-tema/",
-      "publishedAtStr": "2026-09-10T22:45:00Z",
-      "publishedAtTs": 1789080300000,
-      "rawContent": "Canetas emagrecedoras geraram uma constante  caça às gordura , diz autora de livro sobre o tema",
+      "paywall": true,
+      "originalUrl": "https://www.cartacapital.com.br/politica/dos-pinceis-as-armas/",
+      "publishedAtStr": "2026-09-10T23:45:00Z",
+      "publishedAtTs": 1789083900000,
+      "rawContent": "Dos pincéis às armas – CartaCapital",
       "linkStatus": "active",
-      "lastChecked": 1789084550272
+      "lastChecked": 1789085934182
     },
     {
-      "id": "gdelt-b221bax",
-      "title": "Kremlin diz que Ucrânia  abriu caixa de pandora  com ataque a alvos civis",
-      "sourceName": "Brasil de Fato",
-      "sourceUrl": "https://www.brasildefato.com.br/",
-      "sourceType": "Jornal / Movimentos Sociais",
-      "sourceEditorial": "Mídia popular focada em Direitos Humanos e Sul Global",
+      "id": "gdelt-wf3um5s",
+      "title": "Uma típica cidadã de bem – CartaCapital",
+      "sourceName": "CartaCapital",
+      "sourceUrl": "https://www.cartacapital.com.br/",
+      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
+      "sourceEditorial": "Jornalismo progressista - Conteúdo sob assinatura parcial",
       "country": "Brasil",
-      "paywall": false,
-      "originalUrl": "https://www.brasildefato.com.br/2026/09/10/kremlin-diz-que-ucrania-abriu-caixa-de-pandora-com-ataque-a-alvos-civis/",
-      "publishedAtStr": "2026-09-10T22:45:00Z",
-      "publishedAtTs": 1789080300000,
-      "rawContent": "Kremlin diz que Ucrânia  abriu caixa de pandora  com ataque a alvos civis",
+      "paywall": true,
+      "originalUrl": "https://www.cartacapital.com.br/politica/uma-tipica-cidada-de-bem/",
+      "publishedAtStr": "2026-09-10T23:45:00Z",
+      "publishedAtTs": 1789083900000,
+      "rawContent": "Uma típica cidadã de bem – CartaCapital",
       "linkStatus": "active",
-      "lastChecked": 1789084550272
+      "lastChecked": 1789085934182
     },
     {
-      "id": "gdelt-bstxaw0",
-      "title": "Universalizar sem desproteger : os riscos da flexibilização do licenciamento ambiental e o impacto no saneamento",
-      "sourceName": "Brasil de Fato",
-      "sourceUrl": "https://www.brasildefato.com.br/",
-      "sourceType": "Jornal / Movimentos Sociais",
-      "sourceEditorial": "Mídia popular focada em Direitos Humanos e Sul Global",
+      "id": "gdelt-gtdf75t",
+      "title": "Ofensiva externa – CartaCapital",
+      "sourceName": "CartaCapital",
+      "sourceUrl": "https://www.cartacapital.com.br/",
+      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
+      "sourceEditorial": "Jornalismo progressista - Conteúdo sob assinatura parcial",
       "country": "Brasil",
-      "paywall": false,
-      "originalUrl": "https://www.brasildefato.com.br/colunista/observatorio-das-metropoles-nucleo-sao-paulo/2026/09/10/universalizar-sem-desproteger-os-riscos-da-flexibilizacao-do-licenciamento-ambiental-e-o-impacto-no-saneamento/",
-      "publishedAtStr": "2026-09-10T22:45:00Z",
-      "publishedAtTs": 1789080300000,
-      "rawContent": "Universalizar sem desproteger : os riscos da flexibilização do licenciamento ambiental e o impacto no saneamento",
+      "paywall": true,
+      "originalUrl": "https://www.cartacapital.com.br/carta-capital/ofensiva-externa/",
+      "publishedAtStr": "2026-09-10T23:45:00Z",
+      "publishedAtTs": 1789083900000,
+      "rawContent": "Ofensiva externa – CartaCapital",
       "linkStatus": "active",
-      "lastChecked": 1789084550272
+      "lastChecked": 1789085934182
     },
     {
-      "id": "gdelt-wl1wa3j",
-      "title": "Frentes populares vão às ruas de BH contra  ao golpista  que tenta favorecer Flávio Bolsonaro",
-      "sourceName": "Brasil de Fato",
-      "sourceUrl": "https://www.brasildefato.com.br/",
-      "sourceType": "Jornal / Movimentos Sociais",
-      "sourceEditorial": "Mídia popular focada em Direitos Humanos e Sul Global",
+      "id": "gdelt-gf61b0r",
+      "title": "Baião de dois – CartaCapital",
+      "sourceName": "CartaCapital",
+      "sourceUrl": "https://www.cartacapital.com.br/",
+      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
+      "sourceEditorial": "Jornalismo progressista - Conteúdo sob assinatura parcial",
       "country": "Brasil",
-      "paywall": false,
-      "originalUrl": "https://www.brasildefato.com.br/2026/09/10/frentes-populares-vao-as-ruas-de-bh-contra-acao-golpista-que-tenta-favorecer-flavio-bolsonaro/",
-      "publishedAtStr": "2026-09-10T22:45:00Z",
-      "publishedAtTs": 1789080300000,
-      "rawContent": "Frentes populares vão às ruas de BH contra  ao golpista  que tenta favorecer Flávio Bolsonaro",
+      "paywall": true,
+      "originalUrl": "https://www.cartacapital.com.br/politica/baiao-de-dois/",
+      "publishedAtStr": "2026-09-10T23:45:00Z",
+      "publishedAtTs": 1789083900000,
+      "rawContent": "Baião de dois – CartaCapital",
       "linkStatus": "active",
-      "lastChecked": 1789084550272
+      "lastChecked": 1789085934182
     },
     {
-      "id": "gdelt-8fre4ep",
-      "title": "Atlas / Bloomberg : Lula mantém vantagem no 1º turno ; 2º turno tem empate técnico",
-      "sourceName": "Brasil de Fato",
-      "sourceUrl": "https://www.brasildefato.com.br/",
-      "sourceType": "Jornal / Movimentos Sociais",
-      "sourceEditorial": "Mídia popular focada em Direitos Humanos e Sul Global",
+      "id": "gdelt-vmgs3tl",
+      "title": "Fachin realiza reuniões individuais com Moraes , Mendonça e Gonet",
+      "sourceName": "CartaCapital",
+      "sourceUrl": "https://www.cartacapital.com.br/",
+      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
+      "sourceEditorial": "Jornalismo progressista - Conteúdo sob assinatura parcial",
       "country": "Brasil",
-      "paywall": false,
-      "originalUrl": "https://www.brasildefato.com.br/2026/09/10/atlasbloomberg-lula-mantem-vantagem-no-1o-turno-2o-turno-tem-empate-tecnico/",
-      "publishedAtStr": "2026-09-10T22:45:00Z",
-      "publishedAtTs": 1789080300000,
-      "rawContent": "Atlas / Bloomberg : Lula mantém vantagem no 1º turno ; 2º turno tem empate técnico",
+      "paywall": true,
+      "originalUrl": "https://www.cartacapital.com.br/justica/fachin-realiza-reunioes-individuais-com-moraes-mendonca-e-gonet/",
+      "publishedAtStr": "2026-09-10T23:45:00Z",
+      "publishedAtTs": 1789083900000,
+      "rawContent": "Fachin realiza reuniões individuais com Moraes , Mendonça e Gonet",
       "linkStatus": "active",
-      "lastChecked": 1789084550272
+      "lastChecked": 1789085934182
     },
     {
-      "id": "gdelt-73nnhed",
-      "title": "O livro se realiza no leitor , você imagina junto com o texto , diz escritor Jefferson Tenório",
-      "sourceName": "Brasil de Fato",
-      "sourceUrl": "https://www.brasildefato.com.br/",
-      "sourceType": "Jornal / Movimentos Sociais",
-      "sourceEditorial": "Mídia popular focada em Direitos Humanos e Sul Global",
+      "id": "gdelt-g5qy4zr",
+      "title": "Reforma agrária às avessas – CartaCapital",
+      "sourceName": "CartaCapital",
+      "sourceUrl": "https://www.cartacapital.com.br/",
+      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
+      "sourceEditorial": "Jornalismo progressista - Conteúdo sob assinatura parcial",
       "country": "Brasil",
-      "paywall": false,
-      "originalUrl": "https://www.brasildefato.com.br/podcast/bem-viver/2026/09/10/o-livro-se-realiza-no-leitor-voce-imagina-junto-com-o-texto-diz-escritor-jefferson-tenorio/",
-      "publishedAtStr": "2026-09-10T22:45:00Z",
-      "publishedAtTs": 1789080300000,
-      "rawContent": "O livro se realiza no leitor , você imagina junto com o texto , diz escritor Jefferson Tenório",
+      "paywall": true,
+      "originalUrl": "https://www.cartacapital.com.br/politica/reforma-agraria-as-avessas/",
+      "publishedAtStr": "2026-09-10T23:45:00Z",
+      "publishedAtTs": 1789083900000,
+      "rawContent": "Reforma agrária às avessas – CartaCapital",
       "linkStatus": "active",
-      "lastChecked": 1789084550272
+      "lastChecked": 1789085934182
     },
     {
-      "id": "gdelt-16111ff",
-      "title": "OAB não pode converter - se em instrumento de campanha eleitoral , diz Ordem Democrática do DF",
-      "sourceName": "Brasil de Fato",
-      "sourceUrl": "https://www.brasildefato.com.br/",
-      "sourceType": "Jornal / Movimentos Sociais",
-      "sourceEditorial": "Mídia popular focada em Direitos Humanos e Sul Global",
+      "id": "gdelt-5su6t7u",
+      "title": "Jantar saudável sem complicação : 3 saladas proteicas para preparar em poucos passos – CartaCapital",
+      "sourceName": "CartaCapital",
+      "sourceUrl": "https://www.cartacapital.com.br/",
+      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
+      "sourceEditorial": "Jornalismo progressista - Conteúdo sob assinatura parcial",
       "country": "Brasil",
-      "paywall": false,
-      "originalUrl": "https://www.brasildefato.com.br/2026/09/10/oab-nao-pode-converter-se-em-instrumento-de-campanha-eleitoral-diz-ordem-democratica-do-df/",
-      "publishedAtStr": "2026-09-10T22:45:00Z",
-      "publishedAtTs": 1789080300000,
-      "rawContent": "OAB não pode converter - se em instrumento de campanha eleitoral , diz Ordem Democrática do DF",
+      "paywall": true,
+      "originalUrl": "https://www.cartacapital.com.br/receitas/jantar-saudavel-sem-complicacao-3-saladas-proteicas-para-preparar-em-poucos-passos/",
+      "publishedAtStr": "2026-09-10T23:45:00Z",
+      "publishedAtTs": 1789083900000,
+      "rawContent": "Jantar saudável sem complicação : 3 saladas proteicas para preparar em poucos passos – CartaCapital",
       "linkStatus": "active",
-      "lastChecked": 1789084550272
+      "lastChecked": 1789085934182
     },
     {
-      "id": "gdelt-hubtyog",
-      "title": "Soninha Francine defende escala flexível de trabalho , integração na segurança e maior rigor ambiental",
-      "sourceName": "Brasil de Fato",
-      "sourceUrl": "https://www.brasildefato.com.br/",
-      "sourceType": "Jornal / Movimentos Sociais",
-      "sourceEditorial": "Mídia popular focada em Direitos Humanos e Sul Global",
+      "id": "gdelt-w663h88",
+      "title": "Heil , AfD – CartaCapital",
+      "sourceName": "CartaCapital",
+      "sourceUrl": "https://www.cartacapital.com.br/",
+      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
+      "sourceEditorial": "Jornalismo progressista - Conteúdo sob assinatura parcial",
       "country": "Brasil",
-      "paywall": false,
-      "originalUrl": "https://www.brasildefato.com.br/2026/09/10/soninha-francine-defende-escala-flexivel-de-trabalho-integracao-na-seguranca-e-maior-rigor-ambiental/",
-      "publishedAtStr": "2026-09-10T22:45:00Z",
-      "publishedAtTs": 1789080300000,
-      "rawContent": "Soninha Francine defende escala flexível de trabalho , integração na segurança e maior rigor ambiental",
+      "paywall": true,
+      "originalUrl": "https://www.cartacapital.com.br/mundo/heil-afd/",
+      "publishedAtStr": "2026-09-10T23:45:00Z",
+      "publishedAtTs": 1789083900000,
+      "rawContent": "Heil , AfD – CartaCapital",
       "linkStatus": "active",
-      "lastChecked": 1789084550272
+      "lastChecked": 1789085934182
     },
     {
-      "id": "gdelt-shoslai",
+      "id": "gdelt-v9o1fp5",
+      "title": "Programa CNH do Brasil aumenta pedidos de habilitação em mais de 200 %",
+      "sourceName": "CartaCapital",
+      "sourceUrl": "https://www.cartacapital.com.br/",
+      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
+      "sourceEditorial": "Jornalismo progressista - Conteúdo sob assinatura parcial",
+      "country": "Brasil",
+      "paywall": true,
+      "originalUrl": "https://www.cartacapital.com.br/sociedade/programa-cnh-do-brasil-aumenta-pedidos-de-habilitacao-em-mais-de-200/",
+      "publishedAtStr": "2026-09-10T23:45:00Z",
+      "publishedAtTs": 1789083900000,
+      "rawContent": "Programa CNH do Brasil aumenta pedidos de habilitação em mais de 200 %",
+      "linkStatus": "active",
+      "lastChecked": 1789085934182
+    },
+    {
+      "id": "gdelt-ulzx75x",
+      "title": "O L , diariamente – CartaCapital",
+      "sourceName": "CartaCapital",
+      "sourceUrl": "https://www.cartacapital.com.br/",
+      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
+      "sourceEditorial": "Jornalismo progressista - Conteúdo sob assinatura parcial",
+      "country": "Brasil",
+      "paywall": true,
+      "originalUrl": "https://www.cartacapital.com.br/carta-capital/o-l-diariamente/",
+      "publishedAtStr": "2026-09-10T23:45:00Z",
+      "publishedAtTs": 1789083900000,
+      "rawContent": "O L , diariamente – CartaCapital",
+      "linkStatus": "active",
+      "lastChecked": 1789085934182
+    },
+    {
+      "id": "gdelt-ga83lbw",
+      "title": "Velho Oeste carioca – CartaCapital",
+      "sourceName": "CartaCapital",
+      "sourceUrl": "https://www.cartacapital.com.br/",
+      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
+      "sourceEditorial": "Jornalismo progressista - Conteúdo sob assinatura parcial",
+      "country": "Brasil",
+      "paywall": true,
+      "originalUrl": "https://www.cartacapital.com.br/politica/velho-oeste-carioca/",
+      "publishedAtStr": "2026-09-10T23:45:00Z",
+      "publishedAtTs": 1789083900000,
+      "rawContent": "Velho Oeste carioca – CartaCapital",
+      "linkStatus": "active",
+      "lastChecked": 1789085934182
+    },
+    {
+      "id": "gdelt-tx9wdrk",
+      "title": "Da própria lavra – CartaCapital",
+      "sourceName": "CartaCapital",
+      "sourceUrl": "https://www.cartacapital.com.br/",
+      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
+      "sourceEditorial": "Jornalismo progressista - Conteúdo sob assinatura parcial",
+      "country": "Brasil",
+      "paywall": true,
+      "originalUrl": "https://www.cartacapital.com.br/cultura/da-propria-lavra/",
+      "publishedAtStr": "2026-09-10T23:45:00Z",
+      "publishedAtTs": 1789083900000,
+      "rawContent": "Da própria lavra – CartaCapital",
+      "linkStatus": "active",
+      "lastChecked": 1789085934182
+    },
+    {
+      "id": "gdelt-lm31zx2",
+      "title": "Coragem , Fachin – CartaCapital",
+      "sourceName": "CartaCapital",
+      "sourceUrl": "https://www.cartacapital.com.br/",
+      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
+      "sourceEditorial": "Jornalismo progressista - Conteúdo sob assinatura parcial",
+      "country": "Brasil",
+      "paywall": true,
+      "originalUrl": "https://www.cartacapital.com.br/editorial/coragem-fachin/",
+      "publishedAtStr": "2026-09-10T23:45:00Z",
+      "publishedAtTs": 1789083900000,
+      "rawContent": "Coragem , Fachin – CartaCapital",
+      "linkStatus": "active",
+      "lastChecked": 1789085934182
+    },
+    {
+      "id": "gdelt-eesfd2m",
       "title": "A democracia vai às urnas nos EUA e em Israel ; veja o que está em jogo",
       "sourceName": "Estadão Internacional",
       "sourceUrl": "https://www.estadao.com.br/internacional/",
@@ -234,7 +314,7 @@
       "lastChecked": 1789083775960
     },
     {
-      "id": "gdelt-d5l4jok",
+      "id": "gdelt-mo3tsss",
       "title": "Correios formalizam proposta para novo empréstimo de R$ 7 bi com bancos privados",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -250,7 +330,7 @@
       "lastChecked": 1789083775960
     },
     {
-      "id": "gdelt-jiuee2m",
+      "id": "gdelt-xskpjn2",
       "title": "Dino marca audiência pública sobre responsabilização de parlamentares por emendas",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -266,7 +346,7 @@
       "lastChecked": 1789083775960
     },
     {
-      "id": "gdelt-v3hxlz4",
+      "id": "gdelt-j38miwx",
       "title": "Monte Bravo incorpora Elliot e estreia no mercado de trading com 18 mil contas ativas",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -282,7 +362,7 @@
       "lastChecked": 1789083775960
     },
     {
-      "id": "gdelt-k1408lh",
+      "id": "gdelt-j73t0ai",
       "title": "Fachin coloca  ordem na casa  após intervir em decisões no STF , avaliam juristas",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -298,7 +378,7 @@
       "lastChecked": 1789083775960
     },
     {
-      "id": "gdelt-5j3hbdf",
+      "id": "gdelt-uupyc65",
       "title": "EUA ampliam sanções contra redes ligadas ao Irã e braços do Hezbollah",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -314,7 +394,7 @@
       "lastChecked": 1789083775960
     },
     {
-      "id": "gdelt-45p25mg",
+      "id": "gdelt-77q3q13",
       "title": "Irã ajudou houthis do Iêmen a tomar cidade estratégica no Mar Vermelho , dizem fontes",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -330,7 +410,7 @@
       "lastChecked": 1789083775960
     },
     {
-      "id": "gdelt-jhr3ich",
+      "id": "gdelt-rxvmyhm",
       "title": "Inflação na Argentina sobe 1 , 7 % em agosto ante julho e 33 , 5 % na comparação anual",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -346,7 +426,7 @@
       "lastChecked": 1789083775960
     },
     {
-      "id": "gdelt-u2t584n",
+      "id": "gdelt-go45pic",
       "title": "Estoque de petróleo bruto dos EUA cai , enquanto o de combustíveis aumenta , diz EIA",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -362,7 +442,7 @@
       "lastChecked": 1789083775960
     },
     {
-      "id": "gdelt-dwdqo4p",
+      "id": "gdelt-04tnsf0",
       "title": "Oracle supera projeções de receita no 1º tri fiscal impulsionada por boom da IA",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -378,7 +458,7 @@
       "lastChecked": 1789083775960
     },
     {
-      "id": "gdelt-2drj3g6",
+      "id": "gdelt-wd2vqre",
       "title": "PT pede que Mendonça e Dino derrubem sigilo de investigações sobre Master",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -394,7 +474,7 @@
       "lastChecked": 1789083775960
     },
     {
-      "id": "gdelt-04bilr9",
+      "id": "gdelt-5xmjmg7",
       "title": "Opções indicam 95 % de chance de corte de 0 , 25 ponto na Selic no próximo Copom",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -410,7 +490,7 @@
       "lastChecked": 1789083775960
     },
     {
-      "id": "gdelt-hcr73u6",
+      "id": "gdelt-lh6vntc",
       "title": "Ibovespa fecha em alta , com trade eleitoral e bancos ; Vale recua",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -426,7 +506,7 @@
       "lastChecked": 1789083775960
     },
     {
-      "id": "gdelt-vudclpe",
+      "id": "gdelt-xjhu3ok",
       "title": "Pronunciamento de Moraes deve ser feito na segunda - feira , véspera da sessão do STF",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -442,7 +522,7 @@
       "lastChecked": 1789083775960
     },
     {
-      "id": "gdelt-tnz9jzt",
+      "id": "gdelt-0zvu53i",
       "title": "Amil informa em comunicado a funcionários que encerrou negociação de venda da empresa",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -458,7 +538,7 @@
       "lastChecked": 1789083775960
     },
     {
-      "id": "gdelt-rgnu598",
+      "id": "gdelt-win061f",
       "title": "Petróleo salta 6 % e brent bate US$ 107 com aumento das hostilidades no Oriente Médio",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -474,7 +554,7 @@
       "lastChecked": 1789083775960
     },
     {
-      "id": "gdelt-tywzfp7",
+      "id": "gdelt-huwmofh",
       "title": "Exportações de café do Brasil superam 4 mi de sacas , recorde em agosto , diz Cecaf",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -490,7 +570,7 @@
       "lastChecked": 1789083775960
     },
     {
-      "id": "gdelt-yipa2jh",
+      "id": "gdelt-tmv6xen",
       "title": "Fachin conversa com Moraes , Mendonça e Gonet sobre sessão da próxima semana",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -506,7 +586,7 @@
       "lastChecked": 1789083775960
     },
     {
-      "id": "gdelt-04p6alp",
+      "id": "gdelt-rync4nz",
       "title": "Facebook , TikTok e YouTube são processados por  design viciante  em Portugal",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -522,7 +602,7 @@
       "lastChecked": 1789083775960
     },
     {
-      "id": "gdelt-knvw8n3",
+      "id": "gdelt-c17ia92",
       "title": "Esquema de Putin enganou brasileiros para lutar na Ucrânia , denuncia Anistia Internacional",
       "sourceName": "Veja Mundo",
       "sourceUrl": "https://veja.abril.com.br/mundo/",
@@ -538,7 +618,7 @@
       "lastChecked": 1789083775960
     },
     {
-      "id": "gdelt-76p22hl",
+      "id": "gdelt-abcxe9v",
       "title": "Aliados do Irã , hutis tomam cidade portuária no Iêmen para tentar dominar Mar Vermelho",
       "sourceName": "Veja Mundo",
       "sourceUrl": "https://veja.abril.com.br/mundo/",
@@ -554,7 +634,7 @@
       "lastChecked": 1789083775960
     },
     {
-      "id": "gdelt-b48c7sq",
+      "id": "gdelt-c773g0c",
       "title": "Bolo de liquidificador proteico : 3 receitas fáceis para o lanche da tarde – CartaCapital",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -570,7 +650,7 @@
       "lastChecked": 1789083775960
     },
     {
-      "id": "gdelt-2bpk1nm",
+      "id": "gdelt-r0fpm1x",
       "title": "EUA : Tennessee pode executar a primeira mulher no corredor da morte em 200 anos",
       "sourceName": "Veja Mundo",
       "sourceUrl": "https://veja.abril.com.br/mundo/",
@@ -586,7 +666,7 @@
       "lastChecked": 1789083775960
     },
     {
-      "id": "gdelt-ofta1cg",
+      "id": "gdelt-x89qbg7",
       "title": "Quanto custaria o dividendo de US$ 5 mil que Trump prometeu ? Ele pode fazer isso ?",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -602,7 +682,7 @@
       "lastChecked": 1789083775960
     },
     {
-      "id": "gdelt-t42ywfy",
+      "id": "gdelt-wbfwskj",
       "title": "O que muda com BDRs no Ibovespa ? Expectativa é por maior diversidade e novos fluxos",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -618,7 +698,7 @@
       "lastChecked": 1789083775960
     },
     {
-      "id": "gdelt-ky3dh0g",
+      "id": "gdelt-txdfssu",
       "title": "Renan Santos diz que crise no STF é disputa de Poder com guerra entre  facções",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -634,7 +714,7 @@
       "lastChecked": 1789083775960
     },
     {
-      "id": "gdelt-8fallxi",
+      "id": "gdelt-ipjyp01",
       "title": "Eleições podem  mudar jogo  das construtoras , mas JPMorgan ainda prefere baixa renda",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -650,7 +730,7 @@
       "lastChecked": 1789083775960
     },
     {
-      "id": "gdelt-td4iqag",
+      "id": "gdelt-u93u304",
       "title": "Fogão , geladeira e fritadeira : Casas Bahia faz novo leilão com até 68 % de desconto",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -666,7 +746,7 @@
       "lastChecked": 1789083775960
     },
     {
-      "id": "gdelt-48nvjkl",
+      "id": "gdelt-1ibpoev",
       "title": "Eleio de Flávio ou reeleio de Lula ? AtlasIntel mede maior temor dos eleitores",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -682,7 +762,7 @@
       "lastChecked": 1789083775960
     },
     {
-      "id": "gdelt-e2bju4x",
+      "id": "gdelt-lmc8koz",
       "title": "Greve na Caixa e paralisação no BB : veja como fica o atendimento",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -698,7 +778,7 @@
       "lastChecked": 1789083775960
     },
     {
-      "id": "gdelt-s4nydpr",
+      "id": "gdelt-pryv2dp",
       "title": "De obra afetada pela Lava Jato a taxista e trader : a trajetória de Robert Machado",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -714,7 +794,7 @@
       "lastChecked": 1789083775960
     },
     {
-      "id": "gdelt-92mjmga",
+      "id": "gdelt-tifvll3",
       "title": "Bombardeio russo contra shopping na Ucrânia mata ao menos 3 e deixa mais de 30 feridos",
       "sourceName": "Estadão Internacional",
       "sourceUrl": "https://www.estadao.com.br/internacional/",
@@ -730,167 +810,7 @@
       "lastChecked": 1789083775960
     },
     {
-      "id": "gdelt-o2ghhz1",
-      "title": "Fuzil e seis armas de bolsonarista Mário Frias são apreendidos em operação sobre  Dark Horse ; PF apura crime de posse ilegal",
-      "sourceName": "Brasil de Fato",
-      "sourceUrl": "https://www.brasildefato.com.br/",
-      "sourceType": "Jornal / Movimentos Sociais",
-      "sourceEditorial": "Mídia popular focada em Direitos Humanos e Sul Global",
-      "country": "Brasil",
-      "paywall": false,
-      "originalUrl": "https://www.brasildefato.com.br/2026/09/10/fuzil-e-seis-armas-de-bolsonarista-mario-frias-sao-apreendidos-em-operacao-sobre-dark-horse-pf-apura-crime-de-posse-ilegal/",
-      "publishedAtStr": "2026-09-10T18:15:00Z",
-      "publishedAtTs": 1789064100000,
-      "rawContent": "Fuzil e seis armas de bolsonarista Mário Frias são apreendidos em operação sobre  Dark Horse ; PF apura crime de posse ilegal",
-      "linkStatus": "active",
-      "lastChecked": 1789084550272
-    },
-    {
-      "id": "gdelt-3uw06gm",
-      "title": "Incêndio em navio de carga deixa 25 mortos na China",
-      "sourceName": "Brasil de Fato",
-      "sourceUrl": "https://www.brasildefato.com.br/",
-      "sourceType": "Jornal / Movimentos Sociais",
-      "sourceEditorial": "Mídia popular focada em Direitos Humanos e Sul Global",
-      "country": "Brasil",
-      "paywall": false,
-      "originalUrl": "https://www.brasildefato.com.br/2026/09/10/incendio-em-navio-de-carga-deixa-25-mortos-na-china/",
-      "publishedAtStr": "2026-09-10T18:15:00Z",
-      "publishedAtTs": 1789064100000,
-      "rawContent": "Incêndio em navio de carga deixa 25 mortos na China",
-      "linkStatus": "active",
-      "lastChecked": 1789084550272
-    },
-    {
-      "id": "gdelt-26ijx1p",
-      "title": "Aquecimento global acelera frequência de catástrofes nos Himalaias , diz pesquisador chinês",
-      "sourceName": "Brasil de Fato",
-      "sourceUrl": "https://www.brasildefato.com.br/",
-      "sourceType": "Jornal / Movimentos Sociais",
-      "sourceEditorial": "Mídia popular focada em Direitos Humanos e Sul Global",
-      "country": "Brasil",
-      "paywall": false,
-      "originalUrl": "https://www.brasildefato.com.br/2026/09/10/aquecimento-global-acelera-frequencia-de-catastrofes-nos-himalaias-diz-pesquisador-chines/",
-      "publishedAtStr": "2026-09-10T18:15:00Z",
-      "publishedAtTs": 1789064100000,
-      "rawContent": "Aquecimento global acelera frequência de catástrofes nos Himalaias , diz pesquisador chinês",
-      "linkStatus": "active",
-      "lastChecked": 1789084550272
-    },
-    {
-      "id": "gdelt-kkpy8kf",
-      "title": "Xi Jinping confirma presença em cúpula do Brics na Índia em meio à reaproximação entre os países",
-      "sourceName": "Brasil de Fato",
-      "sourceUrl": "https://www.brasildefato.com.br/",
-      "sourceType": "Jornal / Movimentos Sociais",
-      "sourceEditorial": "Mídia popular focada em Direitos Humanos e Sul Global",
-      "country": "Brasil",
-      "paywall": false,
-      "originalUrl": "https://www.brasildefato.com.br/2026/09/10/xi-jinping-confirma-presenca-em-cupula-do-brics-na-india-em-meio-a-reaproximacao-entre-os-paises/",
-      "publishedAtStr": "2026-09-10T18:15:00Z",
-      "publishedAtTs": 1789064100000,
-      "rawContent": "Xi Jinping confirma presença em cúpula do Brics na Índia em meio à reaproximação entre os países",
-      "linkStatus": "active",
-      "lastChecked": 1789084550272
-    },
-    {
-      "id": "gdelt-ejm9s89",
-      "title": "Presidente de Cuba , Miguel Díaz - Canel , entrega Medalha da Amizade ao MST",
-      "sourceName": "Brasil de Fato",
-      "sourceUrl": "https://www.brasildefato.com.br/",
-      "sourceType": "Jornal / Movimentos Sociais",
-      "sourceEditorial": "Mídia popular focada em Direitos Humanos e Sul Global",
-      "country": "Brasil",
-      "paywall": false,
-      "originalUrl": "https://www.brasildefato.com.br/2026/09/10/presidente-de-cuba-miguel-diaz-canel-entrega-medalha-da-amizade-ao-mst/",
-      "publishedAtStr": "2026-09-10T18:15:00Z",
-      "publishedAtTs": 1789064100000,
-      "rawContent": "Presidente de Cuba , Miguel Díaz - Canel , entrega Medalha da Amizade ao MST",
-      "linkStatus": "active",
-      "lastChecked": 1789084550272
-    },
-    {
-      "id": "gdelt-t0sefzg",
-      "title": "Ministro Flávio Dino derruba sigilo de decisão sobre  Dark Horse  e cita Mario Frias , Bia Kicis e Marcos Pollon , deputados do PL",
-      "sourceName": "Brasil de Fato",
-      "sourceUrl": "https://www.brasildefato.com.br/",
-      "sourceType": "Jornal / Movimentos Sociais",
-      "sourceEditorial": "Mídia popular focada em Direitos Humanos e Sul Global",
-      "country": "Brasil",
-      "paywall": false,
-      "originalUrl": "https://www.brasildefato.com.br/2026/09/10/ministro-flavio-dino-derruba-sigilo-de-decisao-sobre-dark-horse-e-cita-deputados-do-pl/",
-      "publishedAtStr": "2026-09-10T18:15:00Z",
-      "publishedAtTs": 1789064100000,
-      "rawContent": "Ministro Flávio Dino derruba sigilo de decisão sobre  Dark Horse  e cita Mario Frias , Bia Kicis e Marcos Pollon , deputados do PL",
-      "linkStatus": "active",
-      "lastChecked": 1789084550272
-    },
-    {
-      "id": "gdelt-y1mr7na",
-      "title": "Com graves problemas de saúde , Cilia Flores solicita prisão domiciliar nos Estados Unidos",
-      "sourceName": "Brasil de Fato",
-      "sourceUrl": "https://www.brasildefato.com.br/",
-      "sourceType": "Jornal / Movimentos Sociais",
-      "sourceEditorial": "Mídia popular focada em Direitos Humanos e Sul Global",
-      "country": "Brasil",
-      "paywall": false,
-      "originalUrl": "https://www.brasildefato.com.br/2026/09/10/com-graves-problemas-de-saude-cilia-flores-solicita-prisao-domiciliar-nos-estados-unidos/",
-      "publishedAtStr": "2026-09-10T18:15:00Z",
-      "publishedAtTs": 1789064100000,
-      "rawContent": "Com graves problemas de saúde , Cilia Flores solicita prisão domiciliar nos Estados Unidos",
-      "linkStatus": "active",
-      "lastChecked": 1789084550272
-    },
-    {
-      "id": "gdelt-rwttkxm",
-      "title": "Preveno ao suicídio : profissionais de saúde destacam riscos com bets",
-      "sourceName": "Brasil de Fato",
-      "sourceUrl": "https://www.brasildefato.com.br/",
-      "sourceType": "Jornal / Movimentos Sociais",
-      "sourceEditorial": "Mídia popular focada em Direitos Humanos e Sul Global",
-      "country": "Brasil",
-      "paywall": false,
-      "originalUrl": "https://www.brasildefato.com.br/2026/09/10/prevencao-ao-suicidio-profissionais-de-saude-destacam-riscos-com-bets/",
-      "publishedAtStr": "2026-09-10T18:15:00Z",
-      "publishedAtTs": 1789064100000,
-      "rawContent": "Preveno ao suicídio : profissionais de saúde destacam riscos com bets",
-      "linkStatus": "active",
-      "lastChecked": 1789084550272
-    },
-    {
-      "id": "gdelt-440mlda",
-      "title": "Dia do Cerrado : projeto no DF utiliza brincadeiras para estimular cuidado com o bioma",
-      "sourceName": "Brasil de Fato",
-      "sourceUrl": "https://www.brasildefato.com.br/",
-      "sourceType": "Jornal / Movimentos Sociais",
-      "sourceEditorial": "Mídia popular focada em Direitos Humanos e Sul Global",
-      "country": "Brasil",
-      "paywall": false,
-      "originalUrl": "https://www.brasildefato.com.br/2026/09/09/dia-do-cerrado-projeto-no-df-utiliza-brincadeiras-para-estimular-cuidado-com-o-bioma/",
-      "publishedAtStr": "2026-09-10T18:15:00Z",
-      "publishedAtTs": 1789064100000,
-      "rawContent": "Dia do Cerrado : projeto no DF utiliza brincadeiras para estimular cuidado com o bioma",
-      "linkStatus": "active",
-      "lastChecked": 1789084550272
-    },
-    {
-      "id": "gdelt-3th0hxb",
-      "title": "Pesquisa Real Time / Big Data aponta empate técnico entre Zucco e Juliana Brizola na disputa pelo governo do RS",
-      "sourceName": "Brasil de Fato",
-      "sourceUrl": "https://www.brasildefato.com.br/",
-      "sourceType": "Jornal / Movimentos Sociais",
-      "sourceEditorial": "Mídia popular focada em Direitos Humanos e Sul Global",
-      "country": "Brasil",
-      "paywall": false,
-      "originalUrl": "https://www.brasildefato.com.br/2026/09/10/pesquisa-real-time-big-data-aponta-empate-tecnico-entre-zucco-e-juliana-brizola-na-disputa-pelo-governo-do-rs/",
-      "publishedAtStr": "2026-09-10T18:15:00Z",
-      "publishedAtTs": 1789064100000,
-      "rawContent": "Pesquisa Real Time / Big Data aponta empate técnico entre Zucco e Juliana Brizola na disputa pelo governo do RS",
-      "linkStatus": "active",
-      "lastChecked": 1789084550272
-    },
-    {
-      "id": "gdelt-ryb0t2h",
+      "id": "gdelt-3bp21ur",
       "title": "Incêndio em navio atracado em porto na China deixa ao menos 25 mortos",
       "sourceName": "Veja Mundo",
       "sourceUrl": "https://veja.abril.com.br/mundo/",
@@ -906,7 +826,7 @@
       "lastChecked": 1789083775960
     },
     {
-      "id": "gdelt-g2wrlls",
+      "id": "gdelt-8ili5ow",
       "title": "Novo filme revela sistemas secretos de IA usados por Israel em massacres em Gaza",
       "sourceName": "Veja Mundo",
       "sourceUrl": "https://veja.abril.com.br/mundo/",
@@ -922,7 +842,7 @@
       "lastChecked": 1789083775960
     },
     {
-      "id": "gdelt-1h24v9l",
+      "id": "gdelt-4uunerv",
       "title": "Presidente da Sérvia dissolve Parlamento e antecipa eleies",
       "sourceName": "DW Brasil",
       "sourceUrl": "https://www.dw.com/pt-br/",
@@ -938,7 +858,7 @@
       "lastChecked": 1789083775960
     },
     {
-      "id": "gdelt-u2jk0wq",
+      "id": "gdelt-x050ty6",
       "title": "Putin nega boatos , mas russos temem mobilizao para guerra",
       "sourceName": "DW Brasil",
       "sourceUrl": "https://www.dw.com/pt-br/",
@@ -954,7 +874,7 @@
       "lastChecked": 1789083775960
     },
     {
-      "id": "gdelt-ua9y3ew",
+      "id": "gdelt-t0shem3",
       "title": "Tratado pelo fim de testes nucleares : letra morta ou esperança de paz ?",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -970,7 +890,7 @@
       "lastChecked": 1789083775960
     },
     {
-      "id": "gdelt-62t9h6w",
+      "id": "gdelt-17isg9m",
       "title": "Alemanha quer bloquear extrema direita de acessar plano da Otan",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -986,7 +906,7 @@
       "lastChecked": 1789083775960
     },
     {
-      "id": "gdelt-whe4crl",
+      "id": "gdelt-4nnygnh",
       "title": "PF apura suposto desvio de emendas para filme  Dark Horse",
       "sourceName": "DW Brasil",
       "sourceUrl": "https://www.dw.com/pt-br/",
@@ -1002,7 +922,7 @@
       "lastChecked": 1789083775960
     },
     {
-      "id": "gdelt-twcnr4n",
+      "id": "gdelt-vfmmq4u",
       "title": "Trump promete R$ 25 mil para cada americano adulto enquanto aprovação de seu governo despenca para 33 %",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -1018,7 +938,7 @@
       "lastChecked": 1789083775960
     },
     {
-      "id": "gdelt-cako3n9",
+      "id": "gdelt-j7r9aed",
       "title": "Calixto Salomão Filho : Crise no STF abre caminho para consolidar a democracia",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -1034,7 +954,7 @@
       "lastChecked": 1789084550272
     },
     {
-      "id": "gdelt-9fi2xu7",
+      "id": "gdelt-0s0zi9c",
       "title": "Real Time : Allyson venceria Cadu , do PT , no 2º turno do Rio Grande do Norte",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -1050,7 +970,7 @@
       "lastChecked": 1789084550272
     },
     {
-      "id": "gdelt-8vdqhe0",
+      "id": "gdelt-5oishg7",
       "title": "Moraes anuncia , mas depois cancela pronunciamento após Fachin marcar sessão sobre conversas com Vorcaro",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -1066,7 +986,7 @@
       "lastChecked": 1789084550272
     },
     {
-      "id": "gdelt-srjtty7",
+      "id": "gdelt-78rbs6f",
       "title": "Real Time : Lula  goleia  Flávio Bolsonaro no Rio Grande do Norte",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -1082,7 +1002,7 @@
       "lastChecked": 1789084550272
     },
     {
-      "id": "gdelt-wai0h6e",
+      "id": "gdelt-dvu4py2",
       "title": "Pesquisa Alfa mostra favoritismo de Moro para o governo do Paraná – CartaCapital",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -1098,7 +1018,7 @@
       "lastChecked": 1789084550272
     },
     {
-      "id": "gdelt-cqjiydi",
+      "id": "gdelt-vwhy1la",
       "title": "Em busca da reeleio , Mitidieri lidera corrida pelo governo de Sergipe , mostra pesquisa Atlas – CartaCapital",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -1114,7 +1034,7 @@
       "lastChecked": 1789084550272
     },
     {
-      "id": "gdelt-3e6fq0o",
+      "id": "gdelt-stoj2fj",
       "title": "PF apreende armas em endereços de Mário Frias na operação sobre  Dark Horse",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -1130,7 +1050,7 @@
       "lastChecked": 1789084550272
     },
     {
-      "id": "gdelt-hz1gg1b",
+      "id": "gdelt-hh5m4av",
       "title": "Atlas : Lula tem 10 pontos de vantagem sobre Flávio Bolsonaro em Alagoas no 2º turno",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -1146,7 +1066,7 @@
       "lastChecked": 1789084550272
     },
     {
-      "id": "gdelt-cj5kij8",
+      "id": "gdelt-nyvpx2p",
       "title": "Atlas mostra empate técnico entre JHC e Renan Filho na disputa por Alagoas",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -1162,7 +1082,7 @@
       "lastChecked": 1789084550272
     },
     {
-      "id": "gdelt-2r8lvxr",
+      "id": "gdelt-ra64b9r",
       "title": "China debate reduzir a importância do inglês nas escolas",
       "sourceName": "DW Brasil",
       "sourceUrl": "https://www.dw.com/pt-br/",
@@ -1178,7 +1098,7 @@
       "lastChecked": 1789084550272
     },
     {
-      "id": "gdelt-nt53tjp",
+      "id": "gdelt-mj8uih3",
       "title": "Justiça do Equador condena ex - presidente Bucaram por corrupo na pandemia de covid",
       "sourceName": "Veja Mundo",
       "sourceUrl": "https://veja.abril.com.br/mundo/",
@@ -1194,55 +1114,7 @@
       "lastChecked": 1789084550272
     },
     {
-      "id": "gdelt-0se7ggn",
-      "title": "O que é o inquérito das fake news",
-      "sourceName": "DW Brasil",
-      "sourceUrl": "https://www.dw.com/pt-br/",
-      "sourceType": "Imprensa Internacional / Pública",
-      "sourceEditorial": "Emissora pública da Alemanha; foco em diplomacia e direitos humanos",
-      "country": "Alemanha",
-      "paywall": false,
-      "originalUrl": "https://www.dw.com/pt-br/o-que-%C3%A9-o-inqu%C3%A9rito-das-fake-news/a-79210398",
-      "publishedAtStr": "2026-09-10T12:15:00Z",
-      "publishedAtTs": 1789042500000,
-      "rawContent": "O que é o inquérito das fake news",
-      "linkStatus": "active",
-      "lastChecked": 1789084550272
-    },
-    {
-      "id": "gdelt-q43rij6",
-      "title": "Trump promete US$ 5 mil se republicanos ganharem eleies",
-      "sourceName": "DW Brasil",
-      "sourceUrl": "https://www.dw.com/pt-br/",
-      "sourceType": "Imprensa Internacional / Pública",
-      "sourceEditorial": "Emissora pública da Alemanha; foco em diplomacia e direitos humanos",
-      "country": "Alemanha",
-      "paywall": false,
-      "originalUrl": "https://www.dw.com/pt-br/trump-promete-us-5-mil-se-republicanos-ganharem-elei%C3%A7%C3%B5es/a-79210151",
-      "publishedAtStr": "2026-09-10T12:15:00Z",
-      "publishedAtTs": 1789042500000,
-      "rawContent": "Trump promete US$ 5 mil se republicanos ganharem eleies",
-      "linkStatus": "active",
-      "lastChecked": 1789084550272
-    },
-    {
-      "id": "gdelt-w1vlqb8",
-      "title": "Coreia do Sul diz que tenta descobrir se Kim Jong - un tem um filho",
-      "sourceName": "G1 Mundo",
-      "sourceUrl": "https://g1.globo.com/mundo/",
-      "sourceType": "Imprensa Comercial Brasileira",
-      "sourceEditorial": "Portal de notícias mainstream do Grupo Globo",
-      "country": "Brasil",
-      "paywall": false,
-      "originalUrl": "https://g1.globo.com/mundo/noticia/2026/09/10/coreia-do-sul-tenta-descobrir-se-kim-jong-un-tem-um-filho-mais-velho.ghtml",
-      "publishedAtStr": "2026-09-10T11:45:00Z",
-      "publishedAtTs": 1789040700000,
-      "rawContent": "Coreia do Sul diz que tenta descobrir se Kim Jong - un tem um filho",
-      "linkStatus": "active",
-      "lastChecked": 1789084550272
-    },
-    {
-      "id": "gdelt-rxmv0an",
+      "id": "gdelt-gd6aifn",
       "title": "Escalabilidade vira aposta de gigantes do e - commerce antes da Black Friday",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -1258,7 +1130,7 @@
       "lastChecked": 1789084550272
     },
     {
-      "id": "gdelt-zbhmads",
+      "id": "gdelt-xmo3bdl",
       "title": "PF faz operação sobre possíveis desvios de emendas para filme sobre Jair Bolsonaro",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -1274,7 +1146,7 @@
       "lastChecked": 1789084550272
     },
     {
-      "id": "gdelt-wo4ec6e",
+      "id": "gdelt-rzqz4lr",
       "title": "A  goleada  de Lula sobre Flávio Bolsonaro no Maranhão – CartaCapital",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -1290,7 +1162,7 @@
       "lastChecked": 1789084550272
     },
     {
-      "id": "gdelt-ics7lly",
+      "id": "gdelt-orwsg7f",
       "title": "Nvidia diz que IA capaz de rivalizar com humanos chegou ; mercado não compra a ideia",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -1302,27 +1174,11 @@
       "publishedAtStr": "2026-09-10T09:15:00Z",
       "publishedAtTs": 1789031700000,
       "rawContent": "Nvidia diz que IA capaz de rivalizar com humanos chegou ; mercado não compra a ideia",
-      "linkStatus": "unknown",
-      "lastChecked": null
+      "linkStatus": "active",
+      "lastChecked": 1789085934182
     },
     {
-      "id": "gdelt-7y57pql",
-      "title": "Trabalhadores da Caixa anunciam greve nacional por tempo indeterminado a partir desta semana",
-      "sourceName": "Brasil de Fato",
-      "sourceUrl": "https://www.brasildefato.com.br/",
-      "sourceType": "Jornal / Movimentos Sociais",
-      "sourceEditorial": "Mídia popular focada em Direitos Humanos e Sul Global",
-      "country": "Brasil",
-      "paywall": false,
-      "originalUrl": "https://www.brasildefato.com.br/2026/09/09/trabalhadores-da-caixa-anunciam-greve-nacional-por-tempo-indeterminado-a-partir-desta-semana/",
-      "publishedAtStr": "2026-09-10T09:00:00Z",
-      "publishedAtTs": 1789030800000,
-      "rawContent": "Trabalhadores da Caixa anunciam greve nacional por tempo indeterminado a partir desta semana",
-      "linkStatus": "unknown",
-      "lastChecked": null
-    },
-    {
-      "id": "gdelt-unl9af8",
+      "id": "gdelt-62ue5v1",
       "title": "Fracking de petróleo e gás entra em debate no STJ",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -1334,11 +1190,11 @@
       "publishedAtStr": "2026-09-10T04:15:00Z",
       "publishedAtTs": 1789013700000,
       "rawContent": "Fracking de petróleo e gás entra em debate no STJ",
-      "linkStatus": "unknown",
-      "lastChecked": null
+      "linkStatus": "active",
+      "lastChecked": 1789085934182
     },
     {
-      "id": "gdelt-2ayd45y",
+      "id": "gdelt-rc81xr7",
       "title": "André Mendonça manda soltar filho do  Careca do INS – CartaCapital",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -1350,123 +1206,11 @@
       "publishedAtStr": "2026-09-10T04:15:00Z",
       "publishedAtTs": 1789013700000,
       "rawContent": "André Mendonça manda soltar filho do  Careca do INS – CartaCapital",
-      "linkStatus": "unknown",
-      "lastChecked": null
+      "linkStatus": "active",
+      "lastChecked": 1789085934182
     },
     {
-      "id": "gdelt-3ymbbk6",
-      "title": "Conselho de Direitos Humanos da ONU exige fim do bloqueio dos EUA contra Cuba",
-      "sourceName": "Brasil de Fato",
-      "sourceUrl": "https://www.brasildefato.com.br/",
-      "sourceType": "Jornal / Movimentos Sociais",
-      "sourceEditorial": "Mídia popular focada em Direitos Humanos e Sul Global",
-      "country": "Brasil",
-      "paywall": false,
-      "originalUrl": "https://www.brasildefato.com.br/2026/09/09/conselho-de-direitos-humanos-da-onu-exige-fim-do-bloqueio-dos-eua-contra-cuba/",
-      "publishedAtStr": "2026-09-10T04:15:00Z",
-      "publishedAtTs": 1789013700000,
-      "rawContent": "Conselho de Direitos Humanos da ONU exige fim do bloqueio dos EUA contra Cuba",
-      "linkStatus": "unknown",
-      "lastChecked": null
-    },
-    {
-      "id": "gdelt-yrjfdjq",
-      "title": "Fachin convoca plenário do STF para analisar decisão de Mendonça sobre relação de Moraes com Vorcaro",
-      "sourceName": "Brasil de Fato",
-      "sourceUrl": "https://www.brasildefato.com.br/",
-      "sourceType": "Jornal / Movimentos Sociais",
-      "sourceEditorial": "Mídia popular focada em Direitos Humanos e Sul Global",
-      "country": "Brasil",
-      "paywall": false,
-      "originalUrl": "https://www.brasildefato.com.br/2026/09/09/fachin-convoca-plenario-do-stf-para-analisar-decisao-de-mendonca-sobre-relacao-de-moraes-com-vorcaro/",
-      "publishedAtStr": "2026-09-10T04:15:00Z",
-      "publishedAtTs": 1789013700000,
-      "rawContent": "Fachin convoca plenário do STF para analisar decisão de Mendonça sobre relação de Moraes com Vorcaro",
-      "linkStatus": "unknown",
-      "lastChecked": null
-    },
-    {
-      "id": "gdelt-t16o7fe",
-      "title": "Estudo comprova que devastação na Amazônia ameaça segurança hídrica do Sul e Sudeste",
-      "sourceName": "Brasil de Fato",
-      "sourceUrl": "https://www.brasildefato.com.br/",
-      "sourceType": "Jornal / Movimentos Sociais",
-      "sourceEditorial": "Mídia popular focada em Direitos Humanos e Sul Global",
-      "country": "Brasil",
-      "paywall": false,
-      "originalUrl": "https://www.brasildefato.com.br/2026/09/09/estudo-comprova-que-devastacao-na-amazonia-ameaca-seguranca-hidrica-do-sul-e-sudeste/",
-      "publishedAtStr": "2026-09-10T04:15:00Z",
-      "publishedAtTs": 1789013700000,
-      "rawContent": "Estudo comprova que devastação na Amazônia ameaça segurança hídrica do Sul e Sudeste",
-      "linkStatus": "unknown",
-      "lastChecked": null
-    },
-    {
-      "id": "gdelt-td5o256",
-      "title": "Mendonça aceita delação de empresário que enviou R$ 60 milhões a fundo ligado a Eduardo Bolsonaro",
-      "sourceName": "Brasil de Fato",
-      "sourceUrl": "https://www.brasildefato.com.br/",
-      "sourceType": "Jornal / Movimentos Sociais",
-      "sourceEditorial": "Mídia popular focada em Direitos Humanos e Sul Global",
-      "country": "Brasil",
-      "paywall": false,
-      "originalUrl": "https://www.brasildefato.com.br/2026/09/09/mendonca-aceita-delacao-de-empresario-que-enviou-r-60-milhoes-a-fundo-ligado-a-eduardo-bolsonaro/",
-      "publishedAtStr": "2026-09-10T04:15:00Z",
-      "publishedAtTs": 1789013700000,
-      "rawContent": "Mendonça aceita delação de empresário que enviou R$ 60 milhões a fundo ligado a Eduardo Bolsonaro",
-      "linkStatus": "unknown",
-      "lastChecked": null
-    },
-    {
-      "id": "gdelt-at2cklj",
-      "title": "Em São Paulo , Instituto Baru oferece alimentação saudável direto do pequeno agricultor",
-      "sourceName": "Brasil de Fato",
-      "sourceUrl": "https://www.brasildefato.com.br/",
-      "sourceType": "Jornal / Movimentos Sociais",
-      "sourceEditorial": "Mídia popular focada em Direitos Humanos e Sul Global",
-      "country": "Brasil",
-      "paywall": false,
-      "originalUrl": "https://www.brasildefato.com.br/2026/09/09/em-sao-paulo-instituto-baru-oferece-alimentacao-saudavel-direto-do-pequeno-agricultor/",
-      "publishedAtStr": "2026-09-10T04:15:00Z",
-      "publishedAtTs": 1789013700000,
-      "rawContent": "Em São Paulo , Instituto Baru oferece alimentação saudável direto do pequeno agricultor",
-      "linkStatus": "unknown",
-      "lastChecked": null
-    },
-    {
-      "id": "gdelt-57390pj",
-      "title": "Decisão de Mendonça mostrou uso político de estrutura do Estado a partir do STF , diz advogado",
-      "sourceName": "Brasil de Fato",
-      "sourceUrl": "https://www.brasildefato.com.br/",
-      "sourceType": "Jornal / Movimentos Sociais",
-      "sourceEditorial": "Mídia popular focada em Direitos Humanos e Sul Global",
-      "country": "Brasil",
-      "paywall": false,
-      "originalUrl": "https://www.brasildefato.com.br/2026/09/09/decisao-de-mendonca-mostrou-uso-politico-de-estrutura-do-estado-a-partir-do-stf-diz-advogado/",
-      "publishedAtStr": "2026-09-10T04:15:00Z",
-      "publishedAtTs": 1789013700000,
-      "rawContent": "Decisão de Mendonça mostrou uso político de estrutura do Estado a partir do STF , diz advogado",
-      "linkStatus": "unknown",
-      "lastChecked": null
-    },
-    {
-      "id": "gdelt-ye1q7n4",
-      "title": "O que pensa a juventude latino - americana de países governados pela direita sobre seus governos ?",
-      "sourceName": "Brasil de Fato",
-      "sourceUrl": "https://www.brasildefato.com.br/",
-      "sourceType": "Jornal / Movimentos Sociais",
-      "sourceEditorial": "Mídia popular focada em Direitos Humanos e Sul Global",
-      "country": "Brasil",
-      "paywall": false,
-      "originalUrl": "https://www.brasildefato.com.br/2026/09/09/o-que-pensa-a-juventude-latino-americana-de-paises-governados-pela-direita-sobre-seus-governos/",
-      "publishedAtStr": "2026-09-10T04:15:00Z",
-      "publishedAtTs": 1789013700000,
-      "rawContent": "O que pensa a juventude latino - americana de países governados pela direita sobre seus governos ?",
-      "linkStatus": "unknown",
-      "lastChecked": null
-    },
-    {
-      "id": "gdelt-igv1b0w",
+      "id": "gdelt-z019ucx",
       "title": "Incêndio em balsa deixa cinco mortos e 87 desaparecidos nas Filipinas",
       "sourceName": "Estadão Internacional",
       "sourceUrl": "https://www.estadao.com.br/internacional/",
@@ -1478,11 +1222,11 @@
       "publishedAtStr": "2026-09-10T03:00:00Z",
       "publishedAtTs": 1789009200000,
       "rawContent": "Incêndio em balsa deixa cinco mortos e 87 desaparecidos nas Filipinas",
-      "linkStatus": "unknown",
-      "lastChecked": null
+      "linkStatus": "active",
+      "lastChecked": 1789085934182
     },
     {
-      "id": "gdelt-tbgpnkd",
+      "id": "gdelt-ahabs0v",
       "title": "Por que o Google está colocando 13 bilhões de euros na Finlândia ?",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -1494,8 +1238,8 @@
       "publishedAtStr": "2026-09-10T02:00:00Z",
       "publishedAtTs": 1789005600000,
       "rawContent": "Por que o Google está colocando 13 bilhões de euros na Finlândia ?",
-      "linkStatus": "unknown",
-      "lastChecked": null
+      "linkStatus": "active",
+      "lastChecked": 1789085934182
     }
   ]
 }
