@@ -1,16 +1,128 @@
 {
-  "updatedAt": "2026-09-11T19:15:31.932Z",
+  "updatedAt": "2026-09-11T19:30:31.502Z",
   "periodUsed": "24h",
-  "count": 22,
+  "count": 45,
   "linkVerificationStats": {
-    "checkedThisRun": 0,
-    "active": 0,
-    "broken": 0,
+    "checkedThisRun": 23,
+    "active": 20,
+    "broken": 3,
     "unknown": 0
   },
   "articles": [
     {
-      "id": "gdelt-lgq0zqq",
+      "id": "gdelt-v79t6ie",
+      "title": "11 de Setembro : drones recriam Torres Gêmeas nos 25 anos dos atentados em Nova York",
+      "sourceName": "BBC News Brasil",
+      "sourceUrl": "https://www.bbc.com/portuguese",
+      "sourceType": "Imprensa Internacional / Pública",
+      "sourceEditorial": "Emissora pública do Reino Unido; jornalismo global independente",
+      "country": "Reino Unido",
+      "paywall": false,
+      "originalUrl": "https://www.bbc.com/portuguese/articles/ckg8244ev91o",
+      "publishedAtStr": "2026-09-11T19:00:00Z",
+      "publishedAtTs": 1789153200000,
+      "rawContent": "11 de Setembro : drones recriam Torres Gêmeas nos 25 anos dos atentados em Nova York",
+      "linkStatus": "active",
+      "lastChecked": 1789155020958
+    },
+    {
+      "id": "gdelt-fpm45vx",
+      "title": "Comunidades religiosas de matriz africana entregam carta - compromisso a candidatas",
+      "sourceName": "Brasil de Fato",
+      "sourceUrl": "https://www.brasildefato.com.br/",
+      "sourceType": "Jornal / Movimentos Sociais",
+      "sourceEditorial": "Mídia popular focada em Direitos Humanos e Sul Global",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://www.brasildefato.com.br/2026/09/11/comunidades-religiosas-de-matriz-africana-entregam-carta-compromisso-a-candidatas/",
+      "publishedAtStr": "2026-09-11T17:45:00Z",
+      "publishedAtTs": 1789148700000,
+      "rawContent": "Comunidades religiosas de matriz africana entregam carta - compromisso a candidatas",
+      "linkStatus": "active",
+      "lastChecked": 1789155020958
+    },
+    {
+      "id": "gdelt-y81sw0q",
+      "title": "Brasil busca status de parceiro pleno da Asean : o que significa para as relações exteriores do país",
+      "sourceName": "Brasil de Fato",
+      "sourceUrl": "https://www.brasildefato.com.br/",
+      "sourceType": "Jornal / Movimentos Sociais",
+      "sourceEditorial": "Mídia popular focada em Direitos Humanos e Sul Global",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://www.brasildefato.com.br/2026/09/11/brasil-busca-status-de-parceiro-pleno-da-asean-o-que-significa-para-as-relacoes-exteriores-do-pais/",
+      "publishedAtStr": "2026-09-11T17:45:00Z",
+      "publishedAtTs": 1789148700000,
+      "rawContent": "Brasil busca status de parceiro pleno da Asean : o que significa para as relações exteriores do país",
+      "linkStatus": "active",
+      "lastChecked": 1789155020958
+    },
+    {
+      "id": "gdelt-xgmjivx",
+      "title": "Documentário do Brasil de Fato sobre Fidel estreia no Rio com debate sobre situação atual de Cuba",
+      "sourceName": "Brasil de Fato",
+      "sourceUrl": "https://www.brasildefato.com.br/",
+      "sourceType": "Jornal / Movimentos Sociais",
+      "sourceEditorial": "Mídia popular focada em Direitos Humanos e Sul Global",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://www.brasildefato.com.br/2026/09/11/documentario-do-brasil-de-fato-sobre-fidel-estreia-no-rio-com-debate-sobre-situacao-atual-de-cuba/",
+      "publishedAtStr": "2026-09-11T17:45:00Z",
+      "publishedAtTs": 1789148700000,
+      "rawContent": "Documentário do Brasil de Fato sobre Fidel estreia no Rio com debate sobre situação atual de Cuba",
+      "linkStatus": "active",
+      "lastChecked": 1789155020958
+    },
+    {
+      "id": "gdelt-vznmluq",
+      "title": "Paraná enfrenta sexta - feira ( 11 ) com tempestades mais intensas do ano , segundo Defesa Civil",
+      "sourceName": "Brasil de Fato",
+      "sourceUrl": "https://www.brasildefato.com.br/",
+      "sourceType": "Jornal / Movimentos Sociais",
+      "sourceEditorial": "Mídia popular focada em Direitos Humanos e Sul Global",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://www.brasildefato.com.br/2026/09/10/parana-enfrenta-sexta-feira-11-com-tempestades-mais-intensas-do-ano-segundo-defesa-civil/",
+      "publishedAtStr": "2026-09-11T17:45:00Z",
+      "publishedAtTs": 1789148700000,
+      "rawContent": "Paraná enfrenta sexta - feira ( 11 ) com tempestades mais intensas do ano , segundo Defesa Civil",
+      "linkStatus": "active",
+      "lastChecked": 1789155020958
+    },
+    {
+      "id": "gdelt-1zwpb79",
+      "title": "Assessor do deputado distrital Iolando ( MDB - DF ) é alvo de investigação sobre o filme  Dark Horse",
+      "sourceName": "Brasil de Fato",
+      "sourceUrl": "https://www.brasildefato.com.br/",
+      "sourceType": "Jornal / Movimentos Sociais",
+      "sourceEditorial": "Mídia popular focada em Direitos Humanos e Sul Global",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://www.brasildefato.com.br/2026/09/11/assessor-do-deputado-distrital-iolando-mdb-df-e-alvo-de-investigacao-sobre-o-filme-dark-horse/",
+      "publishedAtStr": "2026-09-11T17:45:00Z",
+      "publishedAtTs": 1789148700000,
+      "rawContent": "Assessor do deputado distrital Iolando ( MDB - DF ) é alvo de investigação sobre o filme  Dark Horse",
+      "linkStatus": "active",
+      "lastChecked": 1789155020958
+    },
+    {
+      "id": "gdelt-3qc3r8m",
+      "title": "Interlocutor direto : o que as investigações da PF revelam sobre a relação de Flávio Bolsonaro com Daniel Vorcaro",
+      "sourceName": "Brasil de Fato",
+      "sourceUrl": "https://www.brasildefato.com.br/",
+      "sourceType": "Jornal / Movimentos Sociais",
+      "sourceEditorial": "Mídia popular focada em Direitos Humanos e Sul Global",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://www.brasildefato.com.br/2026/09/11/interlocutor-direto-o-que-as-investigacoes-da-pf-revelam-sobre-a-relacao-de-flavio-bolsonaro-com-daniel-vorcaro/",
+      "publishedAtStr": "2026-09-11T17:45:00Z",
+      "publishedAtTs": 1789148700000,
+      "rawContent": "Interlocutor direto : o que as investigações da PF revelam sobre a relação de Flávio Bolsonaro com Daniel Vorcaro",
+      "linkStatus": "active",
+      "lastChecked": 1789155020958
+    },
+    {
+      "id": "gdelt-byw93tj",
       "title": "Coreia do Norte investe lucros com guerra em mais armamentos",
       "sourceName": "DW Brasil",
       "sourceUrl": "https://www.dw.com/pt-br/",
@@ -26,7 +138,7 @@
       "lastChecked": 1789147897813
     },
     {
-      "id": "gdelt-823qnvn",
+      "id": "gdelt-b2z0jln",
       "title": "Brics se reúne na Índia frente a desafios para manter coesão",
       "sourceName": "DW Brasil",
       "sourceUrl": "https://www.dw.com/pt-br/",
@@ -42,7 +154,7 @@
       "lastChecked": 1789147897813
     },
     {
-      "id": "gdelt-tr87j7v",
+      "id": "gdelt-kgh013t",
       "title": "Nunca vamos nos esquecer , diz Trump sobre 11 de Setembro",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -58,7 +170,7 @@
       "lastChecked": 1789147897813
     },
     {
-      "id": "gdelt-ccd0hem",
+      "id": "gdelt-2vurysh",
       "title": "Quatro jovens são presos no Canadá por arrombarem lojas para roubar joias e cartas colecionáveis ; VÍDEO",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -74,7 +186,7 @@
       "lastChecked": 1789147897813
     },
     {
-      "id": "gdelt-49znm21",
+      "id": "gdelt-suax6a4",
       "title": "Atos em Nova York e no Pentágono marcam os 25 anos do 11 de Setembro",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -90,7 +202,7 @@
       "lastChecked": 1789147897813
     },
     {
-      "id": "gdelt-99i1hsz",
+      "id": "gdelt-680583j",
       "title": "11 / 9 criou bases para política anti - imigrao de Trump , diz estudo",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -106,7 +218,7 @@
       "lastChecked": 1789147897813
     },
     {
-      "id": "gdelt-bnu4app",
+      "id": "gdelt-qqynv4a",
       "title": "Princesa Astrid da Noruega morre 2 dias após funeral do rei Harald V",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -122,7 +234,23 @@
       "lastChecked": 1789147897813
     },
     {
-      "id": "gdelt-y5f4usa",
+      "id": "gdelt-w3kyja4",
+      "title": "PF detalha articulações de Vorcaro antes de ser preso e aponta que ex - banqueiro já sabia de operação",
+      "sourceName": "Brasil de Fato",
+      "sourceUrl": "https://www.brasildefato.com.br/",
+      "sourceType": "Jornal / Movimentos Sociais",
+      "sourceEditorial": "Mídia popular focada em Direitos Humanos e Sul Global",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://www.brasildefato.com.br/2026/09/11/pf-detalha-articulacoes-de-vorcaro-antes-de-ser-preso-e-aponta-que-ex-banqueiro-ja-sabia-de-operacao/",
+      "publishedAtStr": "2026-09-11T13:00:00Z",
+      "publishedAtTs": 1789131600000,
+      "rawContent": "PF detalha articulações de Vorcaro antes de ser preso e aponta que ex - banqueiro já sabia de operação",
+      "linkStatus": "active",
+      "lastChecked": 1789155020958
+    },
+    {
+      "id": "gdelt-zvcoowf",
       "title": "Céline Dion conquista gerao Z e se mantém um ícone pop",
       "sourceName": "DW Brasil",
       "sourceUrl": "https://www.dw.com/pt-br/",
@@ -138,7 +266,7 @@
       "lastChecked": 1789147897813
     },
     {
-      "id": "gdelt-ks2p4fd",
+      "id": "gdelt-7azhpbw",
       "title": "11 de setembro : após 25 anos , imagens do atentado ainda chocam o mundo",
       "sourceName": "Agência Brasil",
       "sourceUrl": "https://agenciabrasil.ebc.com.br/internacional",
@@ -154,7 +282,7 @@
       "lastChecked": 1789147897813
     },
     {
-      "id": "gdelt-k7p6a9k",
+      "id": "gdelt-wo7aimh",
       "title": "Ativistas são condenados à prisão por vigílias em memória das vítimas do Massacre da Praça da Paz Celestial , na China",
       "sourceName": "O Globo Mundo",
       "sourceUrl": "https://oglobo.globo.com/mundo/",
@@ -170,7 +298,7 @@
       "lastChecked": 1789147897813
     },
     {
-      "id": "gdelt-gh26rxu",
+      "id": "gdelt-h4vw1o9",
       "title": "Merz acusa AfD de buscar  limpeza étnica , e partido processa premiê",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -186,7 +314,7 @@
       "lastChecked": 1789147897813
     },
     {
-      "id": "gdelt-iua1cx6",
+      "id": "gdelt-8663j2m",
       "title": "Entenda a crise no STF e o fogo cruzado entre Moraes e Mendonça",
       "sourceName": "BBC News Brasil",
       "sourceUrl": "https://www.bbc.com/portuguese",
@@ -202,7 +330,7 @@
       "lastChecked": 1789147897813
     },
     {
-      "id": "gdelt-aw3g331",
+      "id": "gdelt-6rqtza5",
       "title": "Abalos dos ataques do 11 de Setembro foram sentidos em escala global : veja alguns momentos cruciais",
       "sourceName": "O Globo Mundo",
       "sourceUrl": "https://oglobo.globo.com/mundo/",
@@ -218,7 +346,23 @@
       "lastChecked": 1789147897813
     },
     {
-      "id": "gdelt-y0weikx",
+      "id": "gdelt-pif14wd",
+      "title": "Novos ônibus do Rio circulam sem bilhetagem de integração intermunicipal",
+      "sourceName": "Brasil de Fato",
+      "sourceUrl": "https://www.brasildefato.com.br/",
+      "sourceType": "Jornal / Movimentos Sociais",
+      "sourceEditorial": "Mídia popular focada em Direitos Humanos e Sul Global",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://www.brasildefato.com.br/2026/09/09/novos-onibus-do-rio-circulam-sem-bilhetagem-de-integracao-intermunicipal/",
+      "publishedAtStr": "2026-09-11T08:30:00Z",
+      "publishedAtTs": 1789115400000,
+      "rawContent": "Novos ônibus do Rio circulam sem bilhetagem de integração intermunicipal",
+      "linkStatus": "broken",
+      "lastChecked": 1789155020958
+    },
+    {
+      "id": "gdelt-wi2awfo",
       "title": "Ataques do 11 de Setembro agilizaram mudança cultural ao expor risco de uso de saltos à segurança das mulheres",
       "sourceName": "O Globo Mundo",
       "sourceUrl": "https://oglobo.globo.com/mundo/",
@@ -234,7 +378,7 @@
       "lastChecked": 1789147897813
     },
     {
-      "id": "gdelt-mf64owl",
+      "id": "gdelt-cjhhuzq",
       "title": "Quais são os países mais seguros e os mais inseguros para viver ? Veja a posio do Brasil em ranking mundial",
       "sourceName": "O Globo Mundo",
       "sourceUrl": "https://oglobo.globo.com/mundo/",
@@ -250,7 +394,7 @@
       "lastChecked": 1789147897813
     },
     {
-      "id": "gdelt-2xu0719",
+      "id": "gdelt-0u8vcwy",
       "title": "Coiote Wendy , famosa nas redes sociais por deformação no focinho , é sacrificada após diagnóstico",
       "sourceName": "O Globo Mundo",
       "sourceUrl": "https://oglobo.globo.com/mundo/",
@@ -266,7 +410,7 @@
       "lastChecked": 1789147897813
     },
     {
-      "id": "gdelt-n3xr3qw",
+      "id": "gdelt-2cycu84",
       "title": "Planeta Mercúrio pode estar encolhendo mais rápido que se estimava , aponta estudo",
       "sourceName": "O Globo Mundo",
       "sourceUrl": "https://oglobo.globo.com/mundo/",
@@ -282,7 +426,7 @@
       "lastChecked": 1789147897813
     },
     {
-      "id": "gdelt-m5wvyus",
+      "id": "gdelt-ay6sgs5",
       "title": "Dono da  Mansão de Batman  rebate acusação sobre problema com morcegos",
       "sourceName": "O Globo Mundo",
       "sourceUrl": "https://oglobo.globo.com/mundo/",
@@ -298,7 +442,7 @@
       "lastChecked": 1789147897813
     },
     {
-      "id": "gdelt-93i2ew4",
+      "id": "gdelt-yzphoi2",
       "title": "O que documentário ovacionado em Veneza revela sobre sistema secreto usado por Israel contra civis em Gaza",
       "sourceName": "O Globo Mundo",
       "sourceUrl": "https://oglobo.globo.com/mundo/",
@@ -314,7 +458,7 @@
       "lastChecked": 1789147897813
     },
     {
-      "id": "gdelt-2zxibli",
+      "id": "gdelt-ockuc7o",
       "title": "Bab el - Mandeb : Conheça estreito alternativo a Ormuz também ameaçado no Oriente Médio",
       "sourceName": "O Globo Mundo",
       "sourceUrl": "https://oglobo.globo.com/mundo/",
@@ -330,7 +474,7 @@
       "lastChecked": 1789147897813
     },
     {
-      "id": "gdelt-wjh3bfe",
+      "id": "gdelt-u99viwy",
       "title": "É legal ? Quanto custaria ? Usaria dinheiro das tarifas ? O que se sabe sobre promessa de US$ 5 mil de Trump a eleitores",
       "sourceName": "O Globo Mundo",
       "sourceUrl": "https://oglobo.globo.com/mundo/",
@@ -346,7 +490,7 @@
       "lastChecked": 1789147897813
     },
     {
-      "id": "gdelt-0ysx2bb",
+      "id": "gdelt-ac1t9yp",
       "title": "25 anos depois : Resposta dos EUA aos ataques do 11 de Setembro acelerou erosão da hegemonia americana",
       "sourceName": "O Globo Mundo",
       "sourceUrl": "https://oglobo.globo.com/mundo/",
@@ -360,6 +504,230 @@
       "rawContent": "25 anos depois : Resposta dos EUA aos ataques do 11 de Setembro acelerou erosão da hegemonia americana",
       "linkStatus": "active",
       "lastChecked": 1789147897813
+    },
+    {
+      "id": "gdelt-q73045y",
+      "title": "Lula sobre STF e Vorcaro :  que se apure tudo , doa a quem doer",
+      "sourceName": "Brasil de Fato",
+      "sourceUrl": "https://www.brasildefato.com.br/",
+      "sourceType": "Jornal / Movimentos Sociais",
+      "sourceEditorial": "Mídia popular focada em Direitos Humanos e Sul Global",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://www.brasildefato.com.br/2026/09/10/lula-sobre-stf-e-vorcaro-que-se-apure-tudo-doa-a-quem-doer/",
+      "publishedAtStr": "2026-09-11T03:30:00Z",
+      "publishedAtTs": 1789097400000,
+      "rawContent": "Lula sobre STF e Vorcaro :  que se apure tudo , doa a quem doer",
+      "linkStatus": "broken",
+      "lastChecked": 1789155020958
+    },
+    {
+      "id": "gdelt-qo0d7ou",
+      "title": "Putin participará da Cúpula dos Brics na Índia e confirma reunião com Dilma Rousseff",
+      "sourceName": "Brasil de Fato",
+      "sourceUrl": "https://www.brasildefato.com.br/",
+      "sourceType": "Jornal / Movimentos Sociais",
+      "sourceEditorial": "Mídia popular focada em Direitos Humanos e Sul Global",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://www.brasildefato.com.br/2026/09/10/putin-participara-da-cupula-dos-brics-na-india-e-confirma-reuniao-com-dilma-rousseff/",
+      "publishedAtStr": "2026-09-10T22:45:00Z",
+      "publishedAtTs": 1789080300000,
+      "rawContent": "Putin participará da Cúpula dos Brics na Índia e confirma reunião com Dilma Rousseff",
+      "linkStatus": "broken",
+      "lastChecked": 1789155020958
+    },
+    {
+      "id": "gdelt-bguwjyj",
+      "title": "Lula sanciona iseno da  taxa das blusinha em compras até 50 dólares",
+      "sourceName": "Brasil de Fato",
+      "sourceUrl": "https://www.brasildefato.com.br/",
+      "sourceType": "Jornal / Movimentos Sociais",
+      "sourceEditorial": "Mídia popular focada em Direitos Humanos e Sul Global",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://www.brasildefato.com.br/2026/09/10/lula-sanciona-isencao-da-taxa-das-blusinhas-em-compras-ate-50-dolares/",
+      "publishedAtStr": "2026-09-10T22:45:00Z",
+      "publishedAtTs": 1789080300000,
+      "rawContent": "Lula sanciona iseno da  taxa das blusinha em compras até 50 dólares",
+      "linkStatus": "active",
+      "lastChecked": 1789155020958
+    },
+    {
+      "id": "gdelt-g6a2uxy",
+      "title": "Ex - marqueteiro e amigo de Flávio Bolsonaro é o terceiro maior doador do filme Dark Horse , aponta PF",
+      "sourceName": "Brasil de Fato",
+      "sourceUrl": "https://www.brasildefato.com.br/",
+      "sourceType": "Jornal / Movimentos Sociais",
+      "sourceEditorial": "Mídia popular focada em Direitos Humanos e Sul Global",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://www.brasildefato.com.br/2026/09/10/ex-marqueteiro-e-amigo-de-flavio-bolsonaro-e-o-terceiro-maior-doador-do-filme-dark-horse-aponta-pf/",
+      "publishedAtStr": "2026-09-10T22:45:00Z",
+      "publishedAtTs": 1789080300000,
+      "rawContent": "Ex - marqueteiro e amigo de Flávio Bolsonaro é o terceiro maior doador do filme Dark Horse , aponta PF",
+      "linkStatus": "active",
+      "lastChecked": 1789155020958
+    },
+    {
+      "id": "gdelt-cox7she",
+      "title": "Canetas emagrecedoras geraram uma constante  caça às gordura , diz autora de livro sobre o tema",
+      "sourceName": "Brasil de Fato",
+      "sourceUrl": "https://www.brasildefato.com.br/",
+      "sourceType": "Jornal / Movimentos Sociais",
+      "sourceEditorial": "Mídia popular focada em Direitos Humanos e Sul Global",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://www.brasildefato.com.br/podcast/brasil-de-fato-entrevista/2026/09/10/canetas-emagrecedoras-geraram-uma-constante-caca-as-gorduras-diz-autora-de-livro-sobre-o-tema/",
+      "publishedAtStr": "2026-09-10T22:45:00Z",
+      "publishedAtTs": 1789080300000,
+      "rawContent": "Canetas emagrecedoras geraram uma constante  caça às gordura , diz autora de livro sobre o tema",
+      "linkStatus": "active",
+      "lastChecked": 1789155020958
+    },
+    {
+      "id": "gdelt-e54892y",
+      "title": "Kremlin diz que Ucrânia  abriu caixa de pandora  com ataque a alvos civis",
+      "sourceName": "Brasil de Fato",
+      "sourceUrl": "https://www.brasildefato.com.br/",
+      "sourceType": "Jornal / Movimentos Sociais",
+      "sourceEditorial": "Mídia popular focada em Direitos Humanos e Sul Global",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://www.brasildefato.com.br/2026/09/10/kremlin-diz-que-ucrania-abriu-caixa-de-pandora-com-ataque-a-alvos-civis/",
+      "publishedAtStr": "2026-09-10T22:45:00Z",
+      "publishedAtTs": 1789080300000,
+      "rawContent": "Kremlin diz que Ucrânia  abriu caixa de pandora  com ataque a alvos civis",
+      "linkStatus": "active",
+      "lastChecked": 1789155020958
+    },
+    {
+      "id": "gdelt-8k94zgp",
+      "title": "Universalizar sem desproteger : os riscos da flexibilização do licenciamento ambiental e o impacto no saneamento",
+      "sourceName": "Brasil de Fato",
+      "sourceUrl": "https://www.brasildefato.com.br/",
+      "sourceType": "Jornal / Movimentos Sociais",
+      "sourceEditorial": "Mídia popular focada em Direitos Humanos e Sul Global",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://www.brasildefato.com.br/colunista/observatorio-das-metropoles-nucleo-sao-paulo/2026/09/10/universalizar-sem-desproteger-os-riscos-da-flexibilizacao-do-licenciamento-ambiental-e-o-impacto-no-saneamento/",
+      "publishedAtStr": "2026-09-10T22:45:00Z",
+      "publishedAtTs": 1789080300000,
+      "rawContent": "Universalizar sem desproteger : os riscos da flexibilização do licenciamento ambiental e o impacto no saneamento",
+      "linkStatus": "active",
+      "lastChecked": 1789155020958
+    },
+    {
+      "id": "gdelt-9gsnrt8",
+      "title": "Frentes populares vão às ruas de BH contra  ao golpista  que tenta favorecer Flávio Bolsonaro",
+      "sourceName": "Brasil de Fato",
+      "sourceUrl": "https://www.brasildefato.com.br/",
+      "sourceType": "Jornal / Movimentos Sociais",
+      "sourceEditorial": "Mídia popular focada em Direitos Humanos e Sul Global",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://www.brasildefato.com.br/2026/09/10/frentes-populares-vao-as-ruas-de-bh-contra-acao-golpista-que-tenta-favorecer-flavio-bolsonaro/",
+      "publishedAtStr": "2026-09-10T22:45:00Z",
+      "publishedAtTs": 1789080300000,
+      "rawContent": "Frentes populares vão às ruas de BH contra  ao golpista  que tenta favorecer Flávio Bolsonaro",
+      "linkStatus": "active",
+      "lastChecked": 1789155020958
+    },
+    {
+      "id": "gdelt-pjupbzf",
+      "title": "Atlas / Bloomberg : Lula mantém vantagem no 1º turno ; 2º turno tem empate técnico",
+      "sourceName": "Brasil de Fato",
+      "sourceUrl": "https://www.brasildefato.com.br/",
+      "sourceType": "Jornal / Movimentos Sociais",
+      "sourceEditorial": "Mídia popular focada em Direitos Humanos e Sul Global",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://www.brasildefato.com.br/2026/09/10/atlasbloomberg-lula-mantem-vantagem-no-1o-turno-2o-turno-tem-empate-tecnico/",
+      "publishedAtStr": "2026-09-10T22:45:00Z",
+      "publishedAtTs": 1789080300000,
+      "rawContent": "Atlas / Bloomberg : Lula mantém vantagem no 1º turno ; 2º turno tem empate técnico",
+      "linkStatus": "active",
+      "lastChecked": 1789155020958
+    },
+    {
+      "id": "gdelt-b8aux9d",
+      "title": "O livro se realiza no leitor , você imagina junto com o texto , diz escritor Jefferson Tenório",
+      "sourceName": "Brasil de Fato",
+      "sourceUrl": "https://www.brasildefato.com.br/",
+      "sourceType": "Jornal / Movimentos Sociais",
+      "sourceEditorial": "Mídia popular focada em Direitos Humanos e Sul Global",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://www.brasildefato.com.br/podcast/bem-viver/2026/09/10/o-livro-se-realiza-no-leitor-voce-imagina-junto-com-o-texto-diz-escritor-jefferson-tenorio/",
+      "publishedAtStr": "2026-09-10T22:45:00Z",
+      "publishedAtTs": 1789080300000,
+      "rawContent": "O livro se realiza no leitor , você imagina junto com o texto , diz escritor Jefferson Tenório",
+      "linkStatus": "active",
+      "lastChecked": 1789155020958
+    },
+    {
+      "id": "gdelt-bj10lc0",
+      "title": "OAB não pode converter - se em instrumento de campanha eleitoral , diz Ordem Democrática do DF",
+      "sourceName": "Brasil de Fato",
+      "sourceUrl": "https://www.brasildefato.com.br/",
+      "sourceType": "Jornal / Movimentos Sociais",
+      "sourceEditorial": "Mídia popular focada em Direitos Humanos e Sul Global",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://www.brasildefato.com.br/2026/09/10/oab-nao-pode-converter-se-em-instrumento-de-campanha-eleitoral-diz-ordem-democratica-do-df/",
+      "publishedAtStr": "2026-09-10T22:45:00Z",
+      "publishedAtTs": 1789080300000,
+      "rawContent": "OAB não pode converter - se em instrumento de campanha eleitoral , diz Ordem Democrática do DF",
+      "linkStatus": "active",
+      "lastChecked": 1789155020958
+    },
+    {
+      "id": "gdelt-wo5i7ig",
+      "title": "Soninha Francine defende escala flexível de trabalho , integração na segurança e maior rigor ambiental",
+      "sourceName": "Brasil de Fato",
+      "sourceUrl": "https://www.brasildefato.com.br/",
+      "sourceType": "Jornal / Movimentos Sociais",
+      "sourceEditorial": "Mídia popular focada em Direitos Humanos e Sul Global",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://www.brasildefato.com.br/2026/09/10/soninha-francine-defende-escala-flexivel-de-trabalho-integracao-na-seguranca-e-maior-rigor-ambiental/",
+      "publishedAtStr": "2026-09-10T22:45:00Z",
+      "publishedAtTs": 1789080300000,
+      "rawContent": "Soninha Francine defende escala flexível de trabalho , integração na segurança e maior rigor ambiental",
+      "linkStatus": "active",
+      "lastChecked": 1789155020958
+    },
+    {
+      "id": "gdelt-cbcn1md",
+      "title": "Lula e PT cobram quebra de sigilo do caso Master enquanto Flávio Bolsonaro silencia",
+      "sourceName": "Brasil de Fato",
+      "sourceUrl": "https://www.brasildefato.com.br/",
+      "sourceType": "Jornal / Movimentos Sociais",
+      "sourceEditorial": "Mídia popular focada em Direitos Humanos e Sul Global",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://www.brasildefato.com.br/2026/09/10/lula-e-pt-cobram-quebra-de-sigilo-do-caso-master-enquanto-flavio-bolsonaro-silencia/",
+      "publishedAtStr": "2026-09-10T22:45:00Z",
+      "publishedAtTs": 1789080300000,
+      "rawContent": "Lula e PT cobram quebra de sigilo do caso Master enquanto Flávio Bolsonaro silencia",
+      "linkStatus": "active",
+      "lastChecked": 1789155020958
+    },
+    {
+      "id": "gdelt-0ua2ema",
+      "title": "STF está fazendo de tudo para ser o protagonista das eleie , afirma cientista político",
+      "sourceName": "Brasil de Fato",
+      "sourceUrl": "https://www.brasildefato.com.br/",
+      "sourceType": "Jornal / Movimentos Sociais",
+      "sourceEditorial": "Mídia popular focada em Direitos Humanos e Sul Global",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://www.brasildefato.com.br/2026/09/10/stf-esta-fazendo-de-tudo-para-ser-o-protagonista-das-eleicoes-afirma-cientista-politico/",
+      "publishedAtStr": "2026-09-10T22:45:00Z",
+      "publishedAtTs": 1789080300000,
+      "rawContent": "STF está fazendo de tudo para ser o protagonista das eleie , afirma cientista político",
+      "linkStatus": "active",
+      "lastChecked": 1789155020958
     }
   ]
 }
