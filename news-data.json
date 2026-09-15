@@ -1,16 +1,16 @@
 {
-  "updatedAt": "2026-09-15T08:29:08.408Z",
-  "periodUsed": "7d",
+  "updatedAt": "2026-09-15T09:00:30.586Z",
+  "periodUsed": "3M",
   "count": 26,
   "linkVerificationStats": {
-    "checkedThisRun": 1,
-    "active": 1,
+    "checkedThisRun": 0,
+    "active": 0,
     "broken": 0,
     "unknown": 0
   },
   "articles": [
     {
-      "id": "gdelt-2qsy3ac",
+      "id": "gdelt-teldxen",
       "title": "Embarcação iraniana é alvo de ataque no Estreito de Ormuz ; uma pessoa morreu",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -26,7 +26,7 @@
       "lastChecked": 1789459127392
     },
     {
-      "id": "gdelt-619hq54",
+      "id": "gdelt-q8hc299",
       "title": "Brasileiros no front : Redes de Ucrânia e Rússia aliciam cada vez mais jovens para a guerra com promessas falsas na internet",
       "sourceName": "O Globo Mundo",
       "sourceUrl": "https://oglobo.globo.com/mundo/",
@@ -42,7 +42,7 @@
       "lastChecked": 1789459127392
     },
     {
-      "id": "gdelt-d7xdk1v",
+      "id": "gdelt-xvvinbz",
       "title": "Casa da ex - vice - presidente dos EUA , Kamala Harris , é invadida ; polícia foi chamada",
       "sourceName": "O Globo Mundo",
       "sourceUrl": "https://oglobo.globo.com/mundo/",
@@ -58,7 +58,7 @@
       "lastChecked": 1789459127392
     },
     {
-      "id": "gdelt-mtpga33",
+      "id": "gdelt-0qmg6f2",
       "title": "Dois anos depois , médicas relembram ataque israelense  devastador  com pagers no Líbano ,  diferente de tudo já visto antes",
       "sourceName": "O Globo Mundo",
       "sourceUrl": "https://oglobo.globo.com/mundo/",
@@ -74,7 +74,7 @@
       "lastChecked": 1789459127392
     },
     {
-      "id": "gdelt-xie00yz",
+      "id": "gdelt-1zmsi62",
       "title": "Medo Vermelho : Em desvantagem nas pesquisas , republicanos tentam associar Partido Democrata ao comunismo",
       "sourceName": "O Globo Mundo",
       "sourceUrl": "https://oglobo.globo.com/mundo/",
@@ -90,7 +90,7 @@
       "lastChecked": 1789459127392
     },
     {
-      "id": "gdelt-j3fp050",
+      "id": "gdelt-ct44hja",
       "title": "Arábia Saudita e Houthis trocam ataques pelo Estreito de Bab el - Mandeb , que contorna Ormuz ; rebeldes saem à frente por controle de rota do petróleo",
       "sourceName": "O Globo Mundo",
       "sourceUrl": "https://oglobo.globo.com/mundo/",
@@ -106,7 +106,7 @@
       "lastChecked": 1789459127392
     },
     {
-      "id": "gdelt-aeoib4u",
+      "id": "gdelt-boblege",
       "title": "Brasileiros no front : Com ex - guerrilheiros , Colômbia é o maior fornecedor de combatentes latino - americanos para Ucrânia e Rússia",
       "sourceName": "O Globo Mundo",
       "sourceUrl": "https://oglobo.globo.com/mundo/",
@@ -122,7 +122,7 @@
       "lastChecked": 1789459127392
     },
     {
-      "id": "gdelt-5rgzg2m",
+      "id": "gdelt-cpelo0h",
       "title": "Arábia Saudita paralisa oleoduto , e houthis controlam Mar Vermelho",
       "sourceName": "Agência Brasil",
       "sourceUrl": "https://agenciabrasil.ebc.com.br/internacional",
@@ -138,7 +138,7 @@
       "lastChecked": 1789459127392
     },
     {
-      "id": "gdelt-1oui88w",
+      "id": "gdelt-afhfpin",
       "title": "Com Irã e Emirados Árabes no bloco , Brics pede calma no Oriente Médio",
       "sourceName": "Agência Brasil",
       "sourceUrl": "https://agenciabrasil.ebc.com.br/internacional",
@@ -154,7 +154,7 @@
       "lastChecked": 1789459127392
     },
     {
-      "id": "gdelt-bpryezh",
+      "id": "gdelt-2vh8nsw",
       "title": "CEO da Anthropic exige freio ao desenvolvimento de IAs",
       "sourceName": "DW Brasil",
       "sourceUrl": "https://www.dw.com/pt-br/",
@@ -170,7 +170,7 @@
       "lastChecked": 1789459127392
     },
     {
-      "id": "gdelt-do97sk6",
+      "id": "gdelt-edwlois",
       "title": "Trump defende unificao da Irlanda e provoca governo britânico",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -186,7 +186,7 @@
       "lastChecked": 1789459127392
     },
     {
-      "id": "gdelt-s7c4jjb",
+      "id": "gdelt-np6owad",
       "title": "Onda de calor recorde na França deixará champanhe com mais álcool",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -202,7 +202,7 @@
       "lastChecked": 1789459127392
     },
     {
-      "id": "gdelt-nzr96i8",
+      "id": "gdelt-d0d4xpu",
       "title": "Por que a Coreia do Norte não precisa de acordo com os EUA",
       "sourceName": "DW Brasil",
       "sourceUrl": "https://www.dw.com/pt-br/",
@@ -218,7 +218,7 @@
       "lastChecked": 1789459127392
     },
     {
-      "id": "gdelt-jd1hvb1",
+      "id": "gdelt-cb9u2mc",
       "title": "Brics pede calma no Oriente Médio após meses de diplomacia",
       "sourceName": "DW Brasil",
       "sourceUrl": "https://www.dw.com/pt-br/",
@@ -234,7 +234,7 @@
       "lastChecked": 1789459127392
     },
     {
-      "id": "gdelt-jj913ed",
+      "id": "gdelt-wph0x8s",
       "title": "Fachin rejeita julgar Mendonça junto com Moraes no STF",
       "sourceName": "DW Brasil",
       "sourceUrl": "https://www.dw.com/pt-br/",
@@ -250,7 +250,7 @@
       "lastChecked": 1789459127392
     },
     {
-      "id": "gdelt-iq1f619",
+      "id": "gdelt-bvnjwc4",
       "title": "França : polícia suspeita de sabotagem em descarrilamento de trem",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -266,7 +266,7 @@
       "lastChecked": 1789459127392
     },
     {
-      "id": "gdelt-hufbxuy",
+      "id": "gdelt-psca6wg",
       "title": "Crise entre EUA e Brasil trava combate ao crime organizado , diz jornal",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -282,7 +282,7 @@
       "lastChecked": 1789459127392
     },
     {
-      "id": "gdelt-a8ndszs",
+      "id": "gdelt-shfh4ro",
       "title": "Flávio pediu Mendonça no caso  Dark Horse , diz imprensa",
       "sourceName": "DW Brasil",
       "sourceUrl": "https://www.dw.com/pt-br/",
@@ -298,7 +298,7 @@
       "lastChecked": 1789459127392
     },
     {
-      "id": "gdelt-l6me9sc",
+      "id": "gdelt-hce83nd",
       "title": "Inteligência russa atuou no ataque em Leipzig , diz jornal",
       "sourceName": "DW Brasil",
       "sourceUrl": "https://www.dw.com/pt-br/",
@@ -314,7 +314,7 @@
       "lastChecked": 1789459127392
     },
     {
-      "id": "gdelt-5ft9f3r",
+      "id": "gdelt-pf2psnb",
       "title": "Trump abre caminho para caçar lobos antes quase extintos",
       "sourceName": "DW Brasil",
       "sourceUrl": "https://www.dw.com/pt-br/",
@@ -330,7 +330,7 @@
       "lastChecked": 1789459127392
     },
     {
-      "id": "gdelt-olzahix",
+      "id": "gdelt-6sk9on8",
       "title": "Pesquisadores revelam novo fator decisivo para a felicidade",
       "sourceName": "DW Brasil",
       "sourceUrl": "https://www.dw.com/pt-br/",
@@ -346,7 +346,7 @@
       "lastChecked": 1789459127392
     },
     {
-      "id": "gdelt-vrys8za",
+      "id": "gdelt-aedueq7",
       "title": "Vivi para contar :  Perdi uma parte de mim quando a torre desabou , mas não mataram meu espírito , diz sobrevivente do 11 de Setembro",
       "sourceName": "O Globo Mundo",
       "sourceUrl": "https://oglobo.globo.com/mundo/",
@@ -362,7 +362,7 @@
       "lastChecked": 1789459127392
     },
     {
-      "id": "gdelt-4pmf123",
+      "id": "gdelt-dp1ox4l",
       "title": "Dente de  mamute gigante  com mais de 10 mil anos é encontrado em riacho na Califórnia",
       "sourceName": "O Globo Mundo",
       "sourceUrl": "https://oglobo.globo.com/mundo/",
@@ -378,7 +378,7 @@
       "lastChecked": 1789459127392
     },
     {
-      "id": "gdelt-bj95wja",
+      "id": "gdelt-72k9x8k",
       "title": "Mulher inconsciente é espancada e estuprada até a morte ; autoridades investigam rede de abusos como do caso Pelicot",
       "sourceName": "O Globo Mundo",
       "sourceUrl": "https://oglobo.globo.com/mundo/",
@@ -394,7 +394,7 @@
       "lastChecked": 1789459127392
     },
     {
-      "id": "gdelt-6qddjxg",
+      "id": "gdelt-ajkr22y",
       "title": "46 mil já fugiram do Iêmen após escalada de Houthis e há crianças entre mortos e feridos , diz ONU ; EUA prometem não atacar país por enquanto",
       "sourceName": "O Globo Mundo",
       "sourceUrl": "https://oglobo.globo.com/mundo/",
@@ -410,7 +410,7 @@
       "lastChecked": 1789459127392
     },
     {
-      "id": "gdelt-2bceb8x",
+      "id": "gdelt-yo2zvba",
       "title": "Zebra de 27 anos morre após ser ferida por outro animal em zoológico nos EUA",
       "sourceName": "O Globo Mundo",
       "sourceUrl": "https://oglobo.globo.com/mundo/",
