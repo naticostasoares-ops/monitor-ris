@@ -1,16 +1,128 @@
 {
-  "updatedAt": "2026-09-17T01:56:45.467Z",
+  "updatedAt": "2026-09-17T02:25:23.570Z",
   "periodUsed": "7d",
-  "count": 51,
+  "count": 77,
   "linkVerificationStats": {
-    "checkedThisRun": 40,
-    "active": 40,
+    "checkedThisRun": 37,
+    "active": 36,
     "broken": 0,
-    "unknown": 0
+    "unknown": 1
   },
   "articles": [
     {
-      "id": "gdelt-unb5m3q",
+      "id": "gdelt-eh70zxk",
+      "title": "Embarcação iraniana é alvo de ataque no Estreito de Ormuz ; uma pessoa morreu",
+      "sourceName": "G1 Mundo",
+      "sourceUrl": "https://g1.globo.com/mundo/",
+      "sourceType": "Imprensa Comercial Brasileira",
+      "sourceEditorial": "Portal de notícias mainstream do Grupo Globo",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://g1.globo.com/mundo/noticia/2026/09/13/embarcacao-iraniana-e-alvo-de-ataque-no-estreito-de-ormuz-uma-pessoa-morreu.ghtml",
+      "publishedAtStr": "2026-09-13T07:00:00Z",
+      "publishedAtTs": 1789282800000,
+      "rawContent": "Embarcação iraniana é alvo de ataque no Estreito de Ormuz ; uma pessoa morreu",
+      "linkStatus": "active",
+      "lastChecked": 1789611880862
+    },
+    {
+      "id": "gdelt-6b3tco8",
+      "title": "Brasileiros no front : Redes de Ucrânia e Rússia aliciam cada vez mais jovens para a guerra com promessas falsas na internet",
+      "sourceName": "O Globo Mundo",
+      "sourceUrl": "https://oglobo.globo.com/mundo/",
+      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
+      "sourceEditorial": "Jornal diário (Grupo Globo) - Conteúdo sob assinatura",
+      "country": "Brasil",
+      "paywall": true,
+      "originalUrl": "https://oglobo.globo.com/mundo/noticia/2026/09/13/brasileiros-no-front-redes-de-ucrania-e-russia-aliciam-cada-vez-mais-jovens-para-a-guerra-com-promessas-falsas-na-internet.ghtml",
+      "publishedAtStr": "2026-09-13T06:15:00Z",
+      "publishedAtTs": 1789280100000,
+      "rawContent": "Brasileiros no front : Redes de Ucrânia e Rússia aliciam cada vez mais jovens para a guerra com promessas falsas na internet",
+      "linkStatus": "active",
+      "lastChecked": 1789611880862
+    },
+    {
+      "id": "gdelt-mbweg6z",
+      "title": "Casa da ex - vice - presidente dos EUA , Kamala Harris , é invadida ; polícia foi chamada",
+      "sourceName": "O Globo Mundo",
+      "sourceUrl": "https://oglobo.globo.com/mundo/",
+      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
+      "sourceEditorial": "Jornal diário (Grupo Globo) - Conteúdo sob assinatura",
+      "country": "Brasil",
+      "paywall": true,
+      "originalUrl": "https://oglobo.globo.com/mundo/noticia/2026/09/13/casa-da-ex-vice-presidente-dos-eua-kamala-harris-e-invadida-policia-foi-chamada.ghtml",
+      "publishedAtStr": "2026-09-13T06:15:00Z",
+      "publishedAtTs": 1789280100000,
+      "rawContent": "Casa da ex - vice - presidente dos EUA , Kamala Harris , é invadida ; polícia foi chamada",
+      "linkStatus": "active",
+      "lastChecked": 1789611880862
+    },
+    {
+      "id": "gdelt-fhabruz",
+      "title": "Dois anos depois , médicas relembram ataque israelense  devastador  com pagers no Líbano ,  diferente de tudo já visto antes",
+      "sourceName": "O Globo Mundo",
+      "sourceUrl": "https://oglobo.globo.com/mundo/",
+      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
+      "sourceEditorial": "Jornal diário (Grupo Globo) - Conteúdo sob assinatura",
+      "country": "Brasil",
+      "paywall": true,
+      "originalUrl": "https://oglobo.globo.com/mundo/noticia/2026/09/13/dois-anos-depois-medicas-relembram-ataque-israelense-devastador-com-pagers-no-libano-diferente-de-tudo-ja-visto-antes.ghtml",
+      "publishedAtStr": "2026-09-13T06:15:00Z",
+      "publishedAtTs": 1789280100000,
+      "rawContent": "Dois anos depois , médicas relembram ataque israelense  devastador  com pagers no Líbano ,  diferente de tudo já visto antes",
+      "linkStatus": "active",
+      "lastChecked": 1789611880862
+    },
+    {
+      "id": "gdelt-9ltdmos",
+      "title": "Medo Vermelho : Em desvantagem nas pesquisas , republicanos tentam associar Partido Democrata ao comunismo",
+      "sourceName": "O Globo Mundo",
+      "sourceUrl": "https://oglobo.globo.com/mundo/",
+      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
+      "sourceEditorial": "Jornal diário (Grupo Globo) - Conteúdo sob assinatura",
+      "country": "Brasil",
+      "paywall": true,
+      "originalUrl": "https://oglobo.globo.com/mundo/noticia/2026/09/13/medo-vermelho-em-desvantagem-nas-pesquisas-republicanos-tentam-associar-partido-democrata-ao-comunismo.ghtml",
+      "publishedAtStr": "2026-09-13T06:15:00Z",
+      "publishedAtTs": 1789280100000,
+      "rawContent": "Medo Vermelho : Em desvantagem nas pesquisas , republicanos tentam associar Partido Democrata ao comunismo",
+      "linkStatus": "active",
+      "lastChecked": 1789611880862
+    },
+    {
+      "id": "gdelt-j3q2016",
+      "title": "Arábia Saudita e Houthis trocam ataques pelo Estreito de Bab el - Mandeb , que contorna Ormuz ; rebeldes saem à frente por controle de rota do petróleo",
+      "sourceName": "O Globo Mundo",
+      "sourceUrl": "https://oglobo.globo.com/mundo/",
+      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
+      "sourceEditorial": "Jornal diário (Grupo Globo) - Conteúdo sob assinatura",
+      "country": "Brasil",
+      "paywall": true,
+      "originalUrl": "https://oglobo.globo.com/mundo/noticia/2026/09/13/arabia-saudita-e-houthis-trocam-ataques-pelo-estreito-de-bab-al-mandeb-que-contorna-ormuz-rebeldes-saem-a-frente-por-controle-de-rota-do-petroleo.ghtml",
+      "publishedAtStr": "2026-09-13T06:15:00Z",
+      "publishedAtTs": 1789280100000,
+      "rawContent": "Arábia Saudita e Houthis trocam ataques pelo Estreito de Bab el - Mandeb , que contorna Ormuz ; rebeldes saem à frente por controle de rota do petróleo",
+      "linkStatus": "active",
+      "lastChecked": 1789611880862
+    },
+    {
+      "id": "gdelt-0j1zlql",
+      "title": "Brasileiros no front : Com ex - guerrilheiros , Colômbia é o maior fornecedor de combatentes latino - americanos para Ucrânia e Rússia",
+      "sourceName": "O Globo Mundo",
+      "sourceUrl": "https://oglobo.globo.com/mundo/",
+      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
+      "sourceEditorial": "Jornal diário (Grupo Globo) - Conteúdo sob assinatura",
+      "country": "Brasil",
+      "paywall": true,
+      "originalUrl": "https://oglobo.globo.com/mundo/noticia/2026/09/13/brasileiros-no-front-com-ex-guerrilheiros-colombia-e-o-maior-fornecedor-de-combatentes-latino-americanos-para-ucrania-e-russia.ghtml",
+      "publishedAtStr": "2026-09-13T06:15:00Z",
+      "publishedAtTs": 1789280100000,
+      "rawContent": "Brasileiros no front : Com ex - guerrilheiros , Colômbia é o maior fornecedor de combatentes latino - americanos para Ucrânia e Rússia",
+      "linkStatus": "active",
+      "lastChecked": 1789611880862
+    },
+    {
+      "id": "gdelt-bbqvsqe",
       "title": "EUA projetam mais poder na região enquanto Estado de direito apresenta fissuras no Brasil",
       "sourceName": "Estadão Internacional",
       "sourceUrl": "https://www.estadao.com.br/internacional/",
@@ -26,7 +138,7 @@
       "lastChecked": 1789610166107
     },
     {
-      "id": "gdelt-87ppcnt",
+      "id": "gdelt-xy5jfoq",
       "title": "Amodei , Altman e Musk afirmam que é hora de desacelerar avanços em IA ; o que explica ?",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -42,7 +154,103 @@
       "lastChecked": 1789610166107
     },
     {
-      "id": "gdelt-xhclpdo",
+      "id": "gdelt-43bu9vm",
+      "title": "Arábia Saudita paralisa oleoduto , e houthis controlam Mar Vermelho",
+      "sourceName": "Agência Brasil",
+      "sourceUrl": "https://agenciabrasil.ebc.com.br/internacional",
+      "sourceType": "Agência Estatal",
+      "sourceEditorial": "Agência pública de notícias da EBC (Governo Federal)",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-09/arabia-saudita-paralisa-oleoduto-e-houthis-controlam-mar-vermelho",
+      "publishedAtStr": "2026-09-12T20:15:00Z",
+      "publishedAtTs": 1789244100000,
+      "rawContent": "Arábia Saudita paralisa oleoduto , e houthis controlam Mar Vermelho",
+      "linkStatus": "active",
+      "lastChecked": 1789611880862
+    },
+    {
+      "id": "gdelt-ur6a53t",
+      "title": "Com Irã e Emirados Árabes no bloco , Brics pede calma no Oriente Médio",
+      "sourceName": "Agência Brasil",
+      "sourceUrl": "https://agenciabrasil.ebc.com.br/internacional",
+      "sourceType": "Agência Estatal",
+      "sourceEditorial": "Agência pública de notícias da EBC (Governo Federal)",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-09/com-ira-e-emirados-arabes-no-bloco-brics-pede-calma-no-oriente-medio",
+      "publishedAtStr": "2026-09-12T20:15:00Z",
+      "publishedAtTs": 1789244100000,
+      "rawContent": "Com Irã e Emirados Árabes no bloco , Brics pede calma no Oriente Médio",
+      "linkStatus": "active",
+      "lastChecked": 1789611880862
+    },
+    {
+      "id": "gdelt-gohrwar",
+      "title": "CEO da Anthropic exige freio ao desenvolvimento de IAs",
+      "sourceName": "DW Brasil",
+      "sourceUrl": "https://www.dw.com/pt-br/",
+      "sourceType": "Imprensa Internacional / Pública",
+      "sourceEditorial": "Emissora pública da Alemanha; foco em diplomacia e direitos humanos",
+      "country": "Alemanha",
+      "paywall": false,
+      "originalUrl": "https://www.dw.com/pt-br/ceo-da-anthropic-exige-freio-ao-desenvolvimento-de-ias/a-79247389",
+      "publishedAtStr": "2026-09-12T20:15:00Z",
+      "publishedAtTs": 1789244100000,
+      "rawContent": "CEO da Anthropic exige freio ao desenvolvimento de IAs",
+      "linkStatus": "active",
+      "lastChecked": 1789611880862
+    },
+    {
+      "id": "gdelt-pgfllgr",
+      "title": "Trump defende unificao da Irlanda e provoca governo britânico",
+      "sourceName": "G1 Mundo",
+      "sourceUrl": "https://g1.globo.com/mundo/",
+      "sourceType": "Imprensa Comercial Brasileira",
+      "sourceEditorial": "Portal de notícias mainstream do Grupo Globo",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://g1.globo.com/mundo/noticia/2026/09/12/trump-dublin-irlanda-unificada.ghtml",
+      "publishedAtStr": "2026-09-12T19:00:00Z",
+      "publishedAtTs": 1789239600000,
+      "rawContent": "Trump defende unificao da Irlanda e provoca governo britânico",
+      "linkStatus": "active",
+      "lastChecked": 1789611880862
+    },
+    {
+      "id": "gdelt-8v7ezmt",
+      "title": "Onda de calor recorde na França deixará champanhe com mais álcool",
+      "sourceName": "G1 Mundo",
+      "sourceUrl": "https://g1.globo.com/mundo/",
+      "sourceType": "Imprensa Comercial Brasileira",
+      "sourceEditorial": "Portal de notícias mainstream do Grupo Globo",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://g1.globo.com/mundo/noticia/2026/09/12/onda-de-calor-recorde-na-franca-deixara-champanhe-com-mais-alcool-e-mais-forte.ghtml",
+      "publishedAtStr": "2026-09-12T19:00:00Z",
+      "publishedAtTs": 1789239600000,
+      "rawContent": "Onda de calor recorde na França deixará champanhe com mais álcool",
+      "linkStatus": "active",
+      "lastChecked": 1789611880862
+    },
+    {
+      "id": "gdelt-7976qxb",
+      "title": "Por que a Coreia do Norte não precisa de acordo com os EUA",
+      "sourceName": "DW Brasil",
+      "sourceUrl": "https://www.dw.com/pt-br/",
+      "sourceType": "Imprensa Internacional / Pública",
+      "sourceEditorial": "Emissora pública da Alemanha; foco em diplomacia e direitos humanos",
+      "country": "Alemanha",
+      "paywall": false,
+      "originalUrl": "https://www.dw.com/pt-br/por-que-a-coreia-do-norte-n%C3%A3o-precisa-de-acordo-com-os-eua/a-79247112",
+      "publishedAtStr": "2026-09-12T18:45:00Z",
+      "publishedAtTs": 1789238700000,
+      "rawContent": "Por que a Coreia do Norte não precisa de acordo com os EUA",
+      "linkStatus": "unknown",
+      "lastChecked": 1789611880862
+    },
+    {
+      "id": "gdelt-vah23je",
       "title": "No BRICS , Xi Jinping critica tarifas comerciais  arbitrária e pede rejeio a protecionismo",
       "sourceName": "Estadão Internacional",
       "sourceUrl": "https://www.estadao.com.br/internacional/",
@@ -58,7 +266,7 @@
       "lastChecked": 1789610166107
     },
     {
-      "id": "gdelt-l789vxd",
+      "id": "gdelt-5zmf6pg",
       "title": "Disputa por vistos ameaça o esforço conjunto entre EUA e Brasil no combate ao crime",
       "sourceName": "Estadão Internacional",
       "sourceUrl": "https://www.estadao.com.br/internacional/",
@@ -74,7 +282,7 @@
       "lastChecked": 1789610166107
     },
     {
-      "id": "gdelt-tge5c7i",
+      "id": "gdelt-zls4f8c",
       "title": "Milhares protestam em Kosovo em apoio a ex - presidente antes de veredicto por crimes de guerra",
       "sourceName": "Estadão Internacional",
       "sourceUrl": "https://www.estadao.com.br/internacional/",
@@ -90,7 +298,39 @@
       "lastChecked": 1789610166107
     },
     {
-      "id": "gdelt-0cm8hxk",
+      "id": "gdelt-i8py22o",
+      "title": "Brics pede calma no Oriente Médio após meses de diplomacia",
+      "sourceName": "DW Brasil",
+      "sourceUrl": "https://www.dw.com/pt-br/",
+      "sourceType": "Imprensa Internacional / Pública",
+      "sourceEditorial": "Emissora pública da Alemanha; foco em diplomacia e direitos humanos",
+      "country": "Alemanha",
+      "paywall": false,
+      "originalUrl": "https://www.dw.com/pt-br/brics-pede-calma-no-oriente-m%C3%A9dio-ap%C3%B3s-meses-de-diplomacia/a-79246498",
+      "publishedAtStr": "2026-09-12T17:00:00Z",
+      "publishedAtTs": 1789232400000,
+      "rawContent": "Brics pede calma no Oriente Médio após meses de diplomacia",
+      "linkStatus": "active",
+      "lastChecked": 1789611880862
+    },
+    {
+      "id": "gdelt-t9mosq7",
+      "title": "Fachin rejeita julgar Mendonça junto com Moraes no STF",
+      "sourceName": "DW Brasil",
+      "sourceUrl": "https://www.dw.com/pt-br/",
+      "sourceType": "Imprensa Internacional / Pública",
+      "sourceEditorial": "Emissora pública da Alemanha; foco em diplomacia e direitos humanos",
+      "country": "Alemanha",
+      "paywall": false,
+      "originalUrl": "https://www.dw.com/pt-br/fachin-rejeita-julgar-conduta-mendon%C3%A7a-no-mesmo-dia-de-investiga%C3%A7%C3%A3o-sobre-moraes-no-stf/a-79246285",
+      "publishedAtStr": "2026-09-12T17:00:00Z",
+      "publishedAtTs": 1789232400000,
+      "rawContent": "Fachin rejeita julgar Mendonça junto com Moraes no STF",
+      "linkStatus": "active",
+      "lastChecked": 1789611880862
+    },
+    {
+      "id": "gdelt-foeqcv7",
       "title": "Fachin nega pedido de julgamento unificado de Mendonça e Moraes no caso Master",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -106,7 +346,7 @@
       "lastChecked": 1789610166107
     },
     {
-      "id": "gdelt-4d5egx7",
+      "id": "gdelt-lv2dhf2",
       "title": "Duplicatas escriturais desafiam rotina das empresas – CartaCapital",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -122,7 +362,7 @@
       "lastChecked": 1789610166107
     },
     {
-      "id": "gdelt-ac4vfdn",
+      "id": "gdelt-qrzljq8",
       "title": "Conselho de Supervisão da Meta pede que verificação não seja substituída por  Notas da Comunidade",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -138,7 +378,7 @@
       "lastChecked": 1789610166107
     },
     {
-      "id": "gdelt-ccrm4o3",
+      "id": "gdelt-qmgk4kq",
       "title": "Brigadeiro cremoso sem complicação : veja como preparar essa receita – CartaCapital",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -154,7 +394,55 @@
       "lastChecked": 1789610166107
     },
     {
-      "id": "gdelt-8zkcsh9",
+      "id": "gdelt-6sswpmu",
+      "title": "França : polícia suspeita de sabotagem em descarrilamento de trem",
+      "sourceName": "G1 Mundo",
+      "sourceUrl": "https://g1.globo.com/mundo/",
+      "sourceType": "Imprensa Comercial Brasileira",
+      "sourceEditorial": "Portal de notícias mainstream do Grupo Globo",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://g1.globo.com/mundo/noticia/2026/09/12/policia-sabotagem-trem-franca.ghtml",
+      "publishedAtStr": "2026-09-12T16:00:00Z",
+      "publishedAtTs": 1789228800000,
+      "rawContent": "França : polícia suspeita de sabotagem em descarrilamento de trem",
+      "linkStatus": "active",
+      "lastChecked": 1789611880862
+    },
+    {
+      "id": "gdelt-6wdk0t9",
+      "title": "Crise entre EUA e Brasil trava combate ao crime organizado , diz jornal",
+      "sourceName": "G1 Mundo",
+      "sourceUrl": "https://g1.globo.com/mundo/",
+      "sourceType": "Imprensa Comercial Brasileira",
+      "sourceEditorial": "Portal de notícias mainstream do Grupo Globo",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://g1.globo.com/mundo/noticia/2026/09/12/crise-diplomatica-entre-eua-e-brasil-crime-organizado-the-new-york-times.ghtml",
+      "publishedAtStr": "2026-09-12T16:00:00Z",
+      "publishedAtTs": 1789228800000,
+      "rawContent": "Crise entre EUA e Brasil trava combate ao crime organizado , diz jornal",
+      "linkStatus": "active",
+      "lastChecked": 1789611880862
+    },
+    {
+      "id": "gdelt-5sbo57w",
+      "title": "Flávio pediu Mendonça no caso  Dark Horse , diz imprensa",
+      "sourceName": "DW Brasil",
+      "sourceUrl": "https://www.dw.com/pt-br/",
+      "sourceType": "Imprensa Internacional / Pública",
+      "sourceEditorial": "Emissora pública da Alemanha; foco em diplomacia e direitos humanos",
+      "country": "Alemanha",
+      "paywall": false,
+      "originalUrl": "https://www.dw.com/pt-br/fl%C3%A1vio-pediu-mendon%C3%A7a-no-caso-dark-horse-diz-imprensa/a-79245942",
+      "publishedAtStr": "2026-09-12T15:30:00Z",
+      "publishedAtTs": 1789227000000,
+      "rawContent": "Flávio pediu Mendonça no caso  Dark Horse , diz imprensa",
+      "linkStatus": "active",
+      "lastChecked": 1789611880862
+    },
+    {
+      "id": "gdelt-dqolyx8",
       "title": "Líderes do Brics expressam preocupação com o Oriente Médio e condenam sanções unilaterais em cúpula",
       "sourceName": "Estadão Internacional",
       "sourceUrl": "https://www.estadao.com.br/internacional/",
@@ -170,7 +458,7 @@
       "lastChecked": 1789610166107
     },
     {
-      "id": "gdelt-7lxa9yw",
+      "id": "gdelt-rjud12r",
       "title": "Advogados de Flávio Bolsonaro insistiram para investigações sobre  Dark Horse  ficarem a cargo de Mendonça",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -186,7 +474,7 @@
       "lastChecked": 1789610166107
     },
     {
-      "id": "gdelt-fvmu2h2",
+      "id": "gdelt-c49l3dj",
       "title": "Pelo menos 2 pessoas morrem após desabamento em São Paulo",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -202,7 +490,7 @@
       "lastChecked": 1789610166107
     },
     {
-      "id": "gdelt-0t487pq",
+      "id": "gdelt-r6c9c13",
       "title": "Como tensão política entre Brasil e EUA ameaça parceria de combate ao crime organizado",
       "sourceName": "Veja Mundo",
       "sourceUrl": "https://veja.abril.com.br/mundo/",
@@ -218,7 +506,55 @@
       "lastChecked": 1789610166107
     },
     {
-      "id": "gdelt-4xu1ev1",
+      "id": "gdelt-7g3cppv",
+      "title": "Inteligência russa atuou no ataque em Leipzig , diz jornal",
+      "sourceName": "DW Brasil",
+      "sourceUrl": "https://www.dw.com/pt-br/",
+      "sourceType": "Imprensa Internacional / Pública",
+      "sourceEditorial": "Emissora pública da Alemanha; foco em diplomacia e direitos humanos",
+      "country": "Alemanha",
+      "paywall": false,
+      "originalUrl": "https://www.dw.com/pt-br/intelig%C3%AAncia-russa-atuou-no-ataque-em-leipzig-diz-jornal/a-79245116",
+      "publishedAtStr": "2026-09-12T13:00:00Z",
+      "publishedAtTs": 1789218000000,
+      "rawContent": "Inteligência russa atuou no ataque em Leipzig , diz jornal",
+      "linkStatus": "active",
+      "lastChecked": 1789611880862
+    },
+    {
+      "id": "gdelt-c2jmudb",
+      "title": "Trump abre caminho para caçar lobos antes quase extintos",
+      "sourceName": "DW Brasil",
+      "sourceUrl": "https://www.dw.com/pt-br/",
+      "sourceType": "Imprensa Internacional / Pública",
+      "sourceEditorial": "Emissora pública da Alemanha; foco em diplomacia e direitos humanos",
+      "country": "Alemanha",
+      "paywall": false,
+      "originalUrl": "https://www.dw.com/pt-br/trump-abre-caminho-para-ca%C3%A7ar-lobos-antes-quase-extintos/a-79244105",
+      "publishedAtStr": "2026-09-12T12:45:00Z",
+      "publishedAtTs": 1789217100000,
+      "rawContent": "Trump abre caminho para caçar lobos antes quase extintos",
+      "linkStatus": "active",
+      "lastChecked": 1789611880862
+    },
+    {
+      "id": "gdelt-vegbrj5",
+      "title": "Pesquisadores revelam novo fator decisivo para a felicidade",
+      "sourceName": "DW Brasil",
+      "sourceUrl": "https://www.dw.com/pt-br/",
+      "sourceType": "Imprensa Internacional / Pública",
+      "sourceEditorial": "Emissora pública da Alemanha; foco em diplomacia e direitos humanos",
+      "country": "Alemanha",
+      "paywall": false,
+      "originalUrl": "https://www.dw.com/pt-br/pesquisadores-revelam-novo-fator-decisivo-para-a-felicidade/a-79220408",
+      "publishedAtStr": "2026-09-12T12:45:00Z",
+      "publishedAtTs": 1789217100000,
+      "rawContent": "Pesquisadores revelam novo fator decisivo para a felicidade",
+      "linkStatus": "active",
+      "lastChecked": 1789611880862
+    },
+    {
+      "id": "gdelt-tu2vnyu",
       "title": "Presidente do Irã diz que o Oriente Médio não precisa de um  policial  dos EUA",
       "sourceName": "Estadão Internacional",
       "sourceUrl": "https://www.estadao.com.br/internacional/",
@@ -234,7 +570,7 @@
       "lastChecked": 1789610166107
     },
     {
-      "id": "gdelt-azsjmg8",
+      "id": "gdelt-wzani5b",
       "title": "EUA limitam horários de defesa aérea para navios no Estreito de Ormuz , diz jornal",
       "sourceName": "Estadão Internacional",
       "sourceUrl": "https://www.estadao.com.br/internacional/",
@@ -250,7 +586,87 @@
       "lastChecked": 1789610166107
     },
     {
-      "id": "gdelt-howzm0x",
+      "id": "gdelt-8sr3chl",
+      "title": "Vivi para contar :  Perdi uma parte de mim quando a torre desabou , mas não mataram meu espírito , diz sobrevivente do 11 de Setembro",
+      "sourceName": "O Globo Mundo",
+      "sourceUrl": "https://oglobo.globo.com/mundo/",
+      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
+      "sourceEditorial": "Jornal diário (Grupo Globo) - Conteúdo sob assinatura",
+      "country": "Brasil",
+      "paywall": true,
+      "originalUrl": "https://oglobo.globo.com/mundo/noticia/2026/09/12/vivi-para-contar-perdi-uma-parte-de-mim-quando-a-torre-desabou-mas-nao-mataram-meu-espirito-diz-sobrevivente-do-11-de-setembro.ghtml",
+      "publishedAtStr": "2026-09-12T11:45:00Z",
+      "publishedAtTs": 1789213500000,
+      "rawContent": "Vivi para contar :  Perdi uma parte de mim quando a torre desabou , mas não mataram meu espírito , diz sobrevivente do 11 de Setembro",
+      "linkStatus": "active",
+      "lastChecked": 1789611880862
+    },
+    {
+      "id": "gdelt-g2qq2uw",
+      "title": "Dente de  mamute gigante  com mais de 10 mil anos é encontrado em riacho na Califórnia",
+      "sourceName": "O Globo Mundo",
+      "sourceUrl": "https://oglobo.globo.com/mundo/",
+      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
+      "sourceEditorial": "Jornal diário (Grupo Globo) - Conteúdo sob assinatura",
+      "country": "Brasil",
+      "paywall": true,
+      "originalUrl": "https://oglobo.globo.com/mundo/clima-e-ciencia/noticia/2026/09/12/dente-de-mamute-gigante-com-mais-de-10-mil-anos-e-encontrado-em-riacho-na-california.ghtml",
+      "publishedAtStr": "2026-09-12T11:45:00Z",
+      "publishedAtTs": 1789213500000,
+      "rawContent": "Dente de  mamute gigante  com mais de 10 mil anos é encontrado em riacho na Califórnia",
+      "linkStatus": "active",
+      "lastChecked": 1789611880862
+    },
+    {
+      "id": "gdelt-n50ff2j",
+      "title": "Mulher inconsciente é espancada e estuprada até a morte ; autoridades investigam rede de abusos como do caso Pelicot",
+      "sourceName": "O Globo Mundo",
+      "sourceUrl": "https://oglobo.globo.com/mundo/",
+      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
+      "sourceEditorial": "Jornal diário (Grupo Globo) - Conteúdo sob assinatura",
+      "country": "Brasil",
+      "paywall": true,
+      "originalUrl": "https://oglobo.globo.com/mundo/noticia/2026/09/12/mulher-inconsciente-e-espancada-e-estuprada-ate-a-morte-autoridades-investigam-rede-de-abusos-como-do-caso-pelicot.ghtml",
+      "publishedAtStr": "2026-09-12T11:45:00Z",
+      "publishedAtTs": 1789213500000,
+      "rawContent": "Mulher inconsciente é espancada e estuprada até a morte ; autoridades investigam rede de abusos como do caso Pelicot",
+      "linkStatus": "active",
+      "lastChecked": 1789611880862
+    },
+    {
+      "id": "gdelt-zyth3so",
+      "title": "46 mil já fugiram do Iêmen após escalada de Houthis e há crianças entre mortos e feridos , diz ONU ; EUA prometem não atacar país por enquanto",
+      "sourceName": "O Globo Mundo",
+      "sourceUrl": "https://oglobo.globo.com/mundo/",
+      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
+      "sourceEditorial": "Jornal diário (Grupo Globo) - Conteúdo sob assinatura",
+      "country": "Brasil",
+      "paywall": true,
+      "originalUrl": "https://oglobo.globo.com/mundo/noticia/2026/09/12/46-mil-ja-fugiram-do-iemen-apos-escalada-de-houthis-e-ha-criancas-entre-mortos-e-feridos-diz-onu-eua-prometem-nao-atacar-pais-por-enquanto.ghtml",
+      "publishedAtStr": "2026-09-12T11:45:00Z",
+      "publishedAtTs": 1789213500000,
+      "rawContent": "46 mil já fugiram do Iêmen após escalada de Houthis e há crianças entre mortos e feridos , diz ONU ; EUA prometem não atacar país por enquanto",
+      "linkStatus": "active",
+      "lastChecked": 1789611880862
+    },
+    {
+      "id": "gdelt-9q3drkr",
+      "title": "Zebra de 27 anos morre após ser ferida por outro animal em zoológico nos EUA",
+      "sourceName": "O Globo Mundo",
+      "sourceUrl": "https://oglobo.globo.com/mundo/",
+      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
+      "sourceEditorial": "Jornal diário (Grupo Globo) - Conteúdo sob assinatura",
+      "country": "Brasil",
+      "paywall": true,
+      "originalUrl": "https://oglobo.globo.com/mundo/clima-e-ciencia/noticia/2026/09/12/zebra-de-27-anos-morre-apos-ser-ferida-por-outro-animal-em-zoologico-nos-eua.ghtml",
+      "publishedAtStr": "2026-09-12T11:45:00Z",
+      "publishedAtTs": 1789213500000,
+      "rawContent": "Zebra de 27 anos morre após ser ferida por outro animal em zoológico nos EUA",
+      "linkStatus": "active",
+      "lastChecked": 1789611880862
+    },
+    {
+      "id": "gdelt-tox599j",
       "title": "Datafolha registra oscilação positiva na aprovação do governo Lula",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -266,7 +682,7 @@
       "lastChecked": 1789610166107
     },
     {
-      "id": "gdelt-jam0a1n",
+      "id": "gdelt-1oay6r4",
       "title": "Datafolha : saiba as intenções de voto para o Senado em SP , MG , RJ , PE e DF",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -282,7 +698,7 @@
       "lastChecked": 1789610166107
     },
     {
-      "id": "gdelt-txi98xa",
+      "id": "gdelt-nwaasjq",
       "title": "Datafolha : 1 em cada 4 eleitores diz que pode mudar o voto para presidente – CartaCapital",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -298,7 +714,7 @@
       "lastChecked": 1789610166107
     },
     {
-      "id": "gdelt-fnnhqvl",
+      "id": "gdelt-meqao2p",
       "title": "Mendonça rebate Moraes e nega liberação seletiva de documentos do Caso Master",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -314,7 +730,7 @@
       "lastChecked": 1789610166107
     },
     {
-      "id": "gdelt-ansx7ch",
+      "id": "gdelt-plp9dlw",
       "title": "Mendonça levanta sigilo de investigação sobre  Dark Horse",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -330,7 +746,7 @@
       "lastChecked": 1789610166107
     },
     {
-      "id": "gdelt-lsnlpa3",
+      "id": "gdelt-gi953yd",
       "title": "Gilmar Mendes pede que Fachin assuma relatoria de apuração contra Moraes",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -346,7 +762,7 @@
       "lastChecked": 1789610166107
     },
     {
-      "id": "gdelt-2trcp68",
+      "id": "gdelt-girobz3",
       "title": "Justiça Eleitoral recua e isenta ACM Neto de responsabilidade por ato com mulheres seminuas",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -362,7 +778,7 @@
       "lastChecked": 1789610166107
     },
     {
-      "id": "gdelt-qjseccd",
+      "id": "gdelt-f24s4ud",
       "title": "Petróleo cai com perspectiva de reunião sobre o Estreito de Ormuz",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -378,7 +794,7 @@
       "lastChecked": 1789610166107
     },
     {
-      "id": "gdelt-voa61h2",
+      "id": "gdelt-lvtcod0",
       "title": "Vorcaro pede a manuteno de sigilo de mensagens  exclusivamente pessoais",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -394,7 +810,7 @@
       "lastChecked": 1789610166107
     },
     {
-      "id": "gdelt-rc6fiye",
+      "id": "gdelt-7mkwbf9",
       "title": "Moraes diz que Mendonça tenta proteger  grupo político  ao manter sigilo de parte do Caso Master",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -410,7 +826,7 @@
       "lastChecked": 1789610166107
     },
     {
-      "id": "gdelt-ltvl300",
+      "id": "gdelt-a0djjzr",
       "title": "Crise no STF : Mendonça volta a defender o afastamento do chefe da PF",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -426,7 +842,7 @@
       "lastChecked": 1789610166107
     },
     {
-      "id": "gdelt-6vfnkcf",
+      "id": "gdelt-qs80skx",
       "title": "Anthropic revela uso indevido de IA em armas , espionagem e vigilância",
       "sourceName": "Estadão Internacional",
       "sourceUrl": "https://www.estadao.com.br/internacional/",
@@ -442,7 +858,7 @@
       "lastChecked": 1789610166107
     },
     {
-      "id": "gdelt-8sfgg7t",
+      "id": "gdelt-ht65iv3",
       "title": "Probabilidade do El Niño ser muito forte passa de 90 %",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -458,7 +874,7 @@
       "lastChecked": 1789610166107
     },
     {
-      "id": "gdelt-q8yf0dc",
+      "id": "gdelt-lsqd4xy",
       "title": "China e Índia disputam influência dentro dos Brics",
       "sourceName": "Estadão Internacional",
       "sourceUrl": "https://www.estadao.com.br/internacional/",
@@ -474,7 +890,7 @@
       "lastChecked": 1789610166107
     },
     {
-      "id": "gdelt-xfqqtt1",
+      "id": "gdelt-ciswp5u",
       "title": "Datafolha : Marina Silva e Simone Tebet lideram disputa pelo Senado em SP",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -490,7 +906,7 @@
       "lastChecked": 1789610166107
     },
     {
-      "id": "gdelt-1wew2mu",
+      "id": "gdelt-zq5gg8q",
       "title": "Mansão de Nicolas Cage ameaçada por cratera vale R$ 53 milhões ; veja a propriedade",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -506,7 +922,7 @@
       "lastChecked": 1789610166107
     },
     {
-      "id": "gdelt-mzh7ef1",
+      "id": "gdelt-pcnf28n",
       "title": "Paes mantém liderança , mas vantagem sobre Ruas cai no Rio , diz Datafolha",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -522,7 +938,7 @@
       "lastChecked": 1789610166107
     },
     {
-      "id": "gdelt-hdeixq4",
+      "id": "gdelt-4d9eqn6",
       "title": "Tarcísio chega a 56 % dos votos válidos e pode vencer em 1º turno em SP , diz Datafolha",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -538,7 +954,7 @@
       "lastChecked": 1789610166107
     },
     {
-      "id": "gdelt-vmk6pkn",
+      "id": "gdelt-kkyyqra",
       "title": "Datafolha : Marina e Tebet têm 13 % e lideram corrida ao Senado em SP",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -554,7 +970,7 @@
       "lastChecked": 1789610166107
     },
     {
-      "id": "gdelt-wow2s9b",
+      "id": "gdelt-dojpjzc",
       "title": "Após reforço de R$ 32 bi pós - Master , FGC fecha junho com R$ 116 bi em caixa",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -570,7 +986,7 @@
       "lastChecked": 1789610166107
     },
     {
-      "id": "gdelt-bwzc4jz",
+      "id": "gdelt-ta989i2",
       "title": "B3 anuncia que passará a divulgar  Ibovespa em dólar  a partir de segunda - feira",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -586,7 +1002,7 @@
       "lastChecked": 1789610166107
     },
     {
-      "id": "gdelt-vdgrg77",
+      "id": "gdelt-9sufjzn",
       "title": "Bolsas de NY sobem hoje com alívio do petróleo , mas caem na semana com Fed no radar",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -602,7 +1018,7 @@
       "lastChecked": 1789610166107
     },
     {
-      "id": "gdelt-7876hgw",
+      "id": "gdelt-7d4yhhj",
       "title": "Ancord escolhe Lorena Rizzini de Leonel para liderar diretoria de autorregulação",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -618,7 +1034,7 @@
       "lastChecked": 1789610166107
     },
     {
-      "id": "gdelt-bbi60ac",
+      "id": "gdelt-fkf5h5o",
       "title": "PF conclui que Vorcaro fabricava reputação digital positiva para neutralizar críticas",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -634,7 +1050,7 @@
       "lastChecked": 1789610166107
     },
     {
-      "id": "gdelt-u729j6a",
+      "id": "gdelt-sfy282c",
       "title": "PF nega monitoramento ilegal de Mendonça e diz que relatório seguiu ordem de Moraes",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -650,7 +1066,7 @@
       "lastChecked": 1789610166107
     },
     {
-      "id": "gdelt-e8tql8v",
+      "id": "gdelt-z9o56qq",
       "title": "Safra : Investidores seguem cautelosos com a Bolsa e de olho em IA ao redor do mundo",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -662,11 +1078,11 @@
       "publishedAtStr": "2026-09-11T21:30:00Z",
       "publishedAtTs": 1789162200000,
       "rawContent": "Safra : Investidores seguem cautelosos com a Bolsa e de olho em IA ao redor do mundo",
-      "linkStatus": "unknown",
-      "lastChecked": null
+      "linkStatus": "active",
+      "lastChecked": 1789611880862
     },
     {
-      "id": "gdelt-hqvqtyu",
+      "id": "gdelt-vq5nvxp",
       "title": "EUA declaram fim do maior surto de ciclosporíase já registrado no país",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -678,11 +1094,11 @@
       "publishedAtStr": "2026-09-11T21:30:00Z",
       "publishedAtTs": 1789162200000,
       "rawContent": "EUA declaram fim do maior surto de ciclosporíase já registrado no país",
-      "linkStatus": "unknown",
-      "lastChecked": null
+      "linkStatus": "active",
+      "lastChecked": 1789611880862
     },
     {
-      "id": "gdelt-trwuegf",
+      "id": "gdelt-tae5e7t",
       "title": "TSE forma maioria para rejeitar candidatura de Pablo Marçal à Presidência",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -694,11 +1110,11 @@
       "publishedAtStr": "2026-09-11T21:30:00Z",
       "publishedAtTs": 1789162200000,
       "rawContent": "TSE forma maioria para rejeitar candidatura de Pablo Marçal à Presidência",
-      "linkStatus": "unknown",
-      "lastChecked": null
+      "linkStatus": "active",
+      "lastChecked": 1789611880862
     },
     {
-      "id": "gdelt-0w0oqjr",
+      "id": "gdelt-phsuh9s",
       "title": "Datafolha : Raquel Lyra tem 47 % contra 42 % de João Campos em Pernambuco",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -710,11 +1126,11 @@
       "publishedAtStr": "2026-09-11T21:30:00Z",
       "publishedAtTs": 1789162200000,
       "rawContent": "Datafolha : Raquel Lyra tem 47 % contra 42 % de João Campos em Pernambuco",
-      "linkStatus": "unknown",
-      "lastChecked": null
+      "linkStatus": "active",
+      "lastChecked": 1789611880862
     },
     {
-      "id": "gdelt-42x747y",
+      "id": "gdelt-1iszzxp",
       "title": "Datafolha : Cleitinho lidera 1º turno em MG com 37 %; Patrus Ananias tem 13 %",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -726,11 +1142,11 @@
       "publishedAtStr": "2026-09-11T21:30:00Z",
       "publishedAtTs": 1789162200000,
       "rawContent": "Datafolha : Cleitinho lidera 1º turno em MG com 37 %; Patrus Ananias tem 13 %",
-      "linkStatus": "unknown",
-      "lastChecked": null
+      "linkStatus": "active",
+      "lastChecked": 1789611880862
     },
     {
-      "id": "gdelt-de0lfi5",
+      "id": "gdelt-cvntxc5",
       "title": "Ram Charan , mentor de CEOs e autor best - seller , é confirmado na B55 Conference",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -742,11 +1158,11 @@
       "publishedAtStr": "2026-09-11T21:30:00Z",
       "publishedAtTs": 1789162200000,
       "rawContent": "Ram Charan , mentor de CEOs e autor best - seller , é confirmado na B55 Conference",
-      "linkStatus": "unknown",
-      "lastChecked": null
+      "linkStatus": "active",
+      "lastChecked": 1789611880862
     },
     {
-      "id": "gdelt-j4m9xjc",
+      "id": "gdelt-zc8sep2",
       "title": "Ibovespa tem 4ª semana seguida em alta , mesmo com queda de hoje ; Dólar sobe",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -758,11 +1174,11 @@
       "publishedAtStr": "2026-09-11T21:30:00Z",
       "publishedAtTs": 1789162200000,
       "rawContent": "Ibovespa tem 4ª semana seguida em alta , mesmo com queda de hoje ; Dólar sobe",
-      "linkStatus": "unknown",
-      "lastChecked": null
+      "linkStatus": "active",
+      "lastChecked": 1789611880862
     },
     {
-      "id": "gdelt-gqpfx2o",
+      "id": "gdelt-y54rbkq",
       "title": "TRE - RJ barra candidatura de Anthony Garotinho ao governo do Rio de Janeiro",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -774,11 +1190,11 @@
       "publishedAtStr": "2026-09-11T21:30:00Z",
       "publishedAtTs": 1789162200000,
       "rawContent": "TRE - RJ barra candidatura de Anthony Garotinho ao governo do Rio de Janeiro",
-      "linkStatus": "unknown",
-      "lastChecked": null
+      "linkStatus": "active",
+      "lastChecked": 1789611880862
     },
     {
-      "id": "gdelt-8dluf5d",
+      "id": "gdelt-8b3v1wu",
       "title": "Taxas dos DIs zeram perdas com receio de fim do sigilo no caso Master atingir Flávio",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -790,11 +1206,11 @@
       "publishedAtStr": "2026-09-11T21:30:00Z",
       "publishedAtTs": 1789162200000,
       "rawContent": "Taxas dos DIs zeram perdas com receio de fim do sigilo no caso Master atingir Flávio",
-      "linkStatus": "unknown",
-      "lastChecked": null
+      "linkStatus": "active",
+      "lastChecked": 1789611880862
     },
     {
-      "id": "gdelt-glzcbz1",
+      "id": "gdelt-yz02cv3",
       "title": "O militar que  previu  o 11 de Setembro e ajudou a salvar quase 3 mil pessoas",
       "sourceName": "Veja Mundo",
       "sourceUrl": "https://veja.abril.com.br/mundo/",
@@ -806,11 +1222,11 @@
       "publishedAtStr": "2026-09-11T19:45:00Z",
       "publishedAtTs": 1789155900000,
       "rawContent": "O militar que  previu  o 11 de Setembro e ajudou a salvar quase 3 mil pessoas",
-      "linkStatus": "unknown",
-      "lastChecked": null
+      "linkStatus": "active",
+      "lastChecked": 1789611880862
     },
     {
-      "id": "gdelt-rdl2rq1",
+      "id": "gdelt-lp7v76n",
       "title": "Japão pede alteração no novo mapa - múndi da ONU devido a  equívoco  sobre a Rússia",
       "sourceName": "Estadão Internacional",
       "sourceUrl": "https://www.estadao.com.br/internacional/",
@@ -822,8 +1238,8 @@
       "publishedAtStr": "2026-09-11T19:45:00Z",
       "publishedAtTs": 1789155900000,
       "rawContent": "Japão pede alteração no novo mapa - múndi da ONU devido a  equívoco  sobre a Rússia",
-      "linkStatus": "unknown",
-      "lastChecked": null
+      "linkStatus": "active",
+      "lastChecked": 1789611880862
     }
   ]
 }
