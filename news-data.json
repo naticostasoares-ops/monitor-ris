@@ -1,16 +1,16 @@
 {
-  "updatedAt": "2026-09-18T01:06:13.787Z",
+  "updatedAt": "2026-09-18T01:21:37.343Z",
   "periodUsed": "7d",
-  "count": 35,
+  "count": 26,
   "linkVerificationStats": {
-    "checkedThisRun": 9,
-    "active": 9,
+    "checkedThisRun": 0,
+    "active": 0,
     "broken": 0,
     "unknown": 0
   },
   "articles": [
     {
-      "id": "gdelt-w9o93fz",
+      "id": "gdelt-e7striz",
       "title": "Embarcação iraniana é alvo de ataque no Estreito de Ormuz ; uma pessoa morreu",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -26,7 +26,7 @@
       "lastChecked": 1789691679693
     },
     {
-      "id": "gdelt-26ow0qt",
+      "id": "gdelt-ixugd4e",
       "title": "Brasileiros no front : Redes de Ucrânia e Rússia aliciam cada vez mais jovens para a guerra com promessas falsas na internet",
       "sourceName": "O Globo Mundo",
       "sourceUrl": "https://oglobo.globo.com/mundo/",
@@ -42,7 +42,7 @@
       "lastChecked": 1789691679693
     },
     {
-      "id": "gdelt-axzsfy8",
+      "id": "gdelt-fbakycd",
       "title": "Casa da ex - vice - presidente dos EUA , Kamala Harris , é invadida ; polícia foi chamada",
       "sourceName": "O Globo Mundo",
       "sourceUrl": "https://oglobo.globo.com/mundo/",
@@ -58,7 +58,7 @@
       "lastChecked": 1789691679693
     },
     {
-      "id": "gdelt-gwijxh2",
+      "id": "gdelt-styc8jm",
       "title": "Dois anos depois , médicas relembram ataque israelense  devastador  com pagers no Líbano ,  diferente de tudo já visto antes",
       "sourceName": "O Globo Mundo",
       "sourceUrl": "https://oglobo.globo.com/mundo/",
@@ -74,7 +74,7 @@
       "lastChecked": 1789691679693
     },
     {
-      "id": "gdelt-wp7wcj0",
+      "id": "gdelt-aseg4ez",
       "title": "Medo Vermelho : Em desvantagem nas pesquisas , republicanos tentam associar Partido Democrata ao comunismo",
       "sourceName": "O Globo Mundo",
       "sourceUrl": "https://oglobo.globo.com/mundo/",
@@ -90,7 +90,7 @@
       "lastChecked": 1789691679693
     },
     {
-      "id": "gdelt-m99tnkx",
+      "id": "gdelt-f2mejsg",
       "title": "Arábia Saudita e Houthis trocam ataques pelo Estreito de Bab el - Mandeb , que contorna Ormuz ; rebeldes saem à frente por controle de rota do petróleo",
       "sourceName": "O Globo Mundo",
       "sourceUrl": "https://oglobo.globo.com/mundo/",
@@ -106,7 +106,7 @@
       "lastChecked": 1789691679693
     },
     {
-      "id": "gdelt-202pg5p",
+      "id": "gdelt-50wx91j",
       "title": "Brasileiros no front : Com ex - guerrilheiros , Colômbia é o maior fornecedor de combatentes latino - americanos para Ucrânia e Rússia",
       "sourceName": "O Globo Mundo",
       "sourceUrl": "https://oglobo.globo.com/mundo/",
@@ -122,7 +122,7 @@
       "lastChecked": 1789691679693
     },
     {
-      "id": "gdelt-fz28res",
+      "id": "gdelt-5ss79e5",
       "title": "Arábia Saudita paralisa oleoduto , e houthis controlam Mar Vermelho",
       "sourceName": "Agência Brasil",
       "sourceUrl": "https://agenciabrasil.ebc.com.br/internacional",
@@ -138,7 +138,7 @@
       "lastChecked": 1789691679693
     },
     {
-      "id": "gdelt-w9gto58",
+      "id": "gdelt-glh21i1",
       "title": "Com Irã e Emirados Árabes no bloco , Brics pede calma no Oriente Médio",
       "sourceName": "Agência Brasil",
       "sourceUrl": "https://agenciabrasil.ebc.com.br/internacional",
@@ -154,7 +154,7 @@
       "lastChecked": 1789691679693
     },
     {
-      "id": "gdelt-i1odgty",
+      "id": "gdelt-2nvwtjm",
       "title": "CEO da Anthropic exige freio ao desenvolvimento de IAs",
       "sourceName": "DW Brasil",
       "sourceUrl": "https://www.dw.com/pt-br/",
@@ -170,7 +170,7 @@
       "lastChecked": 1789691679693
     },
     {
-      "id": "gdelt-w7vobuz",
+      "id": "gdelt-o3xqg7p",
       "title": "Trump defende unificao da Irlanda e provoca governo britânico",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -186,7 +186,7 @@
       "lastChecked": 1789691679693
     },
     {
-      "id": "gdelt-8guwoul",
+      "id": "gdelt-uwinvjz",
       "title": "Onda de calor recorde na França deixará champanhe com mais álcool",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -202,7 +202,7 @@
       "lastChecked": 1789691679693
     },
     {
-      "id": "gdelt-k4ul77z",
+      "id": "gdelt-llq7lxo",
       "title": "Por que a Coreia do Norte não precisa de acordo com os EUA",
       "sourceName": "DW Brasil",
       "sourceUrl": "https://www.dw.com/pt-br/",
@@ -218,7 +218,7 @@
       "lastChecked": 1789691679693
     },
     {
-      "id": "gdelt-vm8auku",
+      "id": "gdelt-lerq0yw",
       "title": "Brics pede calma no Oriente Médio após meses de diplomacia",
       "sourceName": "DW Brasil",
       "sourceUrl": "https://www.dw.com/pt-br/",
@@ -234,7 +234,7 @@
       "lastChecked": 1789691679693
     },
     {
-      "id": "gdelt-vmnwxgw",
+      "id": "gdelt-elurxq8",
       "title": "Fachin rejeita julgar Mendonça junto com Moraes no STF",
       "sourceName": "DW Brasil",
       "sourceUrl": "https://www.dw.com/pt-br/",
@@ -250,7 +250,7 @@
       "lastChecked": 1789691679693
     },
     {
-      "id": "gdelt-6lio82t",
+      "id": "gdelt-jlwqc77",
       "title": "França : polícia suspeita de sabotagem em descarrilamento de trem",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -266,7 +266,7 @@
       "lastChecked": 1789691679693
     },
     {
-      "id": "gdelt-c7huxyj",
+      "id": "gdelt-atp2yf0",
       "title": "Crise entre EUA e Brasil trava combate ao crime organizado , diz jornal",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -282,7 +282,7 @@
       "lastChecked": 1789691679693
     },
     {
-      "id": "gdelt-ct5mb8x",
+      "id": "gdelt-xo1sipa",
       "title": "Flávio pediu Mendonça no caso  Dark Horse , diz imprensa",
       "sourceName": "DW Brasil",
       "sourceUrl": "https://www.dw.com/pt-br/",
@@ -298,7 +298,7 @@
       "lastChecked": 1789691679693
     },
     {
-      "id": "gdelt-mg5r834",
+      "id": "gdelt-2y4enyf",
       "title": "Inteligência russa atuou no ataque em Leipzig , diz jornal",
       "sourceName": "DW Brasil",
       "sourceUrl": "https://www.dw.com/pt-br/",
@@ -314,7 +314,7 @@
       "lastChecked": 1789691679693
     },
     {
-      "id": "gdelt-9wmr01k",
+      "id": "gdelt-xaven6o",
       "title": "Trump abre caminho para caçar lobos antes quase extintos",
       "sourceName": "DW Brasil",
       "sourceUrl": "https://www.dw.com/pt-br/",
@@ -330,7 +330,7 @@
       "lastChecked": 1789691679693
     },
     {
-      "id": "gdelt-x1r0bxj",
+      "id": "gdelt-k4kd0ek",
       "title": "Pesquisadores revelam novo fator decisivo para a felicidade",
       "sourceName": "DW Brasil",
       "sourceUrl": "https://www.dw.com/pt-br/",
@@ -346,7 +346,7 @@
       "lastChecked": 1789691679693
     },
     {
-      "id": "gdelt-i5vuu4g",
+      "id": "gdelt-zjl2bvx",
       "title": "Vivi para contar :  Perdi uma parte de mim quando a torre desabou , mas não mataram meu espírito , diz sobrevivente do 11 de Setembro",
       "sourceName": "O Globo Mundo",
       "sourceUrl": "https://oglobo.globo.com/mundo/",
@@ -362,7 +362,7 @@
       "lastChecked": 1789691679693
     },
     {
-      "id": "gdelt-1kl1zjt",
+      "id": "gdelt-bx1z6x9",
       "title": "Dente de  mamute gigante  com mais de 10 mil anos é encontrado em riacho na Califórnia",
       "sourceName": "O Globo Mundo",
       "sourceUrl": "https://oglobo.globo.com/mundo/",
@@ -378,7 +378,7 @@
       "lastChecked": 1789691679693
     },
     {
-      "id": "gdelt-7pnpepv",
+      "id": "gdelt-3una04y",
       "title": "Mulher inconsciente é espancada e estuprada até a morte ; autoridades investigam rede de abusos como do caso Pelicot",
       "sourceName": "O Globo Mundo",
       "sourceUrl": "https://oglobo.globo.com/mundo/",
@@ -394,7 +394,7 @@
       "lastChecked": 1789691679693
     },
     {
-      "id": "gdelt-5fz5vwd",
+      "id": "gdelt-xyh9vru",
       "title": "46 mil já fugiram do Iêmen após escalada de Houthis e há crianças entre mortos e feridos , diz ONU ; EUA prometem não atacar país por enquanto",
       "sourceName": "O Globo Mundo",
       "sourceUrl": "https://oglobo.globo.com/mundo/",
@@ -410,7 +410,7 @@
       "lastChecked": 1789691679693
     },
     {
-      "id": "gdelt-hrf85cq",
+      "id": "gdelt-3edanra",
       "title": "Zebra de 27 anos morre após ser ferida por outro animal em zoológico nos EUA",
       "sourceName": "O Globo Mundo",
       "sourceUrl": "https://oglobo.globo.com/mundo/",
@@ -424,150 +424,6 @@
       "rawContent": "Zebra de 27 anos morre após ser ferida por outro animal em zoológico nos EUA",
       "linkStatus": "active",
       "lastChecked": 1789691679693
-    },
-    {
-      "id": "gdelt-7csej8q",
-      "title": "Comunidades religiosas de matriz africana entregam carta - compromisso a candidatas",
-      "sourceName": "Brasil de Fato",
-      "sourceUrl": "https://www.brasildefato.com.br/",
-      "sourceType": "Jornal / Movimentos Sociais",
-      "sourceEditorial": "Mídia popular focada em Direitos Humanos e Sul Global",
-      "country": "Brasil",
-      "paywall": false,
-      "originalUrl": "https://www.brasildefato.com.br/2026/09/11/comunidades-religiosas-de-matriz-africana-entregam-carta-compromisso-a-candidatas/",
-      "publishedAtStr": "2026-09-11T17:45:00Z",
-      "publishedAtTs": 1789148700000,
-      "rawContent": "Comunidades religiosas de matriz africana entregam carta - compromisso a candidatas",
-      "linkStatus": "active",
-      "lastChecked": 1789693565973
-    },
-    {
-      "id": "gdelt-4pr67wd",
-      "title": "Brasil busca status de parceiro pleno da Asean : o que significa para as relações exteriores do país",
-      "sourceName": "Brasil de Fato",
-      "sourceUrl": "https://www.brasildefato.com.br/",
-      "sourceType": "Jornal / Movimentos Sociais",
-      "sourceEditorial": "Mídia popular focada em Direitos Humanos e Sul Global",
-      "country": "Brasil",
-      "paywall": false,
-      "originalUrl": "https://www.brasildefato.com.br/2026/09/11/brasil-busca-status-de-parceiro-pleno-da-asean-o-que-significa-para-as-relacoes-exteriores-do-pais/",
-      "publishedAtStr": "2026-09-11T17:45:00Z",
-      "publishedAtTs": 1789148700000,
-      "rawContent": "Brasil busca status de parceiro pleno da Asean : o que significa para as relações exteriores do país",
-      "linkStatus": "active",
-      "lastChecked": 1789693565973
-    },
-    {
-      "id": "gdelt-fztqdnx",
-      "title": "Documentário do Brasil de Fato sobre Fidel estreia no Rio com debate sobre situação atual de Cuba",
-      "sourceName": "Brasil de Fato",
-      "sourceUrl": "https://www.brasildefato.com.br/",
-      "sourceType": "Jornal / Movimentos Sociais",
-      "sourceEditorial": "Mídia popular focada em Direitos Humanos e Sul Global",
-      "country": "Brasil",
-      "paywall": false,
-      "originalUrl": "https://www.brasildefato.com.br/2026/09/11/documentario-do-brasil-de-fato-sobre-fidel-estreia-no-rio-com-debate-sobre-situacao-atual-de-cuba/",
-      "publishedAtStr": "2026-09-11T17:45:00Z",
-      "publishedAtTs": 1789148700000,
-      "rawContent": "Documentário do Brasil de Fato sobre Fidel estreia no Rio com debate sobre situação atual de Cuba",
-      "linkStatus": "active",
-      "lastChecked": 1789693565973
-    },
-    {
-      "id": "gdelt-cz4279i",
-      "title": "Paraná enfrenta sexta - feira ( 11 ) com tempestades mais intensas do ano , segundo Defesa Civil",
-      "sourceName": "Brasil de Fato",
-      "sourceUrl": "https://www.brasildefato.com.br/",
-      "sourceType": "Jornal / Movimentos Sociais",
-      "sourceEditorial": "Mídia popular focada em Direitos Humanos e Sul Global",
-      "country": "Brasil",
-      "paywall": false,
-      "originalUrl": "https://www.brasildefato.com.br/2026/09/10/parana-enfrenta-sexta-feira-11-com-tempestades-mais-intensas-do-ano-segundo-defesa-civil/",
-      "publishedAtStr": "2026-09-11T17:45:00Z",
-      "publishedAtTs": 1789148700000,
-      "rawContent": "Paraná enfrenta sexta - feira ( 11 ) com tempestades mais intensas do ano , segundo Defesa Civil",
-      "linkStatus": "active",
-      "lastChecked": 1789693565973
-    },
-    {
-      "id": "gdelt-sptfjbs",
-      "title": "Assessor do deputado distrital Iolando ( MDB - DF ) é alvo de investigação sobre o filme  Dark Horse",
-      "sourceName": "Brasil de Fato",
-      "sourceUrl": "https://www.brasildefato.com.br/",
-      "sourceType": "Jornal / Movimentos Sociais",
-      "sourceEditorial": "Mídia popular focada em Direitos Humanos e Sul Global",
-      "country": "Brasil",
-      "paywall": false,
-      "originalUrl": "https://www.brasildefato.com.br/2026/09/11/assessor-do-deputado-distrital-iolando-mdb-df-e-alvo-de-investigacao-sobre-o-filme-dark-horse/",
-      "publishedAtStr": "2026-09-11T17:45:00Z",
-      "publishedAtTs": 1789148700000,
-      "rawContent": "Assessor do deputado distrital Iolando ( MDB - DF ) é alvo de investigação sobre o filme  Dark Horse",
-      "linkStatus": "active",
-      "lastChecked": 1789693565973
-    },
-    {
-      "id": "gdelt-50ium7n",
-      "title": "Interlocutor direto : o que as investigações da PF revelam sobre a relação de Flávio Bolsonaro com Daniel Vorcaro",
-      "sourceName": "Brasil de Fato",
-      "sourceUrl": "https://www.brasildefato.com.br/",
-      "sourceType": "Jornal / Movimentos Sociais",
-      "sourceEditorial": "Mídia popular focada em Direitos Humanos e Sul Global",
-      "country": "Brasil",
-      "paywall": false,
-      "originalUrl": "https://www.brasildefato.com.br/2026/09/11/interlocutor-direto-o-que-as-investigacoes-da-pf-revelam-sobre-a-relacao-de-flavio-bolsonaro-com-daniel-vorcaro/",
-      "publishedAtStr": "2026-09-11T17:45:00Z",
-      "publishedAtTs": 1789148700000,
-      "rawContent": "Interlocutor direto : o que as investigações da PF revelam sobre a relação de Flávio Bolsonaro com Daniel Vorcaro",
-      "linkStatus": "active",
-      "lastChecked": 1789693565973
-    },
-    {
-      "id": "gdelt-imxiloy",
-      "title": "PF detalha articulações de Vorcaro antes de ser preso e aponta que ex - banqueiro já sabia de operação",
-      "sourceName": "Brasil de Fato",
-      "sourceUrl": "https://www.brasildefato.com.br/",
-      "sourceType": "Jornal / Movimentos Sociais",
-      "sourceEditorial": "Mídia popular focada em Direitos Humanos e Sul Global",
-      "country": "Brasil",
-      "paywall": false,
-      "originalUrl": "https://www.brasildefato.com.br/2026/09/11/pf-detalha-articulacoes-de-vorcaro-antes-de-ser-preso-e-aponta-que-ex-banqueiro-ja-sabia-de-operacao/",
-      "publishedAtStr": "2026-09-11T13:00:00Z",
-      "publishedAtTs": 1789131600000,
-      "rawContent": "PF detalha articulações de Vorcaro antes de ser preso e aponta que ex - banqueiro já sabia de operação",
-      "linkStatus": "active",
-      "lastChecked": 1789693565973
-    },
-    {
-      "id": "gdelt-x4gfpgw",
-      "title": "Novos ônibus do Rio circulam sem bilhetagem de integração intermunicipal",
-      "sourceName": "Brasil de Fato",
-      "sourceUrl": "https://www.brasildefato.com.br/",
-      "sourceType": "Jornal / Movimentos Sociais",
-      "sourceEditorial": "Mídia popular focada em Direitos Humanos e Sul Global",
-      "country": "Brasil",
-      "paywall": false,
-      "originalUrl": "https://www.brasildefato.com.br/2026/09/09/novos-onibus-do-rio-circulam-sem-bilhetagem-de-integracao-intermunicipal/",
-      "publishedAtStr": "2026-09-11T08:30:00Z",
-      "publishedAtTs": 1789115400000,
-      "rawContent": "Novos ônibus do Rio circulam sem bilhetagem de integração intermunicipal",
-      "linkStatus": "active",
-      "lastChecked": 1789693565973
-    },
-    {
-      "id": "gdelt-dzysgzg",
-      "title": "Lula sobre STF e Vorcaro :  que se apure tudo , doa a quem doer",
-      "sourceName": "Brasil de Fato",
-      "sourceUrl": "https://www.brasildefato.com.br/",
-      "sourceType": "Jornal / Movimentos Sociais",
-      "sourceEditorial": "Mídia popular focada em Direitos Humanos e Sul Global",
-      "country": "Brasil",
-      "paywall": false,
-      "originalUrl": "https://www.brasildefato.com.br/2026/09/10/lula-sobre-stf-e-vorcaro-que-se-apure-tudo-doa-a-quem-doer/",
-      "publishedAtStr": "2026-09-11T03:30:00Z",
-      "publishedAtTs": 1789097400000,
-      "rawContent": "Lula sobre STF e Vorcaro :  que se apure tudo , doa a quem doer",
-      "linkStatus": "active",
-      "lastChecked": 1789693565973
     }
   ]
 }
