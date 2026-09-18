@@ -1,16 +1,16 @@
 {
-  "updatedAt": "2026-09-18T22:42:17.177Z",
-  "periodUsed": "3M",
-  "count": 26,
+  "updatedAt": "2026-09-18T23:11:56.071Z",
+  "periodUsed": "7d",
+  "count": 54,
   "linkVerificationStats": {
-    "checkedThisRun": 0,
-    "active": 0,
+    "checkedThisRun": 28,
+    "active": 28,
     "broken": 0,
     "unknown": 0
   },
   "articles": [
     {
-      "id": "gdelt-yg9txdq",
+      "id": "gdelt-f86k5by",
       "title": "Embarcação iraniana é alvo de ataque no Estreito de Ormuz ; uma pessoa morreu",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -26,7 +26,7 @@
       "lastChecked": 1789770049987
     },
     {
-      "id": "gdelt-lxc2gqo",
+      "id": "gdelt-zm13dck",
       "title": "Brasileiros no front : Redes de Ucrânia e Rússia aliciam cada vez mais jovens para a guerra com promessas falsas na internet",
       "sourceName": "O Globo Mundo",
       "sourceUrl": "https://oglobo.globo.com/mundo/",
@@ -42,7 +42,7 @@
       "lastChecked": 1789770049987
     },
     {
-      "id": "gdelt-6runbh6",
+      "id": "gdelt-6ja3nym",
       "title": "Casa da ex - vice - presidente dos EUA , Kamala Harris , é invadida ; polícia foi chamada",
       "sourceName": "O Globo Mundo",
       "sourceUrl": "https://oglobo.globo.com/mundo/",
@@ -58,7 +58,7 @@
       "lastChecked": 1789770049987
     },
     {
-      "id": "gdelt-5z4fcp3",
+      "id": "gdelt-drmk7lp",
       "title": "Dois anos depois , médicas relembram ataque israelense  devastador  com pagers no Líbano ,  diferente de tudo já visto antes",
       "sourceName": "O Globo Mundo",
       "sourceUrl": "https://oglobo.globo.com/mundo/",
@@ -74,7 +74,7 @@
       "lastChecked": 1789770049987
     },
     {
-      "id": "gdelt-omya0w9",
+      "id": "gdelt-k2fqyhx",
       "title": "Medo Vermelho : Em desvantagem nas pesquisas , republicanos tentam associar Partido Democrata ao comunismo",
       "sourceName": "O Globo Mundo",
       "sourceUrl": "https://oglobo.globo.com/mundo/",
@@ -90,7 +90,7 @@
       "lastChecked": 1789770049987
     },
     {
-      "id": "gdelt-2sxv9kg",
+      "id": "gdelt-p2eexqd",
       "title": "Arábia Saudita e Houthis trocam ataques pelo Estreito de Bab el - Mandeb , que contorna Ormuz ; rebeldes saem à frente por controle de rota do petróleo",
       "sourceName": "O Globo Mundo",
       "sourceUrl": "https://oglobo.globo.com/mundo/",
@@ -106,7 +106,7 @@
       "lastChecked": 1789770049987
     },
     {
-      "id": "gdelt-8ouizzi",
+      "id": "gdelt-gdt9lpg",
       "title": "Brasileiros no front : Com ex - guerrilheiros , Colômbia é o maior fornecedor de combatentes latino - americanos para Ucrânia e Rússia",
       "sourceName": "O Globo Mundo",
       "sourceUrl": "https://oglobo.globo.com/mundo/",
@@ -122,7 +122,39 @@
       "lastChecked": 1789770049987
     },
     {
-      "id": "gdelt-2nqxszz",
+      "id": "gdelt-q0zqdbf",
+      "title": "EUA projetam mais poder na região enquanto Estado de direito apresenta fissuras no Brasil",
+      "sourceName": "Estadão Internacional",
+      "sourceUrl": "https://www.estadao.com.br/internacional/",
+      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
+      "sourceEditorial": "Jornal tradicional de geopolítica - Conteúdo sob assinatura",
+      "country": "Brasil",
+      "paywall": true,
+      "originalUrl": "https://www.estadao.com.br/internacional/lourival-santanna/eua-projetam-mais-poder-na-regiao-enquanto-estado-de-direito-apresenta-fissuras-no-brasil/",
+      "publishedAtStr": "2026-09-12T22:00:00Z",
+      "publishedAtTs": 1789250400000,
+      "rawContent": "EUA projetam mais poder na região enquanto Estado de direito apresenta fissuras no Brasil",
+      "linkStatus": "active",
+      "lastChecked": 1789773092949
+    },
+    {
+      "id": "gdelt-x4lhxxu",
+      "title": "Amodei , Altman e Musk afirmam que é hora de desacelerar avanços em IA ; o que explica ?",
+      "sourceName": "InfoMoney",
+      "sourceUrl": "https://www.infomoney.com.br/",
+      "sourceType": "Imprensa Comercial Brasileira",
+      "sourceEditorial": "Portal especializado em mercados e economia global",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://www.infomoney.com.br/business/amodei-altman-e-musk-afirmam-que-e-hora-de-desacelerar-modelos-de-ia-o-que-explica/",
+      "publishedAtStr": "2026-09-12T22:00:00Z",
+      "publishedAtTs": 1789250400000,
+      "rawContent": "Amodei , Altman e Musk afirmam que é hora de desacelerar avanços em IA ; o que explica ?",
+      "linkStatus": "active",
+      "lastChecked": 1789773092949
+    },
+    {
+      "id": "gdelt-7gn32k2",
       "title": "Arábia Saudita paralisa oleoduto , e houthis controlam Mar Vermelho",
       "sourceName": "Agência Brasil",
       "sourceUrl": "https://agenciabrasil.ebc.com.br/internacional",
@@ -138,7 +170,7 @@
       "lastChecked": 1789770049987
     },
     {
-      "id": "gdelt-fuzmwnk",
+      "id": "gdelt-kjlugwl",
       "title": "Com Irã e Emirados Árabes no bloco , Brics pede calma no Oriente Médio",
       "sourceName": "Agência Brasil",
       "sourceUrl": "https://agenciabrasil.ebc.com.br/internacional",
@@ -154,7 +186,7 @@
       "lastChecked": 1789770049987
     },
     {
-      "id": "gdelt-fesc5rw",
+      "id": "gdelt-t92bl54",
       "title": "CEO da Anthropic exige freio ao desenvolvimento de IAs",
       "sourceName": "DW Brasil",
       "sourceUrl": "https://www.dw.com/pt-br/",
@@ -170,7 +202,7 @@
       "lastChecked": 1789770049987
     },
     {
-      "id": "gdelt-kyktp12",
+      "id": "gdelt-sezxuo7",
       "title": "Trump defende unificao da Irlanda e provoca governo britânico",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -186,7 +218,7 @@
       "lastChecked": 1789770049987
     },
     {
-      "id": "gdelt-yjzw724",
+      "id": "gdelt-twsnjlu",
       "title": "Onda de calor recorde na França deixará champanhe com mais álcool",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -202,7 +234,7 @@
       "lastChecked": 1789770049987
     },
     {
-      "id": "gdelt-anilmq0",
+      "id": "gdelt-3qwplpe",
       "title": "Por que a Coreia do Norte não precisa de acordo com os EUA",
       "sourceName": "DW Brasil",
       "sourceUrl": "https://www.dw.com/pt-br/",
@@ -218,7 +250,55 @@
       "lastChecked": 1789770049987
     },
     {
-      "id": "gdelt-gvi05l6",
+      "id": "gdelt-79vua2s",
+      "title": "No BRICS , Xi Jinping critica tarifas comerciais  arbitrária e pede rejeio a protecionismo",
+      "sourceName": "Estadão Internacional",
+      "sourceUrl": "https://www.estadao.com.br/internacional/",
+      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
+      "sourceEditorial": "Jornal tradicional de geopolítica - Conteúdo sob assinatura",
+      "country": "Brasil",
+      "paywall": true,
+      "originalUrl": "https://www.estadao.com.br/internacional/no-brics-xi-jinping-critica-tarifas-comerciais-arbitrarias-e-pede-rejeicao-a-protecionismo/",
+      "publishedAtStr": "2026-09-12T18:45:00Z",
+      "publishedAtTs": 1789238700000,
+      "rawContent": "No BRICS , Xi Jinping critica tarifas comerciais  arbitrária e pede rejeio a protecionismo",
+      "linkStatus": "active",
+      "lastChecked": 1789773092949
+    },
+    {
+      "id": "gdelt-hf9e7o8",
+      "title": "Disputa por vistos ameaça o esforço conjunto entre EUA e Brasil no combate ao crime",
+      "sourceName": "Estadão Internacional",
+      "sourceUrl": "https://www.estadao.com.br/internacional/",
+      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
+      "sourceEditorial": "Jornal tradicional de geopolítica - Conteúdo sob assinatura",
+      "country": "Brasil",
+      "paywall": true,
+      "originalUrl": "https://www.estadao.com.br/internacional/uma-disputa-por-vistos-ameaca-o-esforco-conjunto-entre-eua-e-brasil-no-combate-ao-crime/",
+      "publishedAtStr": "2026-09-12T18:45:00Z",
+      "publishedAtTs": 1789238700000,
+      "rawContent": "Disputa por vistos ameaça o esforço conjunto entre EUA e Brasil no combate ao crime",
+      "linkStatus": "active",
+      "lastChecked": 1789773092949
+    },
+    {
+      "id": "gdelt-uwf8kqs",
+      "title": "Milhares protestam em Kosovo em apoio a ex - presidente antes de veredicto por crimes de guerra",
+      "sourceName": "Estadão Internacional",
+      "sourceUrl": "https://www.estadao.com.br/internacional/",
+      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
+      "sourceEditorial": "Jornal tradicional de geopolítica - Conteúdo sob assinatura",
+      "country": "Brasil",
+      "paywall": true,
+      "originalUrl": "https://www.estadao.com.br/internacional/milhares-protesta-em-kosovo-em-apoio-a-ex-presidente-antes-de-veredicto-por-crimes-de-guerra/",
+      "publishedAtStr": "2026-09-12T18:45:00Z",
+      "publishedAtTs": 1789238700000,
+      "rawContent": "Milhares protestam em Kosovo em apoio a ex - presidente antes de veredicto por crimes de guerra",
+      "linkStatus": "active",
+      "lastChecked": 1789773092949
+    },
+    {
+      "id": "gdelt-6vcnykg",
       "title": "Brics pede calma no Oriente Médio após meses de diplomacia",
       "sourceName": "DW Brasil",
       "sourceUrl": "https://www.dw.com/pt-br/",
@@ -234,7 +314,7 @@
       "lastChecked": 1789770049987
     },
     {
-      "id": "gdelt-akzossu",
+      "id": "gdelt-ds2gdj9",
       "title": "Fachin rejeita julgar Mendonça junto com Moraes no STF",
       "sourceName": "DW Brasil",
       "sourceUrl": "https://www.dw.com/pt-br/",
@@ -250,7 +330,71 @@
       "lastChecked": 1789770049987
     },
     {
-      "id": "gdelt-d5bbccn",
+      "id": "gdelt-koo6jq0",
+      "title": "Fachin nega pedido de julgamento unificado de Mendonça e Moraes no caso Master",
+      "sourceName": "CartaCapital",
+      "sourceUrl": "https://www.cartacapital.com.br/",
+      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
+      "sourceEditorial": "Jornalismo progressista - Conteúdo sob assinatura parcial",
+      "country": "Brasil",
+      "paywall": true,
+      "originalUrl": "https://www.cartacapital.com.br/justica/fachin-nega-pedido-de-julgamento-unificado-de-mendonca-e-moraes-no-caso-master/",
+      "publishedAtStr": "2026-09-12T16:45:00Z",
+      "publishedAtTs": 1789231500000,
+      "rawContent": "Fachin nega pedido de julgamento unificado de Mendonça e Moraes no caso Master",
+      "linkStatus": "active",
+      "lastChecked": 1789773092949
+    },
+    {
+      "id": "gdelt-nuq6lo2",
+      "title": "Duplicatas escriturais desafiam rotina das empresas – CartaCapital",
+      "sourceName": "CartaCapital",
+      "sourceUrl": "https://www.cartacapital.com.br/",
+      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
+      "sourceEditorial": "Jornalismo progressista - Conteúdo sob assinatura parcial",
+      "country": "Brasil",
+      "paywall": true,
+      "originalUrl": "https://www.cartacapital.com.br/do-micro-ao-macro/duplicatas-escriturais-desafios-empresas/",
+      "publishedAtStr": "2026-09-12T16:45:00Z",
+      "publishedAtTs": 1789231500000,
+      "rawContent": "Duplicatas escriturais desafiam rotina das empresas – CartaCapital",
+      "linkStatus": "active",
+      "lastChecked": 1789773092949
+    },
+    {
+      "id": "gdelt-vqubw9t",
+      "title": "Conselho de Supervisão da Meta pede que verificação não seja substituída por  Notas da Comunidade",
+      "sourceName": "CartaCapital",
+      "sourceUrl": "https://www.cartacapital.com.br/",
+      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
+      "sourceEditorial": "Jornalismo progressista - Conteúdo sob assinatura parcial",
+      "country": "Brasil",
+      "paywall": true,
+      "originalUrl": "https://www.cartacapital.com.br/mundo/conselho-de-supervisao-da-meta-pede-que-verificacao-nao-seja-substituida-por-notas-da-comunidade/",
+      "publishedAtStr": "2026-09-12T16:45:00Z",
+      "publishedAtTs": 1789231500000,
+      "rawContent": "Conselho de Supervisão da Meta pede que verificação não seja substituída por  Notas da Comunidade",
+      "linkStatus": "active",
+      "lastChecked": 1789773092949
+    },
+    {
+      "id": "gdelt-j29ehmj",
+      "title": "Brigadeiro cremoso sem complicação : veja como preparar essa receita – CartaCapital",
+      "sourceName": "CartaCapital",
+      "sourceUrl": "https://www.cartacapital.com.br/",
+      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
+      "sourceEditorial": "Jornalismo progressista - Conteúdo sob assinatura parcial",
+      "country": "Brasil",
+      "paywall": true,
+      "originalUrl": "https://www.cartacapital.com.br/receitas/brigadeiro-cremoso-sem-complicacao-veja-como-preparar-essa-receita/",
+      "publishedAtStr": "2026-09-12T16:45:00Z",
+      "publishedAtTs": 1789231500000,
+      "rawContent": "Brigadeiro cremoso sem complicação : veja como preparar essa receita – CartaCapital",
+      "linkStatus": "active",
+      "lastChecked": 1789773092949
+    },
+    {
+      "id": "gdelt-hu542ot",
       "title": "França : polícia suspeita de sabotagem em descarrilamento de trem",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -266,7 +410,7 @@
       "lastChecked": 1789770049987
     },
     {
-      "id": "gdelt-gx0wik5",
+      "id": "gdelt-ep3rp8b",
       "title": "Crise entre EUA e Brasil trava combate ao crime organizado , diz jornal",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -282,7 +426,7 @@
       "lastChecked": 1789770049987
     },
     {
-      "id": "gdelt-ld8xdd5",
+      "id": "gdelt-n6awnwe",
       "title": "Flávio pediu Mendonça no caso  Dark Horse , diz imprensa",
       "sourceName": "DW Brasil",
       "sourceUrl": "https://www.dw.com/pt-br/",
@@ -298,7 +442,71 @@
       "lastChecked": 1789770049987
     },
     {
-      "id": "gdelt-n3tvrok",
+      "id": "gdelt-6qyz0ko",
+      "title": "Líderes do Brics expressam preocupação com o Oriente Médio e condenam sanções unilaterais em cúpula",
+      "sourceName": "Estadão Internacional",
+      "sourceUrl": "https://www.estadao.com.br/internacional/",
+      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
+      "sourceEditorial": "Jornal tradicional de geopolítica - Conteúdo sob assinatura",
+      "country": "Brasil",
+      "paywall": true,
+      "originalUrl": "https://www.estadao.com.br/internacional/lideres-do-brics-expressam-preocupacao-com-o-oriente-medio-e-condenam-sancoes-unilaterais-em-cupula-npr/",
+      "publishedAtStr": "2026-09-12T15:00:00Z",
+      "publishedAtTs": 1789225200000,
+      "rawContent": "Líderes do Brics expressam preocupação com o Oriente Médio e condenam sanções unilaterais em cúpula",
+      "linkStatus": "active",
+      "lastChecked": 1789773092949
+    },
+    {
+      "id": "gdelt-3elrr3b",
+      "title": "Advogados de Flávio Bolsonaro insistiram para investigações sobre  Dark Horse  ficarem a cargo de Mendonça",
+      "sourceName": "CartaCapital",
+      "sourceUrl": "https://www.cartacapital.com.br/",
+      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
+      "sourceEditorial": "Jornalismo progressista - Conteúdo sob assinatura parcial",
+      "country": "Brasil",
+      "paywall": true,
+      "originalUrl": "https://www.cartacapital.com.br/politica/advogados-de-flavio-bolsonaro-insistiram-para-investigacoes-sobre-dark-horse-ficarem-a-cargo-de-mendonca/",
+      "publishedAtStr": "2026-09-12T14:30:00Z",
+      "publishedAtTs": 1789223400000,
+      "rawContent": "Advogados de Flávio Bolsonaro insistiram para investigações sobre  Dark Horse  ficarem a cargo de Mendonça",
+      "linkStatus": "active",
+      "lastChecked": 1789773092949
+    },
+    {
+      "id": "gdelt-6s45mx6",
+      "title": "Pelo menos 2 pessoas morrem após desabamento em São Paulo",
+      "sourceName": "CartaCapital",
+      "sourceUrl": "https://www.cartacapital.com.br/",
+      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
+      "sourceEditorial": "Jornalismo progressista - Conteúdo sob assinatura parcial",
+      "country": "Brasil",
+      "paywall": true,
+      "originalUrl": "https://www.cartacapital.com.br/sociedade/pelo-menos-2-pessoas-morrem-apos-desabamento-em-sao-paulo/",
+      "publishedAtStr": "2026-09-12T14:30:00Z",
+      "publishedAtTs": 1789223400000,
+      "rawContent": "Pelo menos 2 pessoas morrem após desabamento em São Paulo",
+      "linkStatus": "active",
+      "lastChecked": 1789773092949
+    },
+    {
+      "id": "gdelt-o6xu6ib",
+      "title": "Como tensão política entre Brasil e EUA ameaça parceria de combate ao crime organizado",
+      "sourceName": "Veja Mundo",
+      "sourceUrl": "https://veja.abril.com.br/mundo/",
+      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
+      "sourceEditorial": "Revista semanal - Conteúdo sob assinatura parcial",
+      "country": "Brasil",
+      "paywall": true,
+      "originalUrl": "https://veja.abril.com.br/mundo/crise-de-vistos-expoe-tensao-e-ameaca-parceria-entre-brasil-e-eua-contra-crime/",
+      "publishedAtStr": "2026-09-12T14:00:00Z",
+      "publishedAtTs": 1789221600000,
+      "rawContent": "Como tensão política entre Brasil e EUA ameaça parceria de combate ao crime organizado",
+      "linkStatus": "active",
+      "lastChecked": 1789773092949
+    },
+    {
+      "id": "gdelt-0l0soo1",
       "title": "Inteligência russa atuou no ataque em Leipzig , diz jornal",
       "sourceName": "DW Brasil",
       "sourceUrl": "https://www.dw.com/pt-br/",
@@ -314,7 +522,7 @@
       "lastChecked": 1789770049987
     },
     {
-      "id": "gdelt-egopd9o",
+      "id": "gdelt-0v1dhzm",
       "title": "Trump abre caminho para caçar lobos antes quase extintos",
       "sourceName": "DW Brasil",
       "sourceUrl": "https://www.dw.com/pt-br/",
@@ -330,7 +538,7 @@
       "lastChecked": 1789770049987
     },
     {
-      "id": "gdelt-nu9ju1g",
+      "id": "gdelt-e745zqo",
       "title": "Pesquisadores revelam novo fator decisivo para a felicidade",
       "sourceName": "DW Brasil",
       "sourceUrl": "https://www.dw.com/pt-br/",
@@ -346,7 +554,39 @@
       "lastChecked": 1789770049987
     },
     {
-      "id": "gdelt-j5lu9ue",
+      "id": "gdelt-1c644m4",
+      "title": "Presidente do Irã diz que o Oriente Médio não precisa de um  policial  dos EUA",
+      "sourceName": "Estadão Internacional",
+      "sourceUrl": "https://www.estadao.com.br/internacional/",
+      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
+      "sourceEditorial": "Jornal tradicional de geopolítica - Conteúdo sob assinatura",
+      "country": "Brasil",
+      "paywall": true,
+      "originalUrl": "https://www.estadao.com.br/internacional/presidente-do-ira-diz-que-o-oriente-medio-nao-precisa-de-um-policial-dos-eua-npr/",
+      "publishedAtStr": "2026-09-12T12:15:00Z",
+      "publishedAtTs": 1789215300000,
+      "rawContent": "Presidente do Irã diz que o Oriente Médio não precisa de um  policial  dos EUA",
+      "linkStatus": "active",
+      "lastChecked": 1789773092949
+    },
+    {
+      "id": "gdelt-zjuxoco",
+      "title": "EUA limitam horários de defesa aérea para navios no Estreito de Ormuz , diz jornal",
+      "sourceName": "Estadão Internacional",
+      "sourceUrl": "https://www.estadao.com.br/internacional/",
+      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
+      "sourceEditorial": "Jornal tradicional de geopolítica - Conteúdo sob assinatura",
+      "country": "Brasil",
+      "paywall": true,
+      "originalUrl": "https://www.estadao.com.br/internacional/eua-limitam-horarios-de-defesa-aerea-para-navios-no-estreito-de-ormuz-diz-jornal-npr/",
+      "publishedAtStr": "2026-09-12T12:15:00Z",
+      "publishedAtTs": 1789215300000,
+      "rawContent": "EUA limitam horários de defesa aérea para navios no Estreito de Ormuz , diz jornal",
+      "linkStatus": "active",
+      "lastChecked": 1789773092949
+    },
+    {
+      "id": "gdelt-wyym4e8",
       "title": "Vivi para contar :  Perdi uma parte de mim quando a torre desabou , mas não mataram meu espírito , diz sobrevivente do 11 de Setembro",
       "sourceName": "O Globo Mundo",
       "sourceUrl": "https://oglobo.globo.com/mundo/",
@@ -362,7 +602,7 @@
       "lastChecked": 1789770049987
     },
     {
-      "id": "gdelt-tuk73wp",
+      "id": "gdelt-30ko0zv",
       "title": "Dente de  mamute gigante  com mais de 10 mil anos é encontrado em riacho na Califórnia",
       "sourceName": "O Globo Mundo",
       "sourceUrl": "https://oglobo.globo.com/mundo/",
@@ -378,7 +618,7 @@
       "lastChecked": 1789770049987
     },
     {
-      "id": "gdelt-302yn6r",
+      "id": "gdelt-z99uxrt",
       "title": "Mulher inconsciente é espancada e estuprada até a morte ; autoridades investigam rede de abusos como do caso Pelicot",
       "sourceName": "O Globo Mundo",
       "sourceUrl": "https://oglobo.globo.com/mundo/",
@@ -394,7 +634,7 @@
       "lastChecked": 1789770049987
     },
     {
-      "id": "gdelt-mkd6xo2",
+      "id": "gdelt-6gvaqrm",
       "title": "46 mil já fugiram do Iêmen após escalada de Houthis e há crianças entre mortos e feridos , diz ONU ; EUA prometem não atacar país por enquanto",
       "sourceName": "O Globo Mundo",
       "sourceUrl": "https://oglobo.globo.com/mundo/",
@@ -410,7 +650,7 @@
       "lastChecked": 1789770049987
     },
     {
-      "id": "gdelt-xrofn9b",
+      "id": "gdelt-4j97fft",
       "title": "Zebra de 27 anos morre após ser ferida por outro animal em zoológico nos EUA",
       "sourceName": "O Globo Mundo",
       "sourceUrl": "https://oglobo.globo.com/mundo/",
@@ -424,6 +664,214 @@
       "rawContent": "Zebra de 27 anos morre após ser ferida por outro animal em zoológico nos EUA",
       "linkStatus": "active",
       "lastChecked": 1789770049987
+    },
+    {
+      "id": "gdelt-j2llwuy",
+      "title": "Datafolha registra oscilação positiva na aprovação do governo Lula",
+      "sourceName": "CartaCapital",
+      "sourceUrl": "https://www.cartacapital.com.br/",
+      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
+      "sourceEditorial": "Jornalismo progressista - Conteúdo sob assinatura parcial",
+      "country": "Brasil",
+      "paywall": true,
+      "originalUrl": "https://www.cartacapital.com.br/cartaexpressa/datafolha-registra-oscilacao-positiva-na-aprovacao-do-governo-lula/",
+      "publishedAtStr": "2026-09-12T01:45:00Z",
+      "publishedAtTs": 1789177500000,
+      "rawContent": "Datafolha registra oscilação positiva na aprovação do governo Lula",
+      "linkStatus": "active",
+      "lastChecked": 1789773092949
+    },
+    {
+      "id": "gdelt-hba4o25",
+      "title": "Datafolha : saiba as intenções de voto para o Senado em SP , MG , RJ , PE e DF",
+      "sourceName": "CartaCapital",
+      "sourceUrl": "https://www.cartacapital.com.br/",
+      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
+      "sourceEditorial": "Jornalismo progressista - Conteúdo sob assinatura parcial",
+      "country": "Brasil",
+      "paywall": true,
+      "originalUrl": "https://www.cartacapital.com.br/politica/datafolha-saiba-as-intencoes-de-voto-para-o-senado-em-sp-rj-mg-pe-e-df/",
+      "publishedAtStr": "2026-09-12T01:45:00Z",
+      "publishedAtTs": 1789177500000,
+      "rawContent": "Datafolha : saiba as intenções de voto para o Senado em SP , MG , RJ , PE e DF",
+      "linkStatus": "active",
+      "lastChecked": 1789773092949
+    },
+    {
+      "id": "gdelt-cq8kckf",
+      "title": "Datafolha : 1 em cada 4 eleitores diz que pode mudar o voto para presidente – CartaCapital",
+      "sourceName": "CartaCapital",
+      "sourceUrl": "https://www.cartacapital.com.br/",
+      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
+      "sourceEditorial": "Jornalismo progressista - Conteúdo sob assinatura parcial",
+      "country": "Brasil",
+      "paywall": true,
+      "originalUrl": "https://www.cartacapital.com.br/politica/datafolha-1-em-cada-4-eleitores-diz-que-pode-mudar-o-voto-para-presidente/",
+      "publishedAtStr": "2026-09-12T01:45:00Z",
+      "publishedAtTs": 1789177500000,
+      "rawContent": "Datafolha : 1 em cada 4 eleitores diz que pode mudar o voto para presidente – CartaCapital",
+      "linkStatus": "active",
+      "lastChecked": 1789773092949
+    },
+    {
+      "id": "gdelt-24uak30",
+      "title": "Mendonça rebate Moraes e nega liberação seletiva de documentos do Caso Master",
+      "sourceName": "CartaCapital",
+      "sourceUrl": "https://www.cartacapital.com.br/",
+      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
+      "sourceEditorial": "Jornalismo progressista - Conteúdo sob assinatura parcial",
+      "country": "Brasil",
+      "paywall": true,
+      "originalUrl": "https://www.cartacapital.com.br/justica/mendonca-rebate-moraes-e-nega-liberacao-seletiva-de-documentos-do-caso-master/",
+      "publishedAtStr": "2026-09-12T01:45:00Z",
+      "publishedAtTs": 1789177500000,
+      "rawContent": "Mendonça rebate Moraes e nega liberação seletiva de documentos do Caso Master",
+      "linkStatus": "active",
+      "lastChecked": 1789773092949
+    },
+    {
+      "id": "gdelt-0j2ur83",
+      "title": "Mendonça levanta sigilo de investigação sobre  Dark Horse",
+      "sourceName": "CartaCapital",
+      "sourceUrl": "https://www.cartacapital.com.br/",
+      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
+      "sourceEditorial": "Jornalismo progressista - Conteúdo sob assinatura parcial",
+      "country": "Brasil",
+      "paywall": true,
+      "originalUrl": "https://www.cartacapital.com.br/justica/mendonca-levanta-sigilo-de-investigacao-sobre-dark-horse/",
+      "publishedAtStr": "2026-09-12T01:45:00Z",
+      "publishedAtTs": 1789177500000,
+      "rawContent": "Mendonça levanta sigilo de investigação sobre  Dark Horse",
+      "linkStatus": "active",
+      "lastChecked": 1789773092949
+    },
+    {
+      "id": "gdelt-f6qmnyh",
+      "title": "Gilmar Mendes pede que Fachin assuma relatoria de apuração contra Moraes",
+      "sourceName": "CartaCapital",
+      "sourceUrl": "https://www.cartacapital.com.br/",
+      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
+      "sourceEditorial": "Jornalismo progressista - Conteúdo sob assinatura parcial",
+      "country": "Brasil",
+      "paywall": true,
+      "originalUrl": "https://www.cartacapital.com.br/justica/gilmar-mendes-pede-que-fachin-assuma-relatoria-de-apuracao-contra-moraes/",
+      "publishedAtStr": "2026-09-12T01:45:00Z",
+      "publishedAtTs": 1789177500000,
+      "rawContent": "Gilmar Mendes pede que Fachin assuma relatoria de apuração contra Moraes",
+      "linkStatus": "active",
+      "lastChecked": 1789773092949
+    },
+    {
+      "id": "gdelt-vfjjya7",
+      "title": "Justiça Eleitoral recua e isenta ACM Neto de responsabilidade por ato com mulheres seminuas",
+      "sourceName": "CartaCapital",
+      "sourceUrl": "https://www.cartacapital.com.br/",
+      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
+      "sourceEditorial": "Jornalismo progressista - Conteúdo sob assinatura parcial",
+      "country": "Brasil",
+      "paywall": true,
+      "originalUrl": "https://www.cartacapital.com.br/justica/justica-eleitoral-recua-e-isenta-acm-neto-de-responsabilidade-por-ato-com-mulheres-seminuas/",
+      "publishedAtStr": "2026-09-12T01:45:00Z",
+      "publishedAtTs": 1789177500000,
+      "rawContent": "Justiça Eleitoral recua e isenta ACM Neto de responsabilidade por ato com mulheres seminuas",
+      "linkStatus": "active",
+      "lastChecked": 1789773092949
+    },
+    {
+      "id": "gdelt-xqo86yt",
+      "title": "Petróleo cai com perspectiva de reunião sobre o Estreito de Ormuz",
+      "sourceName": "CartaCapital",
+      "sourceUrl": "https://www.cartacapital.com.br/",
+      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
+      "sourceEditorial": "Jornalismo progressista - Conteúdo sob assinatura parcial",
+      "country": "Brasil",
+      "paywall": true,
+      "originalUrl": "https://www.cartacapital.com.br/mundo/petroleo-cai-com-perspectiva-de-reuniao-sobre-o-estreito-de-ormuz/",
+      "publishedAtStr": "2026-09-12T01:45:00Z",
+      "publishedAtTs": 1789177500000,
+      "rawContent": "Petróleo cai com perspectiva de reunião sobre o Estreito de Ormuz",
+      "linkStatus": "active",
+      "lastChecked": 1789773092949
+    },
+    {
+      "id": "gdelt-0kr2kov",
+      "title": "Vorcaro pede a manuteno de sigilo de mensagens  exclusivamente pessoais",
+      "sourceName": "CartaCapital",
+      "sourceUrl": "https://www.cartacapital.com.br/",
+      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
+      "sourceEditorial": "Jornalismo progressista - Conteúdo sob assinatura parcial",
+      "country": "Brasil",
+      "paywall": true,
+      "originalUrl": "https://www.cartacapital.com.br/justica/vorcaro-pede-a-manutencao-de-sigilo-de-mensagens-exclusivamente-pessoais/",
+      "publishedAtStr": "2026-09-12T01:45:00Z",
+      "publishedAtTs": 1789177500000,
+      "rawContent": "Vorcaro pede a manuteno de sigilo de mensagens  exclusivamente pessoais",
+      "linkStatus": "active",
+      "lastChecked": 1789773092949
+    },
+    {
+      "id": "gdelt-ozp5dvm",
+      "title": "Moraes diz que Mendonça tenta proteger  grupo político  ao manter sigilo de parte do Caso Master",
+      "sourceName": "CartaCapital",
+      "sourceUrl": "https://www.cartacapital.com.br/",
+      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
+      "sourceEditorial": "Jornalismo progressista - Conteúdo sob assinatura parcial",
+      "country": "Brasil",
+      "paywall": true,
+      "originalUrl": "https://www.cartacapital.com.br/justica/moraes-diz-que-mendonca-tenta-proteger-grupo-politico-ao-manter-sigilo-de-parte-do-caso-master/",
+      "publishedAtStr": "2026-09-12T01:45:00Z",
+      "publishedAtTs": 1789177500000,
+      "rawContent": "Moraes diz que Mendonça tenta proteger  grupo político  ao manter sigilo de parte do Caso Master",
+      "linkStatus": "active",
+      "lastChecked": 1789773092949
+    },
+    {
+      "id": "gdelt-pjnuao8",
+      "title": "Crise no STF : Mendonça volta a defender o afastamento do chefe da PF",
+      "sourceName": "CartaCapital",
+      "sourceUrl": "https://www.cartacapital.com.br/",
+      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
+      "sourceEditorial": "Jornalismo progressista - Conteúdo sob assinatura parcial",
+      "country": "Brasil",
+      "paywall": true,
+      "originalUrl": "https://www.cartacapital.com.br/justica/crise-no-stf-mendonca-volta-a-defender-o-afastamento-do-chefe-da-pf/",
+      "publishedAtStr": "2026-09-12T01:45:00Z",
+      "publishedAtTs": 1789177500000,
+      "rawContent": "Crise no STF : Mendonça volta a defender o afastamento do chefe da PF",
+      "linkStatus": "active",
+      "lastChecked": 1789773092949
+    },
+    {
+      "id": "gdelt-0fgxf2r",
+      "title": "Anthropic revela uso indevido de IA em armas , espionagem e vigilância",
+      "sourceName": "Estadão Internacional",
+      "sourceUrl": "https://www.estadao.com.br/internacional/",
+      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
+      "sourceEditorial": "Jornal tradicional de geopolítica - Conteúdo sob assinatura",
+      "country": "Brasil",
+      "paywall": true,
+      "originalUrl": "https://www.estadao.com.br/internacional/anthropic-revela-uso-indevido-de-ia-em-armas-espionagem-e-vigilancia-npr/",
+      "publishedAtStr": "2026-09-12T01:45:00Z",
+      "publishedAtTs": 1789177500000,
+      "rawContent": "Anthropic revela uso indevido de IA em armas , espionagem e vigilância",
+      "linkStatus": "active",
+      "lastChecked": 1789773092949
+    },
+    {
+      "id": "gdelt-6efh5ao",
+      "title": "Probabilidade do El Niño ser muito forte passa de 90 %",
+      "sourceName": "CartaCapital",
+      "sourceUrl": "https://www.cartacapital.com.br/",
+      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
+      "sourceEditorial": "Jornalismo progressista - Conteúdo sob assinatura parcial",
+      "country": "Brasil",
+      "paywall": true,
+      "originalUrl": "https://www.cartacapital.com.br/clima/probabilidade-do-el-nino-ser-muito-forte-passa-de-90/",
+      "publishedAtStr": "2026-09-12T01:45:00Z",
+      "publishedAtTs": 1789177500000,
+      "rawContent": "Probabilidade do El Niño ser muito forte passa de 90 %",
+      "linkStatus": "active",
+      "lastChecked": 1789773092949
     }
   ]
 }
