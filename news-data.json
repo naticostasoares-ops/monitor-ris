@@ -1,16 +1,16 @@
 {
-  "updatedAt": "2026-09-19T14:22:08.403Z",
+  "updatedAt": "2026-09-19T14:36:17.867Z",
   "periodUsed": "7d",
-  "count": 18,
+  "count": 28,
   "linkVerificationStats": {
-    "checkedThisRun": 18,
-    "active": 17,
+    "checkedThisRun": 10,
+    "active": 10,
     "broken": 0,
-    "unknown": 1
+    "unknown": 0
   },
   "articles": [
     {
-      "id": "gdelt-e4eukk5",
+      "id": "gdelt-lt2acwo",
       "title": "Embarcação iraniana é alvo de ataque no Estreito de Ormuz ; uma pessoa morreu",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -26,7 +26,7 @@
       "lastChecked": 1789827712108
     },
     {
-      "id": "gdelt-nh5lybu",
+      "id": "gdelt-c3zdtis",
       "title": "Brasileiros no front : Redes de Ucrânia e Rússia aliciam cada vez mais jovens para a guerra com promessas falsas na internet",
       "sourceName": "O Globo Mundo",
       "sourceUrl": "https://oglobo.globo.com/mundo/",
@@ -42,7 +42,7 @@
       "lastChecked": 1789827712108
     },
     {
-      "id": "gdelt-qnnlgdj",
+      "id": "gdelt-yttb6jd",
       "title": "Casa da ex - vice - presidente dos EUA , Kamala Harris , é invadida ; polícia foi chamada",
       "sourceName": "O Globo Mundo",
       "sourceUrl": "https://oglobo.globo.com/mundo/",
@@ -58,7 +58,7 @@
       "lastChecked": 1789827712108
     },
     {
-      "id": "gdelt-blwvbzs",
+      "id": "gdelt-7zpkh2d",
       "title": "Dois anos depois , médicas relembram ataque israelense  devastador  com pagers no Líbano ,  diferente de tudo já visto antes",
       "sourceName": "O Globo Mundo",
       "sourceUrl": "https://oglobo.globo.com/mundo/",
@@ -74,7 +74,7 @@
       "lastChecked": 1789827712108
     },
     {
-      "id": "gdelt-zfykist",
+      "id": "gdelt-qgs5zyx",
       "title": "Medo Vermelho : Em desvantagem nas pesquisas , republicanos tentam associar Partido Democrata ao comunismo",
       "sourceName": "O Globo Mundo",
       "sourceUrl": "https://oglobo.globo.com/mundo/",
@@ -90,7 +90,7 @@
       "lastChecked": 1789827712108
     },
     {
-      "id": "gdelt-kuicvya",
+      "id": "gdelt-44uypo1",
       "title": "Arábia Saudita e Houthis trocam ataques pelo Estreito de Bab el - Mandeb , que contorna Ormuz ; rebeldes saem à frente por controle de rota do petróleo",
       "sourceName": "O Globo Mundo",
       "sourceUrl": "https://oglobo.globo.com/mundo/",
@@ -106,7 +106,7 @@
       "lastChecked": 1789827712108
     },
     {
-      "id": "gdelt-lcqnw1f",
+      "id": "gdelt-m4qm2a6",
       "title": "Brasileiros no front : Com ex - guerrilheiros , Colômbia é o maior fornecedor de combatentes latino - americanos para Ucrânia e Rússia",
       "sourceName": "O Globo Mundo",
       "sourceUrl": "https://oglobo.globo.com/mundo/",
@@ -122,7 +122,39 @@
       "lastChecked": 1789827712108
     },
     {
-      "id": "gdelt-69d0958",
+      "id": "gdelt-9uot5si",
+      "title": "EUA projetam mais poder na região enquanto Estado de direito apresenta fissuras no Brasil",
+      "sourceName": "Estadão Internacional",
+      "sourceUrl": "https://www.estadao.com.br/internacional/",
+      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
+      "sourceEditorial": "Jornal tradicional de geopolítica - Conteúdo sob assinatura",
+      "country": "Brasil",
+      "paywall": true,
+      "originalUrl": "https://www.estadao.com.br/internacional/lourival-santanna/eua-projetam-mais-poder-na-regiao-enquanto-estado-de-direito-apresenta-fissuras-no-brasil/",
+      "publishedAtStr": "2026-09-12T22:00:00Z",
+      "publishedAtTs": 1789250400000,
+      "rawContent": "EUA projetam mais poder na região enquanto Estado de direito apresenta fissuras no Brasil",
+      "linkStatus": "active",
+      "lastChecked": 1789828565267
+    },
+    {
+      "id": "gdelt-rxlhyqb",
+      "title": "Amodei , Altman e Musk afirmam que é hora de desacelerar avanços em IA ; o que explica ?",
+      "sourceName": "InfoMoney",
+      "sourceUrl": "https://www.infomoney.com.br/",
+      "sourceType": "Imprensa Comercial Brasileira",
+      "sourceEditorial": "Portal especializado em mercados e economia global",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://www.infomoney.com.br/business/amodei-altman-e-musk-afirmam-que-e-hora-de-desacelerar-modelos-de-ia-o-que-explica/",
+      "publishedAtStr": "2026-09-12T22:00:00Z",
+      "publishedAtTs": 1789250400000,
+      "rawContent": "Amodei , Altman e Musk afirmam que é hora de desacelerar avanços em IA ; o que explica ?",
+      "linkStatus": "active",
+      "lastChecked": 1789828565267
+    },
+    {
+      "id": "gdelt-vqh99r0",
       "title": "Arábia Saudita paralisa oleoduto , e houthis controlam Mar Vermelho",
       "sourceName": "Agência Brasil",
       "sourceUrl": "https://agenciabrasil.ebc.com.br/internacional",
@@ -138,7 +170,7 @@
       "lastChecked": 1789827712108
     },
     {
-      "id": "gdelt-6m90kn0",
+      "id": "gdelt-ej2ptdc",
       "title": "Com Irã e Emirados Árabes no bloco , Brics pede calma no Oriente Médio",
       "sourceName": "Agência Brasil",
       "sourceUrl": "https://agenciabrasil.ebc.com.br/internacional",
@@ -154,7 +186,7 @@
       "lastChecked": 1789827712108
     },
     {
-      "id": "gdelt-ya35367",
+      "id": "gdelt-vqgvnr8",
       "title": "CEO da Anthropic exige freio ao desenvolvimento de IAs",
       "sourceName": "DW Brasil",
       "sourceUrl": "https://www.dw.com/pt-br/",
@@ -170,7 +202,7 @@
       "lastChecked": 1789827712108
     },
     {
-      "id": "gdelt-mqizyob",
+      "id": "gdelt-96uf5td",
       "title": "Trump defende unificao da Irlanda e provoca governo britânico",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -186,7 +218,7 @@
       "lastChecked": 1789827712108
     },
     {
-      "id": "gdelt-ib6bhxx",
+      "id": "gdelt-xqvm30f",
       "title": "Onda de calor recorde na França deixará champanhe com mais álcool",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -202,7 +234,7 @@
       "lastChecked": 1789827712108
     },
     {
-      "id": "gdelt-leyzwcl",
+      "id": "gdelt-cafjid5",
       "title": "Por que a Coreia do Norte não precisa de acordo com os EUA",
       "sourceName": "DW Brasil",
       "sourceUrl": "https://www.dw.com/pt-br/",
@@ -218,7 +250,55 @@
       "lastChecked": 1789827712108
     },
     {
-      "id": "gdelt-1yxdoxa",
+      "id": "gdelt-9nn7wyr",
+      "title": "No BRICS , Xi Jinping critica tarifas comerciais  arbitrária e pede rejeio a protecionismo",
+      "sourceName": "Estadão Internacional",
+      "sourceUrl": "https://www.estadao.com.br/internacional/",
+      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
+      "sourceEditorial": "Jornal tradicional de geopolítica - Conteúdo sob assinatura",
+      "country": "Brasil",
+      "paywall": true,
+      "originalUrl": "https://www.estadao.com.br/internacional/no-brics-xi-jinping-critica-tarifas-comerciais-arbitrarias-e-pede-rejeicao-a-protecionismo/",
+      "publishedAtStr": "2026-09-12T18:45:00Z",
+      "publishedAtTs": 1789238700000,
+      "rawContent": "No BRICS , Xi Jinping critica tarifas comerciais  arbitrária e pede rejeio a protecionismo",
+      "linkStatus": "active",
+      "lastChecked": 1789828565267
+    },
+    {
+      "id": "gdelt-3g8jx7c",
+      "title": "Disputa por vistos ameaça o esforço conjunto entre EUA e Brasil no combate ao crime",
+      "sourceName": "Estadão Internacional",
+      "sourceUrl": "https://www.estadao.com.br/internacional/",
+      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
+      "sourceEditorial": "Jornal tradicional de geopolítica - Conteúdo sob assinatura",
+      "country": "Brasil",
+      "paywall": true,
+      "originalUrl": "https://www.estadao.com.br/internacional/uma-disputa-por-vistos-ameaca-o-esforco-conjunto-entre-eua-e-brasil-no-combate-ao-crime/",
+      "publishedAtStr": "2026-09-12T18:45:00Z",
+      "publishedAtTs": 1789238700000,
+      "rawContent": "Disputa por vistos ameaça o esforço conjunto entre EUA e Brasil no combate ao crime",
+      "linkStatus": "active",
+      "lastChecked": 1789828565267
+    },
+    {
+      "id": "gdelt-4kyg7wq",
+      "title": "Milhares protestam em Kosovo em apoio a ex - presidente antes de veredicto por crimes de guerra",
+      "sourceName": "Estadão Internacional",
+      "sourceUrl": "https://www.estadao.com.br/internacional/",
+      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
+      "sourceEditorial": "Jornal tradicional de geopolítica - Conteúdo sob assinatura",
+      "country": "Brasil",
+      "paywall": true,
+      "originalUrl": "https://www.estadao.com.br/internacional/milhares-protesta-em-kosovo-em-apoio-a-ex-presidente-antes-de-veredicto-por-crimes-de-guerra/",
+      "publishedAtStr": "2026-09-12T18:45:00Z",
+      "publishedAtTs": 1789238700000,
+      "rawContent": "Milhares protestam em Kosovo em apoio a ex - presidente antes de veredicto por crimes de guerra",
+      "linkStatus": "active",
+      "lastChecked": 1789828565267
+    },
+    {
+      "id": "gdelt-m8jyf8k",
       "title": "Brics pede calma no Oriente Médio após meses de diplomacia",
       "sourceName": "DW Brasil",
       "sourceUrl": "https://www.dw.com/pt-br/",
@@ -234,7 +314,7 @@
       "lastChecked": 1789827712108
     },
     {
-      "id": "gdelt-ws4yjga",
+      "id": "gdelt-s88mv97",
       "title": "Fachin rejeita julgar Mendonça junto com Moraes no STF",
       "sourceName": "DW Brasil",
       "sourceUrl": "https://www.dw.com/pt-br/",
@@ -250,7 +330,71 @@
       "lastChecked": 1789827712108
     },
     {
-      "id": "gdelt-yuutveh",
+      "id": "gdelt-hx9j22k",
+      "title": "Fachin nega pedido de julgamento unificado de Mendonça e Moraes no caso Master",
+      "sourceName": "CartaCapital",
+      "sourceUrl": "https://www.cartacapital.com.br/",
+      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
+      "sourceEditorial": "Jornalismo progressista - Conteúdo sob assinatura parcial",
+      "country": "Brasil",
+      "paywall": true,
+      "originalUrl": "https://www.cartacapital.com.br/justica/fachin-nega-pedido-de-julgamento-unificado-de-mendonca-e-moraes-no-caso-master/",
+      "publishedAtStr": "2026-09-12T16:45:00Z",
+      "publishedAtTs": 1789231500000,
+      "rawContent": "Fachin nega pedido de julgamento unificado de Mendonça e Moraes no caso Master",
+      "linkStatus": "active",
+      "lastChecked": 1789828565267
+    },
+    {
+      "id": "gdelt-ziju7zv",
+      "title": "Duplicatas escriturais desafiam rotina das empresas – CartaCapital",
+      "sourceName": "CartaCapital",
+      "sourceUrl": "https://www.cartacapital.com.br/",
+      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
+      "sourceEditorial": "Jornalismo progressista - Conteúdo sob assinatura parcial",
+      "country": "Brasil",
+      "paywall": true,
+      "originalUrl": "https://www.cartacapital.com.br/do-micro-ao-macro/duplicatas-escriturais-desafios-empresas/",
+      "publishedAtStr": "2026-09-12T16:45:00Z",
+      "publishedAtTs": 1789231500000,
+      "rawContent": "Duplicatas escriturais desafiam rotina das empresas – CartaCapital",
+      "linkStatus": "active",
+      "lastChecked": 1789828565267
+    },
+    {
+      "id": "gdelt-htx3pjx",
+      "title": "Conselho de Supervisão da Meta pede que verificação não seja substituída por  Notas da Comunidade",
+      "sourceName": "CartaCapital",
+      "sourceUrl": "https://www.cartacapital.com.br/",
+      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
+      "sourceEditorial": "Jornalismo progressista - Conteúdo sob assinatura parcial",
+      "country": "Brasil",
+      "paywall": true,
+      "originalUrl": "https://www.cartacapital.com.br/mundo/conselho-de-supervisao-da-meta-pede-que-verificacao-nao-seja-substituida-por-notas-da-comunidade/",
+      "publishedAtStr": "2026-09-12T16:45:00Z",
+      "publishedAtTs": 1789231500000,
+      "rawContent": "Conselho de Supervisão da Meta pede que verificação não seja substituída por  Notas da Comunidade",
+      "linkStatus": "active",
+      "lastChecked": 1789828565267
+    },
+    {
+      "id": "gdelt-zpnns4s",
+      "title": "Brigadeiro cremoso sem complicação : veja como preparar essa receita – CartaCapital",
+      "sourceName": "CartaCapital",
+      "sourceUrl": "https://www.cartacapital.com.br/",
+      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
+      "sourceEditorial": "Jornalismo progressista - Conteúdo sob assinatura parcial",
+      "country": "Brasil",
+      "paywall": true,
+      "originalUrl": "https://www.cartacapital.com.br/receitas/brigadeiro-cremoso-sem-complicacao-veja-como-preparar-essa-receita/",
+      "publishedAtStr": "2026-09-12T16:45:00Z",
+      "publishedAtTs": 1789231500000,
+      "rawContent": "Brigadeiro cremoso sem complicação : veja como preparar essa receita – CartaCapital",
+      "linkStatus": "active",
+      "lastChecked": 1789828565267
+    },
+    {
+      "id": "gdelt-f7zmnon",
       "title": "França : polícia suspeita de sabotagem em descarrilamento de trem",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -266,7 +410,7 @@
       "lastChecked": 1789827712108
     },
     {
-      "id": "gdelt-0c6g0w5",
+      "id": "gdelt-0d7xurn",
       "title": "Crise entre EUA e Brasil trava combate ao crime organizado , diz jornal",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -282,7 +426,7 @@
       "lastChecked": 1789827712108
     },
     {
-      "id": "gdelt-k4rdhy8",
+      "id": "gdelt-rxxlj66",
       "title": "Flávio pediu Mendonça no caso  Dark Horse , diz imprensa",
       "sourceName": "DW Brasil",
       "sourceUrl": "https://www.dw.com/pt-br/",
@@ -296,6 +440,22 @@
       "rawContent": "Flávio pediu Mendonça no caso  Dark Horse , diz imprensa",
       "linkStatus": "active",
       "lastChecked": 1789827712108
+    },
+    {
+      "id": "gdelt-l04agi1",
+      "title": "Líderes do Brics expressam preocupação com o Oriente Médio e condenam sanções unilaterais em cúpula",
+      "sourceName": "Estadão Internacional",
+      "sourceUrl": "https://www.estadao.com.br/internacional/",
+      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
+      "sourceEditorial": "Jornal tradicional de geopolítica - Conteúdo sob assinatura",
+      "country": "Brasil",
+      "paywall": true,
+      "originalUrl": "https://www.estadao.com.br/internacional/lideres-do-brics-expressam-preocupacao-com-o-oriente-medio-e-condenam-sancoes-unilaterais-em-cupula-npr/",
+      "publishedAtStr": "2026-09-12T15:00:00Z",
+      "publishedAtTs": 1789225200000,
+      "rawContent": "Líderes do Brics expressam preocupação com o Oriente Médio e condenam sanções unilaterais em cúpula",
+      "linkStatus": "active",
+      "lastChecked": 1789828565267
     }
   ]
 }
