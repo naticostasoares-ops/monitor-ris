@@ -1,16 +1,16 @@
 {
-  "updatedAt": "2026-09-19T20:00:52.199Z",
+  "updatedAt": "2026-09-19T20:21:35.852Z",
   "periodUsed": "7d",
-  "count": 12,
+  "count": 9,
   "linkVerificationStats": {
-    "checkedThisRun": 10,
-    "active": 10,
+    "checkedThisRun": 0,
+    "active": 0,
     "broken": 0,
     "unknown": 0
   },
   "articles": [
     {
-      "id": "gdelt-4b68oz2",
+      "id": "gdelt-i73rk3l",
       "title": "Embarcação iraniana é alvo de ataque no Estreito de Ormuz ; uma pessoa morreu",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -26,7 +26,7 @@
       "lastChecked": 1789848039393
     },
     {
-      "id": "gdelt-dguyrff",
+      "id": "gdelt-47qkqzw",
       "title": "Brasileiros no front : Redes de Ucrânia e Rússia aliciam cada vez mais jovens para a guerra com promessas falsas na internet",
       "sourceName": "O Globo Mundo",
       "sourceUrl": "https://oglobo.globo.com/mundo/",
@@ -42,7 +42,7 @@
       "lastChecked": 1789848039393
     },
     {
-      "id": "gdelt-u42kqib",
+      "id": "gdelt-nlv4bf7",
       "title": "Casa da ex - vice - presidente dos EUA , Kamala Harris , é invadida ; polícia foi chamada",
       "sourceName": "O Globo Mundo",
       "sourceUrl": "https://oglobo.globo.com/mundo/",
@@ -58,7 +58,7 @@
       "lastChecked": 1789848039393
     },
     {
-      "id": "gdelt-bctvyv1",
+      "id": "gdelt-k11ilwr",
       "title": "Dois anos depois , médicas relembram ataque israelense  devastador  com pagers no Líbano ,  diferente de tudo já visto antes",
       "sourceName": "O Globo Mundo",
       "sourceUrl": "https://oglobo.globo.com/mundo/",
@@ -74,7 +74,7 @@
       "lastChecked": 1789848039393
     },
     {
-      "id": "gdelt-0vxndoz",
+      "id": "gdelt-z3ho1jo",
       "title": "Medo Vermelho : Em desvantagem nas pesquisas , republicanos tentam associar Partido Democrata ao comunismo",
       "sourceName": "O Globo Mundo",
       "sourceUrl": "https://oglobo.globo.com/mundo/",
@@ -90,7 +90,7 @@
       "lastChecked": 1789848039393
     },
     {
-      "id": "gdelt-jmj2iza",
+      "id": "gdelt-jkrbypg",
       "title": "Arábia Saudita e Houthis trocam ataques pelo Estreito de Bab el - Mandeb , que contorna Ormuz ; rebeldes saem à frente por controle de rota do petróleo",
       "sourceName": "O Globo Mundo",
       "sourceUrl": "https://oglobo.globo.com/mundo/",
@@ -106,7 +106,7 @@
       "lastChecked": 1789848039393
     },
     {
-      "id": "gdelt-bume6bg",
+      "id": "gdelt-vr184c5",
       "title": "Brasileiros no front : Com ex - guerrilheiros , Colômbia é o maior fornecedor de combatentes latino - americanos para Ucrânia e Rússia",
       "sourceName": "O Globo Mundo",
       "sourceUrl": "https://oglobo.globo.com/mundo/",
@@ -122,7 +122,7 @@
       "lastChecked": 1789848039393
     },
     {
-      "id": "gdelt-nhj6h71",
+      "id": "gdelt-05uun8n",
       "title": "EUA projetam mais poder na região enquanto Estado de direito apresenta fissuras no Brasil",
       "sourceName": "Estadão Internacional",
       "sourceUrl": "https://www.estadao.com.br/internacional/",
@@ -138,7 +138,7 @@
       "lastChecked": 1789847162710
     },
     {
-      "id": "gdelt-zo8yggr",
+      "id": "gdelt-du7ijq1",
       "title": "Amodei , Altman e Musk afirmam que é hora de desacelerar avanços em IA ; o que explica ?",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -152,54 +152,6 @@
       "rawContent": "Amodei , Altman e Musk afirmam que é hora de desacelerar avanços em IA ; o que explica ?",
       "linkStatus": "active",
       "lastChecked": 1789847162710
-    },
-    {
-      "id": "gdelt-tmbhogo",
-      "title": "Arábia Saudita paralisa oleoduto , e houthis controlam Mar Vermelho",
-      "sourceName": "Agência Brasil",
-      "sourceUrl": "https://agenciabrasil.ebc.com.br/internacional",
-      "sourceType": "Agência Estatal",
-      "sourceEditorial": "Agência pública de notícias da EBC (Governo Federal)",
-      "country": "Brasil",
-      "paywall": false,
-      "originalUrl": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-09/arabia-saudita-paralisa-oleoduto-e-houthis-controlam-mar-vermelho",
-      "publishedAtStr": "2026-09-12T20:15:00Z",
-      "publishedAtTs": 1789244100000,
-      "rawContent": "Arábia Saudita paralisa oleoduto , e houthis controlam Mar Vermelho",
-      "linkStatus": "active",
-      "lastChecked": 1789848039393
-    },
-    {
-      "id": "gdelt-dl53rt6",
-      "title": "Com Irã e Emirados Árabes no bloco , Brics pede calma no Oriente Médio",
-      "sourceName": "Agência Brasil",
-      "sourceUrl": "https://agenciabrasil.ebc.com.br/internacional",
-      "sourceType": "Agência Estatal",
-      "sourceEditorial": "Agência pública de notícias da EBC (Governo Federal)",
-      "country": "Brasil",
-      "paywall": false,
-      "originalUrl": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-09/com-ira-e-emirados-arabes-no-bloco-brics-pede-calma-no-oriente-medio",
-      "publishedAtStr": "2026-09-12T20:15:00Z",
-      "publishedAtTs": 1789244100000,
-      "rawContent": "Com Irã e Emirados Árabes no bloco , Brics pede calma no Oriente Médio",
-      "linkStatus": "active",
-      "lastChecked": 1789848039393
-    },
-    {
-      "id": "gdelt-gp1hige",
-      "title": "CEO da Anthropic exige freio ao desenvolvimento de IAs",
-      "sourceName": "DW Brasil",
-      "sourceUrl": "https://www.dw.com/pt-br/",
-      "sourceType": "Imprensa Internacional / Pública",
-      "sourceEditorial": "Emissora pública da Alemanha; foco em diplomacia e direitos humanos",
-      "country": "Alemanha",
-      "paywall": false,
-      "originalUrl": "https://www.dw.com/pt-br/ceo-da-anthropic-exige-freio-ao-desenvolvimento-de-ias/a-79247389",
-      "publishedAtStr": "2026-09-12T20:15:00Z",
-      "publishedAtTs": 1789244100000,
-      "rawContent": "CEO da Anthropic exige freio ao desenvolvimento de IAs",
-      "linkStatus": "active",
-      "lastChecked": 1789848039393
     }
   ]
 }
