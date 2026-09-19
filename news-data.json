@@ -1,12 +1,45 @@
 {
-  "updatedAt": "2026-09-19T19:25:15.206Z",
-  "periodUsed": "24h",
-  "count": 0,
+  "updatedAt": "2026-09-19T19:46:05.089Z",
+  "periodUsed": "7d",
+  "count": 2,
   "linkVerificationStats": {
-    "checkedThisRun": 0,
-    "active": 0,
+    "checkedThisRun": 2,
+    "active": 2,
     "broken": 0,
     "unknown": 0
   },
-  "articles": []
+  "articles": [
+    {
+      "id": "gdelt-8ayshsa",
+      "title": "EUA projetam mais poder na região enquanto Estado de direito apresenta fissuras no Brasil",
+      "sourceName": "Estadão Internacional",
+      "sourceUrl": "https://www.estadao.com.br/internacional/",
+      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
+      "sourceEditorial": "Jornal tradicional de geopolítica - Conteúdo sob assinatura",
+      "country": "Brasil",
+      "paywall": true,
+      "originalUrl": "https://www.estadao.com.br/internacional/lourival-santanna/eua-projetam-mais-poder-na-regiao-enquanto-estado-de-direito-apresenta-fissuras-no-brasil/",
+      "publishedAtStr": "2026-09-12T22:00:00Z",
+      "publishedAtTs": 1789250400000,
+      "rawContent": "EUA projetam mais poder na região enquanto Estado de direito apresenta fissuras no Brasil",
+      "linkStatus": "active",
+      "lastChecked": 1789847162710
+    },
+    {
+      "id": "gdelt-cm5phux",
+      "title": "Amodei , Altman e Musk afirmam que é hora de desacelerar avanços em IA ; o que explica ?",
+      "sourceName": "InfoMoney",
+      "sourceUrl": "https://www.infomoney.com.br/",
+      "sourceType": "Imprensa Comercial Brasileira",
+      "sourceEditorial": "Portal especializado em mercados e economia global",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://www.infomoney.com.br/business/amodei-altman-e-musk-afirmam-que-e-hora-de-desacelerar-modelos-de-ia-o-que-explica/",
+      "publishedAtStr": "2026-09-12T22:00:00Z",
+      "publishedAtTs": 1789250400000,
+      "rawContent": "Amodei , Altman e Musk afirmam que é hora de desacelerar avanços em IA ; o que explica ?",
+      "linkStatus": "active",
+      "lastChecked": 1789847162710
+    }
+  ]
 }
