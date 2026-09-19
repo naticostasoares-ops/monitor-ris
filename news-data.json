@@ -1,16 +1,16 @@
 {
-  "updatedAt": "2026-09-19T18:23:00.673Z",
+  "updatedAt": "2026-09-19T18:39:17.236Z",
   "periodUsed": "7d",
-  "count": 13,
+  "count": 18,
   "linkVerificationStats": {
-    "checkedThisRun": 0,
-    "active": 0,
+    "checkedThisRun": 5,
+    "active": 5,
     "broken": 0,
     "unknown": 0
   },
   "articles": [
     {
-      "id": "gdelt-xgfv187",
+      "id": "gdelt-g87qizz",
       "title": "Embarcação iraniana é alvo de ataque no Estreito de Ormuz ; uma pessoa morreu",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -26,7 +26,7 @@
       "lastChecked": 1789839422283
     },
     {
-      "id": "gdelt-canc5fn",
+      "id": "gdelt-klsjk48",
       "title": "Brasileiros no front : Redes de Ucrânia e Rússia aliciam cada vez mais jovens para a guerra com promessas falsas na internet",
       "sourceName": "O Globo Mundo",
       "sourceUrl": "https://oglobo.globo.com/mundo/",
@@ -42,7 +42,7 @@
       "lastChecked": 1789839422283
     },
     {
-      "id": "gdelt-m5qq42p",
+      "id": "gdelt-gmdol5r",
       "title": "Casa da ex - vice - presidente dos EUA , Kamala Harris , é invadida ; polícia foi chamada",
       "sourceName": "O Globo Mundo",
       "sourceUrl": "https://oglobo.globo.com/mundo/",
@@ -58,7 +58,7 @@
       "lastChecked": 1789839422283
     },
     {
-      "id": "gdelt-kwe49lq",
+      "id": "gdelt-7ybeotp",
       "title": "Dois anos depois , médicas relembram ataque israelense  devastador  com pagers no Líbano ,  diferente de tudo já visto antes",
       "sourceName": "O Globo Mundo",
       "sourceUrl": "https://oglobo.globo.com/mundo/",
@@ -74,7 +74,7 @@
       "lastChecked": 1789839422283
     },
     {
-      "id": "gdelt-8pw9o9s",
+      "id": "gdelt-11nip2r",
       "title": "Medo Vermelho : Em desvantagem nas pesquisas , republicanos tentam associar Partido Democrata ao comunismo",
       "sourceName": "O Globo Mundo",
       "sourceUrl": "https://oglobo.globo.com/mundo/",
@@ -90,7 +90,7 @@
       "lastChecked": 1789839422283
     },
     {
-      "id": "gdelt-5edhfl4",
+      "id": "gdelt-pk72l2h",
       "title": "Arábia Saudita e Houthis trocam ataques pelo Estreito de Bab el - Mandeb , que contorna Ormuz ; rebeldes saem à frente por controle de rota do petróleo",
       "sourceName": "O Globo Mundo",
       "sourceUrl": "https://oglobo.globo.com/mundo/",
@@ -106,7 +106,7 @@
       "lastChecked": 1789839422283
     },
     {
-      "id": "gdelt-qaporke",
+      "id": "gdelt-vqjl5jl",
       "title": "Brasileiros no front : Com ex - guerrilheiros , Colômbia é o maior fornecedor de combatentes latino - americanos para Ucrânia e Rússia",
       "sourceName": "O Globo Mundo",
       "sourceUrl": "https://oglobo.globo.com/mundo/",
@@ -122,7 +122,39 @@
       "lastChecked": 1789839422283
     },
     {
-      "id": "gdelt-ucj31go",
+      "id": "gdelt-yco0jzf",
+      "title": "EUA projetam mais poder na região enquanto Estado de direito apresenta fissuras no Brasil",
+      "sourceName": "Estadão Internacional",
+      "sourceUrl": "https://www.estadao.com.br/internacional/",
+      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
+      "sourceEditorial": "Jornal tradicional de geopolítica - Conteúdo sob assinatura",
+      "country": "Brasil",
+      "paywall": true,
+      "originalUrl": "https://www.estadao.com.br/internacional/lourival-santanna/eua-projetam-mais-poder-na-regiao-enquanto-estado-de-direito-apresenta-fissuras-no-brasil/",
+      "publishedAtStr": "2026-09-12T22:00:00Z",
+      "publishedAtTs": 1789250400000,
+      "rawContent": "EUA projetam mais poder na região enquanto Estado de direito apresenta fissuras no Brasil",
+      "linkStatus": "active",
+      "lastChecked": 1789843152446
+    },
+    {
+      "id": "gdelt-rq3g6p3",
+      "title": "Amodei , Altman e Musk afirmam que é hora de desacelerar avanços em IA ; o que explica ?",
+      "sourceName": "InfoMoney",
+      "sourceUrl": "https://www.infomoney.com.br/",
+      "sourceType": "Imprensa Comercial Brasileira",
+      "sourceEditorial": "Portal especializado em mercados e economia global",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://www.infomoney.com.br/business/amodei-altman-e-musk-afirmam-que-e-hora-de-desacelerar-modelos-de-ia-o-que-explica/",
+      "publishedAtStr": "2026-09-12T22:00:00Z",
+      "publishedAtTs": 1789250400000,
+      "rawContent": "Amodei , Altman e Musk afirmam que é hora de desacelerar avanços em IA ; o que explica ?",
+      "linkStatus": "active",
+      "lastChecked": 1789843152446
+    },
+    {
+      "id": "gdelt-o5lf40g",
       "title": "Arábia Saudita paralisa oleoduto , e houthis controlam Mar Vermelho",
       "sourceName": "Agência Brasil",
       "sourceUrl": "https://agenciabrasil.ebc.com.br/internacional",
@@ -138,7 +170,7 @@
       "lastChecked": 1789839422283
     },
     {
-      "id": "gdelt-zzfea0t",
+      "id": "gdelt-7i52kl8",
       "title": "Com Irã e Emirados Árabes no bloco , Brics pede calma no Oriente Médio",
       "sourceName": "Agência Brasil",
       "sourceUrl": "https://agenciabrasil.ebc.com.br/internacional",
@@ -154,7 +186,7 @@
       "lastChecked": 1789839422283
     },
     {
-      "id": "gdelt-6oyuu3m",
+      "id": "gdelt-ltfxiaj",
       "title": "CEO da Anthropic exige freio ao desenvolvimento de IAs",
       "sourceName": "DW Brasil",
       "sourceUrl": "https://www.dw.com/pt-br/",
@@ -170,7 +202,7 @@
       "lastChecked": 1789839422283
     },
     {
-      "id": "gdelt-4bedww0",
+      "id": "gdelt-3w4fd3g",
       "title": "Trump defende unificao da Irlanda e provoca governo britânico",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -186,7 +218,7 @@
       "lastChecked": 1789839422283
     },
     {
-      "id": "gdelt-mgh2b0b",
+      "id": "gdelt-lqd07x5",
       "title": "Onda de calor recorde na França deixará champanhe com mais álcool",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -202,7 +234,7 @@
       "lastChecked": 1789839422283
     },
     {
-      "id": "gdelt-f4ba0rq",
+      "id": "gdelt-0tur54r",
       "title": "Por que a Coreia do Norte não precisa de acordo com os EUA",
       "sourceName": "DW Brasil",
       "sourceUrl": "https://www.dw.com/pt-br/",
@@ -216,6 +248,54 @@
       "rawContent": "Por que a Coreia do Norte não precisa de acordo com os EUA",
       "linkStatus": "active",
       "lastChecked": 1789839422283
+    },
+    {
+      "id": "gdelt-o56i86b",
+      "title": "No BRICS , Xi Jinping critica tarifas comerciais  arbitrária e pede rejeio a protecionismo",
+      "sourceName": "Estadão Internacional",
+      "sourceUrl": "https://www.estadao.com.br/internacional/",
+      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
+      "sourceEditorial": "Jornal tradicional de geopolítica - Conteúdo sob assinatura",
+      "country": "Brasil",
+      "paywall": true,
+      "originalUrl": "https://www.estadao.com.br/internacional/no-brics-xi-jinping-critica-tarifas-comerciais-arbitrarias-e-pede-rejeicao-a-protecionismo/",
+      "publishedAtStr": "2026-09-12T18:45:00Z",
+      "publishedAtTs": 1789238700000,
+      "rawContent": "No BRICS , Xi Jinping critica tarifas comerciais  arbitrária e pede rejeio a protecionismo",
+      "linkStatus": "active",
+      "lastChecked": 1789843152446
+    },
+    {
+      "id": "gdelt-p9wkt1g",
+      "title": "Disputa por vistos ameaça o esforço conjunto entre EUA e Brasil no combate ao crime",
+      "sourceName": "Estadão Internacional",
+      "sourceUrl": "https://www.estadao.com.br/internacional/",
+      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
+      "sourceEditorial": "Jornal tradicional de geopolítica - Conteúdo sob assinatura",
+      "country": "Brasil",
+      "paywall": true,
+      "originalUrl": "https://www.estadao.com.br/internacional/uma-disputa-por-vistos-ameaca-o-esforco-conjunto-entre-eua-e-brasil-no-combate-ao-crime/",
+      "publishedAtStr": "2026-09-12T18:45:00Z",
+      "publishedAtTs": 1789238700000,
+      "rawContent": "Disputa por vistos ameaça o esforço conjunto entre EUA e Brasil no combate ao crime",
+      "linkStatus": "active",
+      "lastChecked": 1789843152446
+    },
+    {
+      "id": "gdelt-dn6593k",
+      "title": "Milhares protestam em Kosovo em apoio a ex - presidente antes de veredicto por crimes de guerra",
+      "sourceName": "Estadão Internacional",
+      "sourceUrl": "https://www.estadao.com.br/internacional/",
+      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
+      "sourceEditorial": "Jornal tradicional de geopolítica - Conteúdo sob assinatura",
+      "country": "Brasil",
+      "paywall": true,
+      "originalUrl": "https://www.estadao.com.br/internacional/milhares-protesta-em-kosovo-em-apoio-a-ex-presidente-antes-de-veredicto-por-crimes-de-guerra/",
+      "publishedAtStr": "2026-09-12T18:45:00Z",
+      "publishedAtTs": 1789238700000,
+      "rawContent": "Milhares protestam em Kosovo em apoio a ex - presidente antes de veredicto por crimes de guerra",
+      "linkStatus": "active",
+      "lastChecked": 1789843152446
     }
   ]
 }
