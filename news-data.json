@@ -1,16 +1,16 @@
 {
-  "updatedAt": "2026-09-20T10:19:09.382Z",
-  "periodUsed": "7d",
-  "count": 12,
+  "updatedAt": "2026-09-20T10:30:35.300Z",
+  "periodUsed": "24h",
+  "count": 14,
   "linkVerificationStats": {
-    "checkedThisRun": 12,
-    "active": 12,
+    "checkedThisRun": 2,
+    "active": 2,
     "broken": 0,
     "unknown": 0
   },
   "articles": [
     {
-      "id": "gdelt-8ho042l",
+      "id": "gdelt-ugd0vwa",
       "title": "Rússia ataca região da capital da Ucrânia e deixa pelo menos quatro mortos ; três são crianças",
       "sourceName": "O Globo Mundo",
       "sourceUrl": "https://oglobo.globo.com/mundo/",
@@ -26,7 +26,7 @@
       "lastChecked": 1789899536585
     },
     {
-      "id": "gdelt-1qdmb4e",
+      "id": "gdelt-xsx4o2h",
       "title": "Incêndio em hotel na Inglaterra é investigado como suspeito após evacuação de 280 pessoas",
       "sourceName": "O Globo Mundo",
       "sourceUrl": "https://oglobo.globo.com/mundo/",
@@ -42,7 +42,7 @@
       "lastChecked": 1789899536585
     },
     {
-      "id": "gdelt-v8vrgi0",
+      "id": "gdelt-1asb7r8",
       "title": "Síria já tinha culinária sofisticada há 4 . 500 anos , revela estudo",
       "sourceName": "O Globo Mundo",
       "sourceUrl": "https://oglobo.globo.com/mundo/",
@@ -58,7 +58,7 @@
       "lastChecked": 1789899536585
     },
     {
-      "id": "gdelt-gkr885m",
+      "id": "gdelt-6oaelrm",
       "title": "Por que o Brasil sempre abre a Assembleia Geral da ONU",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -74,7 +74,7 @@
       "lastChecked": 1789899536585
     },
     {
-      "id": "gdelt-554ipqw",
+      "id": "gdelt-t14bgnz",
       "title": "Ucrânia denuncia Rússia por incluir regiões anexadas ilegalmente na guerra em eleições parlamentares",
       "sourceName": "O Globo Mundo",
       "sourceUrl": "https://oglobo.globo.com/mundo/",
@@ -90,7 +90,7 @@
       "lastChecked": 1789899536585
     },
     {
-      "id": "gdelt-wvj9cmx",
+      "id": "gdelt-8d8wb8n",
       "title": "Ataque de drones ucranianos mata 2 e fere 6 perto de Moscou",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -106,7 +106,7 @@
       "lastChecked": 1789899536585
     },
     {
-      "id": "gdelt-hj5g3zm",
+      "id": "gdelt-1a3963c",
       "title": "Homem  descontrolado  é detido por Serviço Secreto após tentar invadir Casa Branca com carro e exigir falar com Trump",
       "sourceName": "O Globo Mundo",
       "sourceUrl": "https://oglobo.globo.com/mundo/",
@@ -122,7 +122,7 @@
       "lastChecked": 1789899536585
     },
     {
-      "id": "gdelt-q7gcwso",
+      "id": "gdelt-shjvh06",
       "title": "Com conquistas territoriais , houthis demonstram capacidades política e militar e apontam autonomia do Irã",
       "sourceName": "O Globo Mundo",
       "sourceUrl": "https://oglobo.globo.com/mundo/",
@@ -138,7 +138,7 @@
       "lastChecked": 1789899536585
     },
     {
-      "id": "gdelt-hciat5f",
+      "id": "gdelt-b36jlt3",
       "title": "Lula viaja neste domingo aos EUA para discursar na ONU , sem previsão de encontro com Trump",
       "sourceName": "O Globo Mundo",
       "sourceUrl": "https://oglobo.globo.com/mundo/",
@@ -154,7 +154,7 @@
       "lastChecked": 1789899536585
     },
     {
-      "id": "gdelt-mz6o73j",
+      "id": "gdelt-j7hkdld",
       "title": "Irã executa homem acusado de passar informações sobre instalações de mísseis a agência de Israel",
       "sourceName": "O Globo Mundo",
       "sourceUrl": "https://oglobo.globo.com/mundo/",
@@ -170,7 +170,23 @@
       "lastChecked": 1789899536585
     },
     {
-      "id": "gdelt-7zj22d0",
+      "id": "gdelt-i23n1av",
+      "title": "Deputada federal denuncia ataque com explosivo durante campanha no ES",
+      "sourceName": "CartaCapital",
+      "sourceUrl": "https://www.cartacapital.com.br/",
+      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
+      "sourceEditorial": "Jornalismo progressista - Conteúdo sob assinatura parcial",
+      "country": "Brasil",
+      "paywall": true,
+      "originalUrl": "https://www.cartacapital.com.br/cartaexpressa/deputada-federal-denuncia-ataque-com-explosivo-durante-campanha-no-es/",
+      "publishedAtStr": "2026-09-20T03:00:00Z",
+      "publishedAtTs": 1789873200000,
+      "rawContent": "Deputada federal denuncia ataque com explosivo durante campanha no ES",
+      "linkStatus": "active",
+      "lastChecked": 1789900233335
+    },
+    {
+      "id": "gdelt-lfsh80e",
       "title": "Cuba restabelece conexão da rede elétrica , mas apagões continuam",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -186,7 +202,7 @@
       "lastChecked": 1789899536585
     },
     {
-      "id": "gdelt-yvw9nns",
+      "id": "gdelt-sjqi1jl",
       "title": "Jornalista e candidata às eleições regionais no Peru é assassinada durante ato de campanha",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -200,6 +216,22 @@
       "rawContent": "Jornalista e candidata às eleições regionais no Peru é assassinada durante ato de campanha",
       "linkStatus": "active",
       "lastChecked": 1789899536585
+    },
+    {
+      "id": "gdelt-z5ect4a",
+      "title": "Terras raras , rota naval e gelo derretendo : por que Trump quer a Groenlândia a qualquer custo",
+      "sourceName": "Estadão Internacional",
+      "sourceUrl": "https://www.estadao.com.br/internacional/",
+      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
+      "sourceEditorial": "Jornal tradicional de geopolítica - Conteúdo sob assinatura",
+      "country": "Brasil",
+      "paywall": true,
+      "originalUrl": "https://www.estadao.com.br/internacional/terras-raras-rota-naval-e-gelo-derretendo-por-que-trump-quer-a-groenlandia-a-qualquer-custo/",
+      "publishedAtStr": "2026-09-20T00:15:00Z",
+      "publishedAtTs": 1789863300000,
+      "rawContent": "Terras raras , rota naval e gelo derretendo : por que Trump quer a Groenlândia a qualquer custo",
+      "linkStatus": "active",
+      "lastChecked": 1789900233335
     }
   ]
 }
