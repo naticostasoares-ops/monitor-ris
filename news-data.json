@@ -1,16 +1,16 @@
 {
-  "updatedAt": "2026-09-20T00:42:55.206Z",
+  "updatedAt": "2026-09-20T01:01:02.261Z",
   "periodUsed": "24h",
-  "count": 2,
+  "count": 1,
   "linkVerificationStats": {
-    "checkedThisRun": 2,
-    "active": 2,
+    "checkedThisRun": 0,
+    "active": 0,
     "broken": 0,
     "unknown": 0
   },
   "articles": [
     {
-      "id": "gdelt-vo2v9w0",
+      "id": "gdelt-08r4kqy",
       "title": "Jornalista e candidata às eleições regionais no Peru é assassinada durante ato de campanha",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -22,22 +22,6 @@
       "publishedAtStr": "2026-09-20T00:15:00Z",
       "publishedAtTs": 1789863300000,
       "rawContent": "Jornalista e candidata às eleições regionais no Peru é assassinada durante ato de campanha",
-      "linkStatus": "active",
-      "lastChecked": 1789864972377
-    },
-    {
-      "id": "gdelt-ahrrkrx",
-      "title": "Terras raras , rota naval e gelo derretendo : por que Trump quer a Groenlândia a qualquer custo",
-      "sourceName": "Estadão Internacional",
-      "sourceUrl": "https://www.estadao.com.br/internacional/",
-      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
-      "sourceEditorial": "Jornal tradicional de geopolítica - Conteúdo sob assinatura",
-      "country": "Brasil",
-      "paywall": true,
-      "originalUrl": "https://www.estadao.com.br/internacional/terras-raras-rota-naval-e-gelo-derretendo-por-que-trump-quer-a-groenlandia-a-qualquer-custo/",
-      "publishedAtStr": "2026-09-20T00:15:00Z",
-      "publishedAtTs": 1789863300000,
-      "rawContent": "Terras raras , rota naval e gelo derretendo : por que Trump quer a Groenlândia a qualquer custo",
       "linkStatus": "active",
       "lastChecked": 1789864972377
     }
