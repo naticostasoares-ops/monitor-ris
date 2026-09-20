@@ -1,32 +1,16 @@
 {
-  "updatedAt": "2026-09-20T02:31:09.546Z",
-  "periodUsed": "24h",
-  "count": 2,
+  "updatedAt": "2026-09-20T02:53:14.624Z",
+  "periodUsed": "7d",
+  "count": 1,
   "linkVerificationStats": {
-    "checkedThisRun": 1,
-    "active": 1,
+    "checkedThisRun": 0,
+    "active": 0,
     "broken": 0,
     "unknown": 0
   },
   "articles": [
     {
-      "id": "gdelt-3qj47su",
-      "title": "Jornalista e candidata às eleições regionais no Peru é assassinada durante ato de campanha",
-      "sourceName": "G1 Mundo",
-      "sourceUrl": "https://g1.globo.com/mundo/",
-      "sourceType": "Imprensa Comercial Brasileira",
-      "sourceEditorial": "Portal de notícias mainstream do Grupo Globo",
-      "country": "Brasil",
-      "paywall": false,
-      "originalUrl": "https://g1.globo.com/mundo/noticia/2026/09/19/jornalista-candidata-eleicoes-regionais-peru-assassinada.ghtml",
-      "publishedAtStr": "2026-09-20T00:15:00Z",
-      "publishedAtTs": 1789863300000,
-      "rawContent": "Jornalista e candidata às eleições regionais no Peru é assassinada durante ato de campanha",
-      "linkStatus": "active",
-      "lastChecked": 1789870919856
-    },
-    {
-      "id": "gdelt-pp96t8h",
+      "id": "gdelt-t6qxncm",
       "title": "Terras raras , rota naval e gelo derretendo : por que Trump quer a Groenlândia a qualquer custo",
       "sourceName": "Estadão Internacional",
       "sourceUrl": "https://www.estadao.com.br/internacional/",
