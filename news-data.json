@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-09-20T06:38:07.068Z",
+  "updatedAt": "2026-09-20T06:59:57.555Z",
   "periodUsed": "24h",
-  "count": 8,
+  "count": 10,
   "linkVerificationStats": {
     "checkedThisRun": 2,
     "active": 2,
@@ -10,7 +10,39 @@
   },
   "articles": [
     {
-      "id": "gdelt-nxwljjw",
+      "id": "gdelt-ju9eiro",
+      "title": "Ucrânia denuncia Rússia por incluir regiões anexadas ilegalmente na guerra em eleições parlamentares",
+      "sourceName": "O Globo Mundo",
+      "sourceUrl": "https://oglobo.globo.com/mundo/",
+      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
+      "sourceEditorial": "Jornal diário (Grupo Globo) - Conteúdo sob assinatura",
+      "country": "Brasil",
+      "paywall": true,
+      "originalUrl": "https://oglobo.globo.com/mundo/noticia/2026/09/20/ucrania-denuncia-russia-por-incluir-regioes-anexadas-ilegalmente-na-guerra-em-eleicoes-parlamentares.ghtml",
+      "publishedAtStr": "2026-09-20T06:15:00Z",
+      "publishedAtTs": 1789884900000,
+      "rawContent": "Ucrânia denuncia Rússia por incluir regiões anexadas ilegalmente na guerra em eleições parlamentares",
+      "linkStatus": "active",
+      "lastChecked": 1789887595009
+    },
+    {
+      "id": "gdelt-ri220ff",
+      "title": "Ataque de drones ucranianos mata 2 e fere 6 perto de Moscou",
+      "sourceName": "G1 Mundo",
+      "sourceUrl": "https://g1.globo.com/mundo/",
+      "sourceType": "Imprensa Comercial Brasileira",
+      "sourceEditorial": "Portal de notícias mainstream do Grupo Globo",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://g1.globo.com/mundo/noticia/2026/09/20/ataque-de-drones-ucranianos-atinge-refinaria-de-petroleo-e-mata-2-na-capital-da-russia.ghtml",
+      "publishedAtStr": "2026-09-20T06:15:00Z",
+      "publishedAtTs": 1789884900000,
+      "rawContent": "Ataque de drones ucranianos mata 2 e fere 6 perto de Moscou",
+      "linkStatus": "active",
+      "lastChecked": 1789887595009
+    },
+    {
+      "id": "gdelt-yqbjz21",
       "title": "Homem  descontrolado  é detido por Serviço Secreto após tentar invadir Casa Branca com carro e exigir falar com Trump",
       "sourceName": "O Globo Mundo",
       "sourceUrl": "https://oglobo.globo.com/mundo/",
@@ -26,7 +58,7 @@
       "lastChecked": 1789885128441
     },
     {
-      "id": "gdelt-s4j2ljk",
+      "id": "gdelt-muiierv",
       "title": "Com conquistas territoriais , houthis demonstram capacidades política e militar e apontam autonomia do Irã",
       "sourceName": "O Globo Mundo",
       "sourceUrl": "https://oglobo.globo.com/mundo/",
@@ -42,7 +74,7 @@
       "lastChecked": 1789885128441
     },
     {
-      "id": "gdelt-orc5noo",
+      "id": "gdelt-if53at4",
       "title": "Lula viaja neste domingo aos EUA para discursar na ONU , sem previsão de encontro com Trump",
       "sourceName": "O Globo Mundo",
       "sourceUrl": "https://oglobo.globo.com/mundo/",
@@ -58,7 +90,7 @@
       "lastChecked": 1789885128441
     },
     {
-      "id": "gdelt-snkdlye",
+      "id": "gdelt-94zuksy",
       "title": "Irã executa homem acusado de passar informações sobre instalações de mísseis a agência de Israel",
       "sourceName": "O Globo Mundo",
       "sourceUrl": "https://oglobo.globo.com/mundo/",
@@ -74,7 +106,7 @@
       "lastChecked": 1789885128441
     },
     {
-      "id": "gdelt-yc89ffb",
+      "id": "gdelt-6tuum5h",
       "title": "Deputada federal denuncia ataque com explosivo durante campanha no ES",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -90,7 +122,7 @@
       "lastChecked": 1789886285373
     },
     {
-      "id": "gdelt-zfrsxsm",
+      "id": "gdelt-qmkp9xi",
       "title": "Cuba restabelece conexão da rede elétrica , mas apagões continuam",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -106,7 +138,7 @@
       "lastChecked": 1789885128441
     },
     {
-      "id": "gdelt-yamd184",
+      "id": "gdelt-qzsgqun",
       "title": "Jornalista e candidata às eleições regionais no Peru é assassinada durante ato de campanha",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -122,7 +154,7 @@
       "lastChecked": 1789885128441
     },
     {
-      "id": "gdelt-o0v3bwy",
+      "id": "gdelt-ziilxnu",
       "title": "Terras raras , rota naval e gelo derretendo : por que Trump quer a Groenlândia a qualquer custo",
       "sourceName": "Estadão Internacional",
       "sourceUrl": "https://www.estadao.com.br/internacional/",
