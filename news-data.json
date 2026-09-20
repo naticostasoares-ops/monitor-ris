@@ -1,16 +1,32 @@
 {
-  "updatedAt": "2026-09-20T02:53:14.624Z",
-  "periodUsed": "7d",
-  "count": 1,
+  "updatedAt": "2026-09-20T03:16:15.019Z",
+  "periodUsed": "24h",
+  "count": 2,
   "linkVerificationStats": {
-    "checkedThisRun": 0,
-    "active": 0,
+    "checkedThisRun": 1,
+    "active": 1,
     "broken": 0,
     "unknown": 0
   },
   "articles": [
     {
-      "id": "gdelt-t6qxncm",
+      "id": "gdelt-kdkoc4f",
+      "title": "Deputada federal denuncia ataque com explosivo durante campanha no ES",
+      "sourceName": "CartaCapital",
+      "sourceUrl": "https://www.cartacapital.com.br/",
+      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
+      "sourceEditorial": "Jornalismo progressista - Conteúdo sob assinatura parcial",
+      "country": "Brasil",
+      "paywall": true,
+      "originalUrl": "https://www.cartacapital.com.br/cartaexpressa/deputada-federal-denuncia-ataque-com-explosivo-durante-campanha-no-es/",
+      "publishedAtStr": "2026-09-20T03:00:00Z",
+      "publishedAtTs": 1789873200000,
+      "rawContent": "Deputada federal denuncia ataque com explosivo durante campanha no ES",
+      "linkStatus": "active",
+      "lastChecked": 1789874174559
+    },
+    {
+      "id": "gdelt-jd4cfrz",
       "title": "Terras raras , rota naval e gelo derretendo : por que Trump quer a Groenlândia a qualquer custo",
       "sourceName": "Estadão Internacional",
       "sourceUrl": "https://www.estadao.com.br/internacional/",
