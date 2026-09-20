@@ -1,29 +1,29 @@
 {
-  "updatedAt": "2026-09-20T01:44:43.206Z",
+  "updatedAt": "2026-09-20T01:57:40.244Z",
   "periodUsed": "24h",
   "count": 1,
   "linkVerificationStats": {
-    "checkedThisRun": 0,
-    "active": 0,
+    "checkedThisRun": 1,
+    "active": 1,
     "broken": 0,
     "unknown": 0
   },
   "articles": [
     {
-      "id": "gdelt-xwcqu2g",
-      "title": "Jornalista e candidata às eleições regionais no Peru é assassinada durante ato de campanha",
-      "sourceName": "G1 Mundo",
-      "sourceUrl": "https://g1.globo.com/mundo/",
-      "sourceType": "Imprensa Comercial Brasileira",
-      "sourceEditorial": "Portal de notícias mainstream do Grupo Globo",
+      "id": "gdelt-dwdlh6d",
+      "title": "Terras raras , rota naval e gelo derretendo : por que Trump quer a Groenlândia a qualquer custo",
+      "sourceName": "Estadão Internacional",
+      "sourceUrl": "https://www.estadao.com.br/internacional/",
+      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
+      "sourceEditorial": "Jornal tradicional de geopolítica - Conteúdo sob assinatura",
       "country": "Brasil",
-      "paywall": false,
-      "originalUrl": "https://g1.globo.com/mundo/noticia/2026/09/19/jornalista-candidata-eleicoes-regionais-peru-assassinada.ghtml",
+      "paywall": true,
+      "originalUrl": "https://www.estadao.com.br/internacional/terras-raras-rota-naval-e-gelo-derretendo-por-que-trump-quer-a-groenlandia-a-qualquer-custo/",
       "publishedAtStr": "2026-09-20T00:15:00Z",
       "publishedAtTs": 1789863300000,
-      "rawContent": "Jornalista e candidata às eleições regionais no Peru é assassinada durante ato de campanha",
+      "rawContent": "Terras raras , rota naval e gelo derretendo : por que Trump quer a Groenlândia a qualquer custo",
       "linkStatus": "active",
-      "lastChecked": 1789864972377
+      "lastChecked": 1789869459810
     }
   ]
 }
