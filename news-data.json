@@ -1,16 +1,16 @@
 {
-  "updatedAt": "2026-09-20T06:18:53.919Z",
+  "updatedAt": "2026-09-20T06:38:07.068Z",
   "periodUsed": "24h",
-  "count": 6,
+  "count": 8,
   "linkVerificationStats": {
-    "checkedThisRun": 6,
-    "active": 6,
+    "checkedThisRun": 2,
+    "active": 2,
     "broken": 0,
     "unknown": 0
   },
   "articles": [
     {
-      "id": "gdelt-5fmso32",
+      "id": "gdelt-nxwljjw",
       "title": "Homem  descontrolado  é detido por Serviço Secreto após tentar invadir Casa Branca com carro e exigir falar com Trump",
       "sourceName": "O Globo Mundo",
       "sourceUrl": "https://oglobo.globo.com/mundo/",
@@ -26,7 +26,7 @@
       "lastChecked": 1789885128441
     },
     {
-      "id": "gdelt-4h2xnj2",
+      "id": "gdelt-s4j2ljk",
       "title": "Com conquistas territoriais , houthis demonstram capacidades política e militar e apontam autonomia do Irã",
       "sourceName": "O Globo Mundo",
       "sourceUrl": "https://oglobo.globo.com/mundo/",
@@ -42,7 +42,7 @@
       "lastChecked": 1789885128441
     },
     {
-      "id": "gdelt-3r6a7sh",
+      "id": "gdelt-orc5noo",
       "title": "Lula viaja neste domingo aos EUA para discursar na ONU , sem previsão de encontro com Trump",
       "sourceName": "O Globo Mundo",
       "sourceUrl": "https://oglobo.globo.com/mundo/",
@@ -58,7 +58,7 @@
       "lastChecked": 1789885128441
     },
     {
-      "id": "gdelt-bv213qp",
+      "id": "gdelt-snkdlye",
       "title": "Irã executa homem acusado de passar informações sobre instalações de mísseis a agência de Israel",
       "sourceName": "O Globo Mundo",
       "sourceUrl": "https://oglobo.globo.com/mundo/",
@@ -74,7 +74,23 @@
       "lastChecked": 1789885128441
     },
     {
-      "id": "gdelt-a3ff1gk",
+      "id": "gdelt-yc89ffb",
+      "title": "Deputada federal denuncia ataque com explosivo durante campanha no ES",
+      "sourceName": "CartaCapital",
+      "sourceUrl": "https://www.cartacapital.com.br/",
+      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
+      "sourceEditorial": "Jornalismo progressista - Conteúdo sob assinatura parcial",
+      "country": "Brasil",
+      "paywall": true,
+      "originalUrl": "https://www.cartacapital.com.br/cartaexpressa/deputada-federal-denuncia-ataque-com-explosivo-durante-campanha-no-es/",
+      "publishedAtStr": "2026-09-20T03:00:00Z",
+      "publishedAtTs": 1789873200000,
+      "rawContent": "Deputada federal denuncia ataque com explosivo durante campanha no ES",
+      "linkStatus": "active",
+      "lastChecked": 1789886285373
+    },
+    {
+      "id": "gdelt-zfrsxsm",
       "title": "Cuba restabelece conexão da rede elétrica , mas apagões continuam",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -90,7 +106,7 @@
       "lastChecked": 1789885128441
     },
     {
-      "id": "gdelt-az1g44j",
+      "id": "gdelt-yamd184",
       "title": "Jornalista e candidata às eleições regionais no Peru é assassinada durante ato de campanha",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -104,6 +120,22 @@
       "rawContent": "Jornalista e candidata às eleições regionais no Peru é assassinada durante ato de campanha",
       "linkStatus": "active",
       "lastChecked": 1789885128441
+    },
+    {
+      "id": "gdelt-o0v3bwy",
+      "title": "Terras raras , rota naval e gelo derretendo : por que Trump quer a Groenlândia a qualquer custo",
+      "sourceName": "Estadão Internacional",
+      "sourceUrl": "https://www.estadao.com.br/internacional/",
+      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
+      "sourceEditorial": "Jornal tradicional de geopolítica - Conteúdo sob assinatura",
+      "country": "Brasil",
+      "paywall": true,
+      "originalUrl": "https://www.estadao.com.br/internacional/terras-raras-rota-naval-e-gelo-derretendo-por-que-trump-quer-a-groenlandia-a-qualquer-custo/",
+      "publishedAtStr": "2026-09-20T00:15:00Z",
+      "publishedAtTs": 1789863300000,
+      "rawContent": "Terras raras , rota naval e gelo derretendo : por que Trump quer a Groenlândia a qualquer custo",
+      "linkStatus": "active",
+      "lastChecked": 1789886285373
     }
   ]
 }
