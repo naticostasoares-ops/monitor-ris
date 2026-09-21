@@ -1,16 +1,32 @@
 {
-  "updatedAt": "2026-09-21T15:32:48.131Z",
+  "updatedAt": "2026-09-21T15:45:28.639Z",
   "periodUsed": "24h",
   "count": 16,
   "linkVerificationStats": {
-    "checkedThisRun": 16,
-    "active": 16,
+    "checkedThisRun": 1,
+    "active": 1,
     "broken": 0,
     "unknown": 0
   },
   "articles": [
     {
-      "id": "gdelt-nwprlbc",
+      "id": "gdelt-ucpvv02",
+      "title": "Principais emissoras de TV dos EUA suspendem cobertura conjunta de Trump em apoio à rede CNN",
+      "sourceName": "O Globo Mundo",
+      "sourceUrl": "https://oglobo.globo.com/mundo/",
+      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
+      "sourceEditorial": "Jornal diário (Grupo Globo) - Conteúdo sob assinatura",
+      "country": "Brasil",
+      "paywall": true,
+      "originalUrl": "https://oglobo.globo.com/mundo/noticia/2026/09/21/principais-emissoras-de-tv-dos-eua-suspendem-cobertura-conjunta-de-trump-em-apoio-a-rede-cnn.ghtml",
+      "publishedAtStr": "2026-09-21T15:15:00Z",
+      "publishedAtTs": 1790003700000,
+      "rawContent": "Principais emissoras de TV dos EUA suspendem cobertura conjunta de Trump em apoio à rede CNN",
+      "linkStatus": "active",
+      "lastChecked": 1790005526436
+    },
+    {
+      "id": "gdelt-noqr5h0",
       "title": "Do voto feminino à habitao popular : quem foi Carmen Portinho , pioneira do feminismo no Brasil",
       "sourceName": "BBC News Brasil",
       "sourceUrl": "https://www.bbc.com/portuguese",
@@ -26,7 +42,7 @@
       "lastChecked": 1790004754114
     },
     {
-      "id": "gdelt-ojd9gsd",
+      "id": "gdelt-ufb8kvt",
       "title": "Trilheiro de 19 anos morre após raio atingir abrigo metálico em topo de montanha nos EUA ; nove ficaram feridos",
       "sourceName": "O Globo Mundo",
       "sourceUrl": "https://oglobo.globo.com/mundo/",
@@ -42,7 +58,7 @@
       "lastChecked": 1790004754114
     },
     {
-      "id": "gdelt-qw1zzat",
+      "id": "gdelt-3v6r4z9",
       "title": "Paquistão volta a atacar o Afeganistão em nova escalada do conflito",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -58,7 +74,7 @@
       "lastChecked": 1790004754114
     },
     {
-      "id": "gdelt-mshuvro",
+      "id": "gdelt-5fjsf45",
       "title": "Partido de Putin desponta como vencedor em eleições russas marcadas por ataque ucraniano",
       "sourceName": "O Globo Mundo",
       "sourceUrl": "https://oglobo.globo.com/mundo/",
@@ -74,7 +90,7 @@
       "lastChecked": 1790004754114
     },
     {
-      "id": "gdelt-htayagb",
+      "id": "gdelt-bharm61",
       "title": "Encantadora de elefante luta para salvar espécie ameaçada de extino na Malásia",
       "sourceName": "O Globo Mundo",
       "sourceUrl": "https://oglobo.globo.com/mundo/",
@@ -90,7 +106,7 @@
       "lastChecked": 1790004754114
     },
     {
-      "id": "gdelt-zn13gv4",
+      "id": "gdelt-5wax04z",
       "title": "PIB do Irã cai 10 , 1 % em meio à guerra no Oriente Médio",
       "sourceName": "O Globo Mundo",
       "sourceUrl": "https://oglobo.globo.com/mundo/",
@@ -106,7 +122,7 @@
       "lastChecked": 1790004754114
     },
     {
-      "id": "gdelt-vl3a722",
+      "id": "gdelt-bnb8cq7",
       "title": "Partido de extrema - esquerda vence eleio em Berlim",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -122,7 +138,7 @@
       "lastChecked": 1790004754114
     },
     {
-      "id": "gdelt-atjiguj",
+      "id": "gdelt-7gngk1n",
       "title": "Agente do ICE atira em homem após colisão no Texas",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -138,7 +154,7 @@
       "lastChecked": 1790004754114
     },
     {
-      "id": "gdelt-20zu857",
+      "id": "gdelt-rgx9gt0",
       "title": "Multilateralismo na ONU : Brasil e aliados lançam manifesto P4M",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -154,7 +170,7 @@
       "lastChecked": 1790004754114
     },
     {
-      "id": "gdelt-gj8aphy",
+      "id": "gdelt-ggjpg1y",
       "title": "Babá de 19 anos é acusado de matar bebê de 11 meses e esconder corpo dentro de sofá nos EUA",
       "sourceName": "O Globo Mundo",
       "sourceUrl": "https://oglobo.globo.com/mundo/",
@@ -170,7 +186,7 @@
       "lastChecked": 1790004754114
     },
     {
-      "id": "gdelt-ht3mx3z",
+      "id": "gdelt-c9vdo76",
       "title": "Merz promete reformas após eleies estaduais",
       "sourceName": "DW Brasil",
       "sourceUrl": "https://www.dw.com/pt-br/",
@@ -186,7 +202,7 @@
       "lastChecked": 1790004754114
     },
     {
-      "id": "gdelt-p4bwfi5",
+      "id": "gdelt-4tbgqtf",
       "title": "TSE suspende campanha de Deltan Dallagnol",
       "sourceName": "DW Brasil",
       "sourceUrl": "https://www.dw.com/pt-br/",
@@ -202,7 +218,7 @@
       "lastChecked": 1790004754114
     },
     {
-      "id": "gdelt-f4aexmg",
+      "id": "gdelt-t5helsh",
       "title": "Surto de ebola teria começado meses antes de anúncio oficial",
       "sourceName": "DW Brasil",
       "sourceUrl": "https://www.dw.com/pt-br/",
@@ -218,7 +234,7 @@
       "lastChecked": 1790004754114
     },
     {
-      "id": "gdelt-335v906",
+      "id": "gdelt-yc9kayg",
       "title": "Extrema direita lidera em mais um estado na Alemanha , diz boca de urna",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -234,7 +250,7 @@
       "lastChecked": 1790004754114
     },
     {
-      "id": "gdelt-hnr7aze",
+      "id": "gdelt-u8hmnsr",
       "title": "Estudantes de Gaza voltam às escolas danificadas pela guerra no início do ano letivo",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -246,22 +262,6 @@
       "publishedAtStr": "2026-09-20T17:30:00Z",
       "publishedAtTs": 1789925400000,
       "rawContent": "Estudantes de Gaza voltam às escolas danificadas pela guerra no início do ano letivo",
-      "linkStatus": "active",
-      "lastChecked": 1790004754114
-    },
-    {
-      "id": "gdelt-o6kmw75",
-      "title": "Coreia do Norte lança dois mísseis balísticos ao mar",
-      "sourceName": "DW Brasil",
-      "sourceUrl": "https://www.dw.com/pt-br/",
-      "sourceType": "Imprensa Internacional / Pública",
-      "sourceEditorial": "Emissora pública da Alemanha; foco em diplomacia e direitos humanos",
-      "country": "Alemanha",
-      "paywall": false,
-      "originalUrl": "https://www.dw.com/pt-br/coreia-do-norte-lan%C3%A7a-dois-m%C3%ADsseis-bal%C3%ADsticos-ao-mar/a-79346569",
-      "publishedAtStr": "2026-09-20T15:45:00Z",
-      "publishedAtTs": 1789919100000,
-      "rawContent": "Coreia do Norte lança dois mísseis balísticos ao mar",
       "linkStatus": "active",
       "lastChecked": 1790004754114
     }
