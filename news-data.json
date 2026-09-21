@@ -1,16 +1,16 @@
 {
-  "updatedAt": "2026-09-21T19:01:03.916Z",
+  "updatedAt": "2026-09-21T19:15:20.742Z",
   "periodUsed": "24h",
-  "count": 13,
+  "count": 12,
   "linkVerificationStats": {
-    "checkedThisRun": 13,
-    "active": 13,
+    "checkedThisRun": 0,
+    "active": 0,
     "broken": 0,
     "unknown": 0
   },
   "articles": [
     {
-      "id": "gdelt-6ysix5f",
+      "id": "gdelt-o8o3bmp",
       "title": "Brasil e UE integram iniciativa em prol do multilateralismo",
       "sourceName": "DW Brasil",
       "sourceUrl": "https://www.dw.com/pt-br/",
@@ -26,7 +26,7 @@
       "lastChecked": 1790017250326
     },
     {
-      "id": "gdelt-gt3t07s",
+      "id": "gdelt-eucmdo5",
       "title": "Trump publica nova enquete para redefinir nome da inteligência artificial",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -42,7 +42,7 @@
       "lastChecked": 1790017250326
     },
     {
-      "id": "gdelt-2gsngp5",
+      "id": "gdelt-qpdacr6",
       "title": "Principais emissoras de TV dos EUA suspendem cobertura conjunta de Trump em apoio à rede CNN",
       "sourceName": "O Globo Mundo",
       "sourceUrl": "https://oglobo.globo.com/mundo/",
@@ -58,7 +58,7 @@
       "lastChecked": 1790017250326
     },
     {
-      "id": "gdelt-bnkz5nt",
+      "id": "gdelt-sn3eekp",
       "title": "Do voto feminino à habitao popular : quem foi Carmen Portinho , pioneira do feminismo no Brasil",
       "sourceName": "BBC News Brasil",
       "sourceUrl": "https://www.bbc.com/portuguese",
@@ -74,7 +74,7 @@
       "lastChecked": 1790017250326
     },
     {
-      "id": "gdelt-7a5zwk1",
+      "id": "gdelt-w2kv728",
       "title": "Trilheiro de 19 anos morre após raio atingir abrigo metálico em topo de montanha nos EUA ; nove ficaram feridos",
       "sourceName": "O Globo Mundo",
       "sourceUrl": "https://oglobo.globo.com/mundo/",
@@ -90,7 +90,7 @@
       "lastChecked": 1790017250326
     },
     {
-      "id": "gdelt-nxi0u6s",
+      "id": "gdelt-z6onps7",
       "title": "Paquistão volta a atacar o Afeganistão em nova escalada do conflito",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -106,7 +106,7 @@
       "lastChecked": 1790017250326
     },
     {
-      "id": "gdelt-uzurxiq",
+      "id": "gdelt-ylejtnx",
       "title": "Partido de Putin desponta como vencedor em eleições russas marcadas por ataque ucraniano",
       "sourceName": "O Globo Mundo",
       "sourceUrl": "https://oglobo.globo.com/mundo/",
@@ -122,7 +122,7 @@
       "lastChecked": 1790017250326
     },
     {
-      "id": "gdelt-1fmdr5e",
+      "id": "gdelt-pvwqxto",
       "title": "Encantadora de elefante luta para salvar espécie ameaçada de extino na Malásia",
       "sourceName": "O Globo Mundo",
       "sourceUrl": "https://oglobo.globo.com/mundo/",
@@ -138,7 +138,7 @@
       "lastChecked": 1790017250326
     },
     {
-      "id": "gdelt-bz4mamk",
+      "id": "gdelt-sght8ig",
       "title": "PIB do Irã cai 10 , 1 % em meio à guerra no Oriente Médio",
       "sourceName": "O Globo Mundo",
       "sourceUrl": "https://oglobo.globo.com/mundo/",
@@ -154,7 +154,7 @@
       "lastChecked": 1790017250326
     },
     {
-      "id": "gdelt-xzhd4vh",
+      "id": "gdelt-4nzc7ig",
       "title": "Partido de extrema - esquerda vence eleio em Berlim",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -170,7 +170,7 @@
       "lastChecked": 1790017250326
     },
     {
-      "id": "gdelt-bczy8hl",
+      "id": "gdelt-5dz1wan",
       "title": "Agente do ICE atira em homem após colisão no Texas",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -186,7 +186,7 @@
       "lastChecked": 1790017250326
     },
     {
-      "id": "gdelt-qlh7e7m",
+      "id": "gdelt-cf6546r",
       "title": "Multilateralismo na ONU : Brasil e aliados lançam manifesto P4M",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -198,22 +198,6 @@
       "publishedAtStr": "2026-09-20T22:15:00Z",
       "publishedAtTs": 1789942500000,
       "rawContent": "Multilateralismo na ONU : Brasil e aliados lançam manifesto P4M",
-      "linkStatus": "active",
-      "lastChecked": 1790017250326
-    },
-    {
-      "id": "gdelt-ognsxr4",
-      "title": "Babá de 19 anos é acusado de matar bebê de 11 meses e esconder corpo dentro de sofá nos EUA",
-      "sourceName": "O Globo Mundo",
-      "sourceUrl": "https://oglobo.globo.com/mundo/",
-      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
-      "sourceEditorial": "Jornal diário (Grupo Globo) - Conteúdo sob assinatura",
-      "country": "Brasil",
-      "paywall": true,
-      "originalUrl": "https://oglobo.globo.com/mundo/epoca/noticia/2026/09/20/baba-de-19-anos-e-acusado-de-matar-bebe-de-11-meses-e-esconder-corpo-dentro-de-sofa-nos-eua.ghtml",
-      "publishedAtStr": "2026-09-20T19:15:00Z",
-      "publishedAtTs": 1789931700000,
-      "rawContent": "Babá de 19 anos é acusado de matar bebê de 11 meses e esconder corpo dentro de sofá nos EUA",
       "linkStatus": "active",
       "lastChecked": 1790017250326
     }
