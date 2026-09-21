@@ -1,16 +1,144 @@
 {
-  "updatedAt": "2026-09-21T13:15:57.101Z",
+  "updatedAt": "2026-09-21T13:34:04.524Z",
   "periodUsed": "24h",
-  "count": 26,
+  "count": 49,
   "linkVerificationStats": {
-    "checkedThisRun": 0,
-    "active": 0,
+    "checkedThisRun": 23,
+    "active": 23,
     "broken": 0,
     "unknown": 0
   },
   "articles": [
     {
-      "id": "gdelt-yoibjg7",
+      "id": "gdelt-vv5k8c9",
+      "title": "Corrida pelo Senado em MG está aberta , segundo o Real Time Big Data – CartaCapital",
+      "sourceName": "CartaCapital",
+      "sourceUrl": "https://www.cartacapital.com.br/",
+      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
+      "sourceEditorial": "Jornalismo progressista - Conteúdo sob assinatura parcial",
+      "country": "Brasil",
+      "paywall": true,
+      "originalUrl": "https://www.cartacapital.com.br/politica/corrida-pelo-senado-em-mg-esta-aberta-segundo-o-real-time-big-data/",
+      "publishedAtStr": "2026-09-21T13:00:00Z",
+      "publishedAtTs": 1789995600000,
+      "rawContent": "Corrida pelo Senado em MG está aberta , segundo o Real Time Big Data – CartaCapital",
+      "linkStatus": "active",
+      "lastChecked": 1789997627281
+    },
+    {
+      "id": "gdelt-82urb21",
+      "title": "A disputa pela presidência no estado de São Paulo , segundo o Real Time Big Data",
+      "sourceName": "CartaCapital",
+      "sourceUrl": "https://www.cartacapital.com.br/",
+      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
+      "sourceEditorial": "Jornalismo progressista - Conteúdo sob assinatura parcial",
+      "country": "Brasil",
+      "paywall": true,
+      "originalUrl": "https://www.cartacapital.com.br/politica/flavio-bolsonaro-lidera-entre-os-eleitores-de-sp-mostra-real-time-big-data/",
+      "publishedAtStr": "2026-09-21T13:00:00Z",
+      "publishedAtTs": 1789995600000,
+      "rawContent": "A disputa pela presidência no estado de São Paulo , segundo o Real Time Big Data",
+      "linkStatus": "active",
+      "lastChecked": 1789997627281
+    },
+    {
+      "id": "gdelt-fuy33pe",
+      "title": "A disputa entre Lula e Flávio Bolsonaro em MG , segundo o Real Time Big Data",
+      "sourceName": "CartaCapital",
+      "sourceUrl": "https://www.cartacapital.com.br/",
+      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
+      "sourceEditorial": "Jornalismo progressista - Conteúdo sob assinatura parcial",
+      "country": "Brasil",
+      "paywall": true,
+      "originalUrl": "https://www.cartacapital.com.br/politica/pesquisa-real-time-mostra-equilibrio-entre-lula-e-flavio-bolsonaro-em-mg/",
+      "publishedAtStr": "2026-09-21T13:00:00Z",
+      "publishedAtTs": 1789995600000,
+      "rawContent": "A disputa entre Lula e Flávio Bolsonaro em MG , segundo o Real Time Big Data",
+      "linkStatus": "active",
+      "lastChecked": 1789997627281
+    },
+    {
+      "id": "gdelt-6j4wdwh",
+      "title": "Agricultura cresce 11 milhões de hectares em 41 anos na Mata Atlântica",
+      "sourceName": "CartaCapital",
+      "sourceUrl": "https://www.cartacapital.com.br/",
+      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
+      "sourceEditorial": "Jornalismo progressista - Conteúdo sob assinatura parcial",
+      "country": "Brasil",
+      "paywall": true,
+      "originalUrl": "https://www.cartacapital.com.br/sustentabilidade/agricultura-cresce-11-milhoes-de-hectares-em-41-anos-na-mata-atlantica/",
+      "publishedAtStr": "2026-09-21T13:00:00Z",
+      "publishedAtTs": 1789995600000,
+      "rawContent": "Agricultura cresce 11 milhões de hectares em 41 anos na Mata Atlântica",
+      "linkStatus": "active",
+      "lastChecked": 1789997627281
+    },
+    {
+      "id": "gdelt-qiuxiru",
+      "title": "A disputa pelo governo de MG , segundo a nova pesquisa Real Time",
+      "sourceName": "CartaCapital",
+      "sourceUrl": "https://www.cartacapital.com.br/",
+      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
+      "sourceEditorial": "Jornalismo progressista - Conteúdo sob assinatura parcial",
+      "country": "Brasil",
+      "paywall": true,
+      "originalUrl": "https://www.cartacapital.com.br/politica/real-time-big-data-em-mg-cleitinho-lidera-em-1o-turno/",
+      "publishedAtStr": "2026-09-21T13:00:00Z",
+      "publishedAtTs": 1789995600000,
+      "rawContent": "A disputa pelo governo de MG , segundo a nova pesquisa Real Time",
+      "linkStatus": "active",
+      "lastChecked": 1789997627281
+    },
+    {
+      "id": "gdelt-o2zqr42",
+      "title": "Agenda dos candidatos : Lula encontra líderes em Nova York e Flávio Bolsonaro faz campanha em Natal",
+      "sourceName": "CartaCapital",
+      "sourceUrl": "https://www.cartacapital.com.br/",
+      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
+      "sourceEditorial": "Jornalismo progressista - Conteúdo sob assinatura parcial",
+      "country": "Brasil",
+      "paywall": true,
+      "originalUrl": "https://www.cartacapital.com.br/politica/agenda-dos-candidatos-lula-encontra-lideres-em-nova-york-e-flavio-bolsonaro-faz-campanha-em-natal/",
+      "publishedAtStr": "2026-09-21T13:00:00Z",
+      "publishedAtTs": 1789995600000,
+      "rawContent": "Agenda dos candidatos : Lula encontra líderes em Nova York e Flávio Bolsonaro faz campanha em Natal",
+      "linkStatus": "active",
+      "lastChecked": 1789997627281
+    },
+    {
+      "id": "gdelt-yonf8cw",
+      "title": "Do voto feminino à habitao popular : quem foi Carmen Portinho , pioneira do feminismo no Brasil",
+      "sourceName": "BBC News Brasil",
+      "sourceUrl": "https://www.bbc.com/portuguese",
+      "sourceType": "Imprensa Internacional / Pública",
+      "sourceEditorial": "Emissora pública do Reino Unido; jornalismo global independente",
+      "country": "Reino Unido",
+      "paywall": false,
+      "originalUrl": "https://www.bbc.com/portuguese/articles/ckg3ydpz23ro",
+      "publishedAtStr": "2026-09-21T10:30:00Z",
+      "publishedAtTs": 1789986600000,
+      "rawContent": "Do voto feminino à habitao popular : quem foi Carmen Portinho , pioneira do feminismo no Brasil",
+      "linkStatus": "active",
+      "lastChecked": 1789997627281
+    },
+    {
+      "id": "gdelt-075ehxu",
+      "title": "Trilheiro de 19 anos morre após raio atingir abrigo metálico em topo de montanha nos EUA ; nove ficaram feridos",
+      "sourceName": "O Globo Mundo",
+      "sourceUrl": "https://oglobo.globo.com/mundo/",
+      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
+      "sourceEditorial": "Jornal diário (Grupo Globo) - Conteúdo sob assinatura",
+      "country": "Brasil",
+      "paywall": true,
+      "originalUrl": "https://oglobo.globo.com/mundo/noticia/2026/09/21/trilheiro-de-19-anos-morre-apos-raio-atingir-abrigo-metalico-em-topo-de-montanha-nos-eua-nove-ficaram-feridos.ghtml",
+      "publishedAtStr": "2026-09-21T09:30:00Z",
+      "publishedAtTs": 1789983000000,
+      "rawContent": "Trilheiro de 19 anos morre após raio atingir abrigo metálico em topo de montanha nos EUA ; nove ficaram feridos",
+      "linkStatus": "active",
+      "lastChecked": 1789997627281
+    },
+    {
+      "id": "gdelt-ucj74xi",
       "title": "Avanço dos houthis no Iêmen encarece o petróleo e pressiona Trump antes das eleições",
       "sourceName": "Estadão Internacional",
       "sourceUrl": "https://www.estadao.com.br/internacional/",
@@ -26,7 +154,119 @@
       "lastChecked": 1789995992635
     },
     {
-      "id": "gdelt-yx5c03v",
+      "id": "gdelt-8350xey",
+      "title": "Paquistão volta a atacar o Afeganistão em nova escalada do conflito",
+      "sourceName": "G1 Mundo",
+      "sourceUrl": "https://g1.globo.com/mundo/",
+      "sourceType": "Imprensa Comercial Brasileira",
+      "sourceEditorial": "Portal de notícias mainstream do Grupo Globo",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://g1.globo.com/mundo/noticia/2026/09/21/paquistao-volta-a-atacar-o-afeganistao-em-nova-escalada-do-conflito.ghtml",
+      "publishedAtStr": "2026-09-21T06:15:00Z",
+      "publishedAtTs": 1789971300000,
+      "rawContent": "Paquistão volta a atacar o Afeganistão em nova escalada do conflito",
+      "linkStatus": "active",
+      "lastChecked": 1789997627281
+    },
+    {
+      "id": "gdelt-3aa2xi0",
+      "title": "Partido de Putin desponta como vencedor em eleições russas marcadas por ataque ucraniano",
+      "sourceName": "O Globo Mundo",
+      "sourceUrl": "https://oglobo.globo.com/mundo/",
+      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
+      "sourceEditorial": "Jornal diário (Grupo Globo) - Conteúdo sob assinatura",
+      "country": "Brasil",
+      "paywall": true,
+      "originalUrl": "https://oglobo.globo.com/mundo/noticia/2026/09/20/partido-de-putin-desponta-como-vencedor-em-eleicoes-russas-marcadas-por-ataque-ucraniano.ghtml",
+      "publishedAtStr": "2026-09-21T05:00:00Z",
+      "publishedAtTs": 1789966800000,
+      "rawContent": "Partido de Putin desponta como vencedor em eleições russas marcadas por ataque ucraniano",
+      "linkStatus": "active",
+      "lastChecked": 1789997627281
+    },
+    {
+      "id": "gdelt-bwx39bm",
+      "title": "Encantadora de elefante luta para salvar espécie ameaçada de extino na Malásia",
+      "sourceName": "O Globo Mundo",
+      "sourceUrl": "https://oglobo.globo.com/mundo/",
+      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
+      "sourceEditorial": "Jornal diário (Grupo Globo) - Conteúdo sob assinatura",
+      "country": "Brasil",
+      "paywall": true,
+      "originalUrl": "https://oglobo.globo.com/mundo/clima-e-ciencia/noticia/2026/09/21/encantadora-de-elefantes-luta-para-salvar-especie-ameacada-de-extincao-na-malasia.ghtml",
+      "publishedAtStr": "2026-09-21T05:00:00Z",
+      "publishedAtTs": 1789966800000,
+      "rawContent": "Encantadora de elefante luta para salvar espécie ameaçada de extino na Malásia",
+      "linkStatus": "active",
+      "lastChecked": 1789997627281
+    },
+    {
+      "id": "gdelt-47bcusu",
+      "title": "PIB do Irã cai 10 , 1 % em meio à guerra no Oriente Médio",
+      "sourceName": "O Globo Mundo",
+      "sourceUrl": "https://oglobo.globo.com/mundo/",
+      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
+      "sourceEditorial": "Jornal diário (Grupo Globo) - Conteúdo sob assinatura",
+      "country": "Brasil",
+      "paywall": true,
+      "originalUrl": "https://oglobo.globo.com/mundo/noticia/2026/09/20/pib-do-ira-cai-101percent-em-meio-a-guerra-no-oriente-medio.ghtml",
+      "publishedAtStr": "2026-09-21T05:00:00Z",
+      "publishedAtTs": 1789966800000,
+      "rawContent": "PIB do Irã cai 10 , 1 % em meio à guerra no Oriente Médio",
+      "linkStatus": "active",
+      "lastChecked": 1789997627281
+    },
+    {
+      "id": "gdelt-ya5bxnu",
+      "title": "Partido de extrema - esquerda vence eleio em Berlim",
+      "sourceName": "G1 Mundo",
+      "sourceUrl": "https://g1.globo.com/mundo/",
+      "sourceType": "Imprensa Comercial Brasileira",
+      "sourceEditorial": "Portal de notícias mainstream do Grupo Globo",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://g1.globo.com/mundo/noticia/2026/09/20/partido-de-extrema-esquerda-na-alemanha-vence-eleicoes-em-berlim.ghtml",
+      "publishedAtStr": "2026-09-20T22:15:00Z",
+      "publishedAtTs": 1789942500000,
+      "rawContent": "Partido de extrema - esquerda vence eleio em Berlim",
+      "linkStatus": "active",
+      "lastChecked": 1789997627281
+    },
+    {
+      "id": "gdelt-ulbmvn0",
+      "title": "Agente do ICE atira em homem após colisão no Texas",
+      "sourceName": "G1 Mundo",
+      "sourceUrl": "https://g1.globo.com/mundo/",
+      "sourceType": "Imprensa Comercial Brasileira",
+      "sourceEditorial": "Portal de notícias mainstream do Grupo Globo",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://g1.globo.com/mundo/noticia/2026/09/20/agente-do-ice-atira-e-fere-homem-no-texas.ghtml",
+      "publishedAtStr": "2026-09-20T22:15:00Z",
+      "publishedAtTs": 1789942500000,
+      "rawContent": "Agente do ICE atira em homem após colisão no Texas",
+      "linkStatus": "active",
+      "lastChecked": 1789997627281
+    },
+    {
+      "id": "gdelt-q7sz3kb",
+      "title": "Multilateralismo na ONU : Brasil e aliados lançam manifesto P4M",
+      "sourceName": "G1 Mundo",
+      "sourceUrl": "https://g1.globo.com/mundo/",
+      "sourceType": "Imprensa Comercial Brasileira",
+      "sourceEditorial": "Portal de notícias mainstream do Grupo Globo",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://g1.globo.com/mundo/noticia/2026/09/20/brasil-ue-canada-e-quenia-criam-alianca-global-pelo-multilateralismo-as-vesperas-de-assembleia-geral-da-onu.ghtml",
+      "publishedAtStr": "2026-09-20T22:15:00Z",
+      "publishedAtTs": 1789942500000,
+      "rawContent": "Multilateralismo na ONU : Brasil e aliados lançam manifesto P4M",
+      "linkStatus": "active",
+      "lastChecked": 1789997627281
+    },
+    {
+      "id": "gdelt-k1lbylz",
       "title": "ONU : Lula defende multilateralismo e reforma do Conselho de Segurança",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -42,7 +282,7 @@
       "lastChecked": 1789995992635
     },
     {
-      "id": "gdelt-vqj7v03",
+      "id": "gdelt-shhhhw8",
       "title": "Novo avanço da AfD em eleições regionais alemãs abala governo , mas chanceler rejeita renunciar",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -58,7 +298,7 @@
       "lastChecked": 1789995992635
     },
     {
-      "id": "gdelt-z2uewtf",
+      "id": "gdelt-rqbcd6w",
       "title": "Trump ameaça  explodir o Irã inteiro :  É melhor se comportarem",
       "sourceName": "Veja Mundo",
       "sourceUrl": "https://veja.abril.com.br/mundo/",
@@ -74,7 +314,23 @@
       "lastChecked": 1789995992635
     },
     {
-      "id": "gdelt-quclgyd",
+      "id": "gdelt-4j2j0mi",
+      "title": "Babá de 19 anos é acusado de matar bebê de 11 meses e esconder corpo dentro de sofá nos EUA",
+      "sourceName": "O Globo Mundo",
+      "sourceUrl": "https://oglobo.globo.com/mundo/",
+      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
+      "sourceEditorial": "Jornal diário (Grupo Globo) - Conteúdo sob assinatura",
+      "country": "Brasil",
+      "paywall": true,
+      "originalUrl": "https://oglobo.globo.com/mundo/epoca/noticia/2026/09/20/baba-de-19-anos-e-acusado-de-matar-bebe-de-11-meses-e-esconder-corpo-dentro-de-sofa-nos-eua.ghtml",
+      "publishedAtStr": "2026-09-20T19:15:00Z",
+      "publishedAtTs": 1789931700000,
+      "rawContent": "Babá de 19 anos é acusado de matar bebê de 11 meses e esconder corpo dentro de sofá nos EUA",
+      "linkStatus": "active",
+      "lastChecked": 1789997627281
+    },
+    {
+      "id": "gdelt-gc4xlcp",
       "title": "TSE suspende campanha de Deltan ao Senado pelo Paraná",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -90,7 +346,7 @@
       "lastChecked": 1789995992635
     },
     {
-      "id": "gdelt-7vve1k4",
+      "id": "gdelt-4jqeg3l",
       "title": "Trump diz que transformará projeto de  Arco do Triunfo dos EUA  em complexo militar",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -106,7 +362,7 @@
       "lastChecked": 1789995992635
     },
     {
-      "id": "gdelt-vz7dmmc",
+      "id": "gdelt-f6bwfpt",
       "title": "Da  química  à lei Magnitsky : a relação entre Brasil e EUA após alerta sobre eleições",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -122,7 +378,7 @@
       "lastChecked": 1789995992635
     },
     {
-      "id": "gdelt-bz4a38k",
+      "id": "gdelt-fr6kpov",
       "title": "Rússia denuncia  potente  ciberataque ao seu sistema eleitoral",
       "sourceName": "Veja Mundo",
       "sourceUrl": "https://veja.abril.com.br/mundo/",
@@ -138,7 +394,7 @@
       "lastChecked": 1789995992635
     },
     {
-      "id": "gdelt-bzfd7fq",
+      "id": "gdelt-4i5wopy",
       "title": "Alemães vão às urnas em eleio decisiva para futuro político de Merz",
       "sourceName": "Veja Mundo",
       "sourceUrl": "https://veja.abril.com.br/mundo/",
@@ -154,7 +410,7 @@
       "lastChecked": 1789995992635
     },
     {
-      "id": "gdelt-tiisvsd",
+      "id": "gdelt-6myzt7w",
       "title": "Em crise de popularidade , Trump detalha  Arco do Triunfo  e diz que monumento terá funções militares",
       "sourceName": "Veja Mundo",
       "sourceUrl": "https://veja.abril.com.br/mundo/",
@@ -170,7 +426,7 @@
       "lastChecked": 1789995992635
     },
     {
-      "id": "gdelt-bx6nppx",
+      "id": "gdelt-p7v0slm",
       "title": "Abin alerta governo e TSE sobre risco de interferência  crítica  dos EUA nas eleições",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -186,7 +442,7 @@
       "lastChecked": 1789995992635
     },
     {
-      "id": "gdelt-onxzyso",
+      "id": "gdelt-sahj0n5",
       "title": "Irã impõe condio aos EUA para reabertura do Estreito de Ormuz",
       "sourceName": "Veja Mundo",
       "sourceUrl": "https://veja.abril.com.br/mundo/",
@@ -202,7 +458,7 @@
       "lastChecked": 1789995992635
     },
     {
-      "id": "gdelt-aqm29lo",
+      "id": "gdelt-ymak92p",
       "title": "Trump diz estar decidindo quando e como explodirá Irã",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -218,7 +474,87 @@
       "lastChecked": 1789995992635
     },
     {
-      "id": "gdelt-wudyc5x",
+      "id": "gdelt-uchb65g",
+      "title": "Merz promete reformas após eleies estaduais",
+      "sourceName": "DW Brasil",
+      "sourceUrl": "https://www.dw.com/pt-br/",
+      "sourceType": "Imprensa Internacional / Pública",
+      "sourceEditorial": "Emissora pública da Alemanha; foco em diplomacia e direitos humanos",
+      "country": "Alemanha",
+      "paywall": false,
+      "originalUrl": "https://www.dw.com/pt-br/merz-promete-reformas-em-pronunciamento-ap%C3%B3s-elei%C3%A7%C3%B5es-estaduais/a-79347683",
+      "publishedAtStr": "2026-09-20T17:45:00Z",
+      "publishedAtTs": 1789926300000,
+      "rawContent": "Merz promete reformas após eleies estaduais",
+      "linkStatus": "active",
+      "lastChecked": 1789997627281
+    },
+    {
+      "id": "gdelt-zjqlu88",
+      "title": "TSE suspende campanha de Deltan Dallagnol",
+      "sourceName": "DW Brasil",
+      "sourceUrl": "https://www.dw.com/pt-br/",
+      "sourceType": "Imprensa Internacional / Pública",
+      "sourceEditorial": "Emissora pública da Alemanha; foco em diplomacia e direitos humanos",
+      "country": "Alemanha",
+      "paywall": false,
+      "originalUrl": "https://www.dw.com/pt-br/tse-suspende-campanha-de-deltan-dallagnol/live-78393402",
+      "publishedAtStr": "2026-09-20T17:45:00Z",
+      "publishedAtTs": 1789926300000,
+      "rawContent": "TSE suspende campanha de Deltan Dallagnol",
+      "linkStatus": "active",
+      "lastChecked": 1789997627281
+    },
+    {
+      "id": "gdelt-sv87nda",
+      "title": "Surto de ebola teria começado meses antes de anúncio oficial",
+      "sourceName": "DW Brasil",
+      "sourceUrl": "https://www.dw.com/pt-br/",
+      "sourceType": "Imprensa Internacional / Pública",
+      "sourceEditorial": "Emissora pública da Alemanha; foco em diplomacia e direitos humanos",
+      "country": "Alemanha",
+      "paywall": false,
+      "originalUrl": "https://www.dw.com/pt-br/surto-de-ebola-teria-come%C3%A7ado-meses-antes-de-an%C3%BAncio-oficial/a-79346662",
+      "publishedAtStr": "2026-09-20T17:45:00Z",
+      "publishedAtTs": 1789926300000,
+      "rawContent": "Surto de ebola teria começado meses antes de anúncio oficial",
+      "linkStatus": "active",
+      "lastChecked": 1789997627281
+    },
+    {
+      "id": "gdelt-or4kaba",
+      "title": "Extrema direita lidera em mais um estado na Alemanha , diz boca de urna",
+      "sourceName": "G1 Mundo",
+      "sourceUrl": "https://g1.globo.com/mundo/",
+      "sourceType": "Imprensa Comercial Brasileira",
+      "sourceEditorial": "Portal de notícias mainstream do Grupo Globo",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://g1.globo.com/mundo/noticia/2026/09/20/extrema-direita-lidera-em-mais-um-estado-alemanha-diz-boca-de-urna.ghtml",
+      "publishedAtStr": "2026-09-20T17:30:00Z",
+      "publishedAtTs": 1789925400000,
+      "rawContent": "Extrema direita lidera em mais um estado na Alemanha , diz boca de urna",
+      "linkStatus": "active",
+      "lastChecked": 1789997627281
+    },
+    {
+      "id": "gdelt-shgiooz",
+      "title": "Estudantes de Gaza voltam às escolas danificadas pela guerra no início do ano letivo",
+      "sourceName": "G1 Mundo",
+      "sourceUrl": "https://g1.globo.com/mundo/",
+      "sourceType": "Imprensa Comercial Brasileira",
+      "sourceEditorial": "Portal de notícias mainstream do Grupo Globo",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://g1.globo.com/mundo/noticia/2026/09/20/estudantes-de-gaza-voltam-as-escolas-danificadas-pela-guerra-no-inicio-do-ano-letivo.ghtml",
+      "publishedAtStr": "2026-09-20T17:30:00Z",
+      "publishedAtTs": 1789925400000,
+      "rawContent": "Estudantes de Gaza voltam às escolas danificadas pela guerra no início do ano letivo",
+      "linkStatus": "active",
+      "lastChecked": 1789997627281
+    },
+    {
+      "id": "gdelt-nrv5cy9",
       "title": "Pesquisa identifica oito planetas candidatos a ter vida extraterrestre",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -234,7 +570,7 @@
       "lastChecked": 1789995992635
     },
     {
-      "id": "gdelt-9s24znp",
+      "id": "gdelt-u5oivmd",
       "title": "Quem move o empreendedorismo da venda direta ? – CartaCapital",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -250,7 +586,7 @@
       "lastChecked": 1789995992635
     },
     {
-      "id": "gdelt-iwj96ul",
+      "id": "gdelt-bg5pp7b",
       "title": "Aposentado ou pensionista que votar não precisará fazer Prova de Vida",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -266,7 +602,7 @@
       "lastChecked": 1789995992635
     },
     {
-      "id": "gdelt-d1z6wjg",
+      "id": "gdelt-w55bihj",
       "title": "Do clássico a versões diferentes : 3 receitas de brownie para a sobremesa de domingo – CartaCapital",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -282,7 +618,23 @@
       "lastChecked": 1789995992635
     },
     {
-      "id": "gdelt-yl4go4c",
+      "id": "gdelt-ykjvpjc",
+      "title": "Coreia do Norte lança dois mísseis balísticos ao mar",
+      "sourceName": "DW Brasil",
+      "sourceUrl": "https://www.dw.com/pt-br/",
+      "sourceType": "Imprensa Internacional / Pública",
+      "sourceEditorial": "Emissora pública da Alemanha; foco em diplomacia e direitos humanos",
+      "country": "Alemanha",
+      "paywall": false,
+      "originalUrl": "https://www.dw.com/pt-br/coreia-do-norte-lan%C3%A7a-dois-m%C3%ADsseis-bal%C3%ADsticos-ao-mar/a-79346569",
+      "publishedAtStr": "2026-09-20T15:45:00Z",
+      "publishedAtTs": 1789919100000,
+      "rawContent": "Coreia do Norte lança dois mísseis balísticos ao mar",
+      "linkStatus": "active",
+      "lastChecked": 1789997627281
+    },
+    {
+      "id": "gdelt-53jreum",
       "title": "Eleições regionais na Alemanha neste domingo podem abalar governo de Merz ; entenda cenário",
       "sourceName": "Estadão Internacional",
       "sourceUrl": "https://www.estadao.com.br/internacional/",
@@ -298,7 +650,7 @@
       "lastChecked": 1789995992635
     },
     {
-      "id": "gdelt-ybtx4eg",
+      "id": "gdelt-uzsuf5c",
       "title": "Como Trump arruinou o Kennedy Center , instituio bipartidária de cinco décadas",
       "sourceName": "Estadão Internacional",
       "sourceUrl": "https://www.estadao.com.br/internacional/",
@@ -314,7 +666,23 @@
       "lastChecked": 1789995992635
     },
     {
-      "id": "gdelt-egwtifd",
+      "id": "gdelt-2osyc3n",
+      "title": "Itália prepara proibio de burcas e niqabs em escolas e limite de estrangeiros por turma",
+      "sourceName": "G1 Mundo",
+      "sourceUrl": "https://g1.globo.com/mundo/",
+      "sourceType": "Imprensa Comercial Brasileira",
+      "sourceEditorial": "Portal de notícias mainstream do Grupo Globo",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://g1.globo.com/mundo/noticia/2026/09/20/italia-prepara-proibicao-de-veus-islamicos-em-escolas-e-limite-para-estrangeiros-por-turma.ghtml",
+      "publishedAtStr": "2026-09-20T14:30:00Z",
+      "publishedAtTs": 1789914600000,
+      "rawContent": "Itália prepara proibio de burcas e niqabs em escolas e limite de estrangeiros por turma",
+      "linkStatus": "active",
+      "lastChecked": 1789997627281
+    },
+    {
+      "id": "gdelt-dtdxkcd",
       "title": "Brasileiro fala de dívidas e sonhos ; mercado insiste em vender produtos",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -330,7 +698,7 @@
       "lastChecked": 1789995992635
     },
     {
-      "id": "gdelt-e24f7ab",
+      "id": "gdelt-bs6r166",
       "title": "Se a IA facilita criar software , por que Microsoft e SAP continuam tão fortes ?",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -346,7 +714,7 @@
       "lastChecked": 1789995992635
     },
     {
-      "id": "gdelt-m3oj6t3",
+      "id": "gdelt-qjkm3ix",
       "title": "O gelato que quer ser bilionário : a receita da Borelli para crescer sem virar sorvete",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -362,7 +730,7 @@
       "lastChecked": 1789995992635
     },
     {
-      "id": "gdelt-lp8s8tm",
+      "id": "gdelt-k7zolmx",
       "title": "Golpes chegam ao sistema de pontos e milhas ; saiba como evitar a fraude",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -378,7 +746,7 @@
       "lastChecked": 1789995992635
     },
     {
-      "id": "gdelt-ems5p6l",
+      "id": "gdelt-93xfmsm",
       "title": "Ucrânia faz grande ataque contra a Rússia com uso inédito de mísseis balísticos",
       "sourceName": "Veja Mundo",
       "sourceUrl": "https://veja.abril.com.br/mundo/",
@@ -394,7 +762,7 @@
       "lastChecked": 1789995992635
     },
     {
-      "id": "gdelt-ll5wabi",
+      "id": "gdelt-a1hzpyh",
       "title": "Como Trump e Xi Jinping podem usar encontro nos EUA para evoluir em IA",
       "sourceName": "Estadão Internacional",
       "sourceUrl": "https://www.estadao.com.br/internacional/",
@@ -410,7 +778,7 @@
       "lastChecked": 1789995992635
     },
     {
-      "id": "gdelt-oz9qxty",
+      "id": "gdelt-o72u0j0",
       "title": "Coreia do Norte dispara 2º projétil no Mar do Leste",
       "sourceName": "Estadão Internacional",
       "sourceUrl": "https://www.estadao.com.br/internacional/",
