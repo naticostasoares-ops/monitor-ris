@@ -1,48 +1,16 @@
 {
-  "updatedAt": "2026-09-21T11:15:40.395Z",
-  "periodUsed": "24h",
-  "count": 49,
+  "updatedAt": "2026-09-21T11:39:43.942Z",
+  "periodUsed": "7d",
+  "count": 28,
   "linkVerificationStats": {
-    "checkedThisRun": 27,
-    "active": 27,
+    "checkedThisRun": 2,
+    "active": 2,
     "broken": 0,
     "unknown": 0
   },
   "articles": [
     {
-      "id": "gdelt-t5rr8l0",
-      "title": "Do voto feminino à habitao popular : quem foi Carmen Portinho , pioneira do feminismo no Brasil",
-      "sourceName": "BBC News Brasil",
-      "sourceUrl": "https://www.bbc.com/portuguese",
-      "sourceType": "Imprensa Internacional / Pública",
-      "sourceEditorial": "Emissora pública do Reino Unido; jornalismo global independente",
-      "country": "Reino Unido",
-      "paywall": false,
-      "originalUrl": "https://www.bbc.com/portuguese/articles/ckg3ydpz23ro",
-      "publishedAtStr": "2026-09-21T10:30:00Z",
-      "publishedAtTs": 1789986600000,
-      "rawContent": "Do voto feminino à habitao popular : quem foi Carmen Portinho , pioneira do feminismo no Brasil",
-      "linkStatus": "active",
-      "lastChecked": 1789989325377
-    },
-    {
-      "id": "gdelt-vuvr4q9",
-      "title": "Trilheiro de 19 anos morre após raio atingir abrigo metálico em topo de montanha nos EUA ; nove ficaram feridos",
-      "sourceName": "O Globo Mundo",
-      "sourceUrl": "https://oglobo.globo.com/mundo/",
-      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
-      "sourceEditorial": "Jornal diário (Grupo Globo) - Conteúdo sob assinatura",
-      "country": "Brasil",
-      "paywall": true,
-      "originalUrl": "https://oglobo.globo.com/mundo/noticia/2026/09/21/trilheiro-de-19-anos-morre-apos-raio-atingir-abrigo-metalico-em-topo-de-montanha-nos-eua-nove-ficaram-feridos.ghtml",
-      "publishedAtStr": "2026-09-21T09:30:00Z",
-      "publishedAtTs": 1789983000000,
-      "rawContent": "Trilheiro de 19 anos morre após raio atingir abrigo metálico em topo de montanha nos EUA ; nove ficaram feridos",
-      "linkStatus": "active",
-      "lastChecked": 1789987167628
-    },
-    {
-      "id": "gdelt-zcbthkj",
+      "id": "gdelt-9frise8",
       "title": "Avanço dos houthis no Iêmen encarece o petróleo e pressiona Trump antes das eleições",
       "sourceName": "Estadão Internacional",
       "sourceUrl": "https://www.estadao.com.br/internacional/",
@@ -58,119 +26,7 @@
       "lastChecked": 1789989325377
     },
     {
-      "id": "gdelt-n85cbu8",
-      "title": "Paquistão volta a atacar o Afeganistão em nova escalada do conflito",
-      "sourceName": "G1 Mundo",
-      "sourceUrl": "https://g1.globo.com/mundo/",
-      "sourceType": "Imprensa Comercial Brasileira",
-      "sourceEditorial": "Portal de notícias mainstream do Grupo Globo",
-      "country": "Brasil",
-      "paywall": false,
-      "originalUrl": "https://g1.globo.com/mundo/noticia/2026/09/21/paquistao-volta-a-atacar-o-afeganistao-em-nova-escalada-do-conflito.ghtml",
-      "publishedAtStr": "2026-09-21T06:15:00Z",
-      "publishedAtTs": 1789971300000,
-      "rawContent": "Paquistão volta a atacar o Afeganistão em nova escalada do conflito",
-      "linkStatus": "active",
-      "lastChecked": 1789987167628
-    },
-    {
-      "id": "gdelt-b991l33",
-      "title": "Partido de Putin desponta como vencedor em eleições russas marcadas por ataque ucraniano",
-      "sourceName": "O Globo Mundo",
-      "sourceUrl": "https://oglobo.globo.com/mundo/",
-      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
-      "sourceEditorial": "Jornal diário (Grupo Globo) - Conteúdo sob assinatura",
-      "country": "Brasil",
-      "paywall": true,
-      "originalUrl": "https://oglobo.globo.com/mundo/noticia/2026/09/20/partido-de-putin-desponta-como-vencedor-em-eleicoes-russas-marcadas-por-ataque-ucraniano.ghtml",
-      "publishedAtStr": "2026-09-21T05:00:00Z",
-      "publishedAtTs": 1789966800000,
-      "rawContent": "Partido de Putin desponta como vencedor em eleições russas marcadas por ataque ucraniano",
-      "linkStatus": "active",
-      "lastChecked": 1789987167628
-    },
-    {
-      "id": "gdelt-4ggb4e4",
-      "title": "Encantadora de elefante luta para salvar espécie ameaçada de extino na Malásia",
-      "sourceName": "O Globo Mundo",
-      "sourceUrl": "https://oglobo.globo.com/mundo/",
-      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
-      "sourceEditorial": "Jornal diário (Grupo Globo) - Conteúdo sob assinatura",
-      "country": "Brasil",
-      "paywall": true,
-      "originalUrl": "https://oglobo.globo.com/mundo/clima-e-ciencia/noticia/2026/09/21/encantadora-de-elefantes-luta-para-salvar-especie-ameacada-de-extincao-na-malasia.ghtml",
-      "publishedAtStr": "2026-09-21T05:00:00Z",
-      "publishedAtTs": 1789966800000,
-      "rawContent": "Encantadora de elefante luta para salvar espécie ameaçada de extino na Malásia",
-      "linkStatus": "active",
-      "lastChecked": 1789987167628
-    },
-    {
-      "id": "gdelt-oxfs0d8",
-      "title": "PIB do Irã cai 10 , 1 % em meio à guerra no Oriente Médio",
-      "sourceName": "O Globo Mundo",
-      "sourceUrl": "https://oglobo.globo.com/mundo/",
-      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
-      "sourceEditorial": "Jornal diário (Grupo Globo) - Conteúdo sob assinatura",
-      "country": "Brasil",
-      "paywall": true,
-      "originalUrl": "https://oglobo.globo.com/mundo/noticia/2026/09/20/pib-do-ira-cai-101percent-em-meio-a-guerra-no-oriente-medio.ghtml",
-      "publishedAtStr": "2026-09-21T05:00:00Z",
-      "publishedAtTs": 1789966800000,
-      "rawContent": "PIB do Irã cai 10 , 1 % em meio à guerra no Oriente Médio",
-      "linkStatus": "active",
-      "lastChecked": 1789987167628
-    },
-    {
-      "id": "gdelt-0x8awlt",
-      "title": "Partido de extrema - esquerda vence eleio em Berlim",
-      "sourceName": "G1 Mundo",
-      "sourceUrl": "https://g1.globo.com/mundo/",
-      "sourceType": "Imprensa Comercial Brasileira",
-      "sourceEditorial": "Portal de notícias mainstream do Grupo Globo",
-      "country": "Brasil",
-      "paywall": false,
-      "originalUrl": "https://g1.globo.com/mundo/noticia/2026/09/20/partido-de-extrema-esquerda-na-alemanha-vence-eleicoes-em-berlim.ghtml",
-      "publishedAtStr": "2026-09-20T22:15:00Z",
-      "publishedAtTs": 1789942500000,
-      "rawContent": "Partido de extrema - esquerda vence eleio em Berlim",
-      "linkStatus": "active",
-      "lastChecked": 1789987167628
-    },
-    {
-      "id": "gdelt-bctmroh",
-      "title": "Agente do ICE atira em homem após colisão no Texas",
-      "sourceName": "G1 Mundo",
-      "sourceUrl": "https://g1.globo.com/mundo/",
-      "sourceType": "Imprensa Comercial Brasileira",
-      "sourceEditorial": "Portal de notícias mainstream do Grupo Globo",
-      "country": "Brasil",
-      "paywall": false,
-      "originalUrl": "https://g1.globo.com/mundo/noticia/2026/09/20/agente-do-ice-atira-e-fere-homem-no-texas.ghtml",
-      "publishedAtStr": "2026-09-20T22:15:00Z",
-      "publishedAtTs": 1789942500000,
-      "rawContent": "Agente do ICE atira em homem após colisão no Texas",
-      "linkStatus": "active",
-      "lastChecked": 1789987167628
-    },
-    {
-      "id": "gdelt-myxljk4",
-      "title": "Multilateralismo na ONU : Brasil e aliados lançam manifesto P4M",
-      "sourceName": "G1 Mundo",
-      "sourceUrl": "https://g1.globo.com/mundo/",
-      "sourceType": "Imprensa Comercial Brasileira",
-      "sourceEditorial": "Portal de notícias mainstream do Grupo Globo",
-      "country": "Brasil",
-      "paywall": false,
-      "originalUrl": "https://g1.globo.com/mundo/noticia/2026/09/20/brasil-ue-canada-e-quenia-criam-alianca-global-pelo-multilateralismo-as-vesperas-de-assembleia-geral-da-onu.ghtml",
-      "publishedAtStr": "2026-09-20T22:15:00Z",
-      "publishedAtTs": 1789942500000,
-      "rawContent": "Multilateralismo na ONU : Brasil e aliados lançam manifesto P4M",
-      "linkStatus": "active",
-      "lastChecked": 1789987167628
-    },
-    {
-      "id": "gdelt-w0v9hm3",
+      "id": "gdelt-yks67g0",
       "title": "ONU : Lula defende multilateralismo e reforma do Conselho de Segurança",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -186,7 +42,7 @@
       "lastChecked": 1789989325377
     },
     {
-      "id": "gdelt-4eg5m53",
+      "id": "gdelt-91g33vh",
       "title": "Novo avanço da AfD em eleições regionais alemãs abala governo , mas chanceler rejeita renunciar",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -202,7 +58,7 @@
       "lastChecked": 1789989325377
     },
     {
-      "id": "gdelt-8eeulmf",
+      "id": "gdelt-4el7cii",
       "title": "Trump ameaça  explodir o Irã inteiro :  É melhor se comportarem",
       "sourceName": "Veja Mundo",
       "sourceUrl": "https://veja.abril.com.br/mundo/",
@@ -218,23 +74,7 @@
       "lastChecked": 1789989325377
     },
     {
-      "id": "gdelt-0woxs2w",
-      "title": "Babá de 19 anos é acusado de matar bebê de 11 meses e esconder corpo dentro de sofá nos EUA",
-      "sourceName": "O Globo Mundo",
-      "sourceUrl": "https://oglobo.globo.com/mundo/",
-      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
-      "sourceEditorial": "Jornal diário (Grupo Globo) - Conteúdo sob assinatura",
-      "country": "Brasil",
-      "paywall": true,
-      "originalUrl": "https://oglobo.globo.com/mundo/epoca/noticia/2026/09/20/baba-de-19-anos-e-acusado-de-matar-bebe-de-11-meses-e-esconder-corpo-dentro-de-sofa-nos-eua.ghtml",
-      "publishedAtStr": "2026-09-20T19:15:00Z",
-      "publishedAtTs": 1789931700000,
-      "rawContent": "Babá de 19 anos é acusado de matar bebê de 11 meses e esconder corpo dentro de sofá nos EUA",
-      "linkStatus": "active",
-      "lastChecked": 1789987167628
-    },
-    {
-      "id": "gdelt-b0f1c6k",
+      "id": "gdelt-dp3n117",
       "title": "TSE suspende campanha de Deltan ao Senado pelo Paraná",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -250,7 +90,7 @@
       "lastChecked": 1789989325377
     },
     {
-      "id": "gdelt-ax7csvb",
+      "id": "gdelt-norzp2q",
       "title": "Trump diz que transformará projeto de  Arco do Triunfo dos EUA  em complexo militar",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -266,7 +106,7 @@
       "lastChecked": 1789989325377
     },
     {
-      "id": "gdelt-3wxx1db",
+      "id": "gdelt-nlet3fh",
       "title": "Da  química  à lei Magnitsky : a relação entre Brasil e EUA após alerta sobre eleições",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -282,7 +122,7 @@
       "lastChecked": 1789989325377
     },
     {
-      "id": "gdelt-vefgoru",
+      "id": "gdelt-tcdewjq",
       "title": "Rússia denuncia  potente  ciberataque ao seu sistema eleitoral",
       "sourceName": "Veja Mundo",
       "sourceUrl": "https://veja.abril.com.br/mundo/",
@@ -298,7 +138,7 @@
       "lastChecked": 1789989325377
     },
     {
-      "id": "gdelt-omouzgh",
+      "id": "gdelt-5g06yxu",
       "title": "Alemães vão às urnas em eleio decisiva para futuro político de Merz",
       "sourceName": "Veja Mundo",
       "sourceUrl": "https://veja.abril.com.br/mundo/",
@@ -314,7 +154,7 @@
       "lastChecked": 1789989325377
     },
     {
-      "id": "gdelt-6fm98i1",
+      "id": "gdelt-d12tzyq",
       "title": "Em crise de popularidade , Trump detalha  Arco do Triunfo  e diz que monumento terá funções militares",
       "sourceName": "Veja Mundo",
       "sourceUrl": "https://veja.abril.com.br/mundo/",
@@ -330,7 +170,7 @@
       "lastChecked": 1789989325377
     },
     {
-      "id": "gdelt-v31w0xc",
+      "id": "gdelt-hzsn3t6",
       "title": "Abin alerta governo e TSE sobre risco de interferência  crítica  dos EUA nas eleições",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -346,7 +186,7 @@
       "lastChecked": 1789989325377
     },
     {
-      "id": "gdelt-6kacrfm",
+      "id": "gdelt-uctz7rh",
       "title": "Irã impõe condio aos EUA para reabertura do Estreito de Ormuz",
       "sourceName": "Veja Mundo",
       "sourceUrl": "https://veja.abril.com.br/mundo/",
@@ -362,7 +202,7 @@
       "lastChecked": 1789989325377
     },
     {
-      "id": "gdelt-qqno7cz",
+      "id": "gdelt-z0v3pcg",
       "title": "Trump diz estar decidindo quando e como explodirá Irã",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -378,87 +218,7 @@
       "lastChecked": 1789989325377
     },
     {
-      "id": "gdelt-83hw0f9",
-      "title": "Merz promete reformas após eleies estaduais",
-      "sourceName": "DW Brasil",
-      "sourceUrl": "https://www.dw.com/pt-br/",
-      "sourceType": "Imprensa Internacional / Pública",
-      "sourceEditorial": "Emissora pública da Alemanha; foco em diplomacia e direitos humanos",
-      "country": "Alemanha",
-      "paywall": false,
-      "originalUrl": "https://www.dw.com/pt-br/merz-promete-reformas-em-pronunciamento-ap%C3%B3s-elei%C3%A7%C3%B5es-estaduais/a-79347683",
-      "publishedAtStr": "2026-09-20T17:45:00Z",
-      "publishedAtTs": 1789926300000,
-      "rawContent": "Merz promete reformas após eleies estaduais",
-      "linkStatus": "active",
-      "lastChecked": 1789987167628
-    },
-    {
-      "id": "gdelt-tzw2w2j",
-      "title": "TSE suspende campanha de Deltan Dallagnol",
-      "sourceName": "DW Brasil",
-      "sourceUrl": "https://www.dw.com/pt-br/",
-      "sourceType": "Imprensa Internacional / Pública",
-      "sourceEditorial": "Emissora pública da Alemanha; foco em diplomacia e direitos humanos",
-      "country": "Alemanha",
-      "paywall": false,
-      "originalUrl": "https://www.dw.com/pt-br/tse-suspende-campanha-de-deltan-dallagnol/live-78393402",
-      "publishedAtStr": "2026-09-20T17:45:00Z",
-      "publishedAtTs": 1789926300000,
-      "rawContent": "TSE suspende campanha de Deltan Dallagnol",
-      "linkStatus": "active",
-      "lastChecked": 1789987167628
-    },
-    {
-      "id": "gdelt-p85ly9p",
-      "title": "Surto de ebola teria começado meses antes de anúncio oficial",
-      "sourceName": "DW Brasil",
-      "sourceUrl": "https://www.dw.com/pt-br/",
-      "sourceType": "Imprensa Internacional / Pública",
-      "sourceEditorial": "Emissora pública da Alemanha; foco em diplomacia e direitos humanos",
-      "country": "Alemanha",
-      "paywall": false,
-      "originalUrl": "https://www.dw.com/pt-br/surto-de-ebola-teria-come%C3%A7ado-meses-antes-de-an%C3%BAncio-oficial/a-79346662",
-      "publishedAtStr": "2026-09-20T17:45:00Z",
-      "publishedAtTs": 1789926300000,
-      "rawContent": "Surto de ebola teria começado meses antes de anúncio oficial",
-      "linkStatus": "active",
-      "lastChecked": 1789987167628
-    },
-    {
-      "id": "gdelt-n77s0ek",
-      "title": "Extrema direita lidera em mais um estado na Alemanha , diz boca de urna",
-      "sourceName": "G1 Mundo",
-      "sourceUrl": "https://g1.globo.com/mundo/",
-      "sourceType": "Imprensa Comercial Brasileira",
-      "sourceEditorial": "Portal de notícias mainstream do Grupo Globo",
-      "country": "Brasil",
-      "paywall": false,
-      "originalUrl": "https://g1.globo.com/mundo/noticia/2026/09/20/extrema-direita-lidera-em-mais-um-estado-alemanha-diz-boca-de-urna.ghtml",
-      "publishedAtStr": "2026-09-20T17:30:00Z",
-      "publishedAtTs": 1789925400000,
-      "rawContent": "Extrema direita lidera em mais um estado na Alemanha , diz boca de urna",
-      "linkStatus": "active",
-      "lastChecked": 1789987167628
-    },
-    {
-      "id": "gdelt-lqfwmlh",
-      "title": "Estudantes de Gaza voltam às escolas danificadas pela guerra no início do ano letivo",
-      "sourceName": "G1 Mundo",
-      "sourceUrl": "https://g1.globo.com/mundo/",
-      "sourceType": "Imprensa Comercial Brasileira",
-      "sourceEditorial": "Portal de notícias mainstream do Grupo Globo",
-      "country": "Brasil",
-      "paywall": false,
-      "originalUrl": "https://g1.globo.com/mundo/noticia/2026/09/20/estudantes-de-gaza-voltam-as-escolas-danificadas-pela-guerra-no-inicio-do-ano-letivo.ghtml",
-      "publishedAtStr": "2026-09-20T17:30:00Z",
-      "publishedAtTs": 1789925400000,
-      "rawContent": "Estudantes de Gaza voltam às escolas danificadas pela guerra no início do ano letivo",
-      "linkStatus": "active",
-      "lastChecked": 1789987167628
-    },
-    {
-      "id": "gdelt-gpqics8",
+      "id": "gdelt-aze3mpm",
       "title": "Pesquisa identifica oito planetas candidatos a ter vida extraterrestre",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -474,7 +234,7 @@
       "lastChecked": 1789989325377
     },
     {
-      "id": "gdelt-hebwgr0",
+      "id": "gdelt-s0s4uon",
       "title": "Quem move o empreendedorismo da venda direta ? – CartaCapital",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -490,7 +250,7 @@
       "lastChecked": 1789989325377
     },
     {
-      "id": "gdelt-51dnd35",
+      "id": "gdelt-v8wodln",
       "title": "Aposentado ou pensionista que votar não precisará fazer Prova de Vida",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -506,7 +266,7 @@
       "lastChecked": 1789989325377
     },
     {
-      "id": "gdelt-eclekib",
+      "id": "gdelt-7j2buw4",
       "title": "Do clássico a versões diferentes : 3 receitas de brownie para a sobremesa de domingo – CartaCapital",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -522,23 +282,7 @@
       "lastChecked": 1789989325377
     },
     {
-      "id": "gdelt-l0854pp",
-      "title": "Coreia do Norte lança dois mísseis balísticos ao mar",
-      "sourceName": "DW Brasil",
-      "sourceUrl": "https://www.dw.com/pt-br/",
-      "sourceType": "Imprensa Internacional / Pública",
-      "sourceEditorial": "Emissora pública da Alemanha; foco em diplomacia e direitos humanos",
-      "country": "Alemanha",
-      "paywall": false,
-      "originalUrl": "https://www.dw.com/pt-br/coreia-do-norte-lan%C3%A7a-dois-m%C3%ADsseis-bal%C3%ADsticos-ao-mar/a-79346569",
-      "publishedAtStr": "2026-09-20T15:45:00Z",
-      "publishedAtTs": 1789919100000,
-      "rawContent": "Coreia do Norte lança dois mísseis balísticos ao mar",
-      "linkStatus": "active",
-      "lastChecked": 1789987167628
-    },
-    {
-      "id": "gdelt-kgp7mdp",
+      "id": "gdelt-9vyaubi",
       "title": "Eleições regionais na Alemanha neste domingo podem abalar governo de Merz ; entenda cenário",
       "sourceName": "Estadão Internacional",
       "sourceUrl": "https://www.estadao.com.br/internacional/",
@@ -554,7 +298,7 @@
       "lastChecked": 1789989325377
     },
     {
-      "id": "gdelt-7p2s5uu",
+      "id": "gdelt-td58dxa",
       "title": "Como Trump arruinou o Kennedy Center , instituio bipartidária de cinco décadas",
       "sourceName": "Estadão Internacional",
       "sourceUrl": "https://www.estadao.com.br/internacional/",
@@ -570,55 +314,7 @@
       "lastChecked": 1789989325377
     },
     {
-      "id": "gdelt-v5b0eq8",
-      "title": "Itália prepara proibio de burcas e niqabs em escolas e limite de estrangeiros por turma",
-      "sourceName": "G1 Mundo",
-      "sourceUrl": "https://g1.globo.com/mundo/",
-      "sourceType": "Imprensa Comercial Brasileira",
-      "sourceEditorial": "Portal de notícias mainstream do Grupo Globo",
-      "country": "Brasil",
-      "paywall": false,
-      "originalUrl": "https://g1.globo.com/mundo/noticia/2026/09/20/italia-prepara-proibicao-de-veus-islamicos-em-escolas-e-limite-para-estrangeiros-por-turma.ghtml",
-      "publishedAtStr": "2026-09-20T14:30:00Z",
-      "publishedAtTs": 1789914600000,
-      "rawContent": "Itália prepara proibio de burcas e niqabs em escolas e limite de estrangeiros por turma",
-      "linkStatus": "active",
-      "lastChecked": 1789987167628
-    },
-    {
-      "id": "gdelt-e9e29u2",
-      "title": "Susy Aponte : quem era a jornalista e candidata a governadora assassinada a tiros durante ato de campanha no Peru",
-      "sourceName": "O Globo Mundo",
-      "sourceUrl": "https://oglobo.globo.com/mundo/",
-      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
-      "sourceEditorial": "Jornal diário (Grupo Globo) - Conteúdo sob assinatura",
-      "country": "Brasil",
-      "paywall": true,
-      "originalUrl": "https://oglobo.globo.com/mundo/noticia/2026/09/20/susy-aponte-quem-era-a-jornalista-e-candidata-a-governadora-assassinada-a-tiros-durante-ato-de-campanha-no-peru.ghtml",
-      "publishedAtStr": "2026-09-20T14:15:00Z",
-      "publishedAtTs": 1789913700000,
-      "rawContent": "Susy Aponte : quem era a jornalista e candidata a governadora assassinada a tiros durante ato de campanha no Peru",
-      "linkStatus": "active",
-      "lastChecked": 1789987167628
-    },
-    {
-      "id": "gdelt-ujilvcq",
-      "title": "Mulher corre 3 km descalça para conseguir prêmio de R$ 160 e ajudar nos estudos das filhas na Índia , e história viraliza",
-      "sourceName": "O Globo Mundo",
-      "sourceUrl": "https://oglobo.globo.com/mundo/",
-      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
-      "sourceEditorial": "Jornal diário (Grupo Globo) - Conteúdo sob assinatura",
-      "country": "Brasil",
-      "paywall": true,
-      "originalUrl": "https://oglobo.globo.com/mundo/epoca/noticia/2026/09/20/mulher-corre-3-km-descalca-para-conseguir-premio-de-r-160-e-ajudar-nos-estudos-das-filhas-na-india-e-historia-viraliza.ghtml",
-      "publishedAtStr": "2026-09-20T14:15:00Z",
-      "publishedAtTs": 1789913700000,
-      "rawContent": "Mulher corre 3 km descalça para conseguir prêmio de R$ 160 e ajudar nos estudos das filhas na Índia , e história viraliza",
-      "linkStatus": "active",
-      "lastChecked": 1789987167628
-    },
-    {
-      "id": "gdelt-eoftzwq",
+      "id": "gdelt-x36eh5w",
       "title": "Brasileiro fala de dívidas e sonhos ; mercado insiste em vender produtos",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -634,7 +330,7 @@
       "lastChecked": 1789989325377
     },
     {
-      "id": "gdelt-2l1p2i5",
+      "id": "gdelt-ij6u703",
       "title": "Se a IA facilita criar software , por que Microsoft e SAP continuam tão fortes ?",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -650,7 +346,7 @@
       "lastChecked": 1789989325377
     },
     {
-      "id": "gdelt-vzsycf2",
+      "id": "gdelt-ym3b66t",
       "title": "O gelato que quer ser bilionário : a receita da Borelli para crescer sem virar sorvete",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -666,7 +362,7 @@
       "lastChecked": 1789989325377
     },
     {
-      "id": "gdelt-2hww05n",
+      "id": "gdelt-8s2iv8g",
       "title": "Golpes chegam ao sistema de pontos e milhas ; saiba como evitar a fraude",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -682,7 +378,7 @@
       "lastChecked": 1789989325377
     },
     {
-      "id": "gdelt-iju4hgb",
+      "id": "gdelt-ewo2sgx",
       "title": "Ucrânia faz grande ataque contra a Rússia com uso inédito de mísseis balísticos",
       "sourceName": "Veja Mundo",
       "sourceUrl": "https://veja.abril.com.br/mundo/",
@@ -698,7 +394,7 @@
       "lastChecked": 1789989325377
     },
     {
-      "id": "gdelt-4diud7c",
+      "id": "gdelt-9wr7w7g",
       "title": "Como Trump e Xi Jinping podem usar encontro nos EUA para evoluir em IA",
       "sourceName": "Estadão Internacional",
       "sourceUrl": "https://www.estadao.com.br/internacional/",
@@ -714,7 +410,7 @@
       "lastChecked": 1789989325377
     },
     {
-      "id": "gdelt-vzm8g9l",
+      "id": "gdelt-13bf3se",
       "title": "Coreia do Norte dispara 2º projétil no Mar do Leste",
       "sourceName": "Estadão Internacional",
       "sourceUrl": "https://www.estadao.com.br/internacional/",
@@ -730,68 +426,36 @@
       "lastChecked": 1789989325377
     },
     {
-      "id": "gdelt-9fbmzxf",
-      "title": "Macron visita ilhas francesas no Atlântico após Trump publicar mapa com território sob bandeira dos EUA",
-      "sourceName": "G1 Mundo",
-      "sourceUrl": "https://g1.globo.com/mundo/",
-      "sourceType": "Imprensa Comercial Brasileira",
-      "sourceEditorial": "Portal de notícias mainstream do Grupo Globo",
+      "id": "gdelt-vptgcpr",
+      "title": "Deputada federal denuncia ataque com explosivo durante campanha no ES",
+      "sourceName": "CartaCapital",
+      "sourceUrl": "https://www.cartacapital.com.br/",
+      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
+      "sourceEditorial": "Jornalismo progressista - Conteúdo sob assinatura parcial",
       "country": "Brasil",
-      "paywall": false,
-      "originalUrl": "https://g1.globo.com/mundo/noticia/2026/09/20/macron-visita-ilhas-francesas-no-atlantico-apos-trump-publicar-mapa-com-territorio-sob-bandeira-dos-eua.ghtml",
-      "publishedAtStr": "2026-09-20T13:15:00Z",
-      "publishedAtTs": 1789910100000,
-      "rawContent": "Macron visita ilhas francesas no Atlântico após Trump publicar mapa com território sob bandeira dos EUA",
+      "paywall": true,
+      "originalUrl": "https://www.cartacapital.com.br/cartaexpressa/deputada-federal-denuncia-ataque-com-explosivo-durante-campanha-no-es/",
+      "publishedAtStr": "2026-09-20T03:00:00Z",
+      "publishedAtTs": 1789873200000,
+      "rawContent": "Deputada federal denuncia ataque com explosivo durante campanha no ES",
       "linkStatus": "active",
-      "lastChecked": 1789987167628
+      "lastChecked": 1789990782928
     },
     {
-      "id": "gdelt-m0fi4g7",
-      "title": "Como um casamento real na Alemanha deu origem à Oktoberfest",
-      "sourceName": "G1 Mundo",
-      "sourceUrl": "https://g1.globo.com/mundo/",
-      "sourceType": "Imprensa Comercial Brasileira",
-      "sourceEditorial": "Portal de notícias mainstream do Grupo Globo",
+      "id": "gdelt-2l02qfx",
+      "title": "Terras raras , rota naval e gelo derretendo : por que Trump quer a Groenlândia a qualquer custo",
+      "sourceName": "Estadão Internacional",
+      "sourceUrl": "https://www.estadao.com.br/internacional/",
+      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
+      "sourceEditorial": "Jornal tradicional de geopolítica - Conteúdo sob assinatura",
       "country": "Brasil",
-      "paywall": false,
-      "originalUrl": "https://g1.globo.com/mundo/noticia/2026/09/20/como-um-casamento-real-na-alemanha-deu-origem-a-maior-festa-da-cerveja-do-mundo-e-como-ela-chegou-a-america-latina.ghtml",
-      "publishedAtStr": "2026-09-20T12:15:00Z",
-      "publishedAtTs": 1789906500000,
-      "rawContent": "Como um casamento real na Alemanha deu origem à Oktoberfest",
+      "paywall": true,
+      "originalUrl": "https://www.estadao.com.br/internacional/terras-raras-rota-naval-e-gelo-derretendo-por-que-trump-quer-a-groenlandia-a-qualquer-custo/",
+      "publishedAtStr": "2026-09-20T00:15:00Z",
+      "publishedAtTs": 1789863300000,
+      "rawContent": "Terras raras , rota naval e gelo derretendo : por que Trump quer a Groenlândia a qualquer custo",
       "linkStatus": "active",
-      "lastChecked": 1789987167628
-    },
-    {
-      "id": "gdelt-3p7a9d8",
-      "title": "A guerra pode se espalhar pela Europa . Você está psicologicamente preparado ?",
-      "sourceName": "G1 Mundo",
-      "sourceUrl": "https://g1.globo.com/mundo/",
-      "sourceType": "Imprensa Comercial Brasileira",
-      "sourceEditorial": "Portal de notícias mainstream do Grupo Globo",
-      "country": "Brasil",
-      "paywall": false,
-      "originalUrl": "https://g1.globo.com/mundo/noticia/2026/09/20/a-guerra-pode-se-espalhar-pela-europa-voce-esta-psicologicamente-preparado.ghtml",
-      "publishedAtStr": "2026-09-20T12:15:00Z",
-      "publishedAtTs": 1789906500000,
-      "rawContent": "A guerra pode se espalhar pela Europa . Você está psicologicamente preparado ?",
-      "linkStatus": "active",
-      "lastChecked": 1789987167628
-    },
-    {
-      "id": "gdelt-kslg9dd",
-      "title": "Irã faz alerta aos EUA contra retomada de bombardeios",
-      "sourceName": "G1 Mundo",
-      "sourceUrl": "https://g1.globo.com/mundo/",
-      "sourceType": "Imprensa Comercial Brasileira",
-      "sourceEditorial": "Portal de notícias mainstream do Grupo Globo",
-      "country": "Brasil",
-      "paywall": false,
-      "originalUrl": "https://g1.globo.com/mundo/noticia/2026/09/20/ira-ameaca-retaliar-bases-eua-paises-oriente-medio-caso-volte-a-ser-atacado.ghtml",
-      "publishedAtStr": "2026-09-20T12:15:00Z",
-      "publishedAtTs": 1789906500000,
-      "rawContent": "Irã faz alerta aos EUA contra retomada de bombardeios",
-      "linkStatus": "active",
-      "lastChecked": 1789987167628
+      "lastChecked": 1789990782928
     }
   ]
 }
