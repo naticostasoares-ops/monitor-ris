@@ -1,16 +1,80 @@
 {
-  "updatedAt": "2026-09-21T22:29:41.738Z",
-  "periodUsed": "3M",
-  "count": 14,
+  "updatedAt": "2026-09-21T22:44:09.284Z",
+  "periodUsed": "24h",
+  "count": 15,
   "linkVerificationStats": {
-    "checkedThisRun": 0,
-    "active": 0,
+    "checkedThisRun": 4,
+    "active": 4,
     "broken": 0,
     "unknown": 0
   },
   "articles": [
     {
-      "id": "gdelt-y43335q",
+      "id": "gdelt-jmxb1t8",
+      "title": "Lula encontra prefeito de Nova York antes de discurso na ONU",
+      "sourceName": "DW Brasil",
+      "sourceUrl": "https://www.dw.com/pt-br/",
+      "sourceType": "Imprensa Internacional / Pública",
+      "sourceEditorial": "Emissora pública da Alemanha; foco em diplomacia e direitos humanos",
+      "country": "Alemanha",
+      "paywall": false,
+      "originalUrl": "https://www.dw.com/pt-br/lula-encontra-prefeito-de-nova-york-antes-de-discurso-na-onu/a-79364466",
+      "publishedAtStr": "2026-09-21T22:15:00Z",
+      "publishedAtTs": 1790028900000,
+      "rawContent": "Lula encontra prefeito de Nova York antes de discurso na ONU",
+      "linkStatus": "active",
+      "lastChecked": 1790030646135
+    },
+    {
+      "id": "gdelt-d08r1b5",
+      "title": "Trump minimiza boicote de redes de TV :  Olhe toda essa imprensa aqui",
+      "sourceName": "G1 Mundo",
+      "sourceUrl": "https://g1.globo.com/mundo/",
+      "sourceType": "Imprensa Comercial Brasileira",
+      "sourceEditorial": "Portal de notícias mainstream do Grupo Globo",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://g1.globo.com/mundo/noticia/2026/09/21/trump-minimiza-boicote-de-redes-de-tv-nos-eua-olhe-toda-essa-imprensa-aqui.ghtml",
+      "publishedAtStr": "2026-09-21T22:15:00Z",
+      "publishedAtTs": 1790028900000,
+      "rawContent": "Trump minimiza boicote de redes de TV :  Olhe toda essa imprensa aqui",
+      "linkStatus": "active",
+      "lastChecked": 1790030646135
+    },
+    {
+      "id": "gdelt-u8i03be",
+      "title": "Médico é 1º acusado no Reino Unido por genocídio em Ruanda",
+      "sourceName": "DW Brasil",
+      "sourceUrl": "https://www.dw.com/pt-br/",
+      "sourceType": "Imprensa Internacional / Pública",
+      "sourceEditorial": "Emissora pública da Alemanha; foco em diplomacia e direitos humanos",
+      "country": "Alemanha",
+      "paywall": false,
+      "originalUrl": "https://www.dw.com/pt-br/m%C3%A9dico-%C3%A9-1%C2%BA-acusado-no-reino-unido-por-genoc%C3%ADdio-em-ruanda/a-79364559",
+      "publishedAtStr": "2026-09-21T22:15:00Z",
+      "publishedAtTs": 1790028900000,
+      "rawContent": "Médico é 1º acusado no Reino Unido por genocídio em Ruanda",
+      "linkStatus": "active",
+      "lastChecked": 1790030646135
+    },
+    {
+      "id": "gdelt-r48afxn",
+      "title": "Política toma sites de fofoca , que podem influenciar voto",
+      "sourceName": "DW Brasil",
+      "sourceUrl": "https://www.dw.com/pt-br/",
+      "sourceType": "Imprensa Internacional / Pública",
+      "sourceEditorial": "Emissora pública da Alemanha; foco em diplomacia e direitos humanos",
+      "country": "Alemanha",
+      "paywall": false,
+      "originalUrl": "https://www.dw.com/pt-br/pol%C3%ADtica-chega-a-sites-de-fofoca-que-furam-bolha-e-podem-influenciar-voto/a-79362703",
+      "publishedAtStr": "2026-09-21T22:15:00Z",
+      "publishedAtTs": 1790028900000,
+      "rawContent": "Política toma sites de fofoca , que podem influenciar voto",
+      "linkStatus": "active",
+      "lastChecked": 1790030646135
+    },
+    {
+      "id": "gdelt-anfjqu6",
       "title": "Dia 21 de Setembro marca tradio de se dar flores amarelas na América Latina para chegada da primavera ; entenda",
       "sourceName": "O Globo Mundo",
       "sourceUrl": "https://oglobo.globo.com/mundo/",
@@ -26,7 +90,7 @@
       "lastChecked": 1790026639605
     },
     {
-      "id": "gdelt-86ig7o7",
+      "id": "gdelt-el5e7m2",
       "title": "A próxima coisa que veremos é ao militar direta dos EUA em diferentes paíse , diz jornalista americano especializado em América Latina",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -42,7 +106,7 @@
       "lastChecked": 1790026639605
     },
     {
-      "id": "gdelt-6lymteq",
+      "id": "gdelt-msombt1",
       "title": "A próxima coisa que veremos é ao militar direta dos EUA em diferentes paíse , diz jornalista americano especializado em América Latina",
       "sourceName": "BBC News Brasil",
       "sourceUrl": "https://www.bbc.com/portuguese",
@@ -58,7 +122,7 @@
       "lastChecked": 1790026639605
     },
     {
-      "id": "gdelt-66p0d9a",
+      "id": "gdelt-64ybk5f",
       "title": "A lacuna socioambiental do petróleo na Margem Equatorial",
       "sourceName": "DW Brasil",
       "sourceUrl": "https://www.dw.com/pt-br/",
@@ -74,7 +138,7 @@
       "lastChecked": 1790026639605
     },
     {
-      "id": "gdelt-xva38wk",
+      "id": "gdelt-txdzx7z",
       "title": "TVs dos EUA suspendem cobertura após Trump vetar jornalistas",
       "sourceName": "DW Brasil",
       "sourceUrl": "https://www.dw.com/pt-br/",
@@ -90,7 +154,7 @@
       "lastChecked": 1790026639605
     },
     {
-      "id": "gdelt-nc0ad1w",
+      "id": "gdelt-q6v8gxt",
       "title": "Brasil e UE integram iniciativa em prol do multilateralismo",
       "sourceName": "DW Brasil",
       "sourceUrl": "https://www.dw.com/pt-br/",
@@ -106,7 +170,7 @@
       "lastChecked": 1790026639605
     },
     {
-      "id": "gdelt-8cxy6lc",
+      "id": "gdelt-yphy59u",
       "title": "Trump publica nova enquete para redefinir nome da inteligência artificial",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -122,7 +186,7 @@
       "lastChecked": 1790026639605
     },
     {
-      "id": "gdelt-33qdfgg",
+      "id": "gdelt-ynokpvr",
       "title": "Principais emissoras de TV dos EUA suspendem cobertura conjunta de Trump em apoio à rede CNN",
       "sourceName": "O Globo Mundo",
       "sourceUrl": "https://oglobo.globo.com/mundo/",
@@ -138,7 +202,7 @@
       "lastChecked": 1790026639605
     },
     {
-      "id": "gdelt-a0qls9v",
+      "id": "gdelt-7gpo86x",
       "title": "Do voto feminino à habitao popular : quem foi Carmen Portinho , pioneira do feminismo no Brasil",
       "sourceName": "BBC News Brasil",
       "sourceUrl": "https://www.bbc.com/portuguese",
@@ -154,7 +218,7 @@
       "lastChecked": 1790026639605
     },
     {
-      "id": "gdelt-n13o40b",
+      "id": "gdelt-qlgkg19",
       "title": "Trilheiro de 19 anos morre após raio atingir abrigo metálico em topo de montanha nos EUA ; nove ficaram feridos",
       "sourceName": "O Globo Mundo",
       "sourceUrl": "https://oglobo.globo.com/mundo/",
@@ -170,7 +234,7 @@
       "lastChecked": 1790026639605
     },
     {
-      "id": "gdelt-qf789s7",
+      "id": "gdelt-i3xd5ae",
       "title": "Paquistão volta a atacar o Afeganistão em nova escalada do conflito",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -182,54 +246,6 @@
       "publishedAtStr": "2026-09-21T06:15:00Z",
       "publishedAtTs": 1789971300000,
       "rawContent": "Paquistão volta a atacar o Afeganistão em nova escalada do conflito",
-      "linkStatus": "active",
-      "lastChecked": 1790026639605
-    },
-    {
-      "id": "gdelt-078v0f4",
-      "title": "Partido de Putin desponta como vencedor em eleições russas marcadas por ataque ucraniano",
-      "sourceName": "O Globo Mundo",
-      "sourceUrl": "https://oglobo.globo.com/mundo/",
-      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
-      "sourceEditorial": "Jornal diário (Grupo Globo) - Conteúdo sob assinatura",
-      "country": "Brasil",
-      "paywall": true,
-      "originalUrl": "https://oglobo.globo.com/mundo/noticia/2026/09/20/partido-de-putin-desponta-como-vencedor-em-eleicoes-russas-marcadas-por-ataque-ucraniano.ghtml",
-      "publishedAtStr": "2026-09-21T05:00:00Z",
-      "publishedAtTs": 1789966800000,
-      "rawContent": "Partido de Putin desponta como vencedor em eleições russas marcadas por ataque ucraniano",
-      "linkStatus": "active",
-      "lastChecked": 1790026639605
-    },
-    {
-      "id": "gdelt-w2mofgd",
-      "title": "Encantadora de elefante luta para salvar espécie ameaçada de extino na Malásia",
-      "sourceName": "O Globo Mundo",
-      "sourceUrl": "https://oglobo.globo.com/mundo/",
-      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
-      "sourceEditorial": "Jornal diário (Grupo Globo) - Conteúdo sob assinatura",
-      "country": "Brasil",
-      "paywall": true,
-      "originalUrl": "https://oglobo.globo.com/mundo/clima-e-ciencia/noticia/2026/09/21/encantadora-de-elefantes-luta-para-salvar-especie-ameacada-de-extincao-na-malasia.ghtml",
-      "publishedAtStr": "2026-09-21T05:00:00Z",
-      "publishedAtTs": 1789966800000,
-      "rawContent": "Encantadora de elefante luta para salvar espécie ameaçada de extino na Malásia",
-      "linkStatus": "active",
-      "lastChecked": 1790026639605
-    },
-    {
-      "id": "gdelt-m0xoy9z",
-      "title": "PIB do Irã cai 10 , 1 % em meio à guerra no Oriente Médio",
-      "sourceName": "O Globo Mundo",
-      "sourceUrl": "https://oglobo.globo.com/mundo/",
-      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
-      "sourceEditorial": "Jornal diário (Grupo Globo) - Conteúdo sob assinatura",
-      "country": "Brasil",
-      "paywall": true,
-      "originalUrl": "https://oglobo.globo.com/mundo/noticia/2026/09/20/pib-do-ira-cai-101percent-em-meio-a-guerra-no-oriente-medio.ghtml",
-      "publishedAtStr": "2026-09-21T05:00:00Z",
-      "publishedAtTs": 1789966800000,
-      "rawContent": "PIB do Irã cai 10 , 1 % em meio à guerra no Oriente Médio",
       "linkStatus": "active",
       "lastChecked": 1790026639605
     }
