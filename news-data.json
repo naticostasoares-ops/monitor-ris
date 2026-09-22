@@ -1,16 +1,32 @@
 {
-  "updatedAt": "2026-09-22T20:16:24.144Z",
+  "updatedAt": "2026-09-22T20:30:37.411Z",
   "periodUsed": "24h",
-  "count": 37,
+  "count": 50,
   "linkVerificationStats": {
-    "checkedThisRun": 37,
-    "active": 37,
+    "checkedThisRun": 14,
+    "active": 14,
     "broken": 0,
     "unknown": 0
   },
   "articles": [
     {
-      "id": "gdelt-miqply5",
+      "id": "gdelt-mh6yhys",
+      "title": "Peter Thiel , o bilionário que conecta Trump , anticristo e IA",
+      "sourceName": "DW Brasil",
+      "sourceUrl": "https://www.dw.com/pt-br/",
+      "sourceType": "Imprensa Internacional / Pública",
+      "sourceEditorial": "Emissora pública da Alemanha; foco em diplomacia e direitos humanos",
+      "country": "Alemanha",
+      "paywall": false,
+      "originalUrl": "https://www.dw.com/pt-br/peter-thiel-o-bilion%C3%A1rio-que-conecta-trump-anticristo-e-ia/a-79378649",
+      "publishedAtStr": "2026-09-22T19:30:00Z",
+      "publishedAtTs": 1790105400000,
+      "rawContent": "Peter Thiel , o bilionário que conecta Trump , anticristo e IA",
+      "linkStatus": "active",
+      "lastChecked": 1790109024151
+    },
+    {
+      "id": "gdelt-2v2lnh2",
       "title": "Anthropic apresenta Claude Opus 5 . 5",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -26,7 +42,7 @@
       "lastChecked": 1790108171263
     },
     {
-      "id": "gdelt-7qvnaop",
+      "id": "gdelt-i36mh1i",
       "title": "Fux é sorteado relator de ao sobre visitas de esposa de Moraes ao Senado",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -42,7 +58,7 @@
       "lastChecked": 1790108171263
     },
     {
-      "id": "gdelt-5dgujam",
+      "id": "gdelt-uz6djjj",
       "title": "Zambelli pede salvo - conduto ao STF para voltar ao Brasil e votar na mãe para deputada",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -58,7 +74,7 @@
       "lastChecked": 1790108171263
     },
     {
-      "id": "gdelt-vwq6x1x",
+      "id": "gdelt-8kanpxc",
       "title": "Simpar ( SIMH3 ): Vitória do leilão de rodovias fortalece portfólio da CS Infra",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -74,7 +90,7 @@
       "lastChecked": 1790108171263
     },
     {
-      "id": "gdelt-zawrkpn",
+      "id": "gdelt-9rvq30n",
       "title": "O caso Mascavo : disputa entre Mari Saad e Black Rocket revela riscos societários",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -90,7 +106,7 @@
       "lastChecked": 1790108171263
     },
     {
-      "id": "gdelt-fbp4bnn",
+      "id": "gdelt-6jbkfzc",
       "title": "Trump divulga 1 . 156 transações com ativos , incluindo aes de Microsoft e Amazon",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -106,7 +122,23 @@
       "lastChecked": 1790108171263
     },
     {
-      "id": "gdelt-avhx8fq",
+      "id": "gdelt-q4zehj9",
+      "title": "Papa Leão XIV fará visita privada a capela no Peru , em cidade onde era conhecido como padre Roberto",
+      "sourceName": "O Globo Mundo",
+      "sourceUrl": "https://oglobo.globo.com/mundo/",
+      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
+      "sourceEditorial": "Jornal diário (Grupo Globo) - Conteúdo sob assinatura",
+      "country": "Brasil",
+      "paywall": true,
+      "originalUrl": "https://oglobo.globo.com/mundo/noticia/2026/09/22/papa-leao-xiv-fara-visita-privada-a-capela-no-peru-em-cidade-onde-era-conhecido-como-padre-roberto.ghtml",
+      "publishedAtStr": "2026-09-22T18:45:00Z",
+      "publishedAtTs": 1790102700000,
+      "rawContent": "Papa Leão XIV fará visita privada a capela no Peru , em cidade onde era conhecido como padre Roberto",
+      "linkStatus": "active",
+      "lastChecked": 1790109024151
+    },
+    {
+      "id": "gdelt-2szei5b",
       "title": "Quem é o influenciador brasileiro detido pelo ICE nos EUA",
       "sourceName": "Veja Mundo",
       "sourceUrl": "https://veja.abril.com.br/mundo/",
@@ -122,7 +154,7 @@
       "lastChecked": 1790108171263
     },
     {
-      "id": "gdelt-qhv8thi",
+      "id": "gdelt-a3vddkd",
       "title": "Leia a íntegra do discurso do presidente Lula na Abertura da 81ª Assembleia das Nações Unidas",
       "sourceName": "Veja Mundo",
       "sourceUrl": "https://veja.abril.com.br/mundo/",
@@ -138,7 +170,23 @@
       "lastChecked": 1790108171263
     },
     {
-      "id": "gdelt-klvyil3",
+      "id": "gdelt-l3by9zy",
+      "title": "Em discurso na ONU , Lula diz que  Brasil não cabe no quintal de ninguém",
+      "sourceName": "BBC News Brasil",
+      "sourceUrl": "https://www.bbc.com/portuguese",
+      "sourceType": "Imprensa Internacional / Pública",
+      "sourceEditorial": "Emissora pública do Reino Unido; jornalismo global independente",
+      "country": "Reino Unido",
+      "paywall": false,
+      "originalUrl": "https://www.bbc.com/portuguese/articles/cmkgw425e8w9o",
+      "publishedAtStr": "2026-09-22T18:15:00Z",
+      "publishedAtTs": 1790100900000,
+      "rawContent": "Em discurso na ONU , Lula diz que  Brasil não cabe no quintal de ninguém",
+      "linkStatus": "active",
+      "lastChecked": 1790109024151
+    },
+    {
+      "id": "gdelt-zyo7sky",
       "title": "Lula united states discurso na ONU pra fazer campanha e critica Trump",
       "sourceName": "Estadão Internacional",
       "sourceUrl": "https://www.estadao.com.br/internacional/",
@@ -154,7 +202,55 @@
       "lastChecked": 1790108171263
     },
     {
-      "id": "gdelt-3mnzubd",
+      "id": "gdelt-6ylyqw9",
+      "title": "Trump assina acordo de segurança com Groenlândia",
+      "sourceName": "G1 Mundo",
+      "sourceUrl": "https://g1.globo.com/mundo/",
+      "sourceType": "Imprensa Comercial Brasileira",
+      "sourceEditorial": "Portal de notícias mainstream do Grupo Globo",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://g1.globo.com/mundo/noticia/2026/09/22/eua-dinamarca-e-groenlandia-assinam-acordo-de-seguranca.ghtml",
+      "publishedAtStr": "2026-09-22T16:00:00Z",
+      "publishedAtTs": 1790092800000,
+      "rawContent": "Trump assina acordo de segurança com Groenlândia",
+      "linkStatus": "active",
+      "lastChecked": 1790109024151
+    },
+    {
+      "id": "gdelt-f12gnms",
+      "title": "ONU vive momento crítico , diz Lula ao citar indignação com guerras",
+      "sourceName": "Agência Brasil",
+      "sourceUrl": "https://agenciabrasil.ebc.com.br/internacional",
+      "sourceType": "Agência Estatal",
+      "sourceEditorial": "Agência pública de notícias da EBC (Governo Federal)",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-09/onu-vive-momento-critico-diz-lula-ao-citar-indignacao-com-guerras",
+      "publishedAtStr": "2026-09-22T16:00:00Z",
+      "publishedAtTs": 1790092800000,
+      "rawContent": "ONU vive momento crítico , diz Lula ao citar indignação com guerras",
+      "linkStatus": "active",
+      "lastChecked": 1790109024151
+    },
+    {
+      "id": "gdelt-1i06056",
+      "title": "VÍDEO : Rubio se aproxima de Lula no plenário da Assembleia Geral da ONU",
+      "sourceName": "G1 Mundo",
+      "sourceUrl": "https://g1.globo.com/mundo/",
+      "sourceType": "Imprensa Comercial Brasileira",
+      "sourceEditorial": "Portal de notícias mainstream do Grupo Globo",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://g1.globo.com/mundo/noticia/2026/09/22/rubio-vai-ate-a-lula-em-plenario-da-assembleia-geral-da-onu.ghtml",
+      "publishedAtStr": "2026-09-22T16:00:00Z",
+      "publishedAtTs": 1790092800000,
+      "rawContent": "VÍDEO : Rubio se aproxima de Lula no plenário da Assembleia Geral da ONU",
+      "linkStatus": "active",
+      "lastChecked": 1790109024151
+    },
+    {
+      "id": "gdelt-mjx4mj1",
       "title": "Lula amplia guerra digital contra Flávio Bolsonaro e tenta virar jogo das redes",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -170,7 +266,7 @@
       "lastChecked": 1790108171263
     },
     {
-      "id": "gdelt-8e0l7cj",
+      "id": "gdelt-y24fe7i",
       "title": "Morre Zuenir Ventura , jornalista e imortal da ABL , aos 95 anos",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -186,7 +282,7 @@
       "lastChecked": 1790108171263
     },
     {
-      "id": "gdelt-erqppyy",
+      "id": "gdelt-ykmdmo1",
       "title": "A disputa pelo Senado em Sergipe , segundo nova pesquisa",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -202,7 +298,7 @@
       "lastChecked": 1790108171263
     },
     {
-      "id": "gdelt-mdx1e5w",
+      "id": "gdelt-gn4e8qf",
       "title": "As acusações chocantes no livro do irmão da princesa Diana",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -218,7 +314,7 @@
       "lastChecked": 1790108171263
     },
     {
-      "id": "gdelt-zfws8qp",
+      "id": "gdelt-2e4kepg",
       "title": "Desaprovação a Trump nos EUA sobe para 68 %, aponta nova pesquisa",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -234,7 +330,7 @@
       "lastChecked": 1790108171263
     },
     {
-      "id": "gdelt-ecl9ip1",
+      "id": "gdelt-i8ou2z4",
       "title": "O Brasil não cabe no quintal de ninguém , afirma Lula na ONU – CartaCapital",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -250,7 +346,7 @@
       "lastChecked": 1790108171263
     },
     {
-      "id": "gdelt-9gmoa0d",
+      "id": "gdelt-6ip20e6",
       "title": "Mendonça rebate Moraes e pede arquivamento de investigação",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -266,7 +362,71 @@
       "lastChecked": 1790108171263
     },
     {
-      "id": "gdelt-7q6c8ec",
+      "id": "gdelt-jz1j142",
+      "title": "O Brasil não cabe no quintal de ninguém , diz Lula na ONU",
+      "sourceName": "Agência Brasil",
+      "sourceUrl": "https://agenciabrasil.ebc.com.br/internacional",
+      "sourceType": "Agência Estatal",
+      "sourceEditorial": "Agência pública de notícias da EBC (Governo Federal)",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-09/o-brasil-nao-cabe-no-quintal-de-ninguem-diz-lula-na-onu",
+      "publishedAtStr": "2026-09-22T15:45:00Z",
+      "publishedAtTs": 1790091900000,
+      "rawContent": "O Brasil não cabe no quintal de ninguém , diz Lula na ONU",
+      "linkStatus": "active",
+      "lastChecked": 1790109024151
+    },
+    {
+      "id": "gdelt-yjnnks1",
+      "title": "Delegação dos EUA não aplaude discurso de Lula na ONU",
+      "sourceName": "G1 Mundo",
+      "sourceUrl": "https://g1.globo.com/mundo/",
+      "sourceType": "Imprensa Comercial Brasileira",
+      "sourceEditorial": "Portal de notícias mainstream do Grupo Globo",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://g1.globo.com/mundo/noticia/2026/09/22/delegacao-dos-eua-nao-aplaude-discurso-de-lula-na-onu.ghtml",
+      "publishedAtStr": "2026-09-22T15:30:00Z",
+      "publishedAtTs": 1790091000000,
+      "rawContent": "Delegação dos EUA não aplaude discurso de Lula na ONU",
+      "linkStatus": "active",
+      "lastChecked": 1790109024151
+    },
+    {
+      "id": "gdelt-vkyogau",
+      "title": "Trump anuncia na ONU que vai trocar o nome de Inteligência Artificial para  Super Inteligência",
+      "sourceName": "G1 Mundo",
+      "sourceUrl": "https://g1.globo.com/mundo/",
+      "sourceType": "Imprensa Comercial Brasileira",
+      "sourceEditorial": "Portal de notícias mainstream do Grupo Globo",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://g1.globo.com/mundo/noticia/2026/09/22/trump-anuncia-na-onu-que-vai-trocar-o-nome-de-inteligencia-artificial-para-super-inteligencia.ghtml",
+      "publishedAtStr": "2026-09-22T15:30:00Z",
+      "publishedAtTs": 1790091000000,
+      "rawContent": "Trump anuncia na ONU que vai trocar o nome de Inteligência Artificial para  Super Inteligência",
+      "linkStatus": "active",
+      "lastChecked": 1790109024151
+    },
+    {
+      "id": "gdelt-hrwpgfe",
+      "title": "Secretário - geral da ONU alerta para avanço de guerras e riscos da IA",
+      "sourceName": "Agência Brasil",
+      "sourceUrl": "https://agenciabrasil.ebc.com.br/internacional",
+      "sourceType": "Agência Estatal",
+      "sourceEditorial": "Agência pública de notícias da EBC (Governo Federal)",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-09/secretario-geral-da-onu-alerta-para-avanco-de-guerras-e-riscos-da-ia",
+      "publishedAtStr": "2026-09-22T14:45:00Z",
+      "publishedAtTs": 1790088300000,
+      "rawContent": "Secretário - geral da ONU alerta para avanço de guerras e riscos da IA",
+      "linkStatus": "active",
+      "lastChecked": 1790109024151
+    },
+    {
+      "id": "gdelt-pz2vnfy",
       "title": "Zelensky se reunirá com Trump para buscar trégua no setor energético com a Rússia",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -282,7 +442,7 @@
       "lastChecked": 1790108171263
     },
     {
-      "id": "gdelt-6trri6a",
+      "id": "gdelt-eyebdzl",
       "title": "Como estava Lula x Bolsonaro a duas semanas das urnas em 2022 ? Veja a diferença",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -298,7 +458,7 @@
       "lastChecked": 1790108171263
     },
     {
-      "id": "gdelt-cnqcmmo",
+      "id": "gdelt-m60scpq",
       "title": "6 em cada 10 professores dizem que pressão política limita autonomia para lecionar",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -314,7 +474,7 @@
       "lastChecked": 1790108171263
     },
     {
-      "id": "gdelt-6wsqjp1",
+      "id": "gdelt-97ofd6z",
       "title": "A disputa pelo Senado em São Paulo , segundo o Paraná Pesquisas",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -330,7 +490,7 @@
       "lastChecked": 1790108171263
     },
     {
-      "id": "gdelt-x3elm0r",
+      "id": "gdelt-fkzlybv",
       "title": "A disputa entre Tarcísio e Haddad em SP , segundo o Paraná Pesquisas",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -346,7 +506,71 @@
       "lastChecked": 1790108171263
     },
     {
-      "id": "gdelt-nbegvl4",
+      "id": "gdelt-f9ghcif",
+      "title": "Presidente sul - coreano propõe alívio de sanções contra Coreia do Norte em troca de congelamento de programa nuclear",
+      "sourceName": "O Globo Mundo",
+      "sourceUrl": "https://oglobo.globo.com/mundo/",
+      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
+      "sourceEditorial": "Jornal diário (Grupo Globo) - Conteúdo sob assinatura",
+      "country": "Brasil",
+      "paywall": true,
+      "originalUrl": "https://oglobo.globo.com/mundo/noticia/2026/09/22/presidente-sul-coreano-propoe-alivio-de-sancoes-contra-coreia-do-norte-em-troca-de-congelamento-de-programa-nuclear.ghtml",
+      "publishedAtStr": "2026-09-22T04:30:00Z",
+      "publishedAtTs": 1790051400000,
+      "rawContent": "Presidente sul - coreano propõe alívio de sanções contra Coreia do Norte em troca de congelamento de programa nuclear",
+      "linkStatus": "active",
+      "lastChecked": 1790109024151
+    },
+    {
+      "id": "gdelt-b8zfg6l",
+      "title": "Relembre a  química  entre Lula e Trump na Assembleia Geral da ONU",
+      "sourceName": "G1 Mundo",
+      "sourceUrl": "https://g1.globo.com/mundo/",
+      "sourceType": "Imprensa Comercial Brasileira",
+      "sourceEditorial": "Portal de notícias mainstream do Grupo Globo",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://g1.globo.com/mundo/noticia/2026/09/22/relembre-a-quimica-entre-lula-e-trump-na-assembleia-geral-da-onu-em-2025-e-como-ela-desandou-desde-entao.ghtml",
+      "publishedAtStr": "2026-09-22T04:15:00Z",
+      "publishedAtTs": 1790050500000,
+      "rawContent": "Relembre a  química  entre Lula e Trump na Assembleia Geral da ONU",
+      "linkStatus": "active",
+      "lastChecked": 1790109024151
+    },
+    {
+      "id": "gdelt-esehhhk",
+      "title": "EUA , Dinamarca e Groenlândia assinam acordo de segurança",
+      "sourceName": "G1 Mundo",
+      "sourceUrl": "https://g1.globo.com/mundo/",
+      "sourceType": "Imprensa Comercial Brasileira",
+      "sourceEditorial": "Portal de notícias mainstream do Grupo Globo",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://g1.globo.com/mundo/noticia/2026/09/22/eua-dinamarca-e-groenlandia-assinam-acordo-de-seguranca-nesta-terca.ghtml",
+      "publishedAtStr": "2026-09-22T04:15:00Z",
+      "publishedAtTs": 1790050500000,
+      "rawContent": "EUA , Dinamarca e Groenlândia assinam acordo de segurança",
+      "linkStatus": "active",
+      "lastChecked": 1790109024151
+    },
+    {
+      "id": "gdelt-jql00gy",
+      "title": "ONU defenderá sua própria sobrevivência na Assembleia Geral",
+      "sourceName": "G1 Mundo",
+      "sourceUrl": "https://g1.globo.com/mundo/",
+      "sourceType": "Imprensa Comercial Brasileira",
+      "sourceEditorial": "Portal de notícias mainstream do Grupo Globo",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://g1.globo.com/mundo/noticia/2026/09/22/encolham-a-onu-organizacao-fara-apelo-por-sua-propria-sobrevivencia-na-assembleia-geral-que-comeca-hoje.ghtml",
+      "publishedAtStr": "2026-09-22T04:15:00Z",
+      "publishedAtTs": 1790050500000,
+      "rawContent": "ONU defenderá sua própria sobrevivência na Assembleia Geral",
+      "linkStatus": "active",
+      "lastChecked": 1790109024151
+    },
+    {
+      "id": "gdelt-ymqtkll",
       "title": "FAB faz buscas por helicóptero desaparecido em SC com cantor Rick , da dupla com Renner",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -362,7 +586,7 @@
       "lastChecked": 1790108171263
     },
     {
-      "id": "gdelt-lyfxz6r",
+      "id": "gdelt-wi1se79",
       "title": "Dino mantém decreto do governo de Minas Gerais que proíbe publicidade de bets",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -378,7 +602,7 @@
       "lastChecked": 1790108171263
     },
     {
-      "id": "gdelt-mnllaz3",
+      "id": "gdelt-qnakczv",
       "title": "Moraes se declara impedido e não relatará ao sobre visitas de sua esposa e de Vorcaro ao Senado",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -394,7 +618,7 @@
       "lastChecked": 1790108171263
     },
     {
-      "id": "gdelt-9ov58oo",
+      "id": "gdelt-0vfh0i3",
       "title": "Quaest : 50 % desaprovam governo Lula ; 44 % aprovam – CartaCapital",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -410,7 +634,7 @@
       "lastChecked": 1790108171263
     },
     {
-      "id": "gdelt-0wuads8",
+      "id": "gdelt-3e96txu",
       "title": "Senacon vai investigar 70 postos por aumento abusivo de preços – CartaCapital",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -426,7 +650,7 @@
       "lastChecked": 1790108171263
     },
     {
-      "id": "gdelt-w9n0xku",
+      "id": "gdelt-sgwhalt",
       "title": "AGU pede ao STF perda do cargo de Marco Buzzi",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -442,7 +666,7 @@
       "lastChecked": 1790108171263
     },
     {
-      "id": "gdelt-w9lbc4z",
+      "id": "gdelt-q2hy43d",
       "title": "AtlasIntel : Lula lidera com folga entre eleitores do Ceará",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -458,7 +682,7 @@
       "lastChecked": 1790108171263
     },
     {
-      "id": "gdelt-zb7k5r9",
+      "id": "gdelt-hy9t31s",
       "title": "Líderes mundiais cobram medidas de segurança para IA antes da Assembleia da ONU",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -474,7 +698,7 @@
       "lastChecked": 1790108171263
     },
     {
-      "id": "gdelt-2g06unn",
+      "id": "gdelt-4ra5cj8",
       "title": "Lula faz passagem relâmpago na ONU onde fará discurso voltado ao público interno",
       "sourceName": "Estadão Internacional",
       "sourceUrl": "https://www.estadao.com.br/internacional/",
@@ -490,7 +714,7 @@
       "lastChecked": 1790108171263
     },
     {
-      "id": "gdelt-dfknlfz",
+      "id": "gdelt-l0dxe2i",
       "title": "EUA anunciam que companhias aéreas iranianas vão parar de operar em dois dias",
       "sourceName": "Veja Mundo",
       "sourceUrl": "https://veja.abril.com.br/mundo/",
@@ -506,7 +730,7 @@
       "lastChecked": 1790108171263
     },
     {
-      "id": "gdelt-6l2zfc1",
+      "id": "gdelt-1ydi7pl",
       "title": "China expulsa do Partido Comunista general e comandante acusados ​​de corrupo",
       "sourceName": "Estadão Internacional",
       "sourceUrl": "https://www.estadao.com.br/internacional/",
@@ -522,7 +746,7 @@
       "lastChecked": 1790108171263
     },
     {
-      "id": "gdelt-tnq2umw",
+      "id": "gdelt-bebvqy3",
       "title": "Trump tem a menor aprovação da história de sua carreira política , aponta pesquisa Reuters / Ipsos",
       "sourceName": "Estadão Internacional",
       "sourceUrl": "https://www.estadao.com.br/internacional/",
@@ -538,7 +762,7 @@
       "lastChecked": 1790108171263
     },
     {
-      "id": "gdelt-iwdpmlf",
+      "id": "gdelt-cwjynox",
       "title": "Flávio Bolsonaro e Lula empatam tecnicamente no 2º turno , diz nova Quaest – CartaCapital",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -554,7 +778,7 @@
       "lastChecked": 1790108171263
     },
     {
-      "id": "gdelt-atljpfg",
+      "id": "gdelt-yorgjrq",
       "title": "TSE forma maioria para manter suspensão da campanha ao Senado de Deltan Dallagnol – CartaCapital",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -570,7 +794,7 @@
       "lastChecked": 1790108171263
     },
     {
-      "id": "gdelt-byou2qs",
+      "id": "gdelt-t408ksz",
       "title": "Discriminação por ponto de vista é um veneno , dizem canais banidos por Trump em ao judicial",
       "sourceName": "Estadão Internacional",
       "sourceUrl": "https://www.estadao.com.br/internacional/",
@@ -582,22 +806,6 @@
       "publishedAtStr": "2026-09-21T21:00:00Z",
       "publishedAtTs": 1790024400000,
       "rawContent": "Discriminação por ponto de vista é um veneno , dizem canais banidos por Trump em ao judicial",
-      "linkStatus": "active",
-      "lastChecked": 1790108171263
-    },
-    {
-      "id": "gdelt-5vezgy3",
-      "title": "Essa omelete de batata é fácil de fazer e deixa o lanche da tarde mais proteico – CartaCapital",
-      "sourceName": "CartaCapital",
-      "sourceUrl": "https://www.cartacapital.com.br/",
-      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
-      "sourceEditorial": "Jornalismo progressista - Conteúdo sob assinatura parcial",
-      "country": "Brasil",
-      "paywall": true,
-      "originalUrl": "https://www.cartacapital.com.br/receitas/essa-omelete-de-batata-e-facil-de-fazer-e-deixa-o-lanche-da-tarde-mais-proteico/",
-      "publishedAtStr": "2026-09-21T20:30:00Z",
-      "publishedAtTs": 1790022600000,
-      "rawContent": "Essa omelete de batata é fácil de fazer e deixa o lanche da tarde mais proteico – CartaCapital",
       "linkStatus": "active",
       "lastChecked": 1790108171263
     }
