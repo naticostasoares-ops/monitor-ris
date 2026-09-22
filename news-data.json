@@ -1,16 +1,80 @@
 {
-  "updatedAt": "2026-09-22T10:24:58.504Z",
-  "periodUsed": "7d",
-  "count": 86,
+  "updatedAt": "2026-09-22T10:33:44.650Z",
+  "periodUsed": "24h",
+  "count": 72,
   "linkVerificationStats": {
-    "checkedThisRun": 40,
-    "active": 40,
+    "checkedThisRun": 32,
+    "active": 31,
     "broken": 0,
-    "unknown": 0
+    "unknown": 1
   },
   "articles": [
     {
-      "id": "gdelt-0373s7e",
+      "id": "gdelt-p7tjuge",
+      "title": "Presidente sul - coreano propõe alívio de sanções contra Coreia do Norte em troca de congelamento de programa nuclear",
+      "sourceName": "O Globo Mundo",
+      "sourceUrl": "https://oglobo.globo.com/mundo/",
+      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
+      "sourceEditorial": "Jornal diário (Grupo Globo) - Conteúdo sob assinatura",
+      "country": "Brasil",
+      "paywall": true,
+      "originalUrl": "https://oglobo.globo.com/mundo/noticia/2026/09/22/presidente-sul-coreano-propoe-alivio-de-sancoes-contra-coreia-do-norte-em-troca-de-congelamento-de-programa-nuclear.ghtml",
+      "publishedAtStr": "2026-09-22T04:30:00Z",
+      "publishedAtTs": 1790051400000,
+      "rawContent": "Presidente sul - coreano propõe alívio de sanções contra Coreia do Norte em troca de congelamento de programa nuclear",
+      "linkStatus": "active",
+      "lastChecked": 1790073198508
+    },
+    {
+      "id": "gdelt-wyxqu59",
+      "title": "Relembre a  química  entre Lula e Trump na Assembleia Geral da ONU",
+      "sourceName": "G1 Mundo",
+      "sourceUrl": "https://g1.globo.com/mundo/",
+      "sourceType": "Imprensa Comercial Brasileira",
+      "sourceEditorial": "Portal de notícias mainstream do Grupo Globo",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://g1.globo.com/mundo/noticia/2026/09/22/relembre-a-quimica-entre-lula-e-trump-na-assembleia-geral-da-onu-em-2025-e-como-ela-desandou-desde-entao.ghtml",
+      "publishedAtStr": "2026-09-22T04:15:00Z",
+      "publishedAtTs": 1790050500000,
+      "rawContent": "Relembre a  química  entre Lula e Trump na Assembleia Geral da ONU",
+      "linkStatus": "active",
+      "lastChecked": 1790073198508
+    },
+    {
+      "id": "gdelt-bpn7qkz",
+      "title": "EUA , Dinamarca e Groenlândia assinam acordo de segurança",
+      "sourceName": "G1 Mundo",
+      "sourceUrl": "https://g1.globo.com/mundo/",
+      "sourceType": "Imprensa Comercial Brasileira",
+      "sourceEditorial": "Portal de notícias mainstream do Grupo Globo",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://g1.globo.com/mundo/noticia/2026/09/22/eua-dinamarca-e-groenlandia-assinam-acordo-de-seguranca-nesta-terca.ghtml",
+      "publishedAtStr": "2026-09-22T04:15:00Z",
+      "publishedAtTs": 1790050500000,
+      "rawContent": "EUA , Dinamarca e Groenlândia assinam acordo de segurança",
+      "linkStatus": "active",
+      "lastChecked": 1790073198508
+    },
+    {
+      "id": "gdelt-n05dr0l",
+      "title": "ONU defenderá sua própria sobrevivência na Assembleia Geral",
+      "sourceName": "G1 Mundo",
+      "sourceUrl": "https://g1.globo.com/mundo/",
+      "sourceType": "Imprensa Comercial Brasileira",
+      "sourceEditorial": "Portal de notícias mainstream do Grupo Globo",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://g1.globo.com/mundo/noticia/2026/09/22/encolham-a-onu-organizacao-fara-apelo-por-sua-propria-sobrevivencia-na-assembleia-geral-que-comeca-hoje.ghtml",
+      "publishedAtStr": "2026-09-22T04:15:00Z",
+      "publishedAtTs": 1790050500000,
+      "rawContent": "ONU defenderá sua própria sobrevivência na Assembleia Geral",
+      "linkStatus": "active",
+      "lastChecked": 1790073198508
+    },
+    {
+      "id": "gdelt-pitgv2l",
       "title": "FAB faz buscas por helicóptero desaparecido em SC com cantor Rick , da dupla com Renner",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -26,7 +90,7 @@
       "lastChecked": 1790072686440
     },
     {
-      "id": "gdelt-6o58w5o",
+      "id": "gdelt-e4zud3a",
       "title": "Dino mantém decreto do governo de Minas Gerais que proíbe publicidade de bets",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -42,7 +106,7 @@
       "lastChecked": 1790072686440
     },
     {
-      "id": "gdelt-kyg3qqy",
+      "id": "gdelt-3dftnzl",
       "title": "Moraes se declara impedido e não relatará ao sobre visitas de sua esposa e de Vorcaro ao Senado",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -58,7 +122,7 @@
       "lastChecked": 1790072686440
     },
     {
-      "id": "gdelt-zfwjha3",
+      "id": "gdelt-fscgyxw",
       "title": "Quaest : 50 % desaprovam governo Lula ; 44 % aprovam – CartaCapital",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -74,7 +138,7 @@
       "lastChecked": 1790072686440
     },
     {
-      "id": "gdelt-6fjdp71",
+      "id": "gdelt-6x2jjhf",
       "title": "Senacon vai investigar 70 postos por aumento abusivo de preços – CartaCapital",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -90,7 +154,7 @@
       "lastChecked": 1790072686440
     },
     {
-      "id": "gdelt-kyrippo",
+      "id": "gdelt-s0yj4nf",
       "title": "AGU pede ao STF perda do cargo de Marco Buzzi",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -106,7 +170,7 @@
       "lastChecked": 1790072686440
     },
     {
-      "id": "gdelt-vl1gb9r",
+      "id": "gdelt-lw5echo",
       "title": "AtlasIntel : Lula lidera com folga entre eleitores do Ceará",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -122,7 +186,7 @@
       "lastChecked": 1790072686440
     },
     {
-      "id": "gdelt-eecep0b",
+      "id": "gdelt-ce5d5hk",
       "title": "Líderes mundiais cobram medidas de segurança para IA antes da Assembleia da ONU",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -138,7 +202,23 @@
       "lastChecked": 1790072686440
     },
     {
-      "id": "gdelt-om32ukj",
+      "id": "gdelt-xbc64mk",
+      "title": "Nos EUA , Lula se reúne com prefeito de Nova York e presidente uruguaio",
+      "sourceName": "Agência Brasil",
+      "sourceUrl": "https://agenciabrasil.ebc.com.br/internacional",
+      "sourceType": "Agência Estatal",
+      "sourceEditorial": "Agência pública de notícias da EBC (Governo Federal)",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-09/nos-eua-lula-se-reune-com-prefeito-de-nova-york-e-presidente-uruguaio",
+      "publishedAtStr": "2026-09-21T22:30:00Z",
+      "publishedAtTs": 1790029800000,
+      "rawContent": "Nos EUA , Lula se reúne com prefeito de Nova York e presidente uruguaio",
+      "linkStatus": "active",
+      "lastChecked": 1790073198508
+    },
+    {
+      "id": "gdelt-w08e2rn",
       "title": "Lula faz passagem relâmpago na ONU onde fará discurso voltado ao público interno",
       "sourceName": "Estadão Internacional",
       "sourceUrl": "https://www.estadao.com.br/internacional/",
@@ -154,7 +234,71 @@
       "lastChecked": 1790072686440
     },
     {
-      "id": "gdelt-fhow4gv",
+      "id": "gdelt-iq2uvn9",
+      "title": "Política toma sites de fofoca , que podem influenciar voto",
+      "sourceName": "DW Brasil",
+      "sourceUrl": "https://www.dw.com/pt-br/",
+      "sourceType": "Imprensa Internacional / Pública",
+      "sourceEditorial": "Emissora pública da Alemanha; foco em diplomacia e direitos humanos",
+      "country": "Alemanha",
+      "paywall": false,
+      "originalUrl": "https://www.dw.com/pt-br/pol%C3%ADtica-chega-a-sites-de-fofoca-que-furam-bolha-e-podem-influenciar-voto/a-79362703",
+      "publishedAtStr": "2026-09-21T22:15:00Z",
+      "publishedAtTs": 1790028900000,
+      "rawContent": "Política toma sites de fofoca , que podem influenciar voto",
+      "linkStatus": "active",
+      "lastChecked": 1790073198508
+    },
+    {
+      "id": "gdelt-um7o2nt",
+      "title": "Lula encontra prefeito de Nova York antes de discurso na ONU",
+      "sourceName": "DW Brasil",
+      "sourceUrl": "https://www.dw.com/pt-br/",
+      "sourceType": "Imprensa Internacional / Pública",
+      "sourceEditorial": "Emissora pública da Alemanha; foco em diplomacia e direitos humanos",
+      "country": "Alemanha",
+      "paywall": false,
+      "originalUrl": "https://www.dw.com/pt-br/lula-encontra-prefeito-de-nova-york-antes-de-discurso-na-onu/a-79364466",
+      "publishedAtStr": "2026-09-21T22:15:00Z",
+      "publishedAtTs": 1790028900000,
+      "rawContent": "Lula encontra prefeito de Nova York antes de discurso na ONU",
+      "linkStatus": "active",
+      "lastChecked": 1790073198508
+    },
+    {
+      "id": "gdelt-5fqj7jz",
+      "title": "Trump minimiza boicote de redes de TV :  Olhe toda essa imprensa aqui",
+      "sourceName": "G1 Mundo",
+      "sourceUrl": "https://g1.globo.com/mundo/",
+      "sourceType": "Imprensa Comercial Brasileira",
+      "sourceEditorial": "Portal de notícias mainstream do Grupo Globo",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://g1.globo.com/mundo/noticia/2026/09/21/trump-minimiza-boicote-de-redes-de-tv-nos-eua-olhe-toda-essa-imprensa-aqui.ghtml",
+      "publishedAtStr": "2026-09-21T22:15:00Z",
+      "publishedAtTs": 1790028900000,
+      "rawContent": "Trump minimiza boicote de redes de TV :  Olhe toda essa imprensa aqui",
+      "linkStatus": "active",
+      "lastChecked": 1790073198508
+    },
+    {
+      "id": "gdelt-eod31ii",
+      "title": "Médico é 1º acusado no Reino Unido por genocídio em Ruanda",
+      "sourceName": "DW Brasil",
+      "sourceUrl": "https://www.dw.com/pt-br/",
+      "sourceType": "Imprensa Internacional / Pública",
+      "sourceEditorial": "Emissora pública da Alemanha; foco em diplomacia e direitos humanos",
+      "country": "Alemanha",
+      "paywall": false,
+      "originalUrl": "https://www.dw.com/pt-br/m%C3%A9dico-%C3%A9-1%C2%BA-acusado-no-reino-unido-por-genoc%C3%ADdio-em-ruanda/a-79364559",
+      "publishedAtStr": "2026-09-21T22:15:00Z",
+      "publishedAtTs": 1790028900000,
+      "rawContent": "Médico é 1º acusado no Reino Unido por genocídio em Ruanda",
+      "linkStatus": "active",
+      "lastChecked": 1790073198508
+    },
+    {
+      "id": "gdelt-odo8jcz",
       "title": "EUA anunciam que companhias aéreas iranianas vão parar de operar em dois dias",
       "sourceName": "Veja Mundo",
       "sourceUrl": "https://veja.abril.com.br/mundo/",
@@ -170,7 +314,7 @@
       "lastChecked": 1790072686440
     },
     {
-      "id": "gdelt-n6wi2wk",
+      "id": "gdelt-nxhhfq9",
       "title": "China expulsa do Partido Comunista general e comandante acusados ​​de corrupo",
       "sourceName": "Estadão Internacional",
       "sourceUrl": "https://www.estadao.com.br/internacional/",
@@ -186,7 +330,7 @@
       "lastChecked": 1790072686440
     },
     {
-      "id": "gdelt-zx33s6j",
+      "id": "gdelt-d7fkf9b",
       "title": "Trump tem a menor aprovação da história de sua carreira política , aponta pesquisa Reuters / Ipsos",
       "sourceName": "Estadão Internacional",
       "sourceUrl": "https://www.estadao.com.br/internacional/",
@@ -202,7 +346,7 @@
       "lastChecked": 1790072686440
     },
     {
-      "id": "gdelt-292xkt6",
+      "id": "gdelt-3pktua9",
       "title": "Flávio Bolsonaro e Lula empatam tecnicamente no 2º turno , diz nova Quaest – CartaCapital",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -218,7 +362,7 @@
       "lastChecked": 1790072686440
     },
     {
-      "id": "gdelt-kh9mdt3",
+      "id": "gdelt-xp94ktr",
       "title": "TSE forma maioria para manter suspensão da campanha ao Senado de Deltan Dallagnol – CartaCapital",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -234,7 +378,23 @@
       "lastChecked": 1790072686440
     },
     {
-      "id": "gdelt-nm1qrpq",
+      "id": "gdelt-d5iodcy",
+      "title": "Dia 21 de Setembro marca tradio de se dar flores amarelas na América Latina para chegada da primavera ; entenda",
+      "sourceName": "O Globo Mundo",
+      "sourceUrl": "https://oglobo.globo.com/mundo/",
+      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
+      "sourceEditorial": "Jornal diário (Grupo Globo) - Conteúdo sob assinatura",
+      "country": "Brasil",
+      "paywall": true,
+      "originalUrl": "https://oglobo.globo.com/mundo/epoca/noticia/2026/09/21/dia-21-de-setembro-marca-tradicao-de-se-dar-flores-amarelas-na-america-latina-para-chegada-da-primavera-entenda.ghtml",
+      "publishedAtStr": "2026-09-21T21:00:00Z",
+      "publishedAtTs": 1790024400000,
+      "rawContent": "Dia 21 de Setembro marca tradio de se dar flores amarelas na América Latina para chegada da primavera ; entenda",
+      "linkStatus": "active",
+      "lastChecked": 1790073198508
+    },
+    {
+      "id": "gdelt-6t5gp6u",
       "title": "Discriminação por ponto de vista é um veneno , dizem canais banidos por Trump em ao judicial",
       "sourceName": "Estadão Internacional",
       "sourceUrl": "https://www.estadao.com.br/internacional/",
@@ -250,7 +410,7 @@
       "lastChecked": 1790072686440
     },
     {
-      "id": "gdelt-bh4ryvo",
+      "id": "gdelt-zuq5bf7",
       "title": "Essa omelete de batata é fácil de fazer e deixa o lanche da tarde mais proteico – CartaCapital",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -266,7 +426,71 @@
       "lastChecked": 1790072686440
     },
     {
-      "id": "gdelt-7na9jin",
+      "id": "gdelt-6wfyyl9",
+      "title": "A próxima coisa que veremos é ao militar direta dos EUA em diferentes paíse , diz jornalista americano especializado em América Latina",
+      "sourceName": "G1 Mundo",
+      "sourceUrl": "https://g1.globo.com/mundo/",
+      "sourceType": "Imprensa Comercial Brasileira",
+      "sourceEditorial": "Portal de notícias mainstream do Grupo Globo",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://g1.globo.com/mundo/noticia/2026/09/21/a-proxima-coisa-que-veremos-e-acao-militar-direta-dos-eua-em-diferentes-paises-diz-jornalista-americano-especializado-em-america-latina.ghtml",
+      "publishedAtStr": "2026-09-21T20:15:00Z",
+      "publishedAtTs": 1790021700000,
+      "rawContent": "A próxima coisa que veremos é ao militar direta dos EUA em diferentes paíse , diz jornalista americano especializado em América Latina",
+      "linkStatus": "active",
+      "lastChecked": 1790073198508
+    },
+    {
+      "id": "gdelt-ccwwsg2",
+      "title": "A próxima coisa que veremos é ao militar direta dos EUA em diferentes paíse , diz jornalista americano especializado em América Latina",
+      "sourceName": "BBC News Brasil",
+      "sourceUrl": "https://www.bbc.com/portuguese",
+      "sourceType": "Imprensa Internacional / Pública",
+      "sourceEditorial": "Emissora pública do Reino Unido; jornalismo global independente",
+      "country": "Reino Unido",
+      "paywall": false,
+      "originalUrl": "https://www.bbc.com/portuguese/articles/c6rm9lpjz8m2o",
+      "publishedAtStr": "2026-09-21T19:45:00Z",
+      "publishedAtTs": 1790019900000,
+      "rawContent": "A próxima coisa que veremos é ao militar direta dos EUA em diferentes paíse , diz jornalista americano especializado em América Latina",
+      "linkStatus": "unknown",
+      "lastChecked": 1790073198508
+    },
+    {
+      "id": "gdelt-ctro10v",
+      "title": "A lacuna socioambiental do petróleo na Margem Equatorial",
+      "sourceName": "DW Brasil",
+      "sourceUrl": "https://www.dw.com/pt-br/",
+      "sourceType": "Imprensa Internacional / Pública",
+      "sourceEditorial": "Emissora pública da Alemanha; foco em diplomacia e direitos humanos",
+      "country": "Alemanha",
+      "paywall": false,
+      "originalUrl": "https://www.dw.com/pt-br/explora%C3%A7%C3%A3o-petrol%C3%ADfera-avan%C3%A7a-na-margem-equatorial-sem-avalia%C3%A7%C3%A3o-dos-riscos-socioambientais/a-79362384",
+      "publishedAtStr": "2026-09-21T19:30:00Z",
+      "publishedAtTs": 1790019000000,
+      "rawContent": "A lacuna socioambiental do petróleo na Margem Equatorial",
+      "linkStatus": "active",
+      "lastChecked": 1790073198508
+    },
+    {
+      "id": "gdelt-2h9pplt",
+      "title": "TVs dos EUA suspendem cobertura após Trump vetar jornalistas",
+      "sourceName": "DW Brasil",
+      "sourceUrl": "https://www.dw.com/pt-br/",
+      "sourceType": "Imprensa Internacional / Pública",
+      "sourceEditorial": "Emissora pública da Alemanha; foco em diplomacia e direitos humanos",
+      "country": "Alemanha",
+      "paywall": false,
+      "originalUrl": "https://www.dw.com/pt-br/tvs-dos-eua-suspendem-cobertura-ap%C3%B3s-veto-de-trump-a-cnn-ms-now-e-politico/a-79362768",
+      "publishedAtStr": "2026-09-21T19:30:00Z",
+      "publishedAtTs": 1790019000000,
+      "rawContent": "TVs dos EUA suspendem cobertura após Trump vetar jornalistas",
+      "linkStatus": "active",
+      "lastChecked": 1790073198508
+    },
+    {
+      "id": "gdelt-ojkmthg",
       "title": "A reação de Charles III à revelação feita pelo irmão da Princesa Diana em novo livro",
       "sourceName": "Veja Mundo",
       "sourceUrl": "https://veja.abril.com.br/mundo/",
@@ -282,7 +506,7 @@
       "lastChecked": 1790072686440
     },
     {
-      "id": "gdelt-2reped8",
+      "id": "gdelt-hnnds6k",
       "title": "Lula presenteia prefeito de Nova York com camisa do Corinthians",
       "sourceName": "Veja Mundo",
       "sourceUrl": "https://veja.abril.com.br/mundo/",
@@ -298,7 +522,7 @@
       "lastChecked": 1790072686440
     },
     {
-      "id": "gdelt-gzpj0wt",
+      "id": "gdelt-jpo9836",
       "title": "O que esperar da Assembleia Geral da ONU , que terá discursos de Lula e Trump",
       "sourceName": "Veja Mundo",
       "sourceUrl": "https://veja.abril.com.br/mundo/",
@@ -314,7 +538,7 @@
       "lastChecked": 1790072686440
     },
     {
-      "id": "gdelt-damv2rd",
+      "id": "gdelt-wk42q83",
       "title": "Jogadora de basquete do Senegal é detida pelo ICE durante viagem com time",
       "sourceName": "Veja Mundo",
       "sourceUrl": "https://veja.abril.com.br/mundo/",
@@ -330,7 +554,7 @@
       "lastChecked": 1790072686440
     },
     {
-      "id": "gdelt-lqqrpez",
+      "id": "gdelt-2vhokqc",
       "title": "Após quase três anos , crianças de Gaza retomam as aulas em escolas improvisadas",
       "sourceName": "Veja Mundo",
       "sourceUrl": "https://veja.abril.com.br/mundo/",
@@ -346,7 +570,7 @@
       "lastChecked": 1790072686440
     },
     {
-      "id": "gdelt-30lvinx",
+      "id": "gdelt-awfvshf",
       "title": "Lula se reúne com prefeito de NY antes de Assembleia Geral da ONU",
       "sourceName": "Veja Mundo",
       "sourceUrl": "https://veja.abril.com.br/mundo/",
@@ -362,7 +586,7 @@
       "lastChecked": 1790072686440
     },
     {
-      "id": "gdelt-q6v21ue",
+      "id": "gdelt-jr8pt5b",
       "title": "XP vê cenário pior para construtoras , mas reitera Cyrela como favorita",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -378,7 +602,7 @@
       "lastChecked": 1790072686440
     },
     {
-      "id": "gdelt-c7hvtim",
+      "id": "gdelt-vw1oyks",
       "title": "Lula se reúne com presidente do Uruguai e prefeito de NY antes da Assembleia da ONU",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -394,7 +618,7 @@
       "lastChecked": 1790072686440
     },
     {
-      "id": "gdelt-zedh7gv",
+      "id": "gdelt-2wz7ceg",
       "title": "Vale faz investimento estratégico em minério em Carajás ao comprar 30 % da Ligga",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -410,7 +634,7 @@
       "lastChecked": 1790072686440
     },
     {
-      "id": "gdelt-zk7r6vg",
+      "id": "gdelt-9kp4le4",
       "title": "FII do Pátria investe R$ 257 mi em participações de cinco shoppings ; veja detalhes",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -426,7 +650,7 @@
       "lastChecked": 1790072686440
     },
     {
-      "id": "gdelt-lipkqn0",
+      "id": "gdelt-4ecawxy",
       "title": "A Black Friday já não é mais em novembro e a  culpa  é do consumidor",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -442,7 +666,7 @@
       "lastChecked": 1790072686440
     },
     {
-      "id": "gdelt-sxdqcjf",
+      "id": "gdelt-184m631",
       "title": "AtlasIntel : Ciro Gomes e Elmano de Freitas empatam nos dois turnos no Ceará",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -458,7 +682,7 @@
       "lastChecked": 1790072686440
     },
     {
-      "id": "gdelt-0d0iw2t",
+      "id": "gdelt-vlq8udw",
       "title": "Ministério abre 70 processos contra postos por aumento abusivo nos preços",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -474,7 +698,7 @@
       "lastChecked": 1790072686440
     },
     {
-      "id": "gdelt-mucmxta",
+      "id": "gdelt-pjs759v",
       "title": "Conheça os 5 shoppings que o FII do Pátria acaba de adicionar à carteira",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -490,7 +714,7 @@
       "lastChecked": 1790072686440
     },
     {
-      "id": "gdelt-c82huqv",
+      "id": "gdelt-bpzqn6a",
       "title": "IG4 prepara oferta para credores da Raízen ( RAIZ4 ) e mira controle da companhia",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -506,7 +730,7 @@
       "lastChecked": 1790072686440
     },
     {
-      "id": "gdelt-d9nzcnp",
+      "id": "gdelt-lmme8ei",
       "title": "Eneva vê economia de até R$3 , 2 bi a consumidor com flexibilização de termelétricas",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -522,7 +746,7 @@
       "lastChecked": 1790072686440
     },
     {
-      "id": "gdelt-0q0p1kr",
+      "id": "gdelt-2r72rnd",
       "title": "Petróleo na Venezuela renascerá ? Veja aes que podem ganhar – incluindo do Brasil",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -538,7 +762,7 @@
       "lastChecked": 1790072686440
     },
     {
-      "id": "gdelt-ru2wak5",
+      "id": "gdelt-we8ytno",
       "title": "É hora de colocar dinheiro em Bitcoin ? O que dizem analistas após nova alta",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -554,7 +778,7 @@
       "lastChecked": 1790072686440
     },
     {
-      "id": "gdelt-lgb7kts",
+      "id": "gdelt-6wftayn",
       "title": "Petróleo de Morpho é de  altíssima qualidade , diz diretora da Petrobras",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -570,7 +794,7 @@
       "lastChecked": 1790072686440
     },
     {
-      "id": "gdelt-zjglr1j",
+      "id": "gdelt-c7jdl4i",
       "title": "Implantação global de energia renovável precisa dobrar para atingir meta de 2030",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -586,7 +810,7 @@
       "lastChecked": 1790072686440
     },
     {
-      "id": "gdelt-6mabkhm",
+      "id": "gdelt-pquwktq",
       "title": "CEO : Petrobras terá que ampliar atuação em renováveis para manter relevância até 2050",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -602,7 +826,7 @@
       "lastChecked": 1790072686440
     },
     {
-      "id": "gdelt-p59lxhy",
+      "id": "gdelt-b40hnbj",
       "title": "El Niño pode deixar o seguro do carro mais caro ? Entenda o impacto no preço",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -618,7 +842,7 @@
       "lastChecked": 1790072686440
     },
     {
-      "id": "gdelt-6y5me89",
+      "id": "gdelt-h9wfjvv",
       "title": "Tarifas ?  Sell America  explica maior parte da queda do dólar desde 2025 , aponta Itaú",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -634,7 +858,7 @@
       "lastChecked": 1790072686440
     },
     {
-      "id": "gdelt-nfhidkn",
+      "id": "gdelt-yavr7td",
       "title": "Operadores enfrentam automação em mercado de câmbio de US$ 4 trilhões por dia",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -650,7 +874,7 @@
       "lastChecked": 1790072686440
     },
     {
-      "id": "gdelt-epxt85s",
+      "id": "gdelt-c2kztcf",
       "title": "Itaú e Bradesco são favoritos do BofA entre bancos brasileiros ; BB fica para trás",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -662,11 +886,11 @@
       "publishedAtStr": "2026-09-21T19:15:00Z",
       "publishedAtTs": 1790018100000,
       "rawContent": "Itaú e Bradesco são favoritos do BofA entre bancos brasileiros ; BB fica para trás",
-      "linkStatus": "unknown",
-      "lastChecked": null
+      "linkStatus": "active",
+      "lastChecked": 1790073198508
     },
     {
-      "id": "gdelt-9d1kry6",
+      "id": "gdelt-jqcb5ri",
       "title": "SVN Investimentos libera Gestor de Aes 360° gratuito",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -678,11 +902,11 @@
       "publishedAtStr": "2026-09-21T19:15:00Z",
       "publishedAtTs": 1790018100000,
       "rawContent": "SVN Investimentos libera Gestor de Aes 360° gratuito",
-      "linkStatus": "unknown",
-      "lastChecked": null
+      "linkStatus": "active",
+      "lastChecked": 1790073198508
     },
     {
-      "id": "gdelt-1jv6abp",
+      "id": "gdelt-kwie0yl",
       "title": "Café brasileiro tem florada precoce e nova safra pode chegar mais cedo",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -694,11 +918,11 @@
       "publishedAtStr": "2026-09-21T19:15:00Z",
       "publishedAtTs": 1790018100000,
       "rawContent": "Café brasileiro tem florada precoce e nova safra pode chegar mais cedo",
-      "linkStatus": "unknown",
-      "lastChecked": null
+      "linkStatus": "active",
+      "lastChecked": 1790073198508
     },
     {
-      "id": "gdelt-gap58mf",
+      "id": "gdelt-c8jsmk7",
       "title": "SP : Tarcísio não vai a debate alegando que encontros viraram  mais do mesmo",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -710,11 +934,11 @@
       "publishedAtStr": "2026-09-21T19:15:00Z",
       "publishedAtTs": 1790018100000,
       "rawContent": "SP : Tarcísio não vai a debate alegando que encontros viraram  mais do mesmo",
-      "linkStatus": "unknown",
-      "lastChecked": null
+      "linkStatus": "active",
+      "lastChecked": 1790073198508
     },
     {
-      "id": "gdelt-65o6adw",
+      "id": "gdelt-3i3xpir",
       "title": "FII recebe R$ 367 milhões em propostas por torre do Rochaverá e outro prédio",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -726,11 +950,11 @@
       "publishedAtStr": "2026-09-21T19:15:00Z",
       "publishedAtTs": 1790018100000,
       "rawContent": "FII recebe R$ 367 milhões em propostas por torre do Rochaverá e outro prédio",
-      "linkStatus": "unknown",
-      "lastChecked": null
+      "linkStatus": "active",
+      "lastChecked": 1790073198508
     },
     {
-      "id": "gdelt-0oma243",
+      "id": "gdelt-e78cwzh",
       "title": "AMD se torna a mais recente fabricante de chips a atingir valorização de US$ 1 tri",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -742,11 +966,11 @@
       "publishedAtStr": "2026-09-21T19:15:00Z",
       "publishedAtTs": 1790018100000,
       "rawContent": "AMD se torna a mais recente fabricante de chips a atingir valorização de US$ 1 tri",
-      "linkStatus": "unknown",
-      "lastChecked": null
+      "linkStatus": "active",
+      "lastChecked": 1790073198508
     },
     {
-      "id": "gdelt-vyeebxy",
+      "id": "gdelt-vifoyiz",
       "title": "Mamdani diz que Lula é sua  inspiração , e presidente o convida a visitar o Brasil",
       "sourceName": "Estadão Internacional",
       "sourceUrl": "https://www.estadao.com.br/internacional/",
@@ -758,11 +982,11 @@
       "publishedAtStr": "2026-09-21T19:00:00Z",
       "publishedAtTs": 1790017200000,
       "rawContent": "Mamdani diz que Lula é sua  inspiração , e presidente o convida a visitar o Brasil",
-      "linkStatus": "unknown",
-      "lastChecked": null
+      "linkStatus": "active",
+      "lastChecked": 1790073198508
     },
     {
-      "id": "gdelt-eaaov49",
+      "id": "gdelt-lttwan2",
       "title": "Precisamos ser competitivos no mercado brasileiro , diz presidente da Sony Latam",
       "sourceName": "Veja Mundo",
       "sourceUrl": "https://veja.abril.com.br/mundo/",
@@ -774,11 +998,11 @@
       "publishedAtStr": "2026-09-21T18:15:00Z",
       "publishedAtTs": 1790014500000,
       "rawContent": "Precisamos ser competitivos no mercado brasileiro , diz presidente da Sony Latam",
-      "linkStatus": "unknown",
-      "lastChecked": null
+      "linkStatus": "active",
+      "lastChecked": 1790073198508
     },
     {
-      "id": "gdelt-646fdkm",
+      "id": "gdelt-unt4705",
       "title": "Taiwan prepara uma  armadilha infernal  para a China com a ajuda de drones e IA",
       "sourceName": "Estadão Internacional",
       "sourceUrl": "https://www.estadao.com.br/internacional/",
@@ -790,11 +1014,11 @@
       "publishedAtStr": "2026-09-21T17:15:00Z",
       "publishedAtTs": 1790010900000,
       "rawContent": "Taiwan prepara uma  armadilha infernal  para a China com a ajuda de drones e IA",
-      "linkStatus": "unknown",
-      "lastChecked": null
+      "linkStatus": "active",
+      "lastChecked": 1790073198508
     },
     {
-      "id": "gdelt-3en7xw8",
+      "id": "gdelt-27zoscd",
       "title": "Almoço e jantar da semana : 5 receitas leves e saudáveis para incluir no cardápio – CartaCapital",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -806,11 +1030,11 @@
       "publishedAtStr": "2026-09-21T17:15:00Z",
       "publishedAtTs": 1790010900000,
       "rawContent": "Almoço e jantar da semana : 5 receitas leves e saudáveis para incluir no cardápio – CartaCapital",
-      "linkStatus": "unknown",
-      "lastChecked": null
+      "linkStatus": "active",
+      "lastChecked": 1790073198508
     },
     {
-      "id": "gdelt-pb2d147",
+      "id": "gdelt-51ar42p",
       "title": "EUA anunciam que companhias aéreas iranianas deixarão de operar em dois dias",
       "sourceName": "Estadão Internacional",
       "sourceUrl": "https://www.estadao.com.br/internacional/",
@@ -822,11 +1046,11 @@
       "publishedAtStr": "2026-09-21T17:15:00Z",
       "publishedAtTs": 1790010900000,
       "rawContent": "EUA anunciam que companhias aéreas iranianas deixarão de operar em dois dias",
-      "linkStatus": "unknown",
-      "lastChecked": null
+      "linkStatus": "active",
+      "lastChecked": 1790073198508
     },
     {
-      "id": "gdelt-tey1sc6",
+      "id": "gdelt-mh3amk0",
       "title": "Quem é o alvo preferido de Trump na campanha de 2026 , com quase 900 menções",
       "sourceName": "Veja Mundo",
       "sourceUrl": "https://veja.abril.com.br/mundo/",
@@ -838,11 +1062,11 @@
       "publishedAtStr": "2026-09-21T17:00:00Z",
       "publishedAtTs": 1790010000000,
       "rawContent": "Quem é o alvo preferido de Trump na campanha de 2026 , com quase 900 menções",
-      "linkStatus": "unknown",
-      "lastChecked": null
+      "linkStatus": "active",
+      "lastChecked": 1790073198508
     },
     {
-      "id": "gdelt-rt21sy6",
+      "id": "gdelt-5dj90ka",
       "title": "Corrida pelo Senado em MG está aberta , segundo o Real Time Big Data – CartaCapital",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -854,11 +1078,11 @@
       "publishedAtStr": "2026-09-21T13:00:00Z",
       "publishedAtTs": 1789995600000,
       "rawContent": "Corrida pelo Senado em MG está aberta , segundo o Real Time Big Data – CartaCapital",
-      "linkStatus": "unknown",
-      "lastChecked": null
+      "linkStatus": "active",
+      "lastChecked": 1790073198508
     },
     {
-      "id": "gdelt-jiu4a2r",
+      "id": "gdelt-yyxtofl",
       "title": "A disputa pela presidência no estado de São Paulo , segundo o Real Time Big Data",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -870,11 +1094,11 @@
       "publishedAtStr": "2026-09-21T13:00:00Z",
       "publishedAtTs": 1789995600000,
       "rawContent": "A disputa pela presidência no estado de São Paulo , segundo o Real Time Big Data",
-      "linkStatus": "unknown",
-      "lastChecked": null
+      "linkStatus": "active",
+      "lastChecked": 1790073198508
     },
     {
-      "id": "gdelt-5eifeln",
+      "id": "gdelt-l9q451s",
       "title": "A disputa entre Lula e Flávio Bolsonaro em MG , segundo o Real Time Big Data",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -886,11 +1110,11 @@
       "publishedAtStr": "2026-09-21T13:00:00Z",
       "publishedAtTs": 1789995600000,
       "rawContent": "A disputa entre Lula e Flávio Bolsonaro em MG , segundo o Real Time Big Data",
-      "linkStatus": "unknown",
-      "lastChecked": null
+      "linkStatus": "active",
+      "lastChecked": 1790073198508
     },
     {
-      "id": "gdelt-2ga6ldm",
+      "id": "gdelt-manu9gj",
       "title": "Agenda dos candidatos : Lula encontra líderes em Nova York e Flávio Bolsonaro faz campanha em Natal",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -902,11 +1126,11 @@
       "publishedAtStr": "2026-09-21T13:00:00Z",
       "publishedAtTs": 1789995600000,
       "rawContent": "Agenda dos candidatos : Lula encontra líderes em Nova York e Flávio Bolsonaro faz campanha em Natal",
-      "linkStatus": "unknown",
-      "lastChecked": null
+      "linkStatus": "active",
+      "lastChecked": 1790073198508
     },
     {
-      "id": "gdelt-ucpvflv",
+      "id": "gdelt-y67rfqe",
       "title": "Agricultura cresce 11 milhões de hectares em 41 anos na Mata Atlântica",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -918,11 +1142,11 @@
       "publishedAtStr": "2026-09-21T13:00:00Z",
       "publishedAtTs": 1789995600000,
       "rawContent": "Agricultura cresce 11 milhões de hectares em 41 anos na Mata Atlântica",
-      "linkStatus": "unknown",
-      "lastChecked": null
+      "linkStatus": "active",
+      "lastChecked": 1790073198508
     },
     {
-      "id": "gdelt-49u3fos",
+      "id": "gdelt-8wuhgej",
       "title": "A disputa pelo governo de MG , segundo a nova pesquisa Real Time",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -934,456 +1158,8 @@
       "publishedAtStr": "2026-09-21T13:00:00Z",
       "publishedAtTs": 1789995600000,
       "rawContent": "A disputa pelo governo de MG , segundo a nova pesquisa Real Time",
-      "linkStatus": "unknown",
-      "lastChecked": null
-    },
-    {
-      "id": "gdelt-i2803tg",
-      "title": "Avanço dos houthis no Iêmen encarece o petróleo e pressiona Trump antes das eleições",
-      "sourceName": "Estadão Internacional",
-      "sourceUrl": "https://www.estadao.com.br/internacional/",
-      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
-      "sourceEditorial": "Jornal tradicional de geopolítica - Conteúdo sob assinatura",
-      "country": "Brasil",
-      "paywall": true,
-      "originalUrl": "https://www.estadao.com.br/internacional/oliver-stuenkel/avanco-dos-houthis-no-iemen-encarece-o-petroleo-e-pressiona-trump-antes-das-eleicoes/",
-      "publishedAtStr": "2026-09-21T09:15:00Z",
-      "publishedAtTs": 1789982100000,
-      "rawContent": "Avanço dos houthis no Iêmen encarece o petróleo e pressiona Trump antes das eleições",
-      "linkStatus": "unknown",
-      "lastChecked": null
-    },
-    {
-      "id": "gdelt-s8y463a",
-      "title": "ONU : Lula defende multilateralismo e reforma do Conselho de Segurança",
-      "sourceName": "CartaCapital",
-      "sourceUrl": "https://www.cartacapital.com.br/",
-      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
-      "sourceEditorial": "Jornalismo progressista - Conteúdo sob assinatura parcial",
-      "country": "Brasil",
-      "paywall": true,
-      "originalUrl": "https://www.cartacapital.com.br/carta-capital/onu-lula-defende-multilateralismo-e-reforma-do-conselho-de-seguranca/",
-      "publishedAtStr": "2026-09-20T21:30:00Z",
-      "publishedAtTs": 1789939800000,
-      "rawContent": "ONU : Lula defende multilateralismo e reforma do Conselho de Segurança",
-      "linkStatus": "unknown",
-      "lastChecked": null
-    },
-    {
-      "id": "gdelt-68g4re5",
-      "title": "Novo avanço da AfD em eleições regionais alemãs abala governo , mas chanceler rejeita renunciar",
-      "sourceName": "CartaCapital",
-      "sourceUrl": "https://www.cartacapital.com.br/",
-      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
-      "sourceEditorial": "Jornalismo progressista - Conteúdo sob assinatura parcial",
-      "country": "Brasil",
-      "paywall": true,
-      "originalUrl": "https://www.cartacapital.com.br/mundo/novo-avanco-da-afd-em-eleicoes-regionais-alemas-abala-governo-mas-chanceler-rejeita-renunciar/",
-      "publishedAtStr": "2026-09-20T21:30:00Z",
-      "publishedAtTs": 1789939800000,
-      "rawContent": "Novo avanço da AfD em eleições regionais alemãs abala governo , mas chanceler rejeita renunciar",
-      "linkStatus": "unknown",
-      "lastChecked": null
-    },
-    {
-      "id": "gdelt-qi7xvpd",
-      "title": "Trump ameaça  explodir o Irã inteiro :  É melhor se comportarem",
-      "sourceName": "Veja Mundo",
-      "sourceUrl": "https://veja.abril.com.br/mundo/",
-      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
-      "sourceEditorial": "Revista semanal - Conteúdo sob assinatura parcial",
-      "country": "Brasil",
-      "paywall": true,
-      "originalUrl": "https://veja.abril.com.br/mundo/donald-trump-ameaca-explodir-o-ira-inteiro-e-melhor-se-comportarem/",
-      "publishedAtStr": "2026-09-20T20:45:00Z",
-      "publishedAtTs": 1789937100000,
-      "rawContent": "Trump ameaça  explodir o Irã inteiro :  É melhor se comportarem",
-      "linkStatus": "unknown",
-      "lastChecked": null
-    },
-    {
-      "id": "gdelt-5t9lmw8",
-      "title": "TSE suspende campanha de Deltan ao Senado pelo Paraná",
-      "sourceName": "InfoMoney",
-      "sourceUrl": "https://www.infomoney.com.br/",
-      "sourceType": "Imprensa Comercial Brasileira",
-      "sourceEditorial": "Portal especializado em mercados e economia global",
-      "country": "Brasil",
-      "paywall": false,
-      "originalUrl": "https://www.infomoney.com.br/politica/tse-suspende-campanha-de-deltan-ao-senado-pelo-parana/",
-      "publishedAtStr": "2026-09-20T19:00:00Z",
-      "publishedAtTs": 1789930800000,
-      "rawContent": "TSE suspende campanha de Deltan ao Senado pelo Paraná",
-      "linkStatus": "unknown",
-      "lastChecked": null
-    },
-    {
-      "id": "gdelt-q1bxrb6",
-      "title": "Trump diz que transformará projeto de  Arco do Triunfo dos EUA  em complexo militar",
-      "sourceName": "InfoMoney",
-      "sourceUrl": "https://www.infomoney.com.br/",
-      "sourceType": "Imprensa Comercial Brasileira",
-      "sourceEditorial": "Portal especializado em mercados e economia global",
-      "country": "Brasil",
-      "paywall": false,
-      "originalUrl": "https://www.infomoney.com.br/mundo/trump-diz-que-transformara-projeto-de-arco-do-triunfo-dos-eua-em-complexo-militar/",
-      "publishedAtStr": "2026-09-20T19:00:00Z",
-      "publishedAtTs": 1789930800000,
-      "rawContent": "Trump diz que transformará projeto de  Arco do Triunfo dos EUA  em complexo militar",
-      "linkStatus": "unknown",
-      "lastChecked": null
-    },
-    {
-      "id": "gdelt-h33vgjm",
-      "title": "Da  química  à lei Magnitsky : a relação entre Brasil e EUA após alerta sobre eleições",
-      "sourceName": "InfoMoney",
-      "sourceUrl": "https://www.infomoney.com.br/",
-      "sourceType": "Imprensa Comercial Brasileira",
-      "sourceEditorial": "Portal especializado em mercados e economia global",
-      "country": "Brasil",
-      "paywall": false,
-      "originalUrl": "https://www.infomoney.com.br/mundo/da-quimica-a-lei-magnitsky-a-relacao-entre-brasil-e-eua-apos-alerta-sobre-eleicoes/",
-      "publishedAtStr": "2026-09-20T19:00:00Z",
-      "publishedAtTs": 1789930800000,
-      "rawContent": "Da  química  à lei Magnitsky : a relação entre Brasil e EUA após alerta sobre eleições",
-      "linkStatus": "unknown",
-      "lastChecked": null
-    },
-    {
-      "id": "gdelt-qc7os59",
-      "title": "Rússia denuncia  potente  ciberataque ao seu sistema eleitoral",
-      "sourceName": "Veja Mundo",
-      "sourceUrl": "https://veja.abril.com.br/mundo/",
-      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
-      "sourceEditorial": "Revista semanal - Conteúdo sob assinatura parcial",
-      "country": "Brasil",
-      "paywall": true,
-      "originalUrl": "https://veja.abril.com.br/mundo/russia-denuncia-potente-ciberataque-ao-seu-sistema-eleitoral/",
-      "publishedAtStr": "2026-09-20T19:00:00Z",
-      "publishedAtTs": 1789930800000,
-      "rawContent": "Rússia denuncia  potente  ciberataque ao seu sistema eleitoral",
-      "linkStatus": "unknown",
-      "lastChecked": null
-    },
-    {
-      "id": "gdelt-fq1zcqs",
-      "title": "Alemães vão às urnas em eleio decisiva para futuro político de Merz",
-      "sourceName": "Veja Mundo",
-      "sourceUrl": "https://veja.abril.com.br/mundo/",
-      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
-      "sourceEditorial": "Revista semanal - Conteúdo sob assinatura parcial",
-      "country": "Brasil",
-      "paywall": true,
-      "originalUrl": "https://veja.abril.com.br/mundo/alemaes-vao-as-urnas-em-eleicao-decisiva-para-futuro-politico-de-merz/",
-      "publishedAtStr": "2026-09-20T19:00:00Z",
-      "publishedAtTs": 1789930800000,
-      "rawContent": "Alemães vão às urnas em eleio decisiva para futuro político de Merz",
-      "linkStatus": "unknown",
-      "lastChecked": null
-    },
-    {
-      "id": "gdelt-xntisqt",
-      "title": "Em crise de popularidade , Trump detalha  Arco do Triunfo  e diz que monumento terá funções militares",
-      "sourceName": "Veja Mundo",
-      "sourceUrl": "https://veja.abril.com.br/mundo/",
-      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
-      "sourceEditorial": "Revista semanal - Conteúdo sob assinatura parcial",
-      "country": "Brasil",
-      "paywall": true,
-      "originalUrl": "https://veja.abril.com.br/mundo/em-crise-de-popularidade-trump-detalha-arco-do-triunfo-e-diz-que-monumento-tera-funcoes-militares/",
-      "publishedAtStr": "2026-09-20T19:00:00Z",
-      "publishedAtTs": 1789930800000,
-      "rawContent": "Em crise de popularidade , Trump detalha  Arco do Triunfo  e diz que monumento terá funções militares",
-      "linkStatus": "unknown",
-      "lastChecked": null
-    },
-    {
-      "id": "gdelt-6yicbdd",
-      "title": "Abin alerta governo e TSE sobre risco de interferência  crítica  dos EUA nas eleições",
-      "sourceName": "InfoMoney",
-      "sourceUrl": "https://www.infomoney.com.br/",
-      "sourceType": "Imprensa Comercial Brasileira",
-      "sourceEditorial": "Portal especializado em mercados e economia global",
-      "country": "Brasil",
-      "paywall": false,
-      "originalUrl": "https://www.infomoney.com.br/politica/abin-alerta-governo-e-tse-sobre-risco-de-interferencia-critica-dos-eua-nas-eleicoes/",
-      "publishedAtStr": "2026-09-20T19:00:00Z",
-      "publishedAtTs": 1789930800000,
-      "rawContent": "Abin alerta governo e TSE sobre risco de interferência  crítica  dos EUA nas eleições",
-      "linkStatus": "unknown",
-      "lastChecked": null
-    },
-    {
-      "id": "gdelt-4oqiuhk",
-      "title": "Irã impõe condio aos EUA para reabertura do Estreito de Ormuz",
-      "sourceName": "Veja Mundo",
-      "sourceUrl": "https://veja.abril.com.br/mundo/",
-      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
-      "sourceEditorial": "Revista semanal - Conteúdo sob assinatura parcial",
-      "country": "Brasil",
-      "paywall": true,
-      "originalUrl": "https://veja.abril.com.br/mundo/ira-impoe-condicao-aos-eua-para-reabertura-do-estreito-de-ormuz/",
-      "publishedAtStr": "2026-09-20T19:00:00Z",
-      "publishedAtTs": 1789930800000,
-      "rawContent": "Irã impõe condio aos EUA para reabertura do Estreito de Ormuz",
-      "linkStatus": "unknown",
-      "lastChecked": null
-    },
-    {
-      "id": "gdelt-gtsb6c6",
-      "title": "Trump diz estar decidindo quando e como explodirá Irã",
-      "sourceName": "InfoMoney",
-      "sourceUrl": "https://www.infomoney.com.br/",
-      "sourceType": "Imprensa Comercial Brasileira",
-      "sourceEditorial": "Portal especializado em mercados e economia global",
-      "country": "Brasil",
-      "paywall": false,
-      "originalUrl": "https://www.infomoney.com.br/mundo/trump-diz-estar-decidindo-quando-e-como-explodira-ira/",
-      "publishedAtStr": "2026-09-20T19:00:00Z",
-      "publishedAtTs": 1789930800000,
-      "rawContent": "Trump diz estar decidindo quando e como explodirá Irã",
-      "linkStatus": "unknown",
-      "lastChecked": null
-    },
-    {
-      "id": "gdelt-g4i662m",
-      "title": "Pesquisa identifica oito planetas candidatos a ter vida extraterrestre",
-      "sourceName": "CartaCapital",
-      "sourceUrl": "https://www.cartacapital.com.br/",
-      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
-      "sourceEditorial": "Jornalismo progressista - Conteúdo sob assinatura parcial",
-      "country": "Brasil",
-      "paywall": true,
-      "originalUrl": "https://www.cartacapital.com.br/carta-capital/pesquisa-identifica-oito-planetas-candidatos-a-ter-vida-extraterrestre/",
-      "publishedAtStr": "2026-09-20T16:30:00Z",
-      "publishedAtTs": 1789921800000,
-      "rawContent": "Pesquisa identifica oito planetas candidatos a ter vida extraterrestre",
-      "linkStatus": "unknown",
-      "lastChecked": null
-    },
-    {
-      "id": "gdelt-zkyi08z",
-      "title": "Quem move o empreendedorismo da venda direta ? – CartaCapital",
-      "sourceName": "CartaCapital",
-      "sourceUrl": "https://www.cartacapital.com.br/",
-      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
-      "sourceEditorial": "Jornalismo progressista - Conteúdo sob assinatura parcial",
-      "country": "Brasil",
-      "paywall": true,
-      "originalUrl": "https://www.cartacapital.com.br/do-micro-ao-macro/empreendedorismo-na-venda-direta/",
-      "publishedAtStr": "2026-09-20T16:30:00Z",
-      "publishedAtTs": 1789921800000,
-      "rawContent": "Quem move o empreendedorismo da venda direta ? – CartaCapital",
-      "linkStatus": "unknown",
-      "lastChecked": null
-    },
-    {
-      "id": "gdelt-iifwkdx",
-      "title": "Aposentado ou pensionista que votar não precisará fazer Prova de Vida",
-      "sourceName": "CartaCapital",
-      "sourceUrl": "https://www.cartacapital.com.br/",
-      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
-      "sourceEditorial": "Jornalismo progressista - Conteúdo sob assinatura parcial",
-      "country": "Brasil",
-      "paywall": true,
-      "originalUrl": "https://www.cartacapital.com.br/politica/aposentado-ou-pensionista-que-votar-nao-precisara-fazer-prova-de-vida/",
-      "publishedAtStr": "2026-09-20T16:30:00Z",
-      "publishedAtTs": 1789921800000,
-      "rawContent": "Aposentado ou pensionista que votar não precisará fazer Prova de Vida",
-      "linkStatus": "unknown",
-      "lastChecked": null
-    },
-    {
-      "id": "gdelt-rf99new",
-      "title": "Do clássico a versões diferentes : 3 receitas de brownie para a sobremesa de domingo – CartaCapital",
-      "sourceName": "CartaCapital",
-      "sourceUrl": "https://www.cartacapital.com.br/",
-      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
-      "sourceEditorial": "Jornalismo progressista - Conteúdo sob assinatura parcial",
-      "country": "Brasil",
-      "paywall": true,
-      "originalUrl": "https://www.cartacapital.com.br/receitas/do-classico-a-versoes-diferentes-3-receitas-de-brownie-para-a-sobremesa-de-domingo/",
-      "publishedAtStr": "2026-09-20T16:30:00Z",
-      "publishedAtTs": 1789921800000,
-      "rawContent": "Do clássico a versões diferentes : 3 receitas de brownie para a sobremesa de domingo – CartaCapital",
-      "linkStatus": "unknown",
-      "lastChecked": null
-    },
-    {
-      "id": "gdelt-ihnsd9a",
-      "title": "Eleições regionais na Alemanha neste domingo podem abalar governo de Merz ; entenda cenário",
-      "sourceName": "Estadão Internacional",
-      "sourceUrl": "https://www.estadao.com.br/internacional/",
-      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
-      "sourceEditorial": "Jornal tradicional de geopolítica - Conteúdo sob assinatura",
-      "country": "Brasil",
-      "paywall": true,
-      "originalUrl": "https://www.estadao.com.br/internacional/eleicoes-regionais-na-alemanha-podem-abalar-governo-de-merz-entenda-cenario-npr/",
-      "publishedAtStr": "2026-09-20T15:45:00Z",
-      "publishedAtTs": 1789919100000,
-      "rawContent": "Eleições regionais na Alemanha neste domingo podem abalar governo de Merz ; entenda cenário",
-      "linkStatus": "unknown",
-      "lastChecked": null
-    },
-    {
-      "id": "gdelt-yjvw5yd",
-      "title": "Como Trump arruinou o Kennedy Center , instituio bipartidária de cinco décadas",
-      "sourceName": "Estadão Internacional",
-      "sourceUrl": "https://www.estadao.com.br/internacional/",
-      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
-      "sourceEditorial": "Jornal tradicional de geopolítica - Conteúdo sob assinatura",
-      "country": "Brasil",
-      "paywall": true,
-      "originalUrl": "https://www.estadao.com.br/internacional/como-trump-arruinou-o-kennedy-center-instituicao-bipartidaria-de-cinco-decadas/",
-      "publishedAtStr": "2026-09-20T15:45:00Z",
-      "publishedAtTs": 1789919100000,
-      "rawContent": "Como Trump arruinou o Kennedy Center , instituio bipartidária de cinco décadas",
-      "linkStatus": "unknown",
-      "lastChecked": null
-    },
-    {
-      "id": "gdelt-ocnot2t",
-      "title": "Brasileiro fala de dívidas e sonhos ; mercado insiste em vender produtos",
-      "sourceName": "InfoMoney",
-      "sourceUrl": "https://www.infomoney.com.br/",
-      "sourceType": "Imprensa Comercial Brasileira",
-      "sourceEditorial": "Portal especializado em mercados e economia global",
-      "country": "Brasil",
-      "paywall": false,
-      "originalUrl": "https://www.infomoney.com.br/minhas-financas/brasileiro-fala-de-dividas-e-sonhos-mercado-insiste-em-vender-produtos/",
-      "publishedAtStr": "2026-09-20T14:15:00Z",
-      "publishedAtTs": 1789913700000,
-      "rawContent": "Brasileiro fala de dívidas e sonhos ; mercado insiste em vender produtos",
-      "linkStatus": "unknown",
-      "lastChecked": null
-    },
-    {
-      "id": "gdelt-uz2i8dm",
-      "title": "Se a IA facilita criar software , por que Microsoft e SAP continuam tão fortes ?",
-      "sourceName": "InfoMoney",
-      "sourceUrl": "https://www.infomoney.com.br/",
-      "sourceType": "Imprensa Comercial Brasileira",
-      "sourceEditorial": "Portal especializado em mercados e economia global",
-      "country": "Brasil",
-      "paywall": false,
-      "originalUrl": "https://www.infomoney.com.br/onde-investir/microsoft-sap-inteligencia-artificial-software/",
-      "publishedAtStr": "2026-09-20T14:15:00Z",
-      "publishedAtTs": 1789913700000,
-      "rawContent": "Se a IA facilita criar software , por que Microsoft e SAP continuam tão fortes ?",
-      "linkStatus": "unknown",
-      "lastChecked": null
-    },
-    {
-      "id": "gdelt-oo0m0gy",
-      "title": "O gelato que quer ser bilionário : a receita da Borelli para crescer sem virar sorvete",
-      "sourceName": "InfoMoney",
-      "sourceUrl": "https://www.infomoney.com.br/",
-      "sourceType": "Imprensa Comercial Brasileira",
-      "sourceEditorial": "Portal especializado em mercados e economia global",
-      "country": "Brasil",
-      "paywall": false,
-      "originalUrl": "https://www.infomoney.com.br/business/o-gelato-que-quer-ser-bilionario-a-receita-da-borelli-para-crescer-sem-virar-sorvete/",
-      "publishedAtStr": "2026-09-20T14:15:00Z",
-      "publishedAtTs": 1789913700000,
-      "rawContent": "O gelato que quer ser bilionário : a receita da Borelli para crescer sem virar sorvete",
-      "linkStatus": "unknown",
-      "lastChecked": null
-    },
-    {
-      "id": "gdelt-vy10jhm",
-      "title": "Golpes chegam ao sistema de pontos e milhas ; saiba como evitar a fraude",
-      "sourceName": "InfoMoney",
-      "sourceUrl": "https://www.infomoney.com.br/",
-      "sourceType": "Imprensa Comercial Brasileira",
-      "sourceEditorial": "Portal especializado em mercados e economia global",
-      "country": "Brasil",
-      "paywall": false,
-      "originalUrl": "https://www.infomoney.com.br/minhas-financas/golpes-chegam-ao-sistema-de-pontos-e-milhas-saiba-como-evitar-a-fraude/",
-      "publishedAtStr": "2026-09-20T14:15:00Z",
-      "publishedAtTs": 1789913700000,
-      "rawContent": "Golpes chegam ao sistema de pontos e milhas ; saiba como evitar a fraude",
-      "linkStatus": "unknown",
-      "lastChecked": null
-    },
-    {
-      "id": "gdelt-a8p8jlh",
-      "title": "Ucrânia faz grande ataque contra a Rússia com uso inédito de mísseis balísticos",
-      "sourceName": "Veja Mundo",
-      "sourceUrl": "https://veja.abril.com.br/mundo/",
-      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
-      "sourceEditorial": "Revista semanal - Conteúdo sob assinatura parcial",
-      "country": "Brasil",
-      "paywall": true,
-      "originalUrl": "https://veja.abril.com.br/mundo/ucrania-faz-grande-ataque-contra-a-russia-com-uso-inedito-de-misseis-balisticos/",
-      "publishedAtStr": "2026-09-20T14:00:00Z",
-      "publishedAtTs": 1789912800000,
-      "rawContent": "Ucrânia faz grande ataque contra a Rússia com uso inédito de mísseis balísticos",
-      "linkStatus": "unknown",
-      "lastChecked": null
-    },
-    {
-      "id": "gdelt-2t4l5xc",
-      "title": "Como Trump e Xi Jinping podem usar encontro nos EUA para evoluir em IA",
-      "sourceName": "Estadão Internacional",
-      "sourceUrl": "https://www.estadao.com.br/internacional/",
-      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
-      "sourceEditorial": "Jornal tradicional de geopolítica - Conteúdo sob assinatura",
-      "country": "Brasil",
-      "paywall": true,
-      "originalUrl": "https://www.estadao.com.br/internacional/como-trump-e-xi-jinping-podem-usar-encontro-nos-eua-para-evoluir-em-ia/",
-      "publishedAtStr": "2026-09-20T13:45:00Z",
-      "publishedAtTs": 1789911900000,
-      "rawContent": "Como Trump e Xi Jinping podem usar encontro nos EUA para evoluir em IA",
-      "linkStatus": "unknown",
-      "lastChecked": null
-    },
-    {
-      "id": "gdelt-11nvbpm",
-      "title": "Coreia do Norte dispara 2º projétil no Mar do Leste",
-      "sourceName": "Estadão Internacional",
-      "sourceUrl": "https://www.estadao.com.br/internacional/",
-      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
-      "sourceEditorial": "Jornal tradicional de geopolítica - Conteúdo sob assinatura",
-      "country": "Brasil",
-      "paywall": true,
-      "originalUrl": "https://www.estadao.com.br/internacional/coreia-do-norte-dispara-2-projetil-no-mar-do-leste-npr/",
-      "publishedAtStr": "2026-09-20T13:45:00Z",
-      "publishedAtTs": 1789911900000,
-      "rawContent": "Coreia do Norte dispara 2º projétil no Mar do Leste",
-      "linkStatus": "unknown",
-      "lastChecked": null
-    },
-    {
-      "id": "gdelt-7abkvge",
-      "title": "Deputada federal denuncia ataque com explosivo durante campanha no ES",
-      "sourceName": "CartaCapital",
-      "sourceUrl": "https://www.cartacapital.com.br/",
-      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
-      "sourceEditorial": "Jornalismo progressista - Conteúdo sob assinatura parcial",
-      "country": "Brasil",
-      "paywall": true,
-      "originalUrl": "https://www.cartacapital.com.br/cartaexpressa/deputada-federal-denuncia-ataque-com-explosivo-durante-campanha-no-es/",
-      "publishedAtStr": "2026-09-20T03:00:00Z",
-      "publishedAtTs": 1789873200000,
-      "rawContent": "Deputada federal denuncia ataque com explosivo durante campanha no ES",
-      "linkStatus": "unknown",
-      "lastChecked": null
-    },
-    {
-      "id": "gdelt-1jzgonf",
-      "title": "Terras raras , rota naval e gelo derretendo : por que Trump quer a Groenlândia a qualquer custo",
-      "sourceName": "Estadão Internacional",
-      "sourceUrl": "https://www.estadao.com.br/internacional/",
-      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
-      "sourceEditorial": "Jornal tradicional de geopolítica - Conteúdo sob assinatura",
-      "country": "Brasil",
-      "paywall": true,
-      "originalUrl": "https://www.estadao.com.br/internacional/terras-raras-rota-naval-e-gelo-derretendo-por-que-trump-quer-a-groenlandia-a-qualquer-custo/",
-      "publishedAtStr": "2026-09-20T00:15:00Z",
-      "publishedAtTs": 1789863300000,
-      "rawContent": "Terras raras , rota naval e gelo derretendo : por que Trump quer a Groenlândia a qualquer custo",
-      "linkStatus": "unknown",
-      "lastChecked": null
+      "linkStatus": "active",
+      "lastChecked": 1790073198508
     }
   ]
 }
