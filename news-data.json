@@ -1,80 +1,16 @@
 {
-  "updatedAt": "2026-09-23T19:29:44.715Z",
+  "updatedAt": "2026-09-23T19:45:24.778Z",
   "periodUsed": "24h",
-  "count": 56,
+  "count": 27,
   "linkVerificationStats": {
-    "checkedThisRun": 3,
-    "active": 3,
+    "checkedThisRun": 0,
+    "active": 0,
     "broken": 0,
     "unknown": 0
   },
   "articles": [
     {
-      "id": "gdelt-i8j99cp",
-      "title": "Zelensky acusa Rússia de usar soldados de 47 países na guerra",
-      "sourceName": "G1 Mundo",
-      "sourceUrl": "https://g1.globo.com/mundo/",
-      "sourceType": "Imprensa Comercial Brasileira",
-      "sourceEditorial": "Portal de notícias mainstream do Grupo Globo",
-      "country": "Brasil",
-      "paywall": false,
-      "originalUrl": "https://g1.globo.com/mundo/noticia/2026/09/23/presidente-da-ucrania-volodymyr-zelensky-inicia-seu-discurso-na-assembleia-geral-da-onu.ghtml",
-      "publishedAtStr": "2026-09-23T19:00:00Z",
-      "publishedAtTs": 1790190000000,
-      "rawContent": "Zelensky acusa Rússia de usar soldados de 47 países na guerra",
-      "linkStatus": "active",
-      "lastChecked": 1790191779653
-    },
-    {
-      "id": "gdelt-w41nh16",
-      "title": "Argentina sob Milei fecha 31 mil empresas e 245 mil empregos formais",
-      "sourceName": "Agência Brasil",
-      "sourceUrl": "https://agenciabrasil.ebc.com.br/internacional",
-      "sourceType": "Agência Estatal",
-      "sourceEditorial": "Agência pública de notícias da EBC (Governo Federal)",
-      "country": "Brasil",
-      "paywall": false,
-      "originalUrl": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-09/argentina-sob-milei-fecha-31-mil-empresas-e-245-mil-empregos-formais",
-      "publishedAtStr": "2026-09-23T19:00:00Z",
-      "publishedAtTs": 1790190000000,
-      "rawContent": "Argentina sob Milei fecha 31 mil empresas e 245 mil empregos formais",
-      "linkStatus": "active",
-      "lastChecked": 1790191779653
-    },
-    {
-      "id": "gdelt-iaqa9ke",
-      "title": "Defesa de Lindsay Clancy , mulher acusada de matar os três filhos nos EUA , pede investigação de jurado que impediu veredito",
-      "sourceName": "O Globo Mundo",
-      "sourceUrl": "https://oglobo.globo.com/mundo/",
-      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
-      "sourceEditorial": "Jornal diário (Grupo Globo) - Conteúdo sob assinatura",
-      "country": "Brasil",
-      "paywall": true,
-      "originalUrl": "https://oglobo.globo.com/mundo/noticia/2026/09/23/defesa-de-lindsay-clancy-mulher-acusada-de-matar-os-tres-filhos-nos-eua-pede-investigacao-de-jurado-que-impediu-veredito.ghtml",
-      "publishedAtStr": "2026-09-23T19:00:00Z",
-      "publishedAtTs": 1790190000000,
-      "rawContent": "Defesa de Lindsay Clancy , mulher acusada de matar os três filhos nos EUA , pede investigação de jurado que impediu veredito",
-      "linkStatus": "active",
-      "lastChecked": 1790191779653
-    },
-    {
-      "id": "gdelt-odnngdf",
-      "title": "EUA e Irã trocam acusações na ONU enquanto retomam negociaes",
-      "sourceName": "G1 Mundo",
-      "sourceUrl": "https://g1.globo.com/mundo/",
-      "sourceType": "Imprensa Comercial Brasileira",
-      "sourceEditorial": "Portal de notícias mainstream do Grupo Globo",
-      "country": "Brasil",
-      "paywall": false,
-      "originalUrl": "https://g1.globo.com/mundo/noticia/2026/09/23/terrorista-aniquilar-para-o-inferno-eua-e-ira-trocam-acusacoes-no-pulpito-da-onu-mas-negociam-fim-da-guerra-nos-bastidores.ghtml",
-      "publishedAtStr": "2026-09-23T18:15:00Z",
-      "publishedAtTs": 1790187300000,
-      "rawContent": "EUA e Irã trocam acusações na ONU enquanto retomam negociaes",
-      "linkStatus": "active",
-      "lastChecked": 1790190195014
-    },
-    {
-      "id": "gdelt-yx95fei",
+      "id": "gdelt-ntsnpat",
       "title": "Milei diz que ONU é órgão inútil que alimenta casta de parasitas e defende interesse nas Malvinas",
       "sourceName": "Estadão Internacional",
       "sourceUrl": "https://www.estadao.com.br/internacional/",
@@ -90,7 +26,7 @@
       "lastChecked": 1790190922923
     },
     {
-      "id": "gdelt-39h1sxz",
+      "id": "gdelt-g3w89wj",
       "title": "Modelo brasileira é encontrada morta escondida no carro do ex - namorado na França",
       "sourceName": "Veja Mundo",
       "sourceUrl": "https://veja.abril.com.br/mundo/",
@@ -106,7 +42,7 @@
       "lastChecked": 1790190922923
     },
     {
-      "id": "gdelt-2xdwucl",
+      "id": "gdelt-6dbce0c",
       "title": "Milei chama ONU de  inútil  e volta a reivindicar soberania sobre Malvinas em discurso",
       "sourceName": "Veja Mundo",
       "sourceUrl": "https://veja.abril.com.br/mundo/",
@@ -122,39 +58,7 @@
       "lastChecked": 1790190922923
     },
     {
-      "id": "gdelt-7i8o8m2",
-      "title": "Milei faz discurso na Assembleia Geral da ONU",
-      "sourceName": "G1 Mundo",
-      "sourceUrl": "https://g1.globo.com/mundo/",
-      "sourceType": "Imprensa Comercial Brasileira",
-      "sourceEditorial": "Portal de notícias mainstream do Grupo Globo",
-      "country": "Brasil",
-      "paywall": false,
-      "originalUrl": "https://g1.globo.com/mundo/noticia/2026/09/23/milei-faz-discurso-na-assembleia-geral-da-onu.ghtml",
-      "publishedAtStr": "2026-09-23T15:30:00Z",
-      "publishedAtTs": 1790177400000,
-      "rawContent": "Milei faz discurso na Assembleia Geral da ONU",
-      "linkStatus": "active",
-      "lastChecked": 1790187532619
-    },
-    {
-      "id": "gdelt-awtws1g",
-      "title": "Homem encontra tesouro de moedas romanas do século II na Alemanha",
-      "sourceName": "G1 Mundo",
-      "sourceUrl": "https://g1.globo.com/mundo/",
-      "sourceType": "Imprensa Comercial Brasileira",
-      "sourceEditorial": "Portal de notícias mainstream do Grupo Globo",
-      "country": "Brasil",
-      "paywall": false,
-      "originalUrl": "https://g1.globo.com/mundo/noticia/2026/09/23/homem-encontra-tesouro-moedas-romanas-alemanha.ghtml",
-      "publishedAtStr": "2026-09-23T12:30:00Z",
-      "publishedAtTs": 1790166600000,
-      "rawContent": "Homem encontra tesouro de moedas romanas do século II na Alemanha",
-      "linkStatus": "active",
-      "lastChecked": 1790187532619
-    },
-    {
-      "id": "gdelt-4uxu52f",
+      "id": "gdelt-n9k6ok2",
       "title": "Ray Dalio : IA será  milagrosa , mas criará uma bolha  devastadora",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -170,103 +74,7 @@
       "lastChecked": 1790190922923
     },
     {
-      "id": "gdelt-gxib4ww",
-      "title": "Ouça e saiba como foi feito o primeiro áudio que se tem registro , com voz de oficial alemão em 1889",
-      "sourceName": "O Globo Mundo",
-      "sourceUrl": "https://oglobo.globo.com/mundo/",
-      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
-      "sourceEditorial": "Jornal diário (Grupo Globo) - Conteúdo sob assinatura",
-      "country": "Brasil",
-      "paywall": true,
-      "originalUrl": "https://oglobo.globo.com/mundo/epoca/noticia/2026/09/23/ouca-e-saiba-como-foi-feito-o-primeiro-audio-que-se-tem-registro-com-voz-de-oficial-alemao-em-1889.ghtml",
-      "publishedAtStr": "2026-09-23T09:00:00Z",
-      "publishedAtTs": 1790154000000,
-      "rawContent": "Ouça e saiba como foi feito o primeiro áudio que se tem registro , com voz de oficial alemão em 1889",
-      "linkStatus": "active",
-      "lastChecked": 1790187532619
-    },
-    {
-      "id": "gdelt-3snt75e",
-      "title": "Cubo mágico : chinesa de 6 anos bate recorde mundial duas vezes",
-      "sourceName": "BBC News Brasil",
-      "sourceUrl": "https://www.bbc.com/portuguese",
-      "sourceType": "Imprensa Internacional / Pública",
-      "sourceEditorial": "Emissora pública do Reino Unido; jornalismo global independente",
-      "country": "Reino Unido",
-      "paywall": false,
-      "originalUrl": "https://www.bbc.com/portuguese/articles/cm9qr211nezno",
-      "publishedAtStr": "2026-09-23T08:30:00Z",
-      "publishedAtTs": 1790152200000,
-      "rawContent": "Cubo mágico : chinesa de 6 anos bate recorde mundial duas vezes",
-      "linkStatus": "active",
-      "lastChecked": 1790187532619
-    },
-    {
-      "id": "gdelt-zv7epr0",
-      "title": "Os deepfakes que tentam te enganar e gerar dinheiro",
-      "sourceName": "BBC News Brasil",
-      "sourceUrl": "https://www.bbc.com/portuguese",
-      "sourceType": "Imprensa Internacional / Pública",
-      "sourceEditorial": "Emissora pública do Reino Unido; jornalismo global independente",
-      "country": "Reino Unido",
-      "paywall": false,
-      "originalUrl": "https://www.bbc.com/portuguese/articles/c8ly4r164eydo",
-      "publishedAtStr": "2026-09-23T08:30:00Z",
-      "publishedAtTs": 1790152200000,
-      "rawContent": "Os deepfakes que tentam te enganar e gerar dinheiro",
-      "linkStatus": "active",
-      "lastChecked": 1790187532619
-    },
-    {
-      "id": "gdelt-tt857gx",
-      "title": "Urna eletrônica : Só Brasil , Cuba e Venezuela usam ?",
-      "sourceName": "BBC News Brasil",
-      "sourceUrl": "https://www.bbc.com/portuguese",
-      "sourceType": "Imprensa Internacional / Pública",
-      "sourceEditorial": "Emissora pública do Reino Unido; jornalismo global independente",
-      "country": "Reino Unido",
-      "paywall": false,
-      "originalUrl": "https://www.bbc.com/portuguese/articles/cm8xk2rg1qxdo",
-      "publishedAtStr": "2026-09-23T08:30:00Z",
-      "publishedAtTs": 1790152200000,
-      "rawContent": "Urna eletrônica : Só Brasil , Cuba e Venezuela usam ?",
-      "linkStatus": "active",
-      "lastChecked": 1790187532619
-    },
-    {
-      "id": "gdelt-urbnlka",
-      "title": "Igreja Católica do Panamá admite casos de abuso sexual contra menores e vulneráveis",
-      "sourceName": "O Globo Mundo",
-      "sourceUrl": "https://oglobo.globo.com/mundo/",
-      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
-      "sourceEditorial": "Jornal diário (Grupo Globo) - Conteúdo sob assinatura",
-      "country": "Brasil",
-      "paywall": true,
-      "originalUrl": "https://oglobo.globo.com/mundo/noticia/2026/09/23/igreja-catolica-do-panama-admite-casos-de-abuso-sexual-contra-menores-e-vulneraveis.ghtml",
-      "publishedAtStr": "2026-09-23T06:45:00Z",
-      "publishedAtTs": 1790145900000,
-      "rawContent": "Igreja Católica do Panamá admite casos de abuso sexual contra menores e vulneráveis",
-      "linkStatus": "active",
-      "lastChecked": 1790187532619
-    },
-    {
-      "id": "gdelt-3l65fbu",
-      "title": "Foto de ave mergulhando como um  torpedo  vence concurso internacional de fotografia de 2026",
-      "sourceName": "O Globo Mundo",
-      "sourceUrl": "https://oglobo.globo.com/mundo/",
-      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
-      "sourceEditorial": "Jornal diário (Grupo Globo) - Conteúdo sob assinatura",
-      "country": "Brasil",
-      "paywall": true,
-      "originalUrl": "https://oglobo.globo.com/mundo/epoca/noticia/2026/09/23/foto-de-ave-mergulhando-como-um-torpedo-vence-concurso-internacional-de-fotografia-de-2026.ghtml",
-      "publishedAtStr": "2026-09-23T06:45:00Z",
-      "publishedAtTs": 1790145900000,
-      "rawContent": "Foto de ave mergulhando como um  torpedo  vence concurso internacional de fotografia de 2026",
-      "linkStatus": "active",
-      "lastChecked": 1790187532619
-    },
-    {
-      "id": "gdelt-zsqmqsq",
+      "id": "gdelt-559ixw2",
       "title": "União Europeia renova sanções contra Moscou , mas concorda em isentar dois oligarcas russos",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -282,7 +90,7 @@
       "lastChecked": 1790190922923
     },
     {
-      "id": "gdelt-c2pexgu",
+      "id": "gdelt-wf1ms89",
       "title": "TRE - DF recua e libera propaganda de Michelle com imagem de Bolsonaro",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -298,167 +106,7 @@
       "lastChecked": 1790190922923
     },
     {
-      "id": "gdelt-jou16nt",
-      "title": "Escudo das Américas : quem são os membros de aliança do governo Trump",
-      "sourceName": "G1 Mundo",
-      "sourceUrl": "https://g1.globo.com/mundo/",
-      "sourceType": "Imprensa Comercial Brasileira",
-      "sourceEditorial": "Portal de notícias mainstream do Grupo Globo",
-      "country": "Brasil",
-      "paywall": false,
-      "originalUrl": "https://g1.globo.com/mundo/noticia/2026/09/23/escudo-das-americas-quem-sao-os-membros-de-alianca-do-governo-trump-que-anunciou-sancoes-contra-faccoes-brasileiras.ghtml",
-      "publishedAtStr": "2026-09-23T05:45:00Z",
-      "publishedAtTs": 1790142300000,
-      "rawContent": "Escudo das Américas : quem são os membros de aliança do governo Trump",
-      "linkStatus": "active",
-      "lastChecked": 1790187532619
-    },
-    {
-      "id": "gdelt-jwu8uef",
-      "title": "Ataque a tiros mata 11 pessoas na África do Sul ; grávida está entre as vítimas",
-      "sourceName": "G1 Mundo",
-      "sourceUrl": "https://g1.globo.com/mundo/",
-      "sourceType": "Imprensa Comercial Brasileira",
-      "sourceEditorial": "Portal de notícias mainstream do Grupo Globo",
-      "country": "Brasil",
-      "paywall": false,
-      "originalUrl": "https://g1.globo.com/mundo/noticia/2026/09/23/ataque-a-tiros-na-africa-do-sul.ghtml",
-      "publishedAtStr": "2026-09-23T05:45:00Z",
-      "publishedAtTs": 1790142300000,
-      "rawContent": "Ataque a tiros mata 11 pessoas na África do Sul ; grávida está entre as vítimas",
-      "linkStatus": "active",
-      "lastChecked": 1790187532619
-    },
-    {
-      "id": "gdelt-mqbrp35",
-      "title": "María Corina Machado foi impedida de voltar à Venezuela , diz partido",
-      "sourceName": "G1 Mundo",
-      "sourceUrl": "https://g1.globo.com/mundo/",
-      "sourceType": "Imprensa Comercial Brasileira",
-      "sourceEditorial": "Portal de notícias mainstream do Grupo Globo",
-      "country": "Brasil",
-      "paywall": false,
-      "originalUrl": "https://g1.globo.com/mundo/noticia/2026/09/23/maria-corina-machado-foi-impedida-de-voltar-a-venezuela-diz-partido.ghtml",
-      "publishedAtStr": "2026-09-23T05:45:00Z",
-      "publishedAtTs": 1790142300000,
-      "rawContent": "María Corina Machado foi impedida de voltar à Venezuela , diz partido",
-      "linkStatus": "active",
-      "lastChecked": 1790187532619
-    },
-    {
-      "id": "gdelt-s5pu5ow",
-      "title": "EUA e Guatemala anunciam aliança de promotores para enfrentar  narcopolíticos",
-      "sourceName": "O Globo Mundo",
-      "sourceUrl": "https://oglobo.globo.com/mundo/",
-      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
-      "sourceEditorial": "Jornal diário (Grupo Globo) - Conteúdo sob assinatura",
-      "country": "Brasil",
-      "paywall": true,
-      "originalUrl": "https://oglobo.globo.com/mundo/noticia/2026/09/23/eua-e-guatemala-anunciam-alianca-de-promotores-para-enfrentar-narcopoliticos.ghtml",
-      "publishedAtStr": "2026-09-23T04:15:00Z",
-      "publishedAtTs": 1790136900000,
-      "rawContent": "EUA e Guatemala anunciam aliança de promotores para enfrentar  narcopolíticos",
-      "linkStatus": "active",
-      "lastChecked": 1790187532619
-    },
-    {
-      "id": "gdelt-f7wwi7j",
-      "title": "Secretários de Estado dos EUA e da Rússia , Rubio e Lavrov se reunirão durante Assembleia da ONU",
-      "sourceName": "O Globo Mundo",
-      "sourceUrl": "https://oglobo.globo.com/mundo/",
-      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
-      "sourceEditorial": "Jornal diário (Grupo Globo) - Conteúdo sob assinatura",
-      "country": "Brasil",
-      "paywall": true,
-      "originalUrl": "https://oglobo.globo.com/mundo/noticia/2026/09/22/secretarios-de-estado-dos-eua-e-da-russia-rubio-e-lavrov-se-reunirao-durante-assembleia-da-onu.ghtml",
-      "publishedAtStr": "2026-09-23T04:15:00Z",
-      "publishedAtTs": 1790136900000,
-      "rawContent": "Secretários de Estado dos EUA e da Rússia , Rubio e Lavrov se reunirão durante Assembleia da ONU",
-      "linkStatus": "active",
-      "lastChecked": 1790187532619
-    },
-    {
-      "id": "gdelt-j4ne94h",
-      "title": "Inimigo interno : Depois de assassinato de Charlie Kirk ,  terrorismo doméstico  vira arma de Trump contra a dissidência",
-      "sourceName": "O Globo Mundo",
-      "sourceUrl": "https://oglobo.globo.com/mundo/",
-      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
-      "sourceEditorial": "Jornal diário (Grupo Globo) - Conteúdo sob assinatura",
-      "country": "Brasil",
-      "paywall": true,
-      "originalUrl": "https://oglobo.globo.com/mundo/noticia/2026/09/23/inimigo-interno-depois-de-assassinato-de-charlie-kirk-terrorismo-domestico-vira-arma-de-trump-contra-a-dissidencia.ghtml",
-      "publishedAtStr": "2026-09-23T04:15:00Z",
-      "publishedAtTs": 1790136900000,
-      "rawContent": "Inimigo interno : Depois de assassinato de Charlie Kirk ,  terrorismo doméstico  vira arma de Trump contra a dissidência",
-      "linkStatus": "active",
-      "lastChecked": 1790187532619
-    },
-    {
-      "id": "gdelt-kjso2ne",
-      "title": "Xi chega a Washington nesta terça - feira para encontro com Trump",
-      "sourceName": "G1 Mundo",
-      "sourceUrl": "https://g1.globo.com/mundo/",
-      "sourceType": "Imprensa Comercial Brasileira",
-      "sourceEditorial": "Portal de notícias mainstream do Grupo Globo",
-      "country": "Brasil",
-      "paywall": false,
-      "originalUrl": "https://g1.globo.com/mundo/noticia/2026/09/23/xi-chega-a-washington-nesta-terca-feira-para-encontro-com-trump-com-ia-e-taiwan-no-radar.ghtml",
-      "publishedAtStr": "2026-09-23T03:45:00Z",
-      "publishedAtTs": 1790135100000,
-      "rawContent": "Xi chega a Washington nesta terça - feira para encontro com Trump",
-      "linkStatus": "active",
-      "lastChecked": 1790187532619
-    },
-    {
-      "id": "gdelt-0s8ehso",
-      "title": "Pacto secreto entre Trump e Bukele fez migrantes desaparecerem em prisão de segurança máxima",
-      "sourceName": "G1 Mundo",
-      "sourceUrl": "https://g1.globo.com/mundo/",
-      "sourceType": "Imprensa Comercial Brasileira",
-      "sourceEditorial": "Portal de notícias mainstream do Grupo Globo",
-      "country": "Brasil",
-      "paywall": false,
-      "originalUrl": "https://g1.globo.com/mundo/noticia/2026/09/23/pacto-secreto-entre-trump-e-bukele-fez-migrantes-desaparecerem-em-prisao-de-seguranca-maxima.ghtml",
-      "publishedAtStr": "2026-09-23T03:45:00Z",
-      "publishedAtTs": 1790135100000,
-      "rawContent": "Pacto secreto entre Trump e Bukele fez migrantes desaparecerem em prisão de segurança máxima",
-      "linkStatus": "active",
-      "lastChecked": 1790187532619
-    },
-    {
-      "id": "gdelt-no5e9f1",
-      "title": "Mulher de 65 anos united states IA , finge ser médica e dá golpe de R$ 130 mil",
-      "sourceName": "G1 Mundo",
-      "sourceUrl": "https://g1.globo.com/mundo/",
-      "sourceType": "Imprensa Comercial Brasileira",
-      "sourceEditorial": "Portal de notícias mainstream do Grupo Globo",
-      "country": "Brasil",
-      "paywall": false,
-      "originalUrl": "https://g1.globo.com/mundo/noticia/2026/09/23/mulher-de-65-anos-usa-ia-para-fingir-ser-medica-e-da-golpe-de-r-130-mil-em-empresario.ghtml",
-      "publishedAtStr": "2026-09-23T03:45:00Z",
-      "publishedAtTs": 1790135100000,
-      "rawContent": "Mulher de 65 anos united states IA , finge ser médica e dá golpe de R$ 130 mil",
-      "linkStatus": "active",
-      "lastChecked": 1790187532619
-    },
-    {
-      "id": "gdelt-7c9u7s1",
-      "title": "ONU alerta para uso de violência sexual como arma de guerra na Ucrânia",
-      "sourceName": "G1 Mundo",
-      "sourceUrl": "https://g1.globo.com/mundo/",
-      "sourceType": "Imprensa Comercial Brasileira",
-      "sourceEditorial": "Portal de notícias mainstream do Grupo Globo",
-      "country": "Brasil",
-      "paywall": false,
-      "originalUrl": "https://g1.globo.com/mundo/noticia/2026/09/23/onu-alerta-para-uso-de-violencia-sexual-como-arma-de-guerra-na-ucrania.ghtml",
-      "publishedAtStr": "2026-09-23T03:45:00Z",
-      "publishedAtTs": 1790135100000,
-      "rawContent": "ONU alerta para uso de violência sexual como arma de guerra na Ucrânia",
-      "linkStatus": "active",
-      "lastChecked": 1790187532619
-    },
-    {
-      "id": "gdelt-hkeqs27",
+      "id": "gdelt-v5z9gcj",
       "title": "Aliados latino - americanos de Trump assinam sanes contra  narcoterrorista , incluindo PCC e CV",
       "sourceName": "Estadão Internacional",
       "sourceUrl": "https://www.estadao.com.br/internacional/",
@@ -474,7 +122,7 @@
       "lastChecked": 1790190922923
     },
     {
-      "id": "gdelt-v1mmntf",
+      "id": "gdelt-chjslis",
       "title": "Primeiro - ministro do Reino Unido critica a Rússia e defende colaboração em regras para IA",
       "sourceName": "Estadão Internacional",
       "sourceUrl": "https://www.estadao.com.br/internacional/",
@@ -490,23 +138,7 @@
       "lastChecked": 1790190922923
     },
     {
-      "id": "gdelt-m7bueif",
-      "title": "Liderados por Trump , 14 países da região se comprometem a combater faces e cartéis ; documento cita PCC e CV",
-      "sourceName": "BBC News Brasil",
-      "sourceUrl": "https://www.bbc.com/portuguese",
-      "sourceType": "Imprensa Internacional / Pública",
-      "sourceEditorial": "Emissora pública do Reino Unido; jornalismo global independente",
-      "country": "Reino Unido",
-      "paywall": false,
-      "originalUrl": "https://www.bbc.com/portuguese/articles/cj3v4y3vw3w2o",
-      "publishedAtStr": "2026-09-23T01:00:00Z",
-      "publishedAtTs": 1790125200000,
-      "rawContent": "Liderados por Trump , 14 países da região se comprometem a combater faces e cartéis ; documento cita PCC e CV",
-      "linkStatus": "active",
-      "lastChecked": 1790187532619
-    },
-    {
-      "id": "gdelt-nkekqrn",
+      "id": "gdelt-ls3ury0",
       "title": "Países aliados de Trump anunciam sanções contra PCC , CV e mais grupos criminosos",
       "sourceName": "Veja Mundo",
       "sourceUrl": "https://veja.abril.com.br/mundo/",
@@ -522,7 +154,7 @@
       "lastChecked": 1790190922923
     },
     {
-      "id": "gdelt-zaklj6e",
+      "id": "gdelt-kghj7j1",
       "title": "Acidente com Rick : mau tempo pode entrar no foco da investigação , diz especialista",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -538,7 +170,7 @@
       "lastChecked": 1790190922923
     },
     {
-      "id": "gdelt-85zn7q3",
+      "id": "gdelt-n1uiqrt",
       "title": "Petrobras e demais petroleiras sempre operaram com incerteza , diz diretora",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -554,7 +186,7 @@
       "lastChecked": 1790190922923
     },
     {
-      "id": "gdelt-j3w6ki8",
+      "id": "gdelt-k8ajiie",
       "title": "Financiamento de veículos tem melhor agosto em 15 anos , mostra Trillia , da B3",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -570,7 +202,7 @@
       "lastChecked": 1790190922923
     },
     {
-      "id": "gdelt-ggbcrek",
+      "id": "gdelt-d344j2y",
       "title": "Fazenda atribui aperto no bolso das famílias ao custo do crédito",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -586,7 +218,7 @@
       "lastChecked": 1790190922923
     },
     {
-      "id": "gdelt-spuzvfj",
+      "id": "gdelt-irxmi09",
       "title": "AtlasIntel : Raquel Lyra e João Campos empatam nos dois turnos em Pernambuco",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -602,7 +234,7 @@
       "lastChecked": 1790190922923
     },
     {
-      "id": "gdelt-2jl1lsq",
+      "id": "gdelt-l58cdiw",
       "title": "Comprar com IA é o futuro ? Para os bancos , é perigoso ; entenda",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -618,7 +250,7 @@
       "lastChecked": 1790190922923
     },
     {
-      "id": "gdelt-034wk3k",
+      "id": "gdelt-m2io2yj",
       "title": "Irã mostra condições para reabrir Ormuz a representante dos EUA , diz mídia estatal",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -634,7 +266,7 @@
       "lastChecked": 1790190922923
     },
     {
-      "id": "gdelt-k6z3rgp",
+      "id": "gdelt-8uelnvp",
       "title": "Satélites mostram : Terra perdeu 12 , 5 tri toneladas de gelo de Groenlândia e Antártida",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -650,7 +282,7 @@
       "lastChecked": 1790190922923
     },
     {
-      "id": "gdelt-rzgdojo",
+      "id": "gdelt-f5svklg",
       "title": "FII PMLL11 encerra 7ª emissão com captação de R$ 718 mi ; fundos colaboram com 92 %",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -666,7 +298,7 @@
       "lastChecked": 1790190922923
     },
     {
-      "id": "gdelt-y8ibqnf",
+      "id": "gdelt-4y9zhgy",
       "title": "Paraná Pesquisas : Tarcísio lidera com 50 , 7 % dos votos em SP e pode vencer no 1º turno",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -682,7 +314,7 @@
       "lastChecked": 1790190922923
     },
     {
-      "id": "gdelt-4lhjihq",
+      "id": "gdelt-n85jtdn",
       "title": "Suzano ( SUZB3 ): ao sobe quase 3 % com notícias de reajuste de preços em outubro",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -698,7 +330,7 @@
       "lastChecked": 1790190922923
     },
     {
-      "id": "gdelt-5by8km5",
+      "id": "gdelt-t9dyu1c",
       "title": "Boeing e GoGo testam drone militar conectado via satélite em desafio à Starlink",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -714,7 +346,7 @@
       "lastChecked": 1790190922923
     },
     {
-      "id": "gdelt-8dqkiah",
+      "id": "gdelt-mxt0o69",
       "title": "Meta testa  concierge humano  para seu novo agente pessoal de IA Muse",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -730,7 +362,7 @@
       "lastChecked": 1790190922923
     },
     {
-      "id": "gdelt-mymhuk5",
+      "id": "gdelt-wcc2uyv",
       "title": "Trump : ataques da Ucrânia à Rússia afetam diesel ; estuda proibir exportações dos EUA",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -746,7 +378,7 @@
       "lastChecked": 1790190922923
     },
     {
-      "id": "gdelt-dv374lo",
+      "id": "gdelt-9nph97x",
       "title": "Localiza ( RENT3 ) aprova R$ 614 , 9 milhões em proventos ; veja quem tem direito",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -762,7 +394,7 @@
       "lastChecked": 1790190922923
     },
     {
-      "id": "gdelt-oodygui",
+      "id": "gdelt-x94dbra",
       "title": "Preocupado com cenário eleitoral , Lula antagonizou com Trump na ONU , avaliam especialistas",
       "sourceName": "Estadão Internacional",
       "sourceUrl": "https://www.estadao.com.br/internacional/",
@@ -778,7 +410,7 @@
       "lastChecked": 1790190922923
     },
     {
-      "id": "gdelt-ys0xyuq",
+      "id": "gdelt-5t9sst9",
       "title": "Isabelle Caracristi : Polícia prende namorado de jovem encontrada morta em condomínio",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -794,7 +426,7 @@
       "lastChecked": 1790190922923
     },
     {
-      "id": "gdelt-wrc37g1",
+      "id": "gdelt-1miqpap",
       "title": "Justiça argentina acusa 7 iranianos e um libanês pelo atentado à organização judaica Amia",
       "sourceName": "Estadão Internacional",
       "sourceUrl": "https://www.estadao.com.br/internacional/",
@@ -806,102 +438,6 @@
       "publishedAtStr": "2026-09-22T20:15:00Z",
       "publishedAtTs": 1790108100000,
       "rawContent": "Justiça argentina acusa 7 iranianos e um libanês pelo atentado à organização judaica Amia",
-      "linkStatus": "active",
-      "lastChecked": 1790190922923
-    },
-    {
-      "id": "gdelt-c36arkb",
-      "title": "Anthropic apresenta Claude Opus 5 . 5",
-      "sourceName": "InfoMoney",
-      "sourceUrl": "https://www.infomoney.com.br/",
-      "sourceType": "Imprensa Comercial Brasileira",
-      "sourceEditorial": "Portal especializado em mercados e economia global",
-      "country": "Brasil",
-      "paywall": false,
-      "originalUrl": "https://www.infomoney.com.br/business/anthropic-apresenta-claude-opus-5-5/",
-      "publishedAtStr": "2026-09-22T19:30:00Z",
-      "publishedAtTs": 1790105400000,
-      "rawContent": "Anthropic apresenta Claude Opus 5 . 5",
-      "linkStatus": "active",
-      "lastChecked": 1790190922923
-    },
-    {
-      "id": "gdelt-zxwv78x",
-      "title": "Fux é sorteado relator de ao sobre visitas de esposa de Moraes ao Senado",
-      "sourceName": "InfoMoney",
-      "sourceUrl": "https://www.infomoney.com.br/",
-      "sourceType": "Imprensa Comercial Brasileira",
-      "sourceEditorial": "Portal especializado em mercados e economia global",
-      "country": "Brasil",
-      "paywall": false,
-      "originalUrl": "https://www.infomoney.com.br/politica/fux-e-sorteado-relator-de-acao-sobre-visitas-de-esposa-de-moraes-ao-senado/",
-      "publishedAtStr": "2026-09-22T19:30:00Z",
-      "publishedAtTs": 1790105400000,
-      "rawContent": "Fux é sorteado relator de ao sobre visitas de esposa de Moraes ao Senado",
-      "linkStatus": "active",
-      "lastChecked": 1790190922923
-    },
-    {
-      "id": "gdelt-h6t73gy",
-      "title": "Zambelli pede salvo - conduto ao STF para voltar ao Brasil e votar na mãe para deputada",
-      "sourceName": "InfoMoney",
-      "sourceUrl": "https://www.infomoney.com.br/",
-      "sourceType": "Imprensa Comercial Brasileira",
-      "sourceEditorial": "Portal especializado em mercados e economia global",
-      "country": "Brasil",
-      "paywall": false,
-      "originalUrl": "https://www.infomoney.com.br/politica/zambelli-pede-salvo-conduto-ao-stf-para-voltar-ao-brasil-e-votar-na-mae-para-deputada/",
-      "publishedAtStr": "2026-09-22T19:30:00Z",
-      "publishedAtTs": 1790105400000,
-      "rawContent": "Zambelli pede salvo - conduto ao STF para voltar ao Brasil e votar na mãe para deputada",
-      "linkStatus": "active",
-      "lastChecked": 1790190922923
-    },
-    {
-      "id": "gdelt-zagck3n",
-      "title": "Simpar ( SIMH3 ): Vitória do leilão de rodovias fortalece portfólio da CS Infra",
-      "sourceName": "InfoMoney",
-      "sourceUrl": "https://www.infomoney.com.br/",
-      "sourceType": "Imprensa Comercial Brasileira",
-      "sourceEditorial": "Portal especializado em mercados e economia global",
-      "country": "Brasil",
-      "paywall": false,
-      "originalUrl": "https://www.infomoney.com.br/mercados/simpar-simh3-vitoria-do-leilao-de-rodovias-fortalece-portfolio-da-cs-infra/",
-      "publishedAtStr": "2026-09-22T19:30:00Z",
-      "publishedAtTs": 1790105400000,
-      "rawContent": "Simpar ( SIMH3 ): Vitória do leilão de rodovias fortalece portfólio da CS Infra",
-      "linkStatus": "active",
-      "lastChecked": 1790190922923
-    },
-    {
-      "id": "gdelt-3294odq",
-      "title": "O caso Mascavo : disputa entre Mari Saad e Black Rocket revela riscos societários",
-      "sourceName": "InfoMoney",
-      "sourceUrl": "https://www.infomoney.com.br/",
-      "sourceType": "Imprensa Comercial Brasileira",
-      "sourceEditorial": "Portal especializado em mercados e economia global",
-      "country": "Brasil",
-      "paywall": false,
-      "originalUrl": "https://www.infomoney.com.br/business/o-caso-mascavo-disputa-entre-mari-saad-e-black-rocket-revela-riscos-societarios/",
-      "publishedAtStr": "2026-09-22T19:30:00Z",
-      "publishedAtTs": 1790105400000,
-      "rawContent": "O caso Mascavo : disputa entre Mari Saad e Black Rocket revela riscos societários",
-      "linkStatus": "active",
-      "lastChecked": 1790190922923
-    },
-    {
-      "id": "gdelt-x7zit5y",
-      "title": "Trump divulga 1 . 156 transações com ativos , incluindo aes de Microsoft e Amazon",
-      "sourceName": "InfoMoney",
-      "sourceUrl": "https://www.infomoney.com.br/",
-      "sourceType": "Imprensa Comercial Brasileira",
-      "sourceEditorial": "Portal especializado em mercados e economia global",
-      "country": "Brasil",
-      "paywall": false,
-      "originalUrl": "https://www.infomoney.com.br/mercados/trump-divulga-1-156-transacoes-com-ativos-incluindo-acoes-de-microsoft-e-amazon/",
-      "publishedAtStr": "2026-09-22T19:30:00Z",
-      "publishedAtTs": 1790105400000,
-      "rawContent": "Trump divulga 1 . 156 transações com ativos , incluindo aes de Microsoft e Amazon",
       "linkStatus": "active",
       "lastChecked": 1790190922923
     }
