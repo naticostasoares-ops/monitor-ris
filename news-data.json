@@ -1,16 +1,32 @@
 {
-  "updatedAt": "2026-09-23T22:45:53.560Z",
+  "updatedAt": "2026-09-23T22:56:48.350Z",
   "periodUsed": "24h",
-  "count": 11,
+  "count": 10,
   "linkVerificationStats": {
-    "checkedThisRun": 0,
-    "active": 0,
+    "checkedThisRun": 1,
+    "active": 1,
     "broken": 0,
     "unknown": 0
   },
   "articles": [
     {
-      "id": "gdelt-ieoj1js",
+      "id": "gdelt-z63tn7u",
+      "title": "Xi Jinping nos EUA : o  príncipe  que perdeu tudo antes de se tornar o líder mais poderoso da China",
+      "sourceName": "G1 Mundo",
+      "sourceUrl": "https://g1.globo.com/mundo/",
+      "sourceType": "Imprensa Comercial Brasileira",
+      "sourceEditorial": "Portal de notícias mainstream do Grupo Globo",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://g1.globo.com/mundo/noticia/2026/09/23/xi-jinping-nos-eua-o-principe-que-perdeu-tudo-antes-de-se-tornar-o-lider-mais-poderoso-da-china.ghtml",
+      "publishedAtStr": "2026-09-23T22:30:00Z",
+      "publishedAtTs": 1790202600000,
+      "rawContent": "Xi Jinping nos EUA : o  príncipe  que perdeu tudo antes de se tornar o líder mais poderoso da China",
+      "linkStatus": "active",
+      "lastChecked": 1790204207293
+    },
+    {
+      "id": "gdelt-8p8xawh",
       "title": "Do caipira ao agronejo : como a música sertaneja se tornou a mais ouvida do Brasil contemporâneo",
       "sourceName": "BBC News Brasil",
       "sourceUrl": "https://www.bbc.com/portuguese",
@@ -26,7 +42,7 @@
       "lastChecked": 1790202677379
     },
     {
-      "id": "gdelt-cr2ro6y",
+      "id": "gdelt-5ugy8js",
       "title": "Lula não aceitou conversa com Delcy na ONU por  falta de espaço  na agenda , dizem integrantes do governo",
       "sourceName": "O Globo Mundo",
       "sourceUrl": "https://oglobo.globo.com/mundo/",
@@ -42,7 +58,7 @@
       "lastChecked": 1790201795360
     },
     {
-      "id": "gdelt-ouctdy7",
+      "id": "gdelt-vs0e83s",
       "title": "Onda de direita na América Latina ameaça memória histórica",
       "sourceName": "DW Brasil",
       "sourceUrl": "https://www.dw.com/pt-br/",
@@ -58,7 +74,7 @@
       "lastChecked": 1790196090029
     },
     {
-      "id": "gdelt-9relsol",
+      "id": "gdelt-nmjs5be",
       "title": "Weinstein condenado a 15 anos de prisão por agressão sexual",
       "sourceName": "DW Brasil",
       "sourceUrl": "https://www.dw.com/pt-br/",
@@ -74,7 +90,7 @@
       "lastChecked": 1790196090029
     },
     {
-      "id": "gdelt-v3fdj3a",
+      "id": "gdelt-fe85r9k",
       "title": "Zelensky acusa Rússia de usar soldados de 47 países na guerra",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -90,7 +106,7 @@
       "lastChecked": 1790193897501
     },
     {
-      "id": "gdelt-u4qrv0v",
+      "id": "gdelt-xq3rq36",
       "title": "Argentina sob Milei fecha 31 mil empresas e 245 mil empregos formais",
       "sourceName": "Agência Brasil",
       "sourceUrl": "https://agenciabrasil.ebc.com.br/internacional",
@@ -106,7 +122,7 @@
       "lastChecked": 1790193897501
     },
     {
-      "id": "gdelt-8btrwj0",
+      "id": "gdelt-0jbzre7",
       "title": "Defesa de Lindsay Clancy , mulher acusada de matar os três filhos nos EUA , pede investigação de jurado que impediu veredito",
       "sourceName": "O Globo Mundo",
       "sourceUrl": "https://oglobo.globo.com/mundo/",
@@ -122,7 +138,7 @@
       "lastChecked": 1790193897501
     },
     {
-      "id": "gdelt-3xjohu1",
+      "id": "gdelt-ok6fhbf",
       "title": "EUA e Irã trocam acusações na ONU enquanto retomam negociaes",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -138,7 +154,7 @@
       "lastChecked": 1790193897501
     },
     {
-      "id": "gdelt-a2r8xky",
+      "id": "gdelt-y1h3l3m",
       "title": "Milei faz discurso na Assembleia Geral da ONU",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -150,38 +166,6 @@
       "publishedAtStr": "2026-09-23T15:30:00Z",
       "publishedAtTs": 1790177400000,
       "rawContent": "Milei faz discurso na Assembleia Geral da ONU",
-      "linkStatus": "active",
-      "lastChecked": 1790193897501
-    },
-    {
-      "id": "gdelt-d7hl1b3",
-      "title": "Homem encontra tesouro de moedas romanas do século II na Alemanha",
-      "sourceName": "G1 Mundo",
-      "sourceUrl": "https://g1.globo.com/mundo/",
-      "sourceType": "Imprensa Comercial Brasileira",
-      "sourceEditorial": "Portal de notícias mainstream do Grupo Globo",
-      "country": "Brasil",
-      "paywall": false,
-      "originalUrl": "https://g1.globo.com/mundo/noticia/2026/09/23/homem-encontra-tesouro-moedas-romanas-alemanha.ghtml",
-      "publishedAtStr": "2026-09-23T12:30:00Z",
-      "publishedAtTs": 1790166600000,
-      "rawContent": "Homem encontra tesouro de moedas romanas do século II na Alemanha",
-      "linkStatus": "active",
-      "lastChecked": 1790193897501
-    },
-    {
-      "id": "gdelt-ce2mhm3",
-      "title": "Ouça e saiba como foi feito o primeiro áudio que se tem registro , com voz de oficial alemão em 1889",
-      "sourceName": "O Globo Mundo",
-      "sourceUrl": "https://oglobo.globo.com/mundo/",
-      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
-      "sourceEditorial": "Jornal diário (Grupo Globo) - Conteúdo sob assinatura",
-      "country": "Brasil",
-      "paywall": true,
-      "originalUrl": "https://oglobo.globo.com/mundo/epoca/noticia/2026/09/23/ouca-e-saiba-como-foi-feito-o-primeiro-audio-que-se-tem-registro-com-voz-de-oficial-alemao-em-1889.ghtml",
-      "publishedAtStr": "2026-09-23T09:00:00Z",
-      "publishedAtTs": 1790154000000,
-      "rawContent": "Ouça e saiba como foi feito o primeiro áudio que se tem registro , com voz de oficial alemão em 1889",
       "linkStatus": "active",
       "lastChecked": 1790193897501
     }
