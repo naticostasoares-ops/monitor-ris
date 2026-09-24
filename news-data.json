@@ -1,16 +1,32 @@
 {
-  "updatedAt": "2026-09-24T21:53:50.159Z",
-  "periodUsed": "7d",
+  "updatedAt": "2026-09-24T22:15:27.166Z",
+  "periodUsed": "24h",
   "count": 9,
   "linkVerificationStats": {
-    "checkedThisRun": 0,
-    "active": 0,
+    "checkedThisRun": 1,
+    "active": 1,
     "broken": 0,
     "unknown": 0
   },
   "articles": [
     {
-      "id": "gdelt-9gx89it",
+      "id": "gdelt-cvg341i",
+      "title": "Brasil no Mundo desta quinta debate multilateralismo e desafios da ONU",
+      "sourceName": "Agência Brasil",
+      "sourceUrl": "https://agenciabrasil.ebc.com.br/internacional",
+      "sourceType": "Agência Estatal",
+      "sourceEditorial": "Agência pública de notícias da EBC (Governo Federal)",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-09/brasil-no-mundo-desta-quinta-debate-multilateralismo-e-desafios-da-onu",
+      "publishedAtStr": "2026-09-24T21:45:00Z",
+      "publishedAtTs": 1790286300000,
+      "rawContent": "Brasil no Mundo desta quinta debate multilateralismo e desafios da ONU",
+      "linkStatus": "active",
+      "lastChecked": 1790288126516
+    },
+    {
+      "id": "gdelt-hpfoh5p",
       "title": "Escudo das Américas united states cartéis para barrar China , dizem especialistas",
       "sourceName": "Agência Brasil",
       "sourceUrl": "https://agenciabrasil.ebc.com.br/internacional",
@@ -26,7 +42,7 @@
       "lastChecked": 1790284771495
     },
     {
-      "id": "gdelt-iepygla",
+      "id": "gdelt-4l31bau",
       "title": "CNN , MS NOW e Politico retomam cobertura na Casa Branca",
       "sourceName": "DW Brasil",
       "sourceUrl": "https://www.dw.com/pt-br/",
@@ -42,7 +58,7 @@
       "lastChecked": 1790278234861
     },
     {
-      "id": "gdelt-jceflsm",
+      "id": "gdelt-2e8gb7u",
       "title": "Alemanha melhora previsão de crescimento para 2026",
       "sourceName": "DW Brasil",
       "sourceUrl": "https://www.dw.com/pt-br/",
@@ -58,7 +74,7 @@
       "lastChecked": 1790278234861
     },
     {
-      "id": "gdelt-9y8xx7k",
+      "id": "gdelt-k2ncv5v",
       "title": "IA  bajuladora  pode ampliar a polarizao da sociedade",
       "sourceName": "DW Brasil",
       "sourceUrl": "https://www.dw.com/pt-br/",
@@ -74,7 +90,7 @@
       "lastChecked": 1790278234861
     },
     {
-      "id": "gdelt-6xbd13i",
+      "id": "gdelt-40xhy93",
       "title": "Xi Jinping diz que China enviará dois pandas para zoológico dos EUA durante encontro com Trump :  enviados da amizade",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -90,7 +106,7 @@
       "lastChecked": 1790272004083
     },
     {
-      "id": "gdelt-21to079",
+      "id": "gdelt-ey2z4hm",
       "title": "Estreia de MMA nos Jogos Asiáticos reacende sonho olímpico",
       "sourceName": "DW Brasil",
       "sourceUrl": "https://www.dw.com/pt-br/",
@@ -106,7 +122,7 @@
       "lastChecked": 1790272004083
     },
     {
-      "id": "gdelt-cus855q",
+      "id": "gdelt-8sehju9",
       "title": "Trump e Xi se encontam em Washington",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -122,7 +138,7 @@
       "lastChecked": 1790272004083
     },
     {
-      "id": "gdelt-1h974b2",
+      "id": "gdelt-eas9pqn",
       "title": "Flávio Bolsonaro usou avião de Vorcaro em 2025 , diz revista",
       "sourceName": "DW Brasil",
       "sourceUrl": "https://www.dw.com/pt-br/",
@@ -134,22 +150,6 @@
       "publishedAtStr": "2026-09-24T14:30:00Z",
       "publishedAtTs": 1790260200000,
       "rawContent": "Flávio Bolsonaro usou avião de Vorcaro em 2025 , diz revista",
-      "linkStatus": "active",
-      "lastChecked": 1790272004083
-    },
-    {
-      "id": "gdelt-6goe7i5",
-      "title": "Vazamento de dados do FBI expõe operaes de inteligência e vigilância",
-      "sourceName": "G1 Mundo",
-      "sourceUrl": "https://g1.globo.com/mundo/",
-      "sourceType": "Imprensa Comercial Brasileira",
-      "sourceEditorial": "Portal de notícias mainstream do Grupo Globo",
-      "country": "Brasil",
-      "paywall": false,
-      "originalUrl": "https://g1.globo.com/mundo/noticia/2026/09/24/dados-hackeados-do-fbi-contem-informacoes-sensiveis-sobre-funcoes-de-inteligencia-de-funcionarios.ghtml",
-      "publishedAtStr": "2026-09-24T11:15:00Z",
-      "publishedAtTs": 1790248500000,
-      "rawContent": "Vazamento de dados do FBI expõe operaes de inteligência e vigilância",
       "linkStatus": "active",
       "lastChecked": 1790272004083
     }
