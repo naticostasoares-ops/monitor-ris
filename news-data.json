@@ -1,16 +1,48 @@
 {
-  "updatedAt": "2026-09-24T00:21:11.765Z",
+  "updatedAt": "2026-09-24T00:44:10.041Z",
   "periodUsed": "24h",
-  "count": 49,
+  "count": 51,
   "linkVerificationStats": {
-    "checkedThisRun": 40,
-    "active": 40,
+    "checkedThisRun": 11,
+    "active": 11,
     "broken": 0,
     "unknown": 0
   },
   "articles": [
     {
-      "id": "gdelt-77chm0e",
+      "id": "gdelt-5vkt4xa",
+      "title": "Donald Trump e seu ego vivem em uma realidade paralela que eclipsa até suas vitórias",
+      "sourceName": "Estadão Internacional",
+      "sourceUrl": "https://www.estadao.com.br/internacional/",
+      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
+      "sourceEditorial": "Jornal tradicional de geopolítica - Conteúdo sob assinatura",
+      "country": "Brasil",
+      "paywall": true,
+      "originalUrl": "https://www.estadao.com.br/internacional/filipe-figueiredo/donald-trump-e-seu-ego-vivem-em-uma-realidade-paralela-que-eclipsa-ate-suas-vitorias/",
+      "publishedAtStr": "2026-09-24T00:15:00Z",
+      "publishedAtTs": 1790208900000,
+      "rawContent": "Donald Trump e seu ego vivem em uma realidade paralela que eclipsa até suas vitórias",
+      "linkStatus": "active",
+      "lastChecked": 1790210644569
+    },
+    {
+      "id": "gdelt-4eiivf5",
+      "title": "Juiz adia decisão sobre veto de Trump à CNN e outros 2 veículos por dúvidas sobre legalidade",
+      "sourceName": "Estadão Internacional",
+      "sourceUrl": "https://www.estadao.com.br/internacional/",
+      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
+      "sourceEditorial": "Jornal tradicional de geopolítica - Conteúdo sob assinatura",
+      "country": "Brasil",
+      "paywall": true,
+      "originalUrl": "https://www.estadao.com.br/internacional/juiz-demonstra-ceticismo-em-relacao-a-proibicao-de-trump-a-cnn-e-outros-2-veiculos-mas-adia-decisao-npr/",
+      "publishedAtStr": "2026-09-24T00:00:00Z",
+      "publishedAtTs": 1790208000000,
+      "rawContent": "Juiz adia decisão sobre veto de Trump à CNN e outros 2 veículos por dúvidas sobre legalidade",
+      "linkStatus": "active",
+      "lastChecked": 1790210644569
+    },
+    {
+      "id": "gdelt-u1gjksi",
       "title": "Xi Jinping é recebido com tapete vermelho por Trump em primeira visita aos EUA em mais de 10 anos",
       "sourceName": "Estadão Internacional",
       "sourceUrl": "https://www.estadao.com.br/internacional/",
@@ -26,7 +58,7 @@
       "lastChecked": 1790209257284
     },
     {
-      "id": "gdelt-bekm3br",
+      "id": "gdelt-ehp3bcf",
       "title": "No 1º turno do Rio , Paes tem 36 %; Ruas , 23 %; Garotinho , 8 %, segundo a Quaest",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -42,7 +74,7 @@
       "lastChecked": 1790209257284
     },
     {
-      "id": "gdelt-0gh55r4",
+      "id": "gdelt-z79hg9k",
       "title": "No 1º turno de MG , Cleitinho tem 37 %, Patrus Ananias , 16 %, e Kalil , 8 %, aponta Quaest",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -58,7 +90,7 @@
       "lastChecked": 1790209257284
     },
     {
-      "id": "gdelt-ksoxc3t",
+      "id": "gdelt-faugdj6",
       "title": "Lounge de US$ 5 mil com traslado de BMW : luxo de jato particular em voos comerciais",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -74,7 +106,7 @@
       "lastChecked": 1790209257284
     },
     {
-      "id": "gdelt-2g676o1",
+      "id": "gdelt-e19zdba",
       "title": "Nvidia , Rockefeller e até a OTAN investiram US$ 140 mi em startup ; entenda",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -90,7 +122,7 @@
       "lastChecked": 1790209257284
     },
     {
-      "id": "gdelt-08fn14k",
+      "id": "gdelt-osb5v49",
       "title": "Trump diz que todos os candidatos apoiados na América Latina foram eleitos",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -106,7 +138,7 @@
       "lastChecked": 1790209257284
     },
     {
-      "id": "gdelt-vfcn395",
+      "id": "gdelt-rrwmepe",
       "title": "No 1º turno do DF , Celina tem 33 %; Grass , 21 %; Arruda , 17 %, aponta Quaest",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -122,7 +154,7 @@
       "lastChecked": 1790209257284
     },
     {
-      "id": "gdelt-nupvb1b",
+      "id": "gdelt-itp2snk",
       "title": "Governo acha difícil reverter adesão de países da América Latina à política de Trump contra PCC e CV",
       "sourceName": "Estadão Internacional",
       "sourceUrl": "https://www.estadao.com.br/internacional/",
@@ -138,7 +170,7 @@
       "lastChecked": 1790209257284
     },
     {
-      "id": "gdelt-ojjmo79",
+      "id": "gdelt-eetneq3",
       "title": "Guerra não assusta : Por que a Microsoft vai investir US$10 bi no Oriente Médio ?",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -154,7 +186,7 @@
       "lastChecked": 1790209257284
     },
     {
-      "id": "gdelt-fjgt9ro",
+      "id": "gdelt-v8gp3x5",
       "title": "B55 Conference oferece condio especial para empresários levarem sócios e executivos",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -170,7 +202,7 @@
       "lastChecked": 1790209257284
     },
     {
-      "id": "gdelt-rn0m8xx",
+      "id": "gdelt-hgtt4ne",
       "title": "Objetos de Brigitte Bardot rendem R$ 5 , 5 milhões em leilão ; veja destaques",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -186,7 +218,7 @@
       "lastChecked": 1790209257284
     },
     {
-      "id": "gdelt-z5sppqe",
+      "id": "gdelt-4ewottg",
       "title": "Harvey Weinstein é condenado a 15 anos de prisão por agressão sexual em Nova York",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -202,7 +234,7 @@
       "lastChecked": 1790209257284
     },
     {
-      "id": "gdelt-nf8tii3",
+      "id": "gdelt-f31768v",
       "title": "Preocupado com eleio , Lula antagonizou com Trump na ONU , avaliam especialistas",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -218,7 +250,7 @@
       "lastChecked": 1790209257284
     },
     {
-      "id": "gdelt-sj1ul5h",
+      "id": "gdelt-7v3uofc",
       "title": "Justiça dos EUA coloca em dúvida veto de Trump a veículos de imprensa na Casa Branca",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -234,7 +266,7 @@
       "lastChecked": 1790209257284
     },
     {
-      "id": "gdelt-1emzp72",
+      "id": "gdelt-oorzxwb",
       "title": "Bolsas de NY fecham em queda , pressionadas por tensões EUA - Irã e alta dos Treasuries",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -250,7 +282,7 @@
       "lastChecked": 1790209257284
     },
     {
-      "id": "gdelt-ngq7ucj",
+      "id": "gdelt-rsyqetz",
       "title": "Governo discute sobre concessões hidrelétricas e cita possíveis  travas  em leilões",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -266,7 +298,7 @@
       "lastChecked": 1790209257284
     },
     {
-      "id": "gdelt-j5g6m7e",
+      "id": "gdelt-svzlifg",
       "title": "Ibovespa freia após rali e atravessa setembro com gringo comprador e eleio no radar",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -282,7 +314,7 @@
       "lastChecked": 1790209257284
     },
     {
-      "id": "gdelt-3yqc2oj",
+      "id": "gdelt-u4a3apm",
       "title": "Goldman Sachs : Shoppings brasileiros crescem mais que seus pares internacionais",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -298,7 +330,7 @@
       "lastChecked": 1790209257284
     },
     {
-      "id": "gdelt-1el99ts",
+      "id": "gdelt-msvruoi",
       "title": "Com El Niño , mortes por calor podem chegar a 451 mil ; no Brasil , serão 13 , 3 mil",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -314,7 +346,7 @@
       "lastChecked": 1790209257284
     },
     {
-      "id": "gdelt-xtf64a2",
+      "id": "gdelt-qly5m92",
       "title": "Quaest PE : Raquel tem 41 % e João Campos , 39 %, empate dentro da margem de erro",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -330,7 +362,7 @@
       "lastChecked": 1790209257284
     },
     {
-      "id": "gdelt-j2if6x3",
+      "id": "gdelt-cwh9sos",
       "title": "Em SP , Derrite tem 16 % para o Senado ; Marina , 13 %; Simone , 12 %, segundo a Quaest",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -346,7 +378,7 @@
       "lastChecked": 1790209257284
     },
     {
-      "id": "gdelt-t7ghw1x",
+      "id": "gdelt-02psr0x",
       "title": "Em um livro de memórias explosivo , irmão de Diana mira a realeza britânica",
       "sourceName": "Estadão Internacional",
       "sourceUrl": "https://www.estadao.com.br/internacional/",
@@ -362,7 +394,7 @@
       "lastChecked": 1790209257284
     },
     {
-      "id": "gdelt-rj6q5l7",
+      "id": "gdelt-5vzdr1f",
       "title": "Cade arquiva investigação sobre parceria Amazon - Anthropic para IA generativa",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -378,7 +410,7 @@
       "lastChecked": 1790209257284
     },
     {
-      "id": "gdelt-1tcibjm",
+      "id": "gdelt-9lptmoj",
       "title": "Em SP Quaest mostra Tarcísio oscilando de 42 % para 44 %, e Haddad com 27 % no 1º turno",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -394,7 +426,7 @@
       "lastChecked": 1790209257284
     },
     {
-      "id": "gdelt-qzluwwg",
+      "id": "gdelt-08i9ipw",
       "title": "Por unanimidade , STF iguala tempo de licenças - maternidade e adotante",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -410,7 +442,7 @@
       "lastChecked": 1790209257284
     },
     {
-      "id": "gdelt-kx554d8",
+      "id": "gdelt-mq941im",
       "title": "Envelhecimento : São Paulo já tem um idoso para cada pessoa com menos de 15 anos",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -426,7 +458,7 @@
       "lastChecked": 1790209257284
     },
     {
-      "id": "gdelt-ciehnn1",
+      "id": "gdelt-4kv3vxl",
       "title": "Altman e Amodei pedem coordenação global para IA em raro discurso conjunto na ONU",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -442,7 +474,7 @@
       "lastChecked": 1790209257284
     },
     {
-      "id": "gdelt-lleat6i",
+      "id": "gdelt-bdc5wkm",
       "title": "María Corina Machado é impedida de retornar à Venezuela pela 7ª vez , diz partido",
       "sourceName": "Veja Mundo",
       "sourceUrl": "https://veja.abril.com.br/mundo/",
@@ -458,7 +490,7 @@
       "lastChecked": 1790209257284
     },
     {
-      "id": "gdelt-0fb7xlr",
+      "id": "gdelt-06omnpr",
       "title": "China desafia EUA e permite pouso de avião iraniano , apesar de ameaças",
       "sourceName": "Veja Mundo",
       "sourceUrl": "https://veja.abril.com.br/mundo/",
@@ -474,7 +506,7 @@
       "lastChecked": 1790209257284
     },
     {
-      "id": "gdelt-0u3sbvy",
+      "id": "gdelt-z36xdio",
       "title": "A colher de chá a nanoempreendedores defendida por entidades na reforma tributária",
       "sourceName": "Veja Mundo",
       "sourceUrl": "https://veja.abril.com.br/mundo/",
@@ -490,7 +522,7 @@
       "lastChecked": 1790209257284
     },
     {
-      "id": "gdelt-h1qrtr2",
+      "id": "gdelt-fe5iql7",
       "title": "A  goleada  de Lula sobre Flávio Bolsonaro no Ceará , segundo a Quaest",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -506,7 +538,7 @@
       "lastChecked": 1790209257284
     },
     {
-      "id": "gdelt-9awds4k",
+      "id": "gdelt-a5j62xu",
       "title": "Fux cobra do Senado registros da visita de mulher de Moraes , Vorcaro e filho de Lula",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -522,7 +554,7 @@
       "lastChecked": 1790209257284
     },
     {
-      "id": "gdelt-zw939x7",
+      "id": "gdelt-wlsiptt",
       "title": "Singapore Airlines é escolhida melhor cia . aérea do mundo ; LATAM vence na A . do Sul",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -538,7 +570,7 @@
       "lastChecked": 1790209257284
     },
     {
-      "id": "gdelt-c4pa4gf",
+      "id": "gdelt-4lby6k9",
       "title": "Zanin barrou dois pedidos de CPI do Master ; terceiro aguarda análise de Nunes Marques",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -554,7 +586,7 @@
       "lastChecked": 1790209257284
     },
     {
-      "id": "gdelt-gaybxrh",
+      "id": "gdelt-3bnth4u",
       "title": "Com decisões cruzadas , disputa judicial de Ciro e Elmano no CE se acirra e vai ao TSE",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -570,7 +602,7 @@
       "lastChecked": 1790209257284
     },
     {
-      "id": "gdelt-fn4klho",
+      "id": "gdelt-xnunken",
       "title": "AtlasIntel : No RS , Zucco tem 41 , 6 % e Juliana Brizola , 36 , 1 %",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -586,7 +618,7 @@
       "lastChecked": 1790209257284
     },
     {
-      "id": "gdelt-salqhm1",
+      "id": "gdelt-5yckvv7",
       "title": "Vai virar ativo previdenciário : Analista prevê FIIs superando aes em investidores",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -602,7 +634,7 @@
       "lastChecked": 1790209257284
     },
     {
-      "id": "gdelt-my631e9",
+      "id": "gdelt-ljmb7tn",
       "title": "Greve da Caixa : veja como pagar contas , sacar benefícios e financiar imóvel",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -618,7 +650,7 @@
       "lastChecked": 1790209257284
     },
     {
-      "id": "gdelt-26jz3sb",
+      "id": "gdelt-828pyog",
       "title": "Queda do mercado de títulos dos EUA eleva rendimentos a máximas em duas décadas",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -634,7 +666,7 @@
       "lastChecked": 1790209257284
     },
     {
-      "id": "gdelt-ebnxx3t",
+      "id": "gdelt-ya0zof8",
       "title": "Lula e Flávio evitam debates : o que explica a estratégia dos líderes",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -650,7 +682,7 @@
       "lastChecked": 1790209257284
     },
     {
-      "id": "gdelt-y9l5w2c",
+      "id": "gdelt-j2ap1g0",
       "title": "ASA , de Alberto Safra , vê chance maior de vitória de Flávio e eleva exposio a risco",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -662,11 +694,11 @@
       "publishedAtStr": "2026-09-23T20:00:00Z",
       "publishedAtTs": 1790193600000,
       "rawContent": "ASA , de Alberto Safra , vê chance maior de vitória de Flávio e eleva exposio a risco",
-      "linkStatus": "unknown",
-      "lastChecked": null
+      "linkStatus": "active",
+      "lastChecked": 1790210644569
     },
     {
-      "id": "gdelt-m51694x",
+      "id": "gdelt-t6zrm3g",
       "title": "Milei diz que ONU é órgão inútil que alimenta casta de parasitas e defende interesse nas Malvinas",
       "sourceName": "Estadão Internacional",
       "sourceUrl": "https://www.estadao.com.br/internacional/",
@@ -678,11 +710,11 @@
       "publishedAtStr": "2026-09-23T18:15:00Z",
       "publishedAtTs": 1790187300000,
       "rawContent": "Milei diz que ONU é órgão inútil que alimenta casta de parasitas e defende interesse nas Malvinas",
-      "linkStatus": "unknown",
-      "lastChecked": null
+      "linkStatus": "active",
+      "lastChecked": 1790210644569
     },
     {
-      "id": "gdelt-i5pcq4c",
+      "id": "gdelt-tc1sdkk",
       "title": "Modelo brasileira é encontrada morta escondida no carro do ex - namorado na França",
       "sourceName": "Veja Mundo",
       "sourceUrl": "https://veja.abril.com.br/mundo/",
@@ -694,11 +726,11 @@
       "publishedAtStr": "2026-09-23T18:00:00Z",
       "publishedAtTs": 1790186400000,
       "rawContent": "Modelo brasileira é encontrada morta escondida no carro do ex - namorado na França",
-      "linkStatus": "unknown",
-      "lastChecked": null
+      "linkStatus": "active",
+      "lastChecked": 1790210644569
     },
     {
-      "id": "gdelt-yegk2ny",
+      "id": "gdelt-3gs7lt3",
       "title": "Milei chama ONU de  inútil  e volta a reivindicar soberania sobre Malvinas em discurso",
       "sourceName": "Veja Mundo",
       "sourceUrl": "https://veja.abril.com.br/mundo/",
@@ -710,11 +742,11 @@
       "publishedAtStr": "2026-09-23T18:00:00Z",
       "publishedAtTs": 1790186400000,
       "rawContent": "Milei chama ONU de  inútil  e volta a reivindicar soberania sobre Malvinas em discurso",
-      "linkStatus": "unknown",
-      "lastChecked": null
+      "linkStatus": "active",
+      "lastChecked": 1790210644569
     },
     {
-      "id": "gdelt-izxvix1",
+      "id": "gdelt-v51zp0r",
       "title": "Ray Dalio : IA será  milagrosa , mas criará uma bolha  devastadora",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -726,11 +758,11 @@
       "publishedAtStr": "2026-09-23T11:45:00Z",
       "publishedAtTs": 1790163900000,
       "rawContent": "Ray Dalio : IA será  milagrosa , mas criará uma bolha  devastadora",
-      "linkStatus": "unknown",
-      "lastChecked": null
+      "linkStatus": "active",
+      "lastChecked": 1790210644569
     },
     {
-      "id": "gdelt-ckaqdc8",
+      "id": "gdelt-9c50umj",
       "title": "União Europeia renova sanções contra Moscou , mas concorda em isentar dois oligarcas russos",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -742,11 +774,11 @@
       "publishedAtStr": "2026-09-23T06:15:00Z",
       "publishedAtTs": 1790144100000,
       "rawContent": "União Europeia renova sanções contra Moscou , mas concorda em isentar dois oligarcas russos",
-      "linkStatus": "unknown",
-      "lastChecked": null
+      "linkStatus": "active",
+      "lastChecked": 1790210644569
     },
     {
-      "id": "gdelt-n47z6dv",
+      "id": "gdelt-oir4s8w",
       "title": "TRE - DF recua e libera propaganda de Michelle com imagem de Bolsonaro",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -758,11 +790,11 @@
       "publishedAtStr": "2026-09-23T06:15:00Z",
       "publishedAtTs": 1790144100000,
       "rawContent": "TRE - DF recua e libera propaganda de Michelle com imagem de Bolsonaro",
-      "linkStatus": "unknown",
-      "lastChecked": null
+      "linkStatus": "active",
+      "lastChecked": 1790210644569
     },
     {
-      "id": "gdelt-hj3plox",
+      "id": "gdelt-pd4mm51",
       "title": "Aliados latino - americanos de Trump assinam sanes contra  narcoterrorista , incluindo PCC e CV",
       "sourceName": "Estadão Internacional",
       "sourceUrl": "https://www.estadao.com.br/internacional/",
@@ -774,11 +806,11 @@
       "publishedAtStr": "2026-09-23T01:30:00Z",
       "publishedAtTs": 1790127000000,
       "rawContent": "Aliados latino - americanos de Trump assinam sanes contra  narcoterrorista , incluindo PCC e CV",
-      "linkStatus": "unknown",
-      "lastChecked": null
+      "linkStatus": "active",
+      "lastChecked": 1790210644569
     },
     {
-      "id": "gdelt-xs0ybyv",
+      "id": "gdelt-e18c089",
       "title": "Primeiro - ministro do Reino Unido critica a Rússia e defende colaboração em regras para IA",
       "sourceName": "Estadão Internacional",
       "sourceUrl": "https://www.estadao.com.br/internacional/",
@@ -790,8 +822,8 @@
       "publishedAtStr": "2026-09-23T01:30:00Z",
       "publishedAtTs": 1790127000000,
       "rawContent": "Primeiro - ministro do Reino Unido critica a Rússia e defende colaboração em regras para IA",
-      "linkStatus": "unknown",
-      "lastChecked": null
+      "linkStatus": "active",
+      "lastChecked": 1790210644569
     }
   ]
 }
