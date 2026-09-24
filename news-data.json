@@ -1,96 +1,16 @@
 {
-  "updatedAt": "2026-09-24T09:17:29.968Z",
+  "updatedAt": "2026-09-24T09:33:48.641Z",
   "periodUsed": "24h",
-  "count": 70,
+  "count": 54,
   "linkVerificationStats": {
-    "checkedThisRun": 30,
-    "active": 30,
+    "checkedThisRun": 0,
+    "active": 0,
     "broken": 0,
     "unknown": 0
   },
   "articles": [
     {
-      "id": "gdelt-ipdl8kc",
-      "title": "Longe dos pratos e das receitas , conheça o poder do inhame contra o câncer",
-      "sourceName": "G1 Mundo",
-      "sourceUrl": "https://g1.globo.com/mundo/",
-      "sourceType": "Imprensa Comercial Brasileira",
-      "sourceEditorial": "Portal de notícias mainstream do Grupo Globo",
-      "country": "Brasil",
-      "paywall": false,
-      "originalUrl": "https://g1.globo.com/mundo/noticia/2026/09/24/longe-dos-pratos-e-das-receitas-conheca-o-poder-do-inhame-contra-o-cancer.ghtml",
-      "publishedAtStr": "2026-09-24T07:15:00Z",
-      "publishedAtTs": 1790234100000,
-      "rawContent": "Longe dos pratos e das receitas , conheça o poder do inhame contra o câncer",
-      "linkStatus": "unknown",
-      "lastChecked": 1790240398529
-    },
-    {
-      "id": "gdelt-tivseec",
-      "title": "Cerco à comunidade LGBT+ : ativista denuncia torturas e prisões",
-      "sourceName": "G1 Mundo",
-      "sourceUrl": "https://g1.globo.com/mundo/",
-      "sourceType": "Imprensa Comercial Brasileira",
-      "sourceEditorial": "Portal de notícias mainstream do Grupo Globo",
-      "country": "Brasil",
-      "paywall": false,
-      "originalUrl": "https://g1.globo.com/mundo/noticia/2026/09/24/ficaram-5-dias-sem-agua-ativista-lgbt-denuncia-tortura-e-prisoes-arbitrarias-na-turquia.ghtml",
-      "publishedAtStr": "2026-09-24T07:15:00Z",
-      "publishedAtTs": 1790234100000,
-      "rawContent": "Cerco à comunidade LGBT+ : ativista denuncia torturas e prisões",
-      "linkStatus": "active",
-      "lastChecked": 1790240398529
-    },
-    {
-      "id": "gdelt-wvhyp9o",
-      "title": "Escudo das Américas : quais facções são alvos de sanções da aliança",
-      "sourceName": "G1 Mundo",
-      "sourceUrl": "https://g1.globo.com/mundo/",
-      "sourceType": "Imprensa Comercial Brasileira",
-      "sourceEditorial": "Portal de notícias mainstream do Grupo Globo",
-      "country": "Brasil",
-      "paywall": false,
-      "originalUrl": "https://g1.globo.com/mundo/noticia/2026/09/24/escudo-das-americas-quais-faccoes-sao-alvos-de-sancoes-de-alianca-de-trump-com-governos-do-continente.ghtml",
-      "publishedAtStr": "2026-09-24T05:00:00Z",
-      "publishedAtTs": 1790226000000,
-      "rawContent": "Escudo das Américas : quais facções são alvos de sanções da aliança",
-      "linkStatus": "active",
-      "lastChecked": 1790240398529
-    },
-    {
-      "id": "gdelt-gd8ws25",
-      "title": "Ataques russos deixam dois mortos na capital da Ucrânia",
-      "sourceName": "O Globo Mundo",
-      "sourceUrl": "https://oglobo.globo.com/mundo/",
-      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
-      "sourceEditorial": "Jornal diário (Grupo Globo) - Conteúdo sob assinatura",
-      "country": "Brasil",
-      "paywall": true,
-      "originalUrl": "https://oglobo.globo.com/mundo/noticia/2026/09/23/ataques-russos-deixam-dois-mortos-na-capital-da-ucrania.ghtml",
-      "publishedAtStr": "2026-09-24T04:45:00Z",
-      "publishedAtTs": 1790225100000,
-      "rawContent": "Ataques russos deixam dois mortos na capital da Ucrânia",
-      "linkStatus": "active",
-      "lastChecked": 1790240398529
-    },
-    {
-      "id": "gdelt-6y7dgsl",
-      "title": "Em Washington , Xi Jinping afirma que China e EUA devem ser  parceiros , não rivai , diz mídia estatal",
-      "sourceName": "O Globo Mundo",
-      "sourceUrl": "https://oglobo.globo.com/mundo/",
-      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
-      "sourceEditorial": "Jornal diário (Grupo Globo) - Conteúdo sob assinatura",
-      "country": "Brasil",
-      "paywall": true,
-      "originalUrl": "https://oglobo.globo.com/mundo/noticia/2026/09/23/xi-jinping-afirma-que-china-e-eua-devem-ser-parceiros-e-nao-rivais-diz-midia-estatal.ghtml",
-      "publishedAtStr": "2026-09-24T04:45:00Z",
-      "publishedAtTs": 1790225100000,
-      "rawContent": "Em Washington , Xi Jinping afirma que China e EUA devem ser  parceiros , não rivai , diz mídia estatal",
-      "linkStatus": "active",
-      "lastChecked": 1790240398529
-    },
-    {
-      "id": "gdelt-emvl2xy",
+      "id": "gdelt-wwkxoub",
       "title": "Lula diz que vai acabar com as bets no Brasil :  É uma decisão",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -106,7 +26,7 @@
       "lastChecked": 1790240398529
     },
     {
-      "id": "gdelt-10w3b4i",
+      "id": "gdelt-s9ms4sb",
       "title": "Agente da OpenAI invadiu site do governo da Austrália , diz primeiro - ministro ; caso é inédito",
       "sourceName": "Estadão Internacional",
       "sourceUrl": "https://www.estadao.com.br/internacional/",
@@ -122,7 +42,7 @@
       "lastChecked": 1790240398529
     },
     {
-      "id": "gdelt-fqxp3uo",
+      "id": "gdelt-btp85em",
       "title": "BC exigirá comunicação ao Coaf de transferências de cripto acima de US$ 10 mil",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -138,7 +58,7 @@
       "lastChecked": 1790240398529
     },
     {
-      "id": "gdelt-1qquso2",
+      "id": "gdelt-gj19ymp",
       "title": "Xi Jinping é recebido com tapete vermelho por Trump em visita aos EUA",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -154,7 +74,7 @@
       "lastChecked": 1790240398529
     },
     {
-      "id": "gdelt-s0f5ysr",
+      "id": "gdelt-sk1rb7m",
       "title": "EUA e China ampliam trégua comercial até 10 de janeiro , diz secretário do Tesouro",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -170,7 +90,7 @@
       "lastChecked": 1790240398529
     },
     {
-      "id": "gdelt-t0wzl5z",
+      "id": "gdelt-tm4aglk",
       "title": "Suposto vazamento expõe agentes do FBI ligados a China , Rússia e terrorismo",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -186,7 +106,7 @@
       "lastChecked": 1790240398529
     },
     {
-      "id": "gdelt-35txtcm",
+      "id": "gdelt-r6h28db",
       "title": "Yduqs e Afya assinam fusão e criam gigante do ensino superior privado",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -202,39 +122,7 @@
       "lastChecked": 1790240398529
     },
     {
-      "id": "gdelt-kiaw5wr",
-      "title": "Zelenski pede a países na ONU que  sufoquem  economia russa",
-      "sourceName": "DW Brasil",
-      "sourceUrl": "https://www.dw.com/pt-br/",
-      "sourceType": "Imprensa Internacional / Pública",
-      "sourceEditorial": "Emissora pública da Alemanha; foco em diplomacia e direitos humanos",
-      "country": "Alemanha",
-      "paywall": false,
-      "originalUrl": "https://www.dw.com/pt-br/zelenski-pede-%C3%A0-onu-maior-press%C3%A3o-econ%C3%B4mica-contra-a-r%C3%BAssia/a-79403906",
-      "publishedAtStr": "2026-09-24T00:15:00Z",
-      "publishedAtTs": 1790208900000,
-      "rawContent": "Zelenski pede a países na ONU que  sufoquem  economia russa",
-      "linkStatus": "active",
-      "lastChecked": 1790240398529
-    },
-    {
-      "id": "gdelt-3jflm8u",
-      "title": "Aeroporto de Berlim suspende voos após avistamento de drone",
-      "sourceName": "DW Brasil",
-      "sourceUrl": "https://www.dw.com/pt-br/",
-      "sourceType": "Imprensa Internacional / Pública",
-      "sourceEditorial": "Emissora pública da Alemanha; foco em diplomacia e direitos humanos",
-      "country": "Alemanha",
-      "paywall": false,
-      "originalUrl": "https://www.dw.com/pt-br/aeroporto-de-berlim-suspende-voos-ap%C3%B3s-novo-avistamento-de-drone/a-79404545",
-      "publishedAtStr": "2026-09-24T00:15:00Z",
-      "publishedAtTs": 1790208900000,
-      "rawContent": "Aeroporto de Berlim suspende voos após avistamento de drone",
-      "linkStatus": "active",
-      "lastChecked": 1790240398529
-    },
-    {
-      "id": "gdelt-41kzctu",
+      "id": "gdelt-hssp5n8",
       "title": "Donald Trump e seu ego vivem em uma realidade paralela que eclipsa até suas vitórias",
       "sourceName": "Estadão Internacional",
       "sourceUrl": "https://www.estadao.com.br/internacional/",
@@ -250,23 +138,7 @@
       "lastChecked": 1790240398529
     },
     {
-      "id": "gdelt-zc9hslk",
-      "title": "Delcy Rodríguez faz discurso na ONU com broche que parece mostrar mapa de Venezuela com Essequibo anexada",
-      "sourceName": "G1 Mundo",
-      "sourceUrl": "https://g1.globo.com/mundo/",
-      "sourceType": "Imprensa Comercial Brasileira",
-      "sourceEditorial": "Portal de notícias mainstream do Grupo Globo",
-      "country": "Brasil",
-      "paywall": false,
-      "originalUrl": "https://g1.globo.com/mundo/noticia/2026/09/23/delcy-rodriguez-faz-discurso-na-onu-com-broche-que-parece-mostrar-mapa-de-venezuela-com-essequibo-anexada.ghtml",
-      "publishedAtStr": "2026-09-24T00:00:00Z",
-      "publishedAtTs": 1790208000000,
-      "rawContent": "Delcy Rodríguez faz discurso na ONU com broche que parece mostrar mapa de Venezuela com Essequibo anexada",
-      "linkStatus": "active",
-      "lastChecked": 1790240398529
-    },
-    {
-      "id": "gdelt-jdznkp9",
+      "id": "gdelt-gi4h7fx",
       "title": "Juiz adia decisão sobre veto de Trump à CNN e outros 2 veículos por dúvidas sobre legalidade",
       "sourceName": "Estadão Internacional",
       "sourceUrl": "https://www.estadao.com.br/internacional/",
@@ -282,55 +154,7 @@
       "lastChecked": 1790240398529
     },
     {
-      "id": "gdelt-bgzjtdq",
-      "title": "Grande Mesquita de Paris vai dedicar sermão de sexta - feira à visita do Papa Leão XIV",
-      "sourceName": "O Globo Mundo",
-      "sourceUrl": "https://oglobo.globo.com/mundo/",
-      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
-      "sourceEditorial": "Jornal diário (Grupo Globo) - Conteúdo sob assinatura",
-      "country": "Brasil",
-      "paywall": true,
-      "originalUrl": "https://oglobo.globo.com/mundo/noticia/2026/09/23/grande-mesquita-de-paris-vai-dedicar-sermao-de-sexta-feira-a-visita-do-papa-leao-xiv.ghtml",
-      "publishedAtStr": "2026-09-23T23:45:00Z",
-      "publishedAtTs": 1790207100000,
-      "rawContent": "Grande Mesquita de Paris vai dedicar sermão de sexta - feira à visita do Papa Leão XIV",
-      "linkStatus": "active",
-      "lastChecked": 1790240398529
-    },
-    {
-      "id": "gdelt-r8luv5c",
-      "title": "Marinheiro indiano morre em ataque contra navio mercante no Estreito de Ormuz",
-      "sourceName": "O Globo Mundo",
-      "sourceUrl": "https://oglobo.globo.com/mundo/",
-      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
-      "sourceEditorial": "Jornal diário (Grupo Globo) - Conteúdo sob assinatura",
-      "country": "Brasil",
-      "paywall": true,
-      "originalUrl": "https://oglobo.globo.com/mundo/noticia/2026/09/23/marinheiro-indiano-morre-em-ataque-contra-navio-mercante-no-estreito-de-ormuz.ghtml",
-      "publishedAtStr": "2026-09-23T23:45:00Z",
-      "publishedAtTs": 1790207100000,
-      "rawContent": "Marinheiro indiano morre em ataque contra navio mercante no Estreito de Ormuz",
-      "linkStatus": "active",
-      "lastChecked": 1790240398529
-    },
-    {
-      "id": "gdelt-hqwkah0",
-      "title": "Premiê australiano anuncia mais de R$ 300 milhões em ajuda de guerra para a Ucrânia , em encontro com Zelensky",
-      "sourceName": "O Globo Mundo",
-      "sourceUrl": "https://oglobo.globo.com/mundo/",
-      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
-      "sourceEditorial": "Jornal diário (Grupo Globo) - Conteúdo sob assinatura",
-      "country": "Brasil",
-      "paywall": true,
-      "originalUrl": "https://oglobo.globo.com/mundo/noticia/2026/09/23/premie-australiano-anuncia-mais-de-r-300-milhoes-em-ajuda-de-guerra-para-a-ucrania-depois-de-encontro-com-zelensky.ghtml",
-      "publishedAtStr": "2026-09-23T23:45:00Z",
-      "publishedAtTs": 1790207100000,
-      "rawContent": "Premiê australiano anuncia mais de R$ 300 milhões em ajuda de guerra para a Ucrânia , em encontro com Zelensky",
-      "linkStatus": "active",
-      "lastChecked": 1790240398529
-    },
-    {
-      "id": "gdelt-hly01an",
+      "id": "gdelt-rstphur",
       "title": "Xi Jinping é recebido com tapete vermelho por Trump em primeira visita aos EUA em mais de 10 anos",
       "sourceName": "Estadão Internacional",
       "sourceUrl": "https://www.estadao.com.br/internacional/",
@@ -346,23 +170,7 @@
       "lastChecked": 1790240398529
     },
     {
-      "id": "gdelt-r055ibg",
-      "title": "Xi Jinping nos EUA : o  príncipe  que perdeu tudo antes de se tornar o líder mais poderoso da China",
-      "sourceName": "G1 Mundo",
-      "sourceUrl": "https://g1.globo.com/mundo/",
-      "sourceType": "Imprensa Comercial Brasileira",
-      "sourceEditorial": "Portal de notícias mainstream do Grupo Globo",
-      "country": "Brasil",
-      "paywall": false,
-      "originalUrl": "https://g1.globo.com/mundo/noticia/2026/09/23/xi-jinping-nos-eua-o-principe-que-perdeu-tudo-antes-de-se-tornar-o-lider-mais-poderoso-da-china.ghtml",
-      "publishedAtStr": "2026-09-23T22:30:00Z",
-      "publishedAtTs": 1790202600000,
-      "rawContent": "Xi Jinping nos EUA : o  príncipe  que perdeu tudo antes de se tornar o líder mais poderoso da China",
-      "linkStatus": "active",
-      "lastChecked": 1790240398529
-    },
-    {
-      "id": "gdelt-64lctl9",
+      "id": "gdelt-5tbcvrp",
       "title": "No 1º turno do Rio , Paes tem 36 %; Ruas , 23 %; Garotinho , 8 %, segundo a Quaest",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -378,7 +186,7 @@
       "lastChecked": 1790240398529
     },
     {
-      "id": "gdelt-h2bczzz",
+      "id": "gdelt-tjw7rvo",
       "title": "No 1º turno de MG , Cleitinho tem 37 %, Patrus Ananias , 16 %, e Kalil , 8 %, aponta Quaest",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -394,7 +202,7 @@
       "lastChecked": 1790240398529
     },
     {
-      "id": "gdelt-0anku5s",
+      "id": "gdelt-85s16bu",
       "title": "Lounge de US$ 5 mil com traslado de BMW : luxo de jato particular em voos comerciais",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -410,7 +218,7 @@
       "lastChecked": 1790240398529
     },
     {
-      "id": "gdelt-aaq0j9n",
+      "id": "gdelt-m4a2fpg",
       "title": "Nvidia , Rockefeller e até a OTAN investiram US$ 140 mi em startup ; entenda",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -426,7 +234,7 @@
       "lastChecked": 1790240398529
     },
     {
-      "id": "gdelt-5tpqf83",
+      "id": "gdelt-t7d3w2d",
       "title": "Trump diz que todos os candidatos apoiados na América Latina foram eleitos",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -442,7 +250,7 @@
       "lastChecked": 1790240398529
     },
     {
-      "id": "gdelt-73n6cgd",
+      "id": "gdelt-g09gkf2",
       "title": "No 1º turno do DF , Celina tem 33 %; Grass , 21 %; Arruda , 17 %, aponta Quaest",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -458,7 +266,7 @@
       "lastChecked": 1790240398529
     },
     {
-      "id": "gdelt-dsx79d3",
+      "id": "gdelt-fkcn1le",
       "title": "Governo acha difícil reverter adesão de países da América Latina à política de Trump contra PCC e CV",
       "sourceName": "Estadão Internacional",
       "sourceUrl": "https://www.estadao.com.br/internacional/",
@@ -474,7 +282,7 @@
       "lastChecked": 1790240398529
     },
     {
-      "id": "gdelt-bozd5xc",
+      "id": "gdelt-wg1xrt9",
       "title": "Guerra não assusta : Por que a Microsoft vai investir US$10 bi no Oriente Médio ?",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -490,7 +298,7 @@
       "lastChecked": 1790240398529
     },
     {
-      "id": "gdelt-kw88vtm",
+      "id": "gdelt-8o2kpeo",
       "title": "B55 Conference oferece condio especial para empresários levarem sócios e executivos",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -506,7 +314,7 @@
       "lastChecked": 1790240398529
     },
     {
-      "id": "gdelt-m33evt1",
+      "id": "gdelt-rxjtv5l",
       "title": "Objetos de Brigitte Bardot rendem R$ 5 , 5 milhões em leilão ; veja destaques",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -522,7 +330,7 @@
       "lastChecked": 1790240398529
     },
     {
-      "id": "gdelt-tpaa6c4",
+      "id": "gdelt-ewfpfsw",
       "title": "Harvey Weinstein é condenado a 15 anos de prisão por agressão sexual em Nova York",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -538,7 +346,7 @@
       "lastChecked": 1790240398529
     },
     {
-      "id": "gdelt-frnj7cg",
+      "id": "gdelt-6mom6vt",
       "title": "Preocupado com eleio , Lula antagonizou com Trump na ONU , avaliam especialistas",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -554,7 +362,7 @@
       "lastChecked": 1790240398529
     },
     {
-      "id": "gdelt-tcm164g",
+      "id": "gdelt-wcemrs1",
       "title": "Justiça dos EUA coloca em dúvida veto de Trump a veículos de imprensa na Casa Branca",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -570,7 +378,7 @@
       "lastChecked": 1790240398529
     },
     {
-      "id": "gdelt-d87fols",
+      "id": "gdelt-90d5uar",
       "title": "Bolsas de NY fecham em queda , pressionadas por tensões EUA - Irã e alta dos Treasuries",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -586,7 +394,7 @@
       "lastChecked": 1790240398529
     },
     {
-      "id": "gdelt-kyul08n",
+      "id": "gdelt-fmknhja",
       "title": "Governo discute sobre concessões hidrelétricas e cita possíveis  travas  em leilões",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -602,7 +410,7 @@
       "lastChecked": 1790240398529
     },
     {
-      "id": "gdelt-lw808a8",
+      "id": "gdelt-uunva10",
       "title": "Ibovespa freia após rali e atravessa setembro com gringo comprador e eleio no radar",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -618,7 +426,7 @@
       "lastChecked": 1790240398529
     },
     {
-      "id": "gdelt-5bom0ub",
+      "id": "gdelt-hzmhlz9",
       "title": "Goldman Sachs : Shoppings brasileiros crescem mais que seus pares internacionais",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -634,7 +442,7 @@
       "lastChecked": 1790240398529
     },
     {
-      "id": "gdelt-em8ozpu",
+      "id": "gdelt-jxg6y5u",
       "title": "Com El Niño , mortes por calor podem chegar a 451 mil ; no Brasil , serão 13 , 3 mil",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -650,7 +458,7 @@
       "lastChecked": 1790240398529
     },
     {
-      "id": "gdelt-fwj5bqo",
+      "id": "gdelt-tupq655",
       "title": "Quaest PE : Raquel tem 41 % e João Campos , 39 %, empate dentro da margem de erro",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -666,7 +474,7 @@
       "lastChecked": 1790241440495
     },
     {
-      "id": "gdelt-iecoalt",
+      "id": "gdelt-zf71x03",
       "title": "Em SP , Derrite tem 16 % para o Senado ; Marina , 13 %; Simone , 12 %, segundo a Quaest",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -682,7 +490,7 @@
       "lastChecked": 1790241440495
     },
     {
-      "id": "gdelt-v55fgcz",
+      "id": "gdelt-4vzwgy0",
       "title": "Em um livro de memórias explosivo , irmão de Diana mira a realeza britânica",
       "sourceName": "Estadão Internacional",
       "sourceUrl": "https://www.estadao.com.br/internacional/",
@@ -698,7 +506,7 @@
       "lastChecked": 1790241440495
     },
     {
-      "id": "gdelt-55zlrf1",
+      "id": "gdelt-92i9dul",
       "title": "Cade arquiva investigação sobre parceria Amazon - Anthropic para IA generativa",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -714,7 +522,7 @@
       "lastChecked": 1790241440495
     },
     {
-      "id": "gdelt-bwtr5vt",
+      "id": "gdelt-3h7ox95",
       "title": "Em SP Quaest mostra Tarcísio oscilando de 42 % para 44 %, e Haddad com 27 % no 1º turno",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -730,7 +538,7 @@
       "lastChecked": 1790241440495
     },
     {
-      "id": "gdelt-0s906oy",
+      "id": "gdelt-bwmly3y",
       "title": "Por unanimidade , STF iguala tempo de licenças - maternidade e adotante",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -746,7 +554,7 @@
       "lastChecked": 1790241440495
     },
     {
-      "id": "gdelt-846xl5x",
+      "id": "gdelt-ofvqxaj",
       "title": "Envelhecimento : São Paulo já tem um idoso para cada pessoa com menos de 15 anos",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -762,7 +570,7 @@
       "lastChecked": 1790241440495
     },
     {
-      "id": "gdelt-t52zgpm",
+      "id": "gdelt-2wsg5s8",
       "title": "Altman e Amodei pedem coordenação global para IA em raro discurso conjunto na ONU",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -778,23 +586,7 @@
       "lastChecked": 1790241440495
     },
     {
-      "id": "gdelt-2zg1e15",
-      "title": "Do caipira ao agronejo : como a música sertaneja se tornou a mais ouvida do Brasil contemporâneo",
-      "sourceName": "BBC News Brasil",
-      "sourceUrl": "https://www.bbc.com/portuguese",
-      "sourceType": "Imprensa Internacional / Pública",
-      "sourceEditorial": "Emissora pública do Reino Unido; jornalismo global independente",
-      "country": "Reino Unido",
-      "paywall": false,
-      "originalUrl": "https://www.bbc.com/portuguese/articles/cr158y1v1e2go",
-      "publishedAtStr": "2026-09-23T22:00:00Z",
-      "publishedAtTs": 1790200800000,
-      "rawContent": "Do caipira ao agronejo : como a música sertaneja se tornou a mais ouvida do Brasil contemporâneo",
-      "linkStatus": "active",
-      "lastChecked": 1790241440495
-    },
-    {
-      "id": "gdelt-1i6l74i",
+      "id": "gdelt-6kp9ifw",
       "title": "María Corina Machado é impedida de retornar à Venezuela pela 7ª vez , diz partido",
       "sourceName": "Veja Mundo",
       "sourceUrl": "https://veja.abril.com.br/mundo/",
@@ -810,7 +602,7 @@
       "lastChecked": 1790241440495
     },
     {
-      "id": "gdelt-2cbd7oe",
+      "id": "gdelt-n4qtkjf",
       "title": "China desafia EUA e permite pouso de avião iraniano , apesar de ameaças",
       "sourceName": "Veja Mundo",
       "sourceUrl": "https://veja.abril.com.br/mundo/",
@@ -826,7 +618,7 @@
       "lastChecked": 1790241440495
     },
     {
-      "id": "gdelt-xnmnnxe",
+      "id": "gdelt-i9p3dsr",
       "title": "A colher de chá a nanoempreendedores defendida por entidades na reforma tributária",
       "sourceName": "Veja Mundo",
       "sourceUrl": "https://veja.abril.com.br/mundo/",
@@ -842,23 +634,7 @@
       "lastChecked": 1790241440495
     },
     {
-      "id": "gdelt-5vq5a7z",
-      "title": "Lula não aceitou conversa com Delcy na ONU por  falta de espaço  na agenda , dizem integrantes do governo",
-      "sourceName": "O Globo Mundo",
-      "sourceUrl": "https://oglobo.globo.com/mundo/",
-      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
-      "sourceEditorial": "Jornal diário (Grupo Globo) - Conteúdo sob assinatura",
-      "country": "Brasil",
-      "paywall": true,
-      "originalUrl": "https://oglobo.globo.com/mundo/noticia/2026/09/23/lula-nao-aceitou-conversa-com-delcy-na-onu-por-falta-de-espaco-na-agenda-dizem-integrantes-do-governo.ghtml",
-      "publishedAtStr": "2026-09-23T21:45:00Z",
-      "publishedAtTs": 1790199900000,
-      "rawContent": "Lula não aceitou conversa com Delcy na ONU por  falta de espaço  na agenda , dizem integrantes do governo",
-      "linkStatus": "active",
-      "lastChecked": 1790241440495
-    },
-    {
-      "id": "gdelt-9z3h1nt",
+      "id": "gdelt-vec7g0b",
       "title": "A  goleada  de Lula sobre Flávio Bolsonaro no Ceará , segundo a Quaest",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -874,39 +650,7 @@
       "lastChecked": 1790241440495
     },
     {
-      "id": "gdelt-aja6p8a",
-      "title": "Onda de direita na América Latina ameaça memória histórica",
-      "sourceName": "DW Brasil",
-      "sourceUrl": "https://www.dw.com/pt-br/",
-      "sourceType": "Imprensa Internacional / Pública",
-      "sourceEditorial": "Emissora pública da Alemanha; foco em diplomacia e direitos humanos",
-      "country": "Alemanha",
-      "paywall": false,
-      "originalUrl": "https://www.dw.com/pt-br/avan%C3%A7o-da-ultradireita-na-am%C3%A9rica-latina-p%C3%B5e-mem%C3%B3ria-hist%C3%B3rica-em-xeque/a-79401727",
-      "publishedAtStr": "2026-09-23T20:00:00Z",
-      "publishedAtTs": 1790193600000,
-      "rawContent": "Onda de direita na América Latina ameaça memória histórica",
-      "linkStatus": "active",
-      "lastChecked": 1790241440495
-    },
-    {
-      "id": "gdelt-ime5wwd",
-      "title": "Weinstein condenado a 15 anos de prisão por agressão sexual",
-      "sourceName": "DW Brasil",
-      "sourceUrl": "https://www.dw.com/pt-br/",
-      "sourceType": "Imprensa Internacional / Pública",
-      "sourceEditorial": "Emissora pública da Alemanha; foco em diplomacia e direitos humanos",
-      "country": "Alemanha",
-      "paywall": false,
-      "originalUrl": "https://www.dw.com/pt-br/weinstein-condenado-a-15-anos-de-pris%C3%A3o-por-agress%C3%A3o-sexual/a-79403836",
-      "publishedAtStr": "2026-09-23T20:00:00Z",
-      "publishedAtTs": 1790193600000,
-      "rawContent": "Weinstein condenado a 15 anos de prisão por agressão sexual",
-      "linkStatus": "active",
-      "lastChecked": 1790241440495
-    },
-    {
-      "id": "gdelt-5d17h3c",
+      "id": "gdelt-2mo0fq8",
       "title": "Fux cobra do Senado registros da visita de mulher de Moraes , Vorcaro e filho de Lula",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -922,7 +666,7 @@
       "lastChecked": 1790241440495
     },
     {
-      "id": "gdelt-0vhsilb",
+      "id": "gdelt-nh754tt",
       "title": "Singapore Airlines é escolhida melhor cia . aérea do mundo ; LATAM vence na A . do Sul",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -938,7 +682,7 @@
       "lastChecked": 1790241440495
     },
     {
-      "id": "gdelt-gsbltn3",
+      "id": "gdelt-b0x06ha",
       "title": "Zanin barrou dois pedidos de CPI do Master ; terceiro aguarda análise de Nunes Marques",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -954,7 +698,7 @@
       "lastChecked": 1790241440495
     },
     {
-      "id": "gdelt-f3zedjl",
+      "id": "gdelt-mjn3uuf",
       "title": "Com decisões cruzadas , disputa judicial de Ciro e Elmano no CE se acirra e vai ao TSE",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -970,7 +714,7 @@
       "lastChecked": 1790241440495
     },
     {
-      "id": "gdelt-o2wm4gt",
+      "id": "gdelt-hs0ynot",
       "title": "AtlasIntel : No RS , Zucco tem 41 , 6 % e Juliana Brizola , 36 , 1 %",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -986,7 +730,7 @@
       "lastChecked": 1790241440495
     },
     {
-      "id": "gdelt-qaxs9h2",
+      "id": "gdelt-2xuuoxp",
       "title": "Vai virar ativo previdenciário : Analista prevê FIIs superando aes em investidores",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -1002,7 +746,7 @@
       "lastChecked": 1790241440495
     },
     {
-      "id": "gdelt-87g23f6",
+      "id": "gdelt-j1mrsll",
       "title": "Greve da Caixa : veja como pagar contas , sacar benefícios e financiar imóvel",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -1018,7 +762,7 @@
       "lastChecked": 1790241440495
     },
     {
-      "id": "gdelt-d0q5iv7",
+      "id": "gdelt-olhz09j",
       "title": "Queda do mercado de títulos dos EUA eleva rendimentos a máximas em duas décadas",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -1034,7 +778,7 @@
       "lastChecked": 1790241440495
     },
     {
-      "id": "gdelt-6kx2gbe",
+      "id": "gdelt-6udc59q",
       "title": "Lula e Flávio evitam debates : o que explica a estratégia dos líderes",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -1050,7 +794,7 @@
       "lastChecked": 1790241440495
     },
     {
-      "id": "gdelt-wk0snuq",
+      "id": "gdelt-tk0myq5",
       "title": "ASA , de Alberto Safra , vê chance maior de vitória de Flávio e eleva exposio a risco",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -1066,7 +810,7 @@
       "lastChecked": 1790241440495
     },
     {
-      "id": "gdelt-eop3jco",
+      "id": "gdelt-pidfvpx",
       "title": "Milei diz que ONU é órgão inútil que alimenta casta de parasitas e defende interesse nas Malvinas",
       "sourceName": "Estadão Internacional",
       "sourceUrl": "https://www.estadao.com.br/internacional/",
@@ -1082,7 +826,7 @@
       "lastChecked": 1790241440495
     },
     {
-      "id": "gdelt-lhk7r6e",
+      "id": "gdelt-k4aziol",
       "title": "Modelo brasileira é encontrada morta escondida no carro do ex - namorado na França",
       "sourceName": "Veja Mundo",
       "sourceUrl": "https://veja.abril.com.br/mundo/",
@@ -1098,7 +842,7 @@
       "lastChecked": 1790241440495
     },
     {
-      "id": "gdelt-4pjne6i",
+      "id": "gdelt-s44j1ua",
       "title": "Milei chama ONU de  inútil  e volta a reivindicar soberania sobre Malvinas em discurso",
       "sourceName": "Veja Mundo",
       "sourceUrl": "https://veja.abril.com.br/mundo/",
@@ -1114,7 +858,7 @@
       "lastChecked": 1790241440495
     },
     {
-      "id": "gdelt-w21xzfa",
+      "id": "gdelt-1cqvi6t",
       "title": "Ray Dalio : IA será  milagrosa , mas criará uma bolha  devastadora",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
