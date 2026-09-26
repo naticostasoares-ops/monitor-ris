@@ -1,29 +1,12 @@
 {
-  "updatedAt": "2026-09-26T06:39:04.337Z",
+  "updatedAt": "2026-09-26T07:13:55.223Z",
   "periodUsed": "24h",
-  "count": 1,
+  "count": 0,
   "linkVerificationStats": {
     "checkedThisRun": 0,
     "active": 0,
     "broken": 0,
     "unknown": 0
   },
-  "articles": [
-    {
-      "id": "gdelt-0jwa950",
-      "title": "Por que as pesquisas eleitorais parecem não funcionar",
-      "sourceName": "DW Brasil",
-      "sourceUrl": "https://www.dw.com/pt-br/",
-      "sourceType": "Imprensa Internacional / Pública",
-      "sourceEditorial": "Emissora pública da Alemanha; foco em diplomacia e direitos humanos",
-      "country": "Alemanha",
-      "paywall": false,
-      "originalUrl": "https://www.dw.com/pt-br/por-que-as-pesquisas-eleitorais-parecem-n%C3%A3o-funcionar/audio-79369463",
-      "publishedAtStr": "2026-09-25T09:30:00Z",
-      "publishedAtTs": 1790328600000,
-      "rawContent": "Por que as pesquisas eleitorais parecem não funcionar",
-      "linkStatus": "active",
-      "lastChecked": 1790401360777
-    }
-  ]
+  "articles": []
 }
