@@ -1,16 +1,64 @@
 {
-  "updatedAt": "2026-09-25T23:55:53.151Z",
+  "updatedAt": "2026-09-26T00:19:41.686Z",
   "periodUsed": "24h",
-  "count": 21,
+  "count": 26,
   "linkVerificationStats": {
-    "checkedThisRun": 0,
-    "active": 0,
+    "checkedThisRun": 5,
+    "active": 5,
     "broken": 0,
     "unknown": 0
   },
   "articles": [
     {
-      "id": "gdelt-c2cg1iw",
+      "id": "gdelt-c2zy5cb",
+      "title": "Por que as pesquisas eleitorais parecem não funcionar",
+      "sourceName": "DW Brasil",
+      "sourceUrl": "https://www.dw.com/pt-br/",
+      "sourceType": "Imprensa Internacional / Pública",
+      "sourceEditorial": "Emissora pública da Alemanha; foco em diplomacia e direitos humanos",
+      "country": "Alemanha",
+      "paywall": false,
+      "originalUrl": "https://www.dw.com/pt-br/por-que-as-pesquisas-eleitorais-parecem-n%C3%A3o-funcionar/audio-79369463",
+      "publishedAtStr": "2026-09-25T09:30:00Z",
+      "publishedAtTs": 1790328600000,
+      "rawContent": "Por que as pesquisas eleitorais parecem não funcionar",
+      "linkStatus": "active",
+      "lastChecked": 1790381975616
+    },
+    {
+      "id": "gdelt-80n5e8g",
+      "title": "Por todos os lado : cidade russa cercada por ursos tem 6 mortos",
+      "sourceName": "G1 Mundo",
+      "sourceUrl": "https://g1.globo.com/mundo/",
+      "sourceType": "Imprensa Comercial Brasileira",
+      "sourceEditorial": "Portal de notícias mainstream do Grupo Globo",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://g1.globo.com/mundo/noticia/2026/09/25/por-todos-os-lados-cidade-russa-esta-cercada-por-ursos-que-ja-deixaram-6-mortos-em-um-mes.ghtml",
+      "publishedAtStr": "2026-09-25T05:30:00Z",
+      "publishedAtTs": 1790314200000,
+      "rawContent": "Por todos os lado : cidade russa cercada por ursos tem 6 mortos",
+      "linkStatus": "active",
+      "lastChecked": 1790381975616
+    },
+    {
+      "id": "gdelt-453vfyv",
+      "title": "Itália limita a 30 % número de alunos sem fluência em italiano por sala e proíbe burcas em escolas",
+      "sourceName": "G1 Mundo",
+      "sourceUrl": "https://g1.globo.com/mundo/",
+      "sourceType": "Imprensa Comercial Brasileira",
+      "sourceEditorial": "Portal de notícias mainstream do Grupo Globo",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://g1.globo.com/mundo/noticia/2026/09/25/italia-limita-a-30percent-numero-de-alunos-sem-fluencia-em-italiano-por-sala-e-proibe-burcas-em-escolas.ghtml",
+      "publishedAtStr": "2026-09-25T04:45:00Z",
+      "publishedAtTs": 1790311500000,
+      "rawContent": "Itália limita a 30 % número de alunos sem fluência em italiano por sala e proíbe burcas em escolas",
+      "linkStatus": "active",
+      "lastChecked": 1790381975616
+    },
+    {
+      "id": "gdelt-b7xazoq",
       "title": "Gilmar Mendes decide levar caso de usinas ao plenário após mensagens de Vorcaro sobre Nunes Marques – CartaCapital",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -26,7 +74,23 @@
       "lastChecked": 1790378541720
     },
     {
-      "id": "gdelt-db22uua",
+      "id": "gdelt-m8zpktd",
+      "title": "Sobrevivente de atentado contra Trump em comício morre dois anos após ser baleado",
+      "sourceName": "O Globo Mundo",
+      "sourceUrl": "https://oglobo.globo.com/mundo/",
+      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
+      "sourceEditorial": "Jornal diário (Grupo Globo) - Conteúdo sob assinatura",
+      "country": "Brasil",
+      "paywall": true,
+      "originalUrl": "https://oglobo.globo.com/mundo/noticia/2026/09/24/sobrevivente-de-atentado-contra-trump-em-comicio-morre-dois-anos-apos-ser-baleado.ghtml",
+      "publishedAtStr": "2026-09-25T02:00:00Z",
+      "publishedAtTs": 1790301600000,
+      "rawContent": "Sobrevivente de atentado contra Trump em comício morre dois anos após ser baleado",
+      "linkStatus": "active",
+      "lastChecked": 1790381975616
+    },
+    {
+      "id": "gdelt-4cuexco",
       "title": "No DF , Celina Leão ( PP ) lidera com 42 % no cenário sem Arruda ; Grass ( PT ) tem 23 % – CartaCapital",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -42,7 +106,7 @@
       "lastChecked": 1790378541720
     },
     {
-      "id": "gdelt-63svps6",
+      "id": "gdelt-zsg3p3n",
       "title": "Roubo ou queima de arquivo ? – CartaCapital",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -58,7 +122,7 @@
       "lastChecked": 1790378541720
     },
     {
-      "id": "gdelt-145brvw",
+      "id": "gdelt-gheliij",
       "title": "Quaest : Fábio tem 43 % na disputa pelo governo de Sergipe ; Valmir de Francisquinho , 34 %",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -74,7 +138,7 @@
       "lastChecked": 1790378541720
     },
     {
-      "id": "gdelt-vvo657w",
+      "id": "gdelt-bq692m4",
       "title": "Zanin dá 48 horas para Anatel se manifestar sobre pedido por internet móvel livre no período eleitoral – CartaCapital",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -90,7 +154,7 @@
       "lastChecked": 1790378541720
     },
     {
-      "id": "gdelt-34j0h4k",
+      "id": "gdelt-pe504ya",
       "title": "Quaest : saiba as intenções de voto para governador em BA , SE , RS , SC , GO , AM , RO e AP",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -106,7 +170,7 @@
       "lastChecked": 1790378541720
     },
     {
-      "id": "gdelt-v51bvu3",
+      "id": "gdelt-7eq5g2x",
       "title": "Quaest aponta empate técnico entre ACM Neto e Jerônimo na Bahia",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -122,7 +186,7 @@
       "lastChecked": 1790378541720
     },
     {
-      "id": "gdelt-rp1603q",
+      "id": "gdelt-ct46sqb",
       "title": "Sob Milei , pobreza cresce e atinge um terço da população na Argentina",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -138,7 +202,7 @@
       "lastChecked": 1790378541720
     },
     {
-      "id": "gdelt-n0jdfyc",
+      "id": "gdelt-z41gsuq",
       "title": "Fim da química : Às vésperas do primeiro turno no Brasil , Lula e Trump soltam faíscas na ONU",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -154,7 +218,7 @@
       "lastChecked": 1790378541720
     },
     {
-      "id": "gdelt-xj15nrt",
+      "id": "gdelt-nm0tb12",
       "title": "Datafolha mostra empate técnico entre Lula e Flávio Bolsonaro em 2º turno",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -170,7 +234,7 @@
       "lastChecked": 1790378541720
     },
     {
-      "id": "gdelt-nqa6b3s",
+      "id": "gdelt-e8c4xzp",
       "title": "Quaest : como está a disputa entre Lula e Flávio Bolsonaro em BA , SE , RS , SC , GO , AM , RO e AP – CartaCapital",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -186,7 +250,7 @@
       "lastChecked": 1790378541720
     },
     {
-      "id": "gdelt-rdqxzzx",
+      "id": "gdelt-gb30amg",
       "title": "A máquina de desinformao opera em pleno vapor , com ingerência externa e conivência do TSE",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -202,7 +266,7 @@
       "lastChecked": 1790378541720
     },
     {
-      "id": "gdelt-0mgx4q8",
+      "id": "gdelt-4mswgnr",
       "title": "Datafolha : 50 % desaprovam e 47 % aprovam governo Lula – CartaCapital",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -218,7 +282,7 @@
       "lastChecked": 1790378541720
     },
     {
-      "id": "gdelt-q3us41j",
+      "id": "gdelt-c7hct35",
       "title": "Editorial : Ofensiva miliciana",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -234,7 +298,7 @@
       "lastChecked": 1790378541720
     },
     {
-      "id": "gdelt-hp8clyn",
+      "id": "gdelt-3f715x1",
       "title": "Quaest : saiba as intenções de voto para o Senado em BA , SE , RS , SC , GO , AM , RO e AP",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -250,7 +314,7 @@
       "lastChecked": 1790378541720
     },
     {
-      "id": "gdelt-wm3og2f",
+      "id": "gdelt-85x048c",
       "title": "Fachin pede manifestação da PGR sobre afastamento de Andrei da PF",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -266,7 +330,7 @@
       "lastChecked": 1790378541720
     },
     {
-      "id": "gdelt-edsm9tl",
+      "id": "gdelt-41o3s0n",
       "title": "Campanha de Lula questiona Meta por suspensão de página de anúncios",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -282,7 +346,7 @@
       "lastChecked": 1790378541720
     },
     {
-      "id": "gdelt-wu88s1o",
+      "id": "gdelt-hzb197o",
       "title": "Música de Maluco – CartaCapital",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -298,7 +362,7 @@
       "lastChecked": 1790378541720
     },
     {
-      "id": "gdelt-jg9nt18",
+      "id": "gdelt-iip9pnm",
       "title": "TST decide que greve dos Correios não é abusiva",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -314,7 +378,7 @@
       "lastChecked": 1790378541720
     },
     {
-      "id": "gdelt-iq40cj9",
+      "id": "gdelt-hq2cdo5",
       "title": "Quem são e o que pensam expoentes do crescente movimento de mulheres reacionárias no Brasil",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -330,7 +394,23 @@
       "lastChecked": 1790378541720
     },
     {
-      "id": "gdelt-5ocjxl1",
+      "id": "gdelt-47vqqdm",
+      "title": "Xi Jinping diz que EUA e China  alcançaram entendimento comum em muitas questõe após reunião com Trump em Washington",
+      "sourceName": "G1 Mundo",
+      "sourceUrl": "https://g1.globo.com/mundo/",
+      "sourceType": "Imprensa Comercial Brasileira",
+      "sourceEditorial": "Portal de notícias mainstream do Grupo Globo",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://g1.globo.com/mundo/noticia/2026/09/24/xi-jinping-diz-que-eua-e-china-alcancaram-entendimento-comum-em-muitas-questoes-apos-reuniao-com-trump-em-washington.ghtml",
+      "publishedAtStr": "2026-09-25T00:45:00Z",
+      "publishedAtTs": 1790297100000,
+      "rawContent": "Xi Jinping diz que EUA e China  alcançaram entendimento comum em muitas questõe após reunião com Trump em Washington",
+      "linkStatus": "active",
+      "lastChecked": 1790381975616
+    },
+    {
+      "id": "gdelt-l6hg896",
       "title": "Atividade econômica na Argentina despenca em julho",
       "sourceName": "Valor Econômico",
       "sourceUrl": "https://valor.globo.com/",
