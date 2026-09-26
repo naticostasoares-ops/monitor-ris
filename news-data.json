@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-09-26T02:05:34.878Z",
+  "updatedAt": "2026-09-26T02:22:19.074Z",
   "periodUsed": "7d",
-  "count": 117,
+  "count": 130,
   "linkVerificationStats": {
     "checkedThisRun": 40,
     "active": 40,
@@ -10,7 +10,55 @@
   },
   "articles": [
     {
-      "id": "gdelt-um0e0ka",
+      "id": "gdelt-4jtpqc7",
+      "title": "Por que as pesquisas eleitorais parecem não funcionar",
+      "sourceName": "DW Brasil",
+      "sourceUrl": "https://www.dw.com/pt-br/",
+      "sourceType": "Imprensa Internacional / Pública",
+      "sourceEditorial": "Emissora pública da Alemanha; foco em diplomacia e direitos humanos",
+      "country": "Alemanha",
+      "paywall": false,
+      "originalUrl": "https://www.dw.com/pt-br/por-que-as-pesquisas-eleitorais-parecem-n%C3%A3o-funcionar/audio-79369463",
+      "publishedAtStr": "2026-09-25T09:30:00Z",
+      "publishedAtTs": 1790328600000,
+      "rawContent": "Por que as pesquisas eleitorais parecem não funcionar",
+      "linkStatus": "active",
+      "lastChecked": 1790389317355
+    },
+    {
+      "id": "gdelt-ag09ksr",
+      "title": "Por todos os lado : cidade russa cercada por ursos tem 6 mortos",
+      "sourceName": "G1 Mundo",
+      "sourceUrl": "https://g1.globo.com/mundo/",
+      "sourceType": "Imprensa Comercial Brasileira",
+      "sourceEditorial": "Portal de notícias mainstream do Grupo Globo",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://g1.globo.com/mundo/noticia/2026/09/25/por-todos-os-lados-cidade-russa-esta-cercada-por-ursos-que-ja-deixaram-6-mortos-em-um-mes.ghtml",
+      "publishedAtStr": "2026-09-25T05:30:00Z",
+      "publishedAtTs": 1790314200000,
+      "rawContent": "Por todos os lado : cidade russa cercada por ursos tem 6 mortos",
+      "linkStatus": "active",
+      "lastChecked": 1790389317355
+    },
+    {
+      "id": "gdelt-2xhdopd",
+      "title": "Itália limita a 30 % número de alunos sem fluência em italiano por sala e proíbe burcas em escolas",
+      "sourceName": "G1 Mundo",
+      "sourceUrl": "https://g1.globo.com/mundo/",
+      "sourceType": "Imprensa Comercial Brasileira",
+      "sourceEditorial": "Portal de notícias mainstream do Grupo Globo",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://g1.globo.com/mundo/noticia/2026/09/25/italia-limita-a-30percent-numero-de-alunos-sem-fluencia-em-italiano-por-sala-e-proibe-burcas-em-escolas.ghtml",
+      "publishedAtStr": "2026-09-25T04:45:00Z",
+      "publishedAtTs": 1790311500000,
+      "rawContent": "Itália limita a 30 % número de alunos sem fluência em italiano por sala e proíbe burcas em escolas",
+      "linkStatus": "active",
+      "lastChecked": 1790389317355
+    },
+    {
+      "id": "gdelt-xzhj684",
       "title": "Gilmar Mendes decide levar caso de usinas ao plenário após mensagens de Vorcaro sobre Nunes Marques – CartaCapital",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -26,7 +74,23 @@
       "lastChecked": 1790387125248
     },
     {
-      "id": "gdelt-7x42bzm",
+      "id": "gdelt-c3teup6",
+      "title": "Sobrevivente de atentado contra Trump em comício morre dois anos após ser baleado",
+      "sourceName": "O Globo Mundo",
+      "sourceUrl": "https://oglobo.globo.com/mundo/",
+      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
+      "sourceEditorial": "Jornal diário (Grupo Globo) - Conteúdo sob assinatura",
+      "country": "Brasil",
+      "paywall": true,
+      "originalUrl": "https://oglobo.globo.com/mundo/noticia/2026/09/24/sobrevivente-de-atentado-contra-trump-em-comicio-morre-dois-anos-apos-ser-baleado.ghtml",
+      "publishedAtStr": "2026-09-25T02:00:00Z",
+      "publishedAtTs": 1790301600000,
+      "rawContent": "Sobrevivente de atentado contra Trump em comício morre dois anos após ser baleado",
+      "linkStatus": "active",
+      "lastChecked": 1790389317355
+    },
+    {
+      "id": "gdelt-yl35kck",
       "title": "No DF , Celina Leão ( PP ) lidera com 42 % no cenário sem Arruda ; Grass ( PT ) tem 23 % – CartaCapital",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -42,7 +106,7 @@
       "lastChecked": 1790388316731
     },
     {
-      "id": "gdelt-mf0gqdf",
+      "id": "gdelt-8zxiqup",
       "title": "Roubo ou queima de arquivo ? – CartaCapital",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -58,7 +122,7 @@
       "lastChecked": 1790388316731
     },
     {
-      "id": "gdelt-gjv6yjf",
+      "id": "gdelt-8ic76d7",
       "title": "Quaest : Fábio tem 43 % na disputa pelo governo de Sergipe ; Valmir de Francisquinho , 34 %",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -74,7 +138,7 @@
       "lastChecked": 1790388316731
     },
     {
-      "id": "gdelt-1jnpbz3",
+      "id": "gdelt-f6wfb2c",
       "title": "Zanin dá 48 horas para Anatel se manifestar sobre pedido por internet móvel livre no período eleitoral – CartaCapital",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -90,7 +154,7 @@
       "lastChecked": 1790388316731
     },
     {
-      "id": "gdelt-ny0p05u",
+      "id": "gdelt-mcuj8b1",
       "title": "Quaest : saiba as intenções de voto para governador em BA , SE , RS , SC , GO , AM , RO e AP",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -106,7 +170,7 @@
       "lastChecked": 1790388316731
     },
     {
-      "id": "gdelt-wt1z8m7",
+      "id": "gdelt-7w5y4pl",
       "title": "Quaest aponta empate técnico entre ACM Neto e Jerônimo na Bahia",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -122,7 +186,7 @@
       "lastChecked": 1790388316731
     },
     {
-      "id": "gdelt-bpwu4tb",
+      "id": "gdelt-ub294iy",
       "title": "Sob Milei , pobreza cresce e atinge um terço da população na Argentina",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -138,7 +202,7 @@
       "lastChecked": 1790388316731
     },
     {
-      "id": "gdelt-5odjgft",
+      "id": "gdelt-92uxbdk",
       "title": "Fim da química : Às vésperas do primeiro turno no Brasil , Lula e Trump soltam faíscas na ONU",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -154,7 +218,7 @@
       "lastChecked": 1790388316731
     },
     {
-      "id": "gdelt-i9oiy3u",
+      "id": "gdelt-aifi4wg",
       "title": "Datafolha mostra empate técnico entre Lula e Flávio Bolsonaro em 2º turno",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -170,7 +234,7 @@
       "lastChecked": 1790388316731
     },
     {
-      "id": "gdelt-xce0ao9",
+      "id": "gdelt-7udk07p",
       "title": "Quaest : como está a disputa entre Lula e Flávio Bolsonaro em BA , SE , RS , SC , GO , AM , RO e AP – CartaCapital",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -186,7 +250,7 @@
       "lastChecked": 1790388316731
     },
     {
-      "id": "gdelt-5l3hlvu",
+      "id": "gdelt-3f2mktl",
       "title": "A máquina de desinformao opera em pleno vapor , com ingerência externa e conivência do TSE",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -202,7 +266,7 @@
       "lastChecked": 1790388316731
     },
     {
-      "id": "gdelt-na1bgvj",
+      "id": "gdelt-c0xbijc",
       "title": "Datafolha : 50 % desaprovam e 47 % aprovam governo Lula – CartaCapital",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -218,7 +282,7 @@
       "lastChecked": 1790388316731
     },
     {
-      "id": "gdelt-38uhwy9",
+      "id": "gdelt-r7ywrbx",
       "title": "Editorial : Ofensiva miliciana",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -234,7 +298,7 @@
       "lastChecked": 1790388316731
     },
     {
-      "id": "gdelt-kpi7r4t",
+      "id": "gdelt-jda2uuu",
       "title": "Quaest : saiba as intenções de voto para o Senado em BA , SE , RS , SC , GO , AM , RO e AP",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -250,7 +314,7 @@
       "lastChecked": 1790388316731
     },
     {
-      "id": "gdelt-eaq05se",
+      "id": "gdelt-moy1qgv",
       "title": "Fachin pede manifestação da PGR sobre afastamento de Andrei da PF",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -266,7 +330,7 @@
       "lastChecked": 1790388316731
     },
     {
-      "id": "gdelt-qtzk9nm",
+      "id": "gdelt-np3e3bo",
       "title": "Campanha de Lula questiona Meta por suspensão de página de anúncios",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -282,7 +346,7 @@
       "lastChecked": 1790388316731
     },
     {
-      "id": "gdelt-rwp5mat",
+      "id": "gdelt-1e74z5g",
       "title": "Música de Maluco – CartaCapital",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -298,7 +362,7 @@
       "lastChecked": 1790388316731
     },
     {
-      "id": "gdelt-nfrxy0v",
+      "id": "gdelt-4wiv4sg",
       "title": "TST decide que greve dos Correios não é abusiva",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -314,7 +378,7 @@
       "lastChecked": 1790388316731
     },
     {
-      "id": "gdelt-jwxk58l",
+      "id": "gdelt-pc32jmo",
       "title": "Quem são e o que pensam expoentes do crescente movimento de mulheres reacionárias no Brasil",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -330,7 +394,23 @@
       "lastChecked": 1790388316731
     },
     {
-      "id": "gdelt-p8epkd2",
+      "id": "gdelt-h8c3081",
+      "title": "Xi Jinping diz que EUA e China  alcançaram entendimento comum em muitas questõe após reunião com Trump em Washington",
+      "sourceName": "G1 Mundo",
+      "sourceUrl": "https://g1.globo.com/mundo/",
+      "sourceType": "Imprensa Comercial Brasileira",
+      "sourceEditorial": "Portal de notícias mainstream do Grupo Globo",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://g1.globo.com/mundo/noticia/2026/09/24/xi-jinping-diz-que-eua-e-china-alcancaram-entendimento-comum-em-muitas-questoes-apos-reuniao-com-trump-em-washington.ghtml",
+      "publishedAtStr": "2026-09-25T00:45:00Z",
+      "publishedAtTs": 1790297100000,
+      "rawContent": "Xi Jinping diz que EUA e China  alcançaram entendimento comum em muitas questõe após reunião com Trump em Washington",
+      "linkStatus": "active",
+      "lastChecked": 1790389317355
+    },
+    {
+      "id": "gdelt-pc83nhi",
       "title": "Atividade econômica na Argentina despenca em julho",
       "sourceName": "Valor Econômico",
       "sourceUrl": "https://valor.globo.com/",
@@ -346,7 +426,39 @@
       "lastChecked": 1790388316731
     },
     {
-      "id": "gdelt-jxqao0d",
+      "id": "gdelt-xaian63",
+      "title": "Morre homem baleado durante comício de Trump em 2024 nos EUA",
+      "sourceName": "G1 Mundo",
+      "sourceUrl": "https://g1.globo.com/mundo/",
+      "sourceType": "Imprensa Comercial Brasileira",
+      "sourceEditorial": "Portal de notícias mainstream do Grupo Globo",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://g1.globo.com/mundo/noticia/2026/09/24/morre-homem-baleado-durante-comicio-de-trump-em-2024-nos-eua.ghtml",
+      "publishedAtStr": "2026-09-25T00:00:00Z",
+      "publishedAtTs": 1790294400000,
+      "rawContent": "Morre homem baleado durante comício de Trump em 2024 nos EUA",
+      "linkStatus": "active",
+      "lastChecked": 1790389317355
+    },
+    {
+      "id": "gdelt-dkhr1bg",
+      "title": "Trump recebe Xi Jinping em meio a disputas e sem acordos",
+      "sourceName": "DW Brasil",
+      "sourceUrl": "https://www.dw.com/pt-br/",
+      "sourceType": "Imprensa Internacional / Pública",
+      "sourceEditorial": "Emissora pública da Alemanha; foco em diplomacia e direitos humanos",
+      "country": "Alemanha",
+      "paywall": false,
+      "originalUrl": "https://www.dw.com/pt-br/trump-recebe-xi-jinping-em-meio-a-disputas-e-sem-acordos/a-79420016",
+      "publishedAtStr": "2026-09-24T23:45:00Z",
+      "publishedAtTs": 1790293500000,
+      "rawContent": "Trump recebe Xi Jinping em meio a disputas e sem acordos",
+      "linkStatus": "active",
+      "lastChecked": 1790389317355
+    },
+    {
+      "id": "gdelt-eucl5mw",
       "title": "Dirigente do Fed vê inflação persistente e não descarta novas altas de juros nos EUA",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -362,7 +474,7 @@
       "lastChecked": 1790388316731
     },
     {
-      "id": "gdelt-ks2lm3n",
+      "id": "gdelt-xffeiss",
       "title": "Vale ( VALE3 ) quer dobrar produo de cobre até 2034 sem depender de M & A , diz CFO",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -378,7 +490,7 @@
       "lastChecked": 1790388316731
     },
     {
-      "id": "gdelt-yxb7mlm",
+      "id": "gdelt-lj4mg77",
       "title": "Datafolha : Celina lidera no DF com 37 %; Grass tem 21 % e Arruda , 18 %",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -394,7 +506,7 @@
       "lastChecked": 1790388316731
     },
     {
-      "id": "gdelt-vqh0aix",
+      "id": "gdelt-ww8ukgw",
       "title": "Lula deve anunciar veto total a bets e linha de crédito para clubes , dizem fontes",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -410,7 +522,7 @@
       "lastChecked": 1790388316731
     },
     {
-      "id": "gdelt-v9894vq",
+      "id": "gdelt-f98g1y5",
       "title": "Entidades do setor se manifestam sobre fim das bets :  Nós apostamos no Brasil",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -426,7 +538,7 @@
       "lastChecked": 1790388316731
     },
     {
-      "id": "gdelt-sfqgm4j",
+      "id": "gdelt-3fya3vt",
       "title": "Zuckerberg ganha mais de R$ 20 bi em um dia e vira 5º mais rico do planeta",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -442,7 +554,7 @@
       "lastChecked": 1790388316731
     },
     {
-      "id": "gdelt-mopfy0p",
+      "id": "gdelt-opi8l70",
       "title": "TST decide que greve dos Correios não é abusiva e determina volta ao trabalho na 6ª",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -458,7 +570,7 @@
       "lastChecked": 1790388316731
     },
     {
-      "id": "gdelt-xc2jhd0",
+      "id": "gdelt-wqcli2b",
       "title": "Starbucks anuncia novo fechamento em massa nos EUA : 250 lojas a menos",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -474,7 +586,7 @@
       "lastChecked": 1790388316731
     },
     {
-      "id": "gdelt-gmq2m8f",
+      "id": "gdelt-aaqwjjt",
       "title": "Datafolha : Cleitinho tem 40 % em Minas ; Patrus aparece com 15 % e Kalil , com 9 %",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -490,7 +602,7 @@
       "lastChecked": 1790388316731
     },
     {
-      "id": "gdelt-fdqutgv",
+      "id": "gdelt-3vk3cav",
       "title": "Datafolha : Marina tem 15 % para o Senado ; Simone , 14 %; Derrite e André , 12 %",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -506,7 +618,7 @@
       "lastChecked": 1790388316731
     },
     {
-      "id": "gdelt-vj79jwk",
+      "id": "gdelt-gikuqsx",
       "title": "Como Mark Carney virou a voz das potências médias que tentam depender menos dos EUA",
       "sourceName": "Veja Mundo",
       "sourceUrl": "https://veja.abril.com.br/mundo/",
@@ -522,7 +634,7 @@
       "lastChecked": 1790388316731
     },
     {
-      "id": "gdelt-epa68w1",
+      "id": "gdelt-3xoj6vy",
       "title": "Datafolha : Lula e Flávio empatam com 45 % de rejeio do eleitorado",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -538,7 +650,7 @@
       "lastChecked": 1790388316731
     },
     {
-      "id": "gdelt-b1eyo2g",
+      "id": "gdelt-z0t6hbb",
       "title": "ndice de pobreza põe Milei à prova na Argentina antes das eleições",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -554,7 +666,7 @@
       "lastChecked": 1790388316731
     },
     {
-      "id": "gdelt-1owi20v",
+      "id": "gdelt-9edty8f",
       "title": "Datafolha : Lula tem 40 % e Flávio , 36 % no 1º turno e disputa segue empatada no 2º",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -570,7 +682,7 @@
       "lastChecked": 1790388316731
     },
     {
-      "id": "gdelt-r8legr2",
+      "id": "gdelt-ne1ggh0",
       "title": "Netanyahu desafia críticas na ONU , vê protestos e chama opositores de  covardes",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -586,7 +698,7 @@
       "lastChecked": 1790388316731
     },
     {
-      "id": "gdelt-zdps2hu",
+      "id": "gdelt-ozourpd",
       "title": "Justiça bloqueia aporte da Braskem em operação mexicana após ao de credores",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -602,7 +714,7 @@
       "lastChecked": 1790388316731
     },
     {
-      "id": "gdelt-h534v78",
+      "id": "gdelt-e2ykj15",
       "title": "Datafolha : Paes tem 43 % no Rio , mas Ruas avança e chega a 30 %",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -618,7 +730,7 @@
       "lastChecked": 1790388316731
     },
     {
-      "id": "gdelt-ansv66d",
+      "id": "gdelt-xkwgbya",
       "title": "Datafolha : Raquel Lyra tem 48 % e João Campos , 44 %, em Pernambuco",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -634,7 +746,7 @@
       "lastChecked": 1790388316731
     },
     {
-      "id": "gdelt-4r1efer",
+      "id": "gdelt-tibmp60",
       "title": "Datafolha : Tarcísio tem 50 % e pode ser reeleito no 1º turno em São Paulo",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -650,7 +762,71 @@
       "lastChecked": 1790388316731
     },
     {
-      "id": "gdelt-a9zxnwv",
+      "id": "gdelt-9bhhclu",
+      "title": "Na ONU , Netanyahu minimiza violência de colonos israelenses , enaltece Trump e debocha de protestos na assembleia",
+      "sourceName": "O Globo Mundo",
+      "sourceUrl": "https://oglobo.globo.com/mundo/",
+      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
+      "sourceEditorial": "Jornal diário (Grupo Globo) - Conteúdo sob assinatura",
+      "country": "Brasil",
+      "paywall": true,
+      "originalUrl": "https://oglobo.globo.com/mundo/noticia/2026/09/24/benjamin-netanyahu-discursa-na-assembleia-geral-da-onu.ghtml",
+      "publishedAtStr": "2026-09-24T23:15:00Z",
+      "publishedAtTs": 1790291700000,
+      "rawContent": "Na ONU , Netanyahu minimiza violência de colonos israelenses , enaltece Trump e debocha de protestos na assembleia",
+      "linkStatus": "active",
+      "lastChecked": 1790389317355
+    },
+    {
+      "id": "gdelt-kn7xq38",
+      "title": "Dinamarca alerta para  risco crescente  de ataque russo contra a Europa , em meio a incidentes atribuídos a Moscou",
+      "sourceName": "O Globo Mundo",
+      "sourceUrl": "https://oglobo.globo.com/mundo/",
+      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
+      "sourceEditorial": "Jornal diário (Grupo Globo) - Conteúdo sob assinatura",
+      "country": "Brasil",
+      "paywall": true,
+      "originalUrl": "https://oglobo.globo.com/mundo/noticia/2026/09/24/dinamarca-alerta-para-risco-crescente-de-ataque-russo-contra-a-europa-em-meio-a-incidentes-atribuidos-a-moscou.ghtml",
+      "publishedAtStr": "2026-09-24T23:15:00Z",
+      "publishedAtTs": 1790291700000,
+      "rawContent": "Dinamarca alerta para  risco crescente  de ataque russo contra a Europa , em meio a incidentes atribuídos a Moscou",
+      "linkStatus": "active",
+      "lastChecked": 1790389317355
+    },
+    {
+      "id": "gdelt-g8ts6p5",
+      "title": "CNJ investiga desembargador ligado a Kassio Nunes Marques",
+      "sourceName": "DW Brasil",
+      "sourceUrl": "https://www.dw.com/pt-br/",
+      "sourceType": "Imprensa Internacional / Pública",
+      "sourceEditorial": "Emissora pública da Alemanha; foco em diplomacia e direitos humanos",
+      "country": "Alemanha",
+      "paywall": false,
+      "originalUrl": "https://www.dw.com/pt-br/cnj-investiga-desembargador-ligado-a-kassio-nunes-marques/a-79420142",
+      "publishedAtStr": "2026-09-24T23:00:00Z",
+      "publishedAtTs": 1790290800000,
+      "rawContent": "CNJ investiga desembargador ligado a Kassio Nunes Marques",
+      "linkStatus": "active",
+      "lastChecked": 1790389317355
+    },
+    {
+      "id": "gdelt-cqbpakb",
+      "title": "Datafolha : Lula tem 40 % e Flávio aparece com 36 % no 1º turno",
+      "sourceName": "DW Brasil",
+      "sourceUrl": "https://www.dw.com/pt-br/",
+      "sourceType": "Imprensa Internacional / Pública",
+      "sourceEditorial": "Emissora pública da Alemanha; foco em diplomacia e direitos humanos",
+      "country": "Alemanha",
+      "paywall": false,
+      "originalUrl": "https://www.dw.com/pt-br/datafolha-lula-tem-40-e-fl%C3%A1vio-aparece-com-36-no-1%C2%BA-turno/live-78393402",
+      "publishedAtStr": "2026-09-24T23:00:00Z",
+      "publishedAtTs": 1790290800000,
+      "rawContent": "Datafolha : Lula tem 40 % e Flávio aparece com 36 % no 1º turno",
+      "linkStatus": "active",
+      "lastChecked": 1790389317355
+    },
+    {
+      "id": "gdelt-6vcqdjk",
       "title": "Caso Master : Não se sabe o paradeiro de Nathana Lopes , acompanhante de Sicário no dia da prisão",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -666,7 +842,7 @@
       "lastChecked": 1790388316731
     },
     {
-      "id": "gdelt-0e9b4i1",
+      "id": "gdelt-ho7ioq9",
       "title": "Datafolha : Tarcísio tem 50 % na disputa pelo governo de São Paulo ; Haddad , 30 % – CartaCapital",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -678,11 +854,11 @@
       "publishedAtStr": "2026-09-24T22:00:00Z",
       "publishedAtTs": 1790287200000,
       "rawContent": "Datafolha : Tarcísio tem 50 % na disputa pelo governo de São Paulo ; Haddad , 30 % – CartaCapital",
-      "linkStatus": "unknown",
-      "lastChecked": null
+      "linkStatus": "active",
+      "lastChecked": 1790389317355
     },
     {
-      "id": "gdelt-n8yyes7",
+      "id": "gdelt-276ssz3",
       "title": "PE : Raquel Lyra tem 48 % ante 44 % de João Campos , aponta Datafolha – CartaCapital",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -694,11 +870,11 @@
       "publishedAtStr": "2026-09-24T22:00:00Z",
       "publishedAtTs": 1790287200000,
       "rawContent": "PE : Raquel Lyra tem 48 % ante 44 % de João Campos , aponta Datafolha – CartaCapital",
-      "linkStatus": "unknown",
-      "lastChecked": null
+      "linkStatus": "active",
+      "lastChecked": 1790389317355
     },
     {
-      "id": "gdelt-402ixs1",
+      "id": "gdelt-l5pv7ch",
       "title": "Com quatro livros publicados em dez anos , Marcinho VP busca recontar a própria história",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -710,11 +886,11 @@
       "publishedAtStr": "2026-09-24T22:00:00Z",
       "publishedAtTs": 1790287200000,
       "rawContent": "Com quatro livros publicados em dez anos , Marcinho VP busca recontar a própria história",
-      "linkStatus": "unknown",
-      "lastChecked": null
+      "linkStatus": "active",
+      "lastChecked": 1790389317355
     },
     {
-      "id": "gdelt-uobo3kq",
+      "id": "gdelt-auf21uz",
       "title": "Datafolha : Ruas cresce , mas Paes tem 13 pontos de vantagem em 1º turno no Rio",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -726,11 +902,11 @@
       "publishedAtStr": "2026-09-24T22:00:00Z",
       "publishedAtTs": 1790287200000,
       "rawContent": "Datafolha : Ruas cresce , mas Paes tem 13 pontos de vantagem em 1º turno no Rio",
-      "linkStatus": "unknown",
-      "lastChecked": null
+      "linkStatus": "active",
+      "lastChecked": 1790389317355
     },
     {
-      "id": "gdelt-005bkk0",
+      "id": "gdelt-b6jdin5",
       "title": "Datafolha mostra Marina e Tebet numericamente na liderança na disputa pelo Senado em São Paulo – CartaCapital",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -742,11 +918,11 @@
       "publishedAtStr": "2026-09-24T22:00:00Z",
       "publishedAtTs": 1790287200000,
       "rawContent": "Datafolha mostra Marina e Tebet numericamente na liderança na disputa pelo Senado em São Paulo – CartaCapital",
-      "linkStatus": "unknown",
-      "lastChecked": null
+      "linkStatus": "active",
+      "lastChecked": 1790389317355
     },
     {
-      "id": "gdelt-kqelwe6",
+      "id": "gdelt-3quuccd",
       "title": "Justiça determina revisão de indenização de R$ 4 , 2 bi a usina que vendeu crédito ao Master",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -758,11 +934,11 @@
       "publishedAtStr": "2026-09-24T22:00:00Z",
       "publishedAtTs": 1790287200000,
       "rawContent": "Justiça determina revisão de indenização de R$ 4 , 2 bi a usina que vendeu crédito ao Master",
-      "linkStatus": "unknown",
-      "lastChecked": null
+      "linkStatus": "active",
+      "lastChecked": 1790389317355
     },
     {
-      "id": "gdelt-rmzsvp3",
+      "id": "gdelt-8kpwch7",
       "title": "Brasil e dezenas de países deixam plenário da ONU durante discurso de Netanyahu",
       "sourceName": "Veja Mundo",
       "sourceUrl": "https://veja.abril.com.br/mundo/",
@@ -774,11 +950,27 @@
       "publishedAtStr": "2026-09-24T22:00:00Z",
       "publishedAtTs": 1790287200000,
       "rawContent": "Brasil e dezenas de países deixam plenário da ONU durante discurso de Netanyahu",
-      "linkStatus": "unknown",
-      "lastChecked": null
+      "linkStatus": "active",
+      "lastChecked": 1790389317355
     },
     {
-      "id": "gdelt-gghdocc",
+      "id": "gdelt-t2xa3ly",
+      "title": "Brasil no Mundo desta quinta debate multilateralismo e desafios da ONU",
+      "sourceName": "Agência Brasil",
+      "sourceUrl": "https://agenciabrasil.ebc.com.br/internacional",
+      "sourceType": "Agência Estatal",
+      "sourceEditorial": "Agência pública de notícias da EBC (Governo Federal)",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-09/brasil-no-mundo-desta-quinta-debate-multilateralismo-e-desafios-da-onu",
+      "publishedAtStr": "2026-09-24T21:45:00Z",
+      "publishedAtTs": 1790286300000,
+      "rawContent": "Brasil no Mundo desta quinta debate multilateralismo e desafios da ONU",
+      "linkStatus": "active",
+      "lastChecked": 1790389317355
+    },
+    {
+      "id": "gdelt-6homsf6",
       "title": "Petróleo Brent sobe a US$ 107 , com monitoramento de negociaes entre EUA e Ir",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -790,11 +982,11 @@
       "publishedAtStr": "2026-09-24T21:30:00Z",
       "publishedAtTs": 1790285400000,
       "rawContent": "Petróleo Brent sobe a US$ 107 , com monitoramento de negociaes entre EUA e Ir",
-      "linkStatus": "unknown",
-      "lastChecked": null
+      "linkStatus": "active",
+      "lastChecked": 1790389317355
     },
     {
-      "id": "gdelt-eqa7p7u",
+      "id": "gdelt-e432di6",
       "title": "YDUQ3 sobe quase 3 % e Cogna cai mais de 5 % após combinação de negócios Yduqs - Afya",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -806,11 +998,11 @@
       "publishedAtStr": "2026-09-24T21:30:00Z",
       "publishedAtTs": 1790285400000,
       "rawContent": "YDUQ3 sobe quase 3 % e Cogna cai mais de 5 % após combinação de negócios Yduqs - Afya",
-      "linkStatus": "unknown",
-      "lastChecked": null
+      "linkStatus": "active",
+      "lastChecked": 1790389317355
     },
     {
-      "id": "gdelt-270kihz",
+      "id": "gdelt-yy71ohm",
       "title": "Haddad diz que eventual derrota em SP não afetaria reeleio de Lula",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -822,11 +1014,11 @@
       "publishedAtStr": "2026-09-24T21:30:00Z",
       "publishedAtTs": 1790285400000,
       "rawContent": "Haddad diz que eventual derrota em SP não afetaria reeleio de Lula",
-      "linkStatus": "unknown",
-      "lastChecked": null
+      "linkStatus": "active",
+      "lastChecked": 1790389317355
     },
     {
-      "id": "gdelt-h5f24e1",
+      "id": "gdelt-wzqey5d",
       "title": "Ibovespa tem nova queda e dólar , mais uma alta , com eleio e exterior",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -838,11 +1030,11 @@
       "publishedAtStr": "2026-09-24T21:30:00Z",
       "publishedAtTs": 1790285400000,
       "rawContent": "Ibovespa tem nova queda e dólar , mais uma alta , com eleio e exterior",
-      "linkStatus": "unknown",
-      "lastChecked": null
+      "linkStatus": "active",
+      "lastChecked": 1790389317355
     },
     {
-      "id": "gdelt-nqbskh9",
+      "id": "gdelt-84jjscy",
       "title": "Veja como funciona o passo a passo para juntar R$ 10 mil",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -854,11 +1046,11 @@
       "publishedAtStr": "2026-09-24T21:30:00Z",
       "publishedAtTs": 1790285400000,
       "rawContent": "Veja como funciona o passo a passo para juntar R$ 10 mil",
-      "linkStatus": "unknown",
-      "lastChecked": null
+      "linkStatus": "active",
+      "lastChecked": 1790389317355
     },
     {
-      "id": "gdelt-u57pw7b",
+      "id": "gdelt-oawdd4k",
       "title": "Taxas dos DIs sobem em novo dia de alta para os rendimentos dos Treasuries",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -870,11 +1062,11 @@
       "publishedAtStr": "2026-09-24T21:30:00Z",
       "publishedAtTs": 1790285400000,
       "rawContent": "Taxas dos DIs sobem em novo dia de alta para os rendimentos dos Treasuries",
-      "linkStatus": "unknown",
-      "lastChecked": null
+      "linkStatus": "active",
+      "lastChecked": 1790389317355
     },
     {
-      "id": "gdelt-jmm6o7j",
+      "id": "gdelt-ty628o3",
       "title": "Oracle invoca  força maior  em projeto de data center nos EUA",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -886,11 +1078,11 @@
       "publishedAtStr": "2026-09-24T21:30:00Z",
       "publishedAtTs": 1790285400000,
       "rawContent": "Oracle invoca  força maior  em projeto de data center nos EUA",
-      "linkStatus": "unknown",
-      "lastChecked": null
+      "linkStatus": "active",
+      "lastChecked": 1790389317355
     },
     {
-      "id": "gdelt-1oa96qu",
+      "id": "gdelt-bb3swqh",
       "title": "Mercado Livre anuncia entrega em até 1 hora em SP e venda de remédios com receita",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -902,11 +1094,11 @@
       "publishedAtStr": "2026-09-24T21:30:00Z",
       "publishedAtTs": 1790285400000,
       "rawContent": "Mercado Livre anuncia entrega em até 1 hora em SP e venda de remédios com receita",
-      "linkStatus": "unknown",
-      "lastChecked": null
+      "linkStatus": "active",
+      "lastChecked": 1790389317355
     },
     {
-      "id": "gdelt-l75pjqp",
+      "id": "gdelt-35k3i7z",
       "title": "Bolsas de NY fecham sem direo com tensões no Oriente Médio e falas do Fed",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -918,11 +1110,11 @@
       "publishedAtStr": "2026-09-24T21:30:00Z",
       "publishedAtTs": 1790285400000,
       "rawContent": "Bolsas de NY fecham sem direo com tensões no Oriente Médio e falas do Fed",
-      "linkStatus": "unknown",
-      "lastChecked": null
+      "linkStatus": "active",
+      "lastChecked": 1790389317355
     },
     {
-      "id": "gdelt-b8te3gp",
+      "id": "gdelt-i6xa2sb",
       "title": "RD , Pague Menos e Panvel : farmacêuticas desabam até 8 % após anúncio do Mercado Livre",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -934,11 +1126,11 @@
       "publishedAtStr": "2026-09-24T21:30:00Z",
       "publishedAtTs": 1790285400000,
       "rawContent": "RD , Pague Menos e Panvel : farmacêuticas desabam até 8 % após anúncio do Mercado Livre",
-      "linkStatus": "unknown",
-      "lastChecked": null
+      "linkStatus": "active",
+      "lastChecked": 1790389317355
     },
     {
-      "id": "gdelt-qp85qb7",
+      "id": "gdelt-6jdjlmr",
       "title": "Treasuries nos EUA e receio fiscal no Brasil : o que fez Ibovespa cair 0 , 99 % nesta 5ª",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -950,11 +1142,11 @@
       "publishedAtStr": "2026-09-24T21:30:00Z",
       "publishedAtTs": 1790285400000,
       "rawContent": "Treasuries nos EUA e receio fiscal no Brasil : o que fez Ibovespa cair 0 , 99 % nesta 5ª",
-      "linkStatus": "unknown",
-      "lastChecked": null
+      "linkStatus": "active",
+      "lastChecked": 1790389317355
     },
     {
-      "id": "gdelt-elgwlzs",
+      "id": "gdelt-kq9tp18",
       "title": "Votar vale como prova de vida do INSS ? Entenda a regra para quem tem mais de 70 anos",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -966,11 +1158,11 @@
       "publishedAtStr": "2026-09-24T21:30:00Z",
       "publishedAtTs": 1790285400000,
       "rawContent": "Votar vale como prova de vida do INSS ? Entenda a regra para quem tem mais de 70 anos",
-      "linkStatus": "unknown",
-      "lastChecked": null
+      "linkStatus": "active",
+      "lastChecked": 1790389317355
     },
     {
-      "id": "gdelt-m7fwtn0",
+      "id": "gdelt-800130e",
       "title": "CNJ faz operação em gabinete de desembargador citado em mensagens de Vorcaro",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -982,11 +1174,11 @@
       "publishedAtStr": "2026-09-24T21:30:00Z",
       "publishedAtTs": 1790285400000,
       "rawContent": "CNJ faz operação em gabinete de desembargador citado em mensagens de Vorcaro",
-      "linkStatus": "unknown",
-      "lastChecked": null
+      "linkStatus": "active",
+      "lastChecked": 1790389317355
     },
     {
-      "id": "gdelt-wwpyjwt",
+      "id": "gdelt-qgat0tb",
       "title": "Adega subterrânea , cofres e mais : veja por dentro as casas de Daniel Vorcaro",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -998,11 +1190,11 @@
       "publishedAtStr": "2026-09-24T21:30:00Z",
       "publishedAtTs": 1790285400000,
       "rawContent": "Adega subterrânea , cofres e mais : veja por dentro as casas de Daniel Vorcaro",
-      "linkStatus": "unknown",
-      "lastChecked": null
+      "linkStatus": "active",
+      "lastChecked": 1790389317355
     },
     {
-      "id": "gdelt-642q5vm",
+      "id": "gdelt-yw1si1j",
       "title": "Primeira onda calor da primavera chega neste fim de semana , diz Inmet",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -1014,11 +1206,11 @@
       "publishedAtStr": "2026-09-24T21:30:00Z",
       "publishedAtTs": 1790285400000,
       "rawContent": "Primeira onda calor da primavera chega neste fim de semana , diz Inmet",
-      "linkStatus": "unknown",
-      "lastChecked": null
+      "linkStatus": "active",
+      "lastChecked": 1790389317355
     },
     {
-      "id": "gdelt-li30rqi",
+      "id": "gdelt-fajwsh0",
       "title": "Por favor , não votem em mim , diz Arruda após TSE barrar sua candidatura no DF",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -1030,11 +1222,11 @@
       "publishedAtStr": "2026-09-24T21:30:00Z",
       "publishedAtTs": 1790285400000,
       "rawContent": "Por favor , não votem em mim , diz Arruda após TSE barrar sua candidatura no DF",
-      "linkStatus": "unknown",
-      "lastChecked": null
+      "linkStatus": "active",
+      "lastChecked": 1790389317355
     },
     {
-      "id": "gdelt-o7dgg5g",
+      "id": "gdelt-povijkf",
       "title": "Gastos com  diversão  nos EUA : millennials preferem hobbies , Gen Z escolhe games",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -1046,11 +1238,11 @@
       "publishedAtStr": "2026-09-24T21:30:00Z",
       "publishedAtTs": 1790285400000,
       "rawContent": "Gastos com  diversão  nos EUA : millennials preferem hobbies , Gen Z escolhe games",
-      "linkStatus": "unknown",
-      "lastChecked": null
+      "linkStatus": "active",
+      "lastChecked": 1790389317355
     },
     {
-      "id": "gdelt-gjbkrpj",
+      "id": "gdelt-dyiqhr1",
       "title": "Número de assessores de investimentos no Brasil chega a 26 . 640 ; veja evoluo em 2026",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -1062,11 +1254,11 @@
       "publishedAtStr": "2026-09-24T21:30:00Z",
       "publishedAtTs": 1790285400000,
       "rawContent": "Número de assessores de investimentos no Brasil chega a 26 . 640 ; veja evoluo em 2026",
-      "linkStatus": "unknown",
-      "lastChecked": null
+      "linkStatus": "active",
+      "lastChecked": 1790389317355
     },
     {
-      "id": "gdelt-eqibec6",
+      "id": "gdelt-tgqyqan",
       "title": "Com bets na mira de Lula , times negociam ajuda financeira com o governo",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -1078,11 +1270,11 @@
       "publishedAtStr": "2026-09-24T21:30:00Z",
       "publishedAtTs": 1790285400000,
       "rawContent": "Com bets na mira de Lula , times negociam ajuda financeira com o governo",
-      "linkStatus": "unknown",
-      "lastChecked": null
+      "linkStatus": "active",
+      "lastChecked": 1790389317355
     },
     {
-      "id": "gdelt-hpzzgjs",
+      "id": "gdelt-96w69m4",
       "title": "Na ONU , presidente da Autoridade Palestina confirma primeiras eleições legislativas em 20 anos",
       "sourceName": "Veja Mundo",
       "sourceUrl": "https://veja.abril.com.br/mundo/",
@@ -1094,11 +1286,27 @@
       "publishedAtStr": "2026-09-24T21:15:00Z",
       "publishedAtTs": 1790284500000,
       "rawContent": "Na ONU , presidente da Autoridade Palestina confirma primeiras eleições legislativas em 20 anos",
-      "linkStatus": "unknown",
-      "lastChecked": null
+      "linkStatus": "active",
+      "lastChecked": 1790389317355
     },
     {
-      "id": "gdelt-ytj3wb9",
+      "id": "gdelt-wtq299e",
+      "title": "Escudo das Américas united states cartéis para barrar China , dizem especialistas",
+      "sourceName": "Agência Brasil",
+      "sourceUrl": "https://agenciabrasil.ebc.com.br/internacional",
+      "sourceType": "Agência Estatal",
+      "sourceEditorial": "Agência pública de notícias da EBC (Governo Federal)",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-09/escudo-das-americas-usa-carteis-para-barrar-china-dizem-especialistas",
+      "publishedAtStr": "2026-09-24T20:45:00Z",
+      "publishedAtTs": 1790282700000,
+      "rawContent": "Escudo das Américas united states cartéis para barrar China , dizem especialistas",
+      "linkStatus": "active",
+      "lastChecked": 1790389317355
+    },
+    {
+      "id": "gdelt-jrijnwm",
       "title": "A 10 dias da eleio , qual a chance de a disputa pela Presidência terminar no 1º turno ?",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -1114,7 +1322,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-jkr8yr0",
+      "id": "gdelt-tgtj94i",
       "title": "Advogado de Bolsonaro deixa caso após desistência de pedido de suspensão da pena",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -1130,7 +1338,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-keg55e6",
+      "id": "gdelt-mqu342b",
       "title": "A Irlanda apoia a causa palestina , mas reforça a perseguio a imigrantes",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -1146,7 +1354,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-jjb5czo",
+      "id": "gdelt-1fpn31m",
       "title": "Delegação brasileira se retira do plenário da ONU durante discurso de Netanyahu",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -1162,7 +1370,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-yp674vz",
+      "id": "gdelt-8kcunhj",
       "title": "TRE do Paraná manda Deltan excluir perfil no Instagram até o final das eleições",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -1178,7 +1386,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-pkc41fe",
+      "id": "gdelt-7orsrkw",
       "title": "Literatura : Testemunha do indizível",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -1194,7 +1402,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-ywrr7cl",
+      "id": "gdelt-a0ral9g",
       "title": "TSE invalida registro de candidatura de Arruda ao governo do DF",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -1210,7 +1418,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-5idoglf",
+      "id": "gdelt-4srbsiv",
       "title": "Ricardo Nunes minimiza fala de Flávio Bolsonaro sobre ida do prefeito a hospital veterinário",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -1226,7 +1434,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-s6bxhtp",
+      "id": "gdelt-i3bh8b2",
       "title": "CNJ realiza operação contra desembargador da  turma do KN",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -1242,7 +1450,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-zanlkiv",
+      "id": "gdelt-ocsgubj",
       "title": "Homem de 105 anos é investigado por crimes em campo de concentração na Alemanha nazista",
       "sourceName": "Veja Mundo",
       "sourceUrl": "https://veja.abril.com.br/mundo/",
@@ -1258,7 +1466,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-a175gsl",
+      "id": "gdelt-0zqn2pu",
       "title": "Montanha - russa nos EUA é alvo de aes após mais de 100 relatos de lesões cerebrais ; entenda",
       "sourceName": "Veja Mundo",
       "sourceUrl": "https://veja.abril.com.br/mundo/",
@@ -1274,7 +1482,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-f3xg8t0",
+      "id": "gdelt-wnojz9d",
       "title": "Europa pode ganhar país menor que o Vaticano ; entenda",
       "sourceName": "Veja Mundo",
       "sourceUrl": "https://veja.abril.com.br/mundo/",
@@ -1290,7 +1498,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-6xvdgtl",
+      "id": "gdelt-b1ccqez",
       "title": "França tem devastação recorde e maior número de incêndios florestais desde 1976",
       "sourceName": "Veja Mundo",
       "sourceUrl": "https://veja.abril.com.br/mundo/",
@@ -1306,7 +1514,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-2q9jozr",
+      "id": "gdelt-1x67ugh",
       "title": "Em tom conciliador , Trump recebe Xi Jinping na Casa Branca e exalta  grande amizade",
       "sourceName": "Veja Mundo",
       "sourceUrl": "https://veja.abril.com.br/mundo/",
@@ -1322,7 +1530,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-ymwd6z5",
+      "id": "gdelt-byv70zt",
       "title": "Embaixada dos EUA é pichada em protesto contra Trump :  Seu país é criminoso",
       "sourceName": "Estadão Internacional",
       "sourceUrl": "https://www.estadao.com.br/internacional/",
@@ -1338,7 +1546,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-k8xc6bb",
+      "id": "gdelt-0rz6d8n",
       "title": "A Amazon barrou o agente da Meta e a Shopify abriu a porta : quem fica com o cliente ?",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -1354,7 +1562,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-z3w3yt0",
+      "id": "gdelt-iabhg4r",
       "title": "Bentley lança primeiro carro elétrico , um SUV de luxo com acabamento em lã Merino",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -1370,7 +1578,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-3rpy2kx",
+      "id": "gdelt-g1u0fef",
       "title": "IA da OpenAI tentou invadir outros 4 alvos sem receber instruções para isso",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -1386,7 +1594,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-tl2zi0d",
+      "id": "gdelt-9gv871t",
       "title": "Na ONU , 80 países pedem reabertura do Estreito de Ormuz e condenam ataques do Irã",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -1402,7 +1610,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-q6yu93c",
+      "id": "gdelt-tce04os",
       "title": "Treasuries disparam outra vez : como isso afeta o Brasil e o que fazer agora ?",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -1418,7 +1626,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-ed3fgp2",
+      "id": "gdelt-ert2r5r",
       "title": "Equipe econômica aguarda decisão de Lula sobre bets para avaliar impacto , diz Moretti",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -1434,7 +1642,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-avue2zo",
+      "id": "gdelt-ts84l3f",
       "title": "Xi pede  prudência  aos EUA sobre Taiwan e fim rápido da guerra com o Irã",
       "sourceName": "Estadão Internacional",
       "sourceUrl": "https://www.estadao.com.br/internacional/",
@@ -1450,7 +1658,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-kpc3mfj",
+      "id": "gdelt-6gt0tfk",
       "title": "TSE mantém rejeio de candidatura de José Arruda ao governo do DF",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -1466,7 +1674,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-5mr5kb4",
+      "id": "gdelt-c69yz1v",
       "title": "Na TV , Lula associa Flávio ao crime organizado ; senador o chama de  pai do Tigrinho",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -1482,7 +1690,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-ikh7drs",
+      "id": "gdelt-mtillqn",
       "title": "Avião que prendeu Maduro pousa em base aérea brasileira",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -1498,7 +1706,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-zdy4fmr",
+      "id": "gdelt-jww6ecw",
       "title": "Nas redes , maioria vê  desespero  e  crime eleitoral  no reajuste do Bolsa Família",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -1514,7 +1722,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-79o6r3h",
+      "id": "gdelt-twb82l2",
       "title": "Delegações deixam plenário da ONU em protesto a Netanyahu e primeiro - ministro rebate :  Covardes",
       "sourceName": "Estadão Internacional",
       "sourceUrl": "https://www.estadao.com.br/internacional/",
@@ -1530,7 +1738,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-m2qxz0l",
+      "id": "gdelt-4bvqb8u",
       "title": "Stuhlberger : Flávio é  fraco  e não tem plano , mas bolsa pode subir 30 % com vitória",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -1546,7 +1754,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-tim0y5q",
+      "id": "gdelt-m0r398m",
       "title": "Premiê diz que Canadá se preparou até para  risco extremo  de ao militar dos EUA",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -1562,7 +1770,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-oqht8lj",
+      "id": "gdelt-s7ryg4n",
       "title": "Petrobras entende que haverá consenso com credores da Braskem , diz diretor",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -1578,7 +1786,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-3b59n42",
+      "id": "gdelt-lfta52w",
       "title": "Durigan : MP sobre bets está em avaliação pelo governo ; presidente tratará do tema",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -1594,7 +1802,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-zxbmqqg",
+      "id": "gdelt-5oy0v9e",
       "title": "Arábia Saudita intercepta mísseis balísticos houthis , diz coalizão no Iêmen",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -1610,7 +1818,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-5geindk",
+      "id": "gdelt-ujkmk4r",
       "title": "Carta contemplada : como funciona este mercado e quais são os riscos",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -1626,7 +1834,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-d6o4jiv",
+      "id": "gdelt-0ymsm8n",
       "title": "Reforma tributária perde ritmo e 40 % seguem sem adesão – CartaCapital",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -1642,7 +1850,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-lv52k7p",
+      "id": "gdelt-6j5ipvv",
       "title": "Nova fase da Operação Carbono Oculto mira bancos Genial e Master e esbarra em  Dark Horse",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -1658,7 +1866,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-sdw3xuu",
+      "id": "gdelt-tozs6b9",
       "title": "Augusto Cury perde fôlego nas pesquisas e encolhe como potencial aliado no 2º turno",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -1674,7 +1882,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-qtnmwu1",
+      "id": "gdelt-546n73z",
       "title": "Flávio Bolsonaro viajou em jatinho ligado a Vorcaro e criticou Moraes pelo uso da mesma aeronave",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -1690,7 +1898,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-u9r9gcr",
+      "id": "gdelt-fkg0jdu",
       "title": "Frio dá trégua em São Paulo e calor volta antes do fim de semana",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -1706,7 +1914,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-rn1fm31",
+      "id": "gdelt-04mvu0z",
       "title": "Xi propõe relação  sem conflito e sem confronto  entre China e EUA",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -1722,7 +1930,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-9d71cnv",
+      "id": "gdelt-9zb4uea",
       "title": "Frente fria muda o tempo em Belo Horizonte nesta quinta - feira",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -1738,7 +1946,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-y63k5tq",
+      "id": "gdelt-m86ktgz",
       "title": "Potencial de voto de Lula vai a 49 %, aponta nova Real Time Big Data",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -1754,7 +1962,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-mes5xlx",
+      "id": "gdelt-4gfc1z4",
       "title": "Veja a nova pesquisa Palver para a presidência",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -1770,7 +1978,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-i6swq97",
+      "id": "gdelt-gdta4zk",
       "title": "Dark Horse  pode ter recebido recursos do PCC , afirma Durigan",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -1786,7 +1994,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-4bsaptu",
+      "id": "gdelt-uy1tdri",
       "title": "Pancetta , repolho chinês e sorvete de mel : veja o menu do jantar de Trump e Xi , com  toque chinês",
       "sourceName": "Estadão Internacional",
       "sourceUrl": "https://www.estadao.com.br/internacional/",
@@ -1802,7 +2010,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-a9x3otk",
+      "id": "gdelt-jgttg4e",
       "title": "Trump recebe Xi Jinping na Casa Branca e promete discutir IA e segurança global",
       "sourceName": "Estadão Internacional",
       "sourceUrl": "https://www.estadao.com.br/internacional/",
@@ -1818,7 +2026,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-k2goexq",
+      "id": "gdelt-tl8hse9",
       "title": "Defesa de Bolsonaro pede suspensão da prisão a Nunes Marques",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -1834,7 +2042,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-um9znje",
+      "id": "gdelt-mxker11",
       "title": "Ataques russos deixam ao menos oito mortos e atingem maternidade em Kiev",
       "sourceName": "Veja Mundo",
       "sourceUrl": "https://veja.abril.com.br/mundo/",
@@ -1850,7 +2058,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-f2v0you",
+      "id": "gdelt-ohjit6f",
       "title": "Conselheiro do líder supremo do Irã diz que guerra pode chegar ao Oceano Índico se EUA atacarem novamente",
       "sourceName": "Veja Mundo",
       "sourceUrl": "https://veja.abril.com.br/mundo/",
@@ -1866,7 +2074,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-1x9yev2",
+      "id": "gdelt-91vvd9k",
       "title": "Governo Trump descumpre decisão judicial e volta a barrar jornalistas na Casa Branca",
       "sourceName": "Veja Mundo",
       "sourceUrl": "https://veja.abril.com.br/mundo/",
