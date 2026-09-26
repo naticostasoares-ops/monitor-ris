@@ -1,16 +1,16 @@
 {
-  "updatedAt": "2026-09-26T04:33:19.836Z",
+  "updatedAt": "2026-09-26T04:47:32.007Z",
   "periodUsed": "24h",
-  "count": 3,
+  "count": 2,
   "linkVerificationStats": {
-    "checkedThisRun": 3,
-    "active": 3,
+    "checkedThisRun": 0,
+    "active": 0,
     "broken": 0,
     "unknown": 0
   },
   "articles": [
     {
-      "id": "gdelt-prjm48y",
+      "id": "gdelt-7o8zv5i",
       "title": "Por que as pesquisas eleitorais parecem não funcionar",
       "sourceName": "DW Brasil",
       "sourceUrl": "https://www.dw.com/pt-br/",
@@ -26,7 +26,7 @@
       "lastChecked": 1790397196147
     },
     {
-      "id": "gdelt-tdwv2vz",
+      "id": "gdelt-n98k4gv",
       "title": "Por todos os lado : cidade russa cercada por ursos tem 6 mortos",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -38,22 +38,6 @@
       "publishedAtStr": "2026-09-25T05:30:00Z",
       "publishedAtTs": 1790314200000,
       "rawContent": "Por todos os lado : cidade russa cercada por ursos tem 6 mortos",
-      "linkStatus": "active",
-      "lastChecked": 1790397196147
-    },
-    {
-      "id": "gdelt-litkksg",
-      "title": "Itália limita a 30 % número de alunos sem fluência em italiano por sala e proíbe burcas em escolas",
-      "sourceName": "G1 Mundo",
-      "sourceUrl": "https://g1.globo.com/mundo/",
-      "sourceType": "Imprensa Comercial Brasileira",
-      "sourceEditorial": "Portal de notícias mainstream do Grupo Globo",
-      "country": "Brasil",
-      "paywall": false,
-      "originalUrl": "https://g1.globo.com/mundo/noticia/2026/09/25/italia-limita-a-30percent-numero-de-alunos-sem-fluencia-em-italiano-por-sala-e-proibe-burcas-em-escolas.ghtml",
-      "publishedAtStr": "2026-09-25T04:45:00Z",
-      "publishedAtTs": 1790311500000,
-      "rawContent": "Itália limita a 30 % número de alunos sem fluência em italiano por sala e proíbe burcas em escolas",
       "linkStatus": "active",
       "lastChecked": 1790397196147
     }
