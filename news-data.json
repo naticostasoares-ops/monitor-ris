@@ -1,12 +1,29 @@
 {
-  "updatedAt": "2026-09-27T00:31:16.416Z",
+  "updatedAt": "2026-09-27T00:49:35.964Z",
   "periodUsed": "24h",
-  "count": 0,
+  "count": 1,
   "linkVerificationStats": {
-    "checkedThisRun": 0,
-    "active": 0,
+    "checkedThisRun": 1,
+    "active": 1,
     "broken": 0,
     "unknown": 0
   },
-  "articles": []
+  "articles": [
+    {
+      "id": "gdelt-5fuig25",
+      "title": "Trump rejeita plano iraniano para reabrir Estreito de Ormuz",
+      "sourceName": "Estadão Internacional",
+      "sourceUrl": "https://www.estadao.com.br/internacional/",
+      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
+      "sourceEditorial": "Jornal tradicional de geopolítica - Conteúdo sob assinatura",
+      "country": "Brasil",
+      "paywall": true,
+      "originalUrl": "https://www.estadao.com.br/internacional/trump-rejeita-plano-iraniano-para-reabrir-estreito-de-ormuz-npr/",
+      "publishedAtStr": "2026-09-27T00:15:00Z",
+      "publishedAtTs": 1790468100000,
+      "rawContent": "Trump rejeita plano iraniano para reabrir Estreito de Ormuz",
+      "linkStatus": "active",
+      "lastChecked": 1790470175380
+    }
+  ]
 }
