@@ -1,16 +1,32 @@
 {
-  "updatedAt": "2026-09-29T16:02:25.295Z",
-  "periodUsed": "7d",
-  "count": 14,
+  "updatedAt": "2026-09-29T20:33:53.461Z",
+  "periodUsed": "24h",
+  "count": 12,
   "linkVerificationStats": {
-    "checkedThisRun": 14,
-    "active": 14,
+    "checkedThisRun": 1,
+    "active": 1,
     "broken": 0,
     "unknown": 0
   },
   "articles": [
     {
-      "id": "gdelt-a0otprg",
+      "id": "gdelt-s0rmknd",
+      "title": "Se essa foi minha maior conquista , então eu fui um presidente de merda , diz Trump ao lançar site do governo",
+      "sourceName": "G1 Mundo",
+      "sourceUrl": "https://g1.globo.com/mundo/",
+      "sourceType": "Imprensa Comercial Brasileira",
+      "sourceEditorial": "Portal de notícias mainstream do Grupo Globo",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://g1.globo.com/mundo/noticia/2026/09/29/trump-brinca-ao-lancar-site-se-essa-for-a-maior-coisa-que-ja-fiz-entao-fiz-um-trabalho-de-merda-como-presidente.ghtml",
+      "publishedAtStr": "2026-09-29T17:30:00Z",
+      "publishedAtTs": 1790703000000,
+      "rawContent": "Se essa foi minha maior conquista , então eu fui um presidente de merda , diz Trump ao lançar site do governo",
+      "linkStatus": "active",
+      "lastChecked": 1790714032558
+    },
+    {
+      "id": "gdelt-vp2q0v2",
       "title": "O polêmico programa que expunha suspeitos de pedofilia e inspirou novo filme estrelado por Robert Pattinson",
       "sourceName": "BBC News Brasil",
       "sourceUrl": "https://www.bbc.com/portuguese",
@@ -26,7 +42,7 @@
       "lastChecked": 1790697731053
     },
     {
-      "id": "gdelt-2i7ecj0",
+      "id": "gdelt-aa56qj6",
       "title": "O dramático resgate de idoso após ataque de drone russo na Ucrânia",
       "sourceName": "BBC News Brasil",
       "sourceUrl": "https://www.bbc.com/portuguese",
@@ -42,7 +58,7 @@
       "lastChecked": 1790697731053
     },
     {
-      "id": "gdelt-nsv0p5l",
+      "id": "gdelt-6gzfgq5",
       "title": "Ex - campeão mundial de sinuca é condenado à prisão por pedofilia",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -58,7 +74,7 @@
       "lastChecked": 1790697731053
     },
     {
-      "id": "gdelt-t4g3fs0",
+      "id": "gdelt-k9925si",
       "title": "Ataque em escola na Eslováquia deixa pelo menos uma pessoa morta",
       "sourceName": "Agência Brasil",
       "sourceUrl": "https://agenciabrasil.ebc.com.br/internacional",
@@ -74,7 +90,7 @@
       "lastChecked": 1790697731053
     },
     {
-      "id": "gdelt-a4ifuqw",
+      "id": "gdelt-rvahmsu",
       "title": "Coreia do Sul denuncia  violação do armistício  em zona desmilitarizada com a Coreia do Norte",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -90,7 +106,7 @@
       "lastChecked": 1790697731053
     },
     {
-      "id": "gdelt-pf6zell",
+      "id": "gdelt-p79s5wb",
       "title": "Ataque em escola na Eslováquia deixa morto e feridos",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -106,7 +122,7 @@
       "lastChecked": 1790697731053
     },
     {
-      "id": "gdelt-y1i964f",
+      "id": "gdelt-q0mnnnq",
       "title": "Homem que estava há 40 anos no corredor da morte é libertado nos EUA após novo exame de DNA",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -122,7 +138,7 @@
       "lastChecked": 1790697731053
     },
     {
-      "id": "gdelt-y16ufpq",
+      "id": "gdelt-jlgoaoi",
       "title": "Estônia acusa Rússia de ataque incendiário ; Kremlin nega",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -138,7 +154,7 @@
       "lastChecked": 1790697731053
     },
     {
-      "id": "gdelt-2efcqtz",
+      "id": "gdelt-ubfacgb",
       "title": "Executivo do New York Times é morto a tiros ; sogros são suspeitos",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -154,7 +170,7 @@
       "lastChecked": 1790697731053
     },
     {
-      "id": "gdelt-h49fq8e",
+      "id": "gdelt-nzetv6i",
       "title": "Jornalista vira rei em Uganda em meio a disputa por sucessão",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -170,7 +186,7 @@
       "lastChecked": 1790697731053
     },
     {
-      "id": "gdelt-fi4qfwl",
+      "id": "gdelt-hmcb8ht",
       "title": "Tennessee vai executar uma mulher pela primeira vez em 200 anos",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -182,54 +198,6 @@
       "publishedAtStr": "2026-09-29T08:30:00Z",
       "publishedAtTs": 1790670600000,
       "rawContent": "Tennessee vai executar uma mulher pela primeira vez em 200 anos",
-      "linkStatus": "active",
-      "lastChecked": 1790697731053
-    },
-    {
-      "id": "gdelt-moiager",
-      "title": "Conheça a história de aposentada de 87 anos que virou símbolo da crise habitacional na Espanha",
-      "sourceName": "O Globo Mundo",
-      "sourceUrl": "https://oglobo.globo.com/mundo/",
-      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
-      "sourceEditorial": "Jornal diário (Grupo Globo) - Conteúdo sob assinatura",
-      "country": "Brasil",
-      "paywall": true,
-      "originalUrl": "https://oglobo.globo.com/mundo/epoca/noticia/2026/09/29/conheca-a-historia-de-aposentada-de-87-anos-que-virou-simbolo-da-crise-habitacional-na-espanha.ghtml",
-      "publishedAtStr": "2026-09-29T08:00:00Z",
-      "publishedAtTs": 1790668800000,
-      "rawContent": "Conheça a história de aposentada de 87 anos que virou símbolo da crise habitacional na Espanha",
-      "linkStatus": "active",
-      "lastChecked": 1790697731053
-    },
-    {
-      "id": "gdelt-8psxoo8",
-      "title": "Papa reconhece que abusos foram  sistêmico em partes da Igreja",
-      "sourceName": "O Globo Mundo",
-      "sourceUrl": "https://oglobo.globo.com/mundo/",
-      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
-      "sourceEditorial": "Jornal diário (Grupo Globo) - Conteúdo sob assinatura",
-      "country": "Brasil",
-      "paywall": true,
-      "originalUrl": "https://oglobo.globo.com/mundo/noticia/2026/09/29/papa-reconhece-que-abusos-foram-sistemicos-em-partes-da-igreja.ghtml",
-      "publishedAtStr": "2026-09-29T07:30:00Z",
-      "publishedAtTs": 1790667000000,
-      "rawContent": "Papa reconhece que abusos foram  sistêmico em partes da Igreja",
-      "linkStatus": "active",
-      "lastChecked": 1790697731053
-    },
-    {
-      "id": "gdelt-ap23evz",
-      "title": "Mais de 8 milhões de refugiados e deslocados estão em risco após cortes na ajuda internacional , alerta a ONU",
-      "sourceName": "O Globo Mundo",
-      "sourceUrl": "https://oglobo.globo.com/mundo/",
-      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
-      "sourceEditorial": "Jornal diário (Grupo Globo) - Conteúdo sob assinatura",
-      "country": "Brasil",
-      "paywall": true,
-      "originalUrl": "https://oglobo.globo.com/mundo/noticia/2026/09/29/mais-de-8-milhoes-de-refugiados-e-deslocados-estao-em-risco-apos-cortes-na-ajuda-internacional-alerta-a-onu.ghtml",
-      "publishedAtStr": "2026-09-29T07:30:00Z",
-      "publishedAtTs": 1790667000000,
-      "rawContent": "Mais de 8 milhões de refugiados e deslocados estão em risco após cortes na ajuda internacional , alerta a ONU",
       "linkStatus": "active",
       "lastChecked": 1790697731053
     }
