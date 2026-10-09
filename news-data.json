@@ -1,16 +1,16 @@
 {
-  "updatedAt": "2026-10-08T23:27:53.350Z",
+  "updatedAt": "2026-10-09T03:13:35.386Z",
   "periodUsed": "7d",
-  "count": 13,
+  "count": 20,
   "linkVerificationStats": {
-    "checkedThisRun": 0,
-    "active": 0,
+    "checkedThisRun": 20,
+    "active": 20,
     "broken": 0,
     "unknown": 0
   },
   "articles": [
     {
-      "id": "gdelt-c6ebi8e",
+      "id": "gdelt-auzerwr",
       "title": "Não ia deixar que outras pessoas morressem , diz piloto indiano ferido em ataque durante voo Dubai - Tel Aviv",
       "sourceName": "O Globo Mundo",
       "sourceUrl": "https://oglobo.globo.com/mundo/",
@@ -23,10 +23,10 @@
       "publishedAtTs": 1790937900000,
       "rawContent": "Não ia deixar que outras pessoas morressem , diz piloto indiano ferido em ataque durante voo Dubai - Tel Aviv",
       "linkStatus": "active",
-      "lastChecked": 1791418042941
+      "lastChecked": 1791515598392
     },
     {
-      "id": "gdelt-7jefxt6",
+      "id": "gdelt-43lg9x3",
       "title": "Nova tripulao faz a viagem mais rápida dos EUA à ISS",
       "sourceName": "DW Brasil",
       "sourceUrl": "https://www.dw.com/pt-br/",
@@ -39,10 +39,42 @@
       "publishedAtTs": 1790935200000,
       "rawContent": "Nova tripulao faz a viagem mais rápida dos EUA à ISS",
       "linkStatus": "active",
-      "lastChecked": 1791418042941
+      "lastChecked": 1791515598392
     },
     {
-      "id": "gdelt-sshot0r",
+      "id": "gdelt-y8qvgz8",
+      "title": "Payroll nos EUA e indústria no Brasil dividem atenes antes das eleições do 1º turno",
+      "sourceName": "InfoMoney",
+      "sourceUrl": "https://www.infomoney.com.br/",
+      "sourceType": "Imprensa Comercial Brasileira",
+      "sourceEditorial": "Portal especializado em mercados e economia global",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://www.infomoney.com.br/mercados/payroll-industria-brasil-antes-eleicoes-02102026/",
+      "publishedAtStr": "2026-10-02T10:00:00Z",
+      "publishedAtTs": 1790935200000,
+      "rawContent": "Payroll nos EUA e indústria no Brasil dividem atenes antes das eleições do 1º turno",
+      "linkStatus": "active",
+      "lastChecked": 1791515598392
+    },
+    {
+      "id": "gdelt-vq5t9fj",
+      "title": "A IA se rebelou , saiu de controle e causou estragos . Quem paga a conta nesses casos ?",
+      "sourceName": "InfoMoney",
+      "sourceUrl": "https://www.infomoney.com.br/",
+      "sourceType": "Imprensa Comercial Brasileira",
+      "sourceEditorial": "Portal especializado em mercados e economia global",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://www.infomoney.com.br/business/global/a-ia-se-rebelou-saiu-de-controle-e-causou-estragos-quem-paga-a-conta-nesses-casos/",
+      "publishedAtStr": "2026-10-02T10:00:00Z",
+      "publishedAtTs": 1790935200000,
+      "rawContent": "A IA se rebelou , saiu de controle e causou estragos . Quem paga a conta nesses casos ?",
+      "linkStatus": "active",
+      "lastChecked": 1791515598392
+    },
+    {
+      "id": "gdelt-12fz9go",
       "title": "EUA : Denúncia de estupro coletivo coloca universidade famosa em xeque",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -55,10 +87,10 @@
       "publishedAtTs": 1790929800000,
       "rawContent": "EUA : Denúncia de estupro coletivo coloca universidade famosa em xeque",
       "linkStatus": "active",
-      "lastChecked": 1791418042941
+      "lastChecked": 1791515598392
     },
     {
-      "id": "gdelt-0k2qxwz",
+      "id": "gdelt-ip3om6x",
       "title": "Debate na Globo : as reviravoltas que levaram ao cancelamento",
       "sourceName": "DW Brasil",
       "sourceUrl": "https://www.dw.com/pt-br/",
@@ -71,10 +103,10 @@
       "publishedAtTs": 1790929800000,
       "rawContent": "Debate na Globo : as reviravoltas que levaram ao cancelamento",
       "linkStatus": "active",
-      "lastChecked": 1791418042941
+      "lastChecked": 1791515598392
     },
     {
-      "id": "gdelt-seb150u",
+      "id": "gdelt-kt7pk6i",
       "title": "Cem dias depois , Venezuela convive com a dor provocada pelos terremotos e a tarefa da reconstruo nacional",
       "sourceName": "O Globo Mundo",
       "sourceUrl": "https://oglobo.globo.com/mundo/",
@@ -87,10 +119,10 @@
       "publishedAtTs": 1790928900000,
       "rawContent": "Cem dias depois , Venezuela convive com a dor provocada pelos terremotos e a tarefa da reconstruo nacional",
       "linkStatus": "active",
-      "lastChecked": 1791418042941
+      "lastChecked": 1791515598392
     },
     {
-      "id": "gdelt-o6artfn",
+      "id": "gdelt-0umvldw",
       "title": "Vorcaro forneceu jatinho e Möet Chandon para desembargador viajar a Buenos Aires , mostram mensagens",
       "sourceName": "BBC News Brasil",
       "sourceUrl": "https://www.bbc.com/portuguese",
@@ -103,10 +135,10 @@
       "publishedAtTs": 1790928900000,
       "rawContent": "Vorcaro forneceu jatinho e Möet Chandon para desembargador viajar a Buenos Aires , mostram mensagens",
       "linkStatus": "active",
-      "lastChecked": 1791418042941
+      "lastChecked": 1791515598392
     },
     {
-      "id": "gdelt-q6wxnk3",
+      "id": "gdelt-3d739b5",
       "title": "Expedio aos cânions submarinos do Mar Argentino confirma descoberta de 57 novas espécies",
       "sourceName": "O Globo Mundo",
       "sourceUrl": "https://oglobo.globo.com/mundo/",
@@ -119,10 +151,10 @@
       "publishedAtTs": 1790926200000,
       "rawContent": "Expedio aos cânions submarinos do Mar Argentino confirma descoberta de 57 novas espécies",
       "linkStatus": "active",
-      "lastChecked": 1791418042941
+      "lastChecked": 1791515598392
     },
     {
-      "id": "gdelt-chv1u15",
+      "id": "gdelt-83yesi0",
       "title": "Taiwan recebe seus dois primeiros caças F - 16V fabricados nos EUA",
       "sourceName": "O Globo Mundo",
       "sourceUrl": "https://oglobo.globo.com/mundo/",
@@ -135,10 +167,10 @@
       "publishedAtTs": 1790926200000,
       "rawContent": "Taiwan recebe seus dois primeiros caças F - 16V fabricados nos EUA",
       "linkStatus": "active",
-      "lastChecked": 1791418042941
+      "lastChecked": 1791515598392
     },
     {
-      "id": "gdelt-j2m2x62",
+      "id": "gdelt-9is2jbm",
       "title": "Mulher tem perna errada amputada durante cirurgia e processa hospital",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -151,10 +183,10 @@
       "publishedAtTs": 1790923500000,
       "rawContent": "Mulher tem perna errada amputada durante cirurgia e processa hospital",
       "linkStatus": "active",
-      "lastChecked": 1791418042941
+      "lastChecked": 1791515598392
     },
     {
-      "id": "gdelt-jpwd57f",
+      "id": "gdelt-vc3c3dl",
       "title": "O que o caso de Christa Pike diz sobre a pena de morte nos EUA",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -167,10 +199,10 @@
       "publishedAtTs": 1790921700000,
       "rawContent": "O que o caso de Christa Pike diz sobre a pena de morte nos EUA",
       "linkStatus": "active",
-      "lastChecked": 1791418042941
+      "lastChecked": 1791515598392
     },
     {
-      "id": "gdelt-vee5akq",
+      "id": "gdelt-xkrr6o1",
       "title": "EUA suspendem atendimento na embaixada e consulados do Brasil por questões de segurança",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -183,10 +215,10 @@
       "publishedAtTs": 1790915400000,
       "rawContent": "EUA suspendem atendimento na embaixada e consulados do Brasil por questões de segurança",
       "linkStatus": "active",
-      "lastChecked": 1791418042941
+      "lastChecked": 1791515598392
     },
     {
-      "id": "gdelt-1d1eyb9",
+      "id": "gdelt-xoda4mp",
       "title": "Lula afirma que debates no 1º turno  não produzem nada",
       "sourceName": "BBC News Brasil",
       "sourceUrl": "https://www.bbc.com/portuguese",
@@ -199,10 +231,10 @@
       "publishedAtTs": 1790912700000,
       "rawContent": "Lula afirma que debates no 1º turno  não produzem nada",
       "linkStatus": "active",
-      "lastChecked": 1791418042941
+      "lastChecked": 1791515598392
     },
     {
-      "id": "gdelt-a5zbot4",
+      "id": "gdelt-qbszdnl",
       "title": "Quatro novos tripulantes chegam à Estação Espacial Internacional",
       "sourceName": "O Globo Mundo",
       "sourceUrl": "https://oglobo.globo.com/mundo/",
@@ -215,7 +247,87 @@
       "publishedAtTs": 1790910900000,
       "rawContent": "Quatro novos tripulantes chegam à Estação Espacial Internacional",
       "linkStatus": "active",
-      "lastChecked": 1791418042941
+      "lastChecked": 1791515598392
+    },
+    {
+      "id": "gdelt-zf4z36o",
+      "title": "Violência política contra mulheres soma 1 , 5 mil denúncias no Ligue 180",
+      "sourceName": "CartaCapital",
+      "sourceUrl": "https://www.cartacapital.com.br/",
+      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
+      "sourceEditorial": "Jornalismo progressista - Conteúdo sob assinatura parcial",
+      "country": "Brasil",
+      "paywall": true,
+      "originalUrl": "https://www.cartacapital.com.br/radar-carta/violencia-politica-contra-mulheres-soma-15-mil-denuncias-no-ligue-180/",
+      "publishedAtStr": "2026-10-02T03:15:00Z",
+      "publishedAtTs": 1790910900000,
+      "rawContent": "Violência política contra mulheres soma 1 , 5 mil denúncias no Ligue 180",
+      "linkStatus": "active",
+      "lastChecked": 1791515598392
+    },
+    {
+      "id": "gdelt-xf84drw",
+      "title": "Sem Lula e Flávio Bolsonaro , Globo cancela debate e critica decisões da Justiça",
+      "sourceName": "CartaCapital",
+      "sourceUrl": "https://www.cartacapital.com.br/",
+      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
+      "sourceEditorial": "Jornalismo progressista - Conteúdo sob assinatura parcial",
+      "country": "Brasil",
+      "paywall": true,
+      "originalUrl": "https://www.cartacapital.com.br/politica/sem-lula-e-flavio-bolsonaro-globo-cancela-debate-e-critica-decisoes-da-justica/",
+      "publishedAtStr": "2026-10-02T03:15:00Z",
+      "publishedAtTs": 1790910900000,
+      "rawContent": "Sem Lula e Flávio Bolsonaro , Globo cancela debate e critica decisões da Justiça",
+      "linkStatus": "active",
+      "lastChecked": 1791515598392
+    },
+    {
+      "id": "gdelt-jpi80xo",
+      "title": "Debate é saudável quando tem gente qualificada , diz Lula",
+      "sourceName": "CartaCapital",
+      "sourceUrl": "https://www.cartacapital.com.br/",
+      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
+      "sourceEditorial": "Jornalismo progressista - Conteúdo sob assinatura parcial",
+      "country": "Brasil",
+      "paywall": true,
+      "originalUrl": "https://www.cartacapital.com.br/politica/debate-e-saudavel-quando-tem-gente-qualificada-diz-lula/",
+      "publishedAtStr": "2026-10-02T03:15:00Z",
+      "publishedAtTs": 1790910900000,
+      "rawContent": "Debate é saudável quando tem gente qualificada , diz Lula",
+      "linkStatus": "active",
+      "lastChecked": 1791515598392
+    },
+    {
+      "id": "gdelt-7uvtyts",
+      "title": "Lula defende mandato para ministros do STF",
+      "sourceName": "CartaCapital",
+      "sourceUrl": "https://www.cartacapital.com.br/",
+      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
+      "sourceEditorial": "Jornalismo progressista - Conteúdo sob assinatura parcial",
+      "country": "Brasil",
+      "paywall": true,
+      "originalUrl": "https://www.cartacapital.com.br/politica/lula-defende-mandato-para-ministros-e-diz-que-stf-corre-o-risco-de-perder-credibilidade/",
+      "publishedAtStr": "2026-10-02T03:15:00Z",
+      "publishedAtTs": 1790910900000,
+      "rawContent": "Lula defende mandato para ministros do STF",
+      "linkStatus": "active",
+      "lastChecked": 1791515598392
+    },
+    {
+      "id": "gdelt-v0f5s9j",
+      "title": "PM descarta suspeita de bomba em mochila deixada nas proximidades do STF",
+      "sourceName": "CartaCapital",
+      "sourceUrl": "https://www.cartacapital.com.br/",
+      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
+      "sourceEditorial": "Jornalismo progressista - Conteúdo sob assinatura parcial",
+      "country": "Brasil",
+      "paywall": true,
+      "originalUrl": "https://www.cartacapital.com.br/cartaexpressa/pm-apura-suspeita-de-bomba-nas-proximidades-do-stf/",
+      "publishedAtStr": "2026-10-02T03:15:00Z",
+      "publishedAtTs": 1790910900000,
+      "rawContent": "PM descarta suspeita de bomba em mochila deixada nas proximidades do STF",
+      "linkStatus": "active",
+      "lastChecked": 1791515598392
     }
   ]
 }
