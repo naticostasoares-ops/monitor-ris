@@ -1,16 +1,32 @@
 {
-  "updatedAt": "2026-10-10T01:32:32.571Z",
+  "updatedAt": "2026-10-10T07:47:06.910Z",
   "periodUsed": "3M",
   "count": 14,
   "linkVerificationStats": {
-    "checkedThisRun": 0,
-    "active": 0,
+    "checkedThisRun": 14,
+    "active": 14,
     "broken": 0,
     "unknown": 0
   },
   "articles": [
     {
-      "id": "gdelt-1t4mwx4",
+      "id": "gdelt-4mcfn40",
+      "title": "Povoado no Peru elege como prefeito candidato chamado Hitler Mussolini",
+      "sourceName": "G1 Mundo",
+      "sourceUrl": "https://g1.globo.com/mundo/",
+      "sourceType": "Imprensa Comercial Brasileira",
+      "sourceEditorial": "Portal de notícias mainstream do Grupo Globo",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://g1.globo.com/mundo/noticia/2026/10/10/povoado-no-peru-elege-como-prefeito-candidato-chamado-hitler-mussolini.ghtml",
+      "publishedAtStr": "2026-10-10T06:45:00Z",
+      "publishedAtTs": 1791614700000,
+      "rawContent": "Povoado no Peru elege como prefeito candidato chamado Hitler Mussolini",
+      "linkStatus": "active",
+      "lastChecked": 1791618412059
+    },
+    {
+      "id": "gdelt-t0rhvca",
       "title": "Não ia deixar que outras pessoas morressem , diz piloto indiano ferido em ataque durante voo Dubai - Tel Aviv",
       "sourceName": "O Globo Mundo",
       "sourceUrl": "https://oglobo.globo.com/mundo/",
@@ -23,10 +39,10 @@
       "publishedAtTs": 1790937900000,
       "rawContent": "Não ia deixar que outras pessoas morressem , diz piloto indiano ferido em ataque durante voo Dubai - Tel Aviv",
       "linkStatus": "active",
-      "lastChecked": 1791515598392
+      "lastChecked": 1791618412059
     },
     {
-      "id": "gdelt-zfacdf7",
+      "id": "gdelt-4gep9ff",
       "title": "Nova tripulao faz a viagem mais rápida dos EUA à ISS",
       "sourceName": "DW Brasil",
       "sourceUrl": "https://www.dw.com/pt-br/",
@@ -39,10 +55,10 @@
       "publishedAtTs": 1790935200000,
       "rawContent": "Nova tripulao faz a viagem mais rápida dos EUA à ISS",
       "linkStatus": "active",
-      "lastChecked": 1791515598392
+      "lastChecked": 1791618412059
     },
     {
-      "id": "gdelt-y1jo0pq",
+      "id": "gdelt-o026bg6",
       "title": "EUA : Denúncia de estupro coletivo coloca universidade famosa em xeque",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -55,10 +71,10 @@
       "publishedAtTs": 1790929800000,
       "rawContent": "EUA : Denúncia de estupro coletivo coloca universidade famosa em xeque",
       "linkStatus": "active",
-      "lastChecked": 1791515598392
+      "lastChecked": 1791618412059
     },
     {
-      "id": "gdelt-360ohm2",
+      "id": "gdelt-rledyvr",
       "title": "Debate na Globo : as reviravoltas que levaram ao cancelamento",
       "sourceName": "DW Brasil",
       "sourceUrl": "https://www.dw.com/pt-br/",
@@ -71,10 +87,10 @@
       "publishedAtTs": 1790929800000,
       "rawContent": "Debate na Globo : as reviravoltas que levaram ao cancelamento",
       "linkStatus": "active",
-      "lastChecked": 1791515598392
+      "lastChecked": 1791618412059
     },
     {
-      "id": "gdelt-xb3tdge",
+      "id": "gdelt-vvh307d",
       "title": "Cem dias depois , Venezuela convive com a dor provocada pelos terremotos e a tarefa da reconstruo nacional",
       "sourceName": "O Globo Mundo",
       "sourceUrl": "https://oglobo.globo.com/mundo/",
@@ -87,10 +103,10 @@
       "publishedAtTs": 1790928900000,
       "rawContent": "Cem dias depois , Venezuela convive com a dor provocada pelos terremotos e a tarefa da reconstruo nacional",
       "linkStatus": "active",
-      "lastChecked": 1791515598392
+      "lastChecked": 1791618412059
     },
     {
-      "id": "gdelt-9sm2dh5",
+      "id": "gdelt-iybkozf",
       "title": "Vorcaro forneceu jatinho e Möet Chandon para desembargador viajar a Buenos Aires , mostram mensagens",
       "sourceName": "BBC News Brasil",
       "sourceUrl": "https://www.bbc.com/portuguese",
@@ -103,10 +119,10 @@
       "publishedAtTs": 1790928900000,
       "rawContent": "Vorcaro forneceu jatinho e Möet Chandon para desembargador viajar a Buenos Aires , mostram mensagens",
       "linkStatus": "active",
-      "lastChecked": 1791515598392
+      "lastChecked": 1791618412059
     },
     {
-      "id": "gdelt-edtgve3",
+      "id": "gdelt-aa26d2z",
       "title": "Expedio aos cânions submarinos do Mar Argentino confirma descoberta de 57 novas espécies",
       "sourceName": "O Globo Mundo",
       "sourceUrl": "https://oglobo.globo.com/mundo/",
@@ -119,10 +135,10 @@
       "publishedAtTs": 1790926200000,
       "rawContent": "Expedio aos cânions submarinos do Mar Argentino confirma descoberta de 57 novas espécies",
       "linkStatus": "active",
-      "lastChecked": 1791515598392
+      "lastChecked": 1791618412059
     },
     {
-      "id": "gdelt-oz47dn5",
+      "id": "gdelt-cxd8cuc",
       "title": "Taiwan recebe seus dois primeiros caças F - 16V fabricados nos EUA",
       "sourceName": "O Globo Mundo",
       "sourceUrl": "https://oglobo.globo.com/mundo/",
@@ -135,10 +151,10 @@
       "publishedAtTs": 1790926200000,
       "rawContent": "Taiwan recebe seus dois primeiros caças F - 16V fabricados nos EUA",
       "linkStatus": "active",
-      "lastChecked": 1791515598392
+      "lastChecked": 1791618412059
     },
     {
-      "id": "gdelt-kjhosfu",
+      "id": "gdelt-pceh0ih",
       "title": "Mulher tem perna errada amputada durante cirurgia e processa hospital",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -151,10 +167,10 @@
       "publishedAtTs": 1790923500000,
       "rawContent": "Mulher tem perna errada amputada durante cirurgia e processa hospital",
       "linkStatus": "active",
-      "lastChecked": 1791515598392
+      "lastChecked": 1791618412059
     },
     {
-      "id": "gdelt-fv9ew6z",
+      "id": "gdelt-2qtz2ad",
       "title": "O que o caso de Christa Pike diz sobre a pena de morte nos EUA",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -167,10 +183,10 @@
       "publishedAtTs": 1790921700000,
       "rawContent": "O que o caso de Christa Pike diz sobre a pena de morte nos EUA",
       "linkStatus": "active",
-      "lastChecked": 1791515598392
+      "lastChecked": 1791618412059
     },
     {
-      "id": "gdelt-c3h9hs9",
+      "id": "gdelt-au1piyr",
       "title": "EUA suspendem atendimento na embaixada e consulados do Brasil por questões de segurança",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -183,10 +199,10 @@
       "publishedAtTs": 1790915400000,
       "rawContent": "EUA suspendem atendimento na embaixada e consulados do Brasil por questões de segurança",
       "linkStatus": "active",
-      "lastChecked": 1791515598392
+      "lastChecked": 1791618412059
     },
     {
-      "id": "gdelt-yjenhkz",
+      "id": "gdelt-qrdsdoc",
       "title": "Lula afirma que debates no 1º turno  não produzem nada",
       "sourceName": "BBC News Brasil",
       "sourceUrl": "https://www.bbc.com/portuguese",
@@ -199,10 +215,10 @@
       "publishedAtTs": 1790912700000,
       "rawContent": "Lula afirma que debates no 1º turno  não produzem nada",
       "linkStatus": "active",
-      "lastChecked": 1791515598392
+      "lastChecked": 1791618412059
     },
     {
-      "id": "gdelt-s6cqe6d",
+      "id": "gdelt-6vb1ujl",
       "title": "Quatro novos tripulantes chegam à Estação Espacial Internacional",
       "sourceName": "O Globo Mundo",
       "sourceUrl": "https://oglobo.globo.com/mundo/",
@@ -215,23 +231,7 @@
       "publishedAtTs": 1790910900000,
       "rawContent": "Quatro novos tripulantes chegam à Estação Espacial Internacional",
       "linkStatus": "active",
-      "lastChecked": 1791515598392
-    },
-    {
-      "id": "gdelt-4valno1",
-      "title": "Datafolha : Lula tem 42 % e Flávio aparece com 38 % no 1º turno",
-      "sourceName": "DW Brasil",
-      "sourceUrl": "https://www.dw.com/pt-br/",
-      "sourceType": "Imprensa Internacional / Pública",
-      "sourceEditorial": "Emissora pública da Alemanha; foco em diplomacia e direitos humanos",
-      "country": "Alemanha",
-      "paywall": false,
-      "originalUrl": "https://www.dw.com/pt-br/datafolha-lula-tem-42-e-fl%C3%A1vio-bolsonaro-aparece-com-38-no-1%C2%BA-turno/live-78393402",
-      "publishedAtStr": "2026-10-01T23:15:00Z",
-      "publishedAtTs": 1790896500000,
-      "rawContent": "Datafolha : Lula tem 42 % e Flávio aparece com 38 % no 1º turno",
-      "linkStatus": "unknown",
-      "lastChecked": 1791543008463
+      "lastChecked": 1791618412059
     }
   ]
 }
