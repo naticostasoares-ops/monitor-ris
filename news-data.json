@@ -1,29 +1,12 @@
 {
-  "updatedAt": "2026-10-11T06:40:58.241Z",
-  "periodUsed": "7d",
-  "count": 1,
+  "updatedAt": "2026-10-11T13:42:16.137Z",
+  "periodUsed": "24h",
+  "count": 0,
   "linkVerificationStats": {
     "checkedThisRun": 0,
     "active": 0,
     "broken": 0,
     "unknown": 0
   },
-  "articles": [
-    {
-      "id": "gdelt-xndzkda",
-      "title": "Povoado no Peru elege como prefeito candidato chamado Hitler Mussolini",
-      "sourceName": "G1 Mundo",
-      "sourceUrl": "https://g1.globo.com/mundo/",
-      "sourceType": "Imprensa Comercial Brasileira",
-      "sourceEditorial": "Portal de notícias mainstream do Grupo Globo",
-      "country": "Brasil",
-      "paywall": false,
-      "originalUrl": "https://g1.globo.com/mundo/noticia/2026/10/10/povoado-no-peru-elege-como-prefeito-candidato-chamado-hitler-mussolini.ghtml",
-      "publishedAtStr": "2026-10-10T06:45:00Z",
-      "publishedAtTs": 1791614700000,
-      "rawContent": "Povoado no Peru elege como prefeito candidato chamado Hitler Mussolini",
-      "linkStatus": "active",
-      "lastChecked": 1791669583695
-    }
-  ]
+  "articles": []
 }
