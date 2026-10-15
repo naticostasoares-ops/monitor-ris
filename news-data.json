@@ -1,64 +1,240 @@
 {
-  "updatedAt": "2026-10-15T14:25:21.116Z",
+  "updatedAt": "2026-10-15T18:36:20.644Z",
   "periodUsed": "24h",
-  "count": 26,
+  "count": 34,
   "linkVerificationStats": {
-    "checkedThisRun": 26,
-    "active": 26,
+    "checkedThisRun": 14,
+    "active": 14,
     "broken": 0,
     "unknown": 0
   },
   "articles": [
     {
-      "id": "gdelt-7nrsqpj",
-      "title": "Ponte entre China e Coreia do Norte é inaugurada 12 anos após sua construo",
-      "sourceName": "G1 Mundo",
-      "sourceUrl": "https://g1.globo.com/mundo/",
+      "id": "gdelt-n9wjjb4",
+      "title": "Trump descarta transmissão de execuo de condenado por massacre em base militar",
+      "sourceName": "CartaCapital",
+      "sourceUrl": "https://www.cartacapital.com.br/",
+      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
+      "sourceEditorial": "Jornalismo progressista - Conteúdo sob assinatura parcial",
+      "country": "Brasil",
+      "paywall": true,
+      "originalUrl": "https://www.cartacapital.com.br/mundo/trump-descarta-transmissao-de-execucao-de-condenado-por-massacre-em-base-militar/",
+      "publishedAtStr": "2026-10-15T16:45:00Z",
+      "publishedAtTs": 1792082700000,
+      "rawContent": "Trump descarta transmissão de execuo de condenado por massacre em base militar",
+      "linkStatus": "active",
+      "lastChecked": 1792089374901
+    },
+    {
+      "id": "gdelt-3lf3zgh",
+      "title": "Musk diz que Trump decide velocidade da Starlink militar na Ucrânia",
+      "sourceName": "CartaCapital",
+      "sourceUrl": "https://www.cartacapital.com.br/",
+      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
+      "sourceEditorial": "Jornalismo progressista - Conteúdo sob assinatura parcial",
+      "country": "Brasil",
+      "paywall": true,
+      "originalUrl": "https://www.cartacapital.com.br/mundo/musk-diz-que-trump-decide-velocidade-da-starlink-militar-na-ucrania/",
+      "publishedAtStr": "2026-10-15T16:45:00Z",
+      "publishedAtTs": 1792082700000,
+      "rawContent": "Musk diz que Trump decide velocidade da Starlink militar na Ucrânia",
+      "linkStatus": "active",
+      "lastChecked": 1792089374901
+    },
+    {
+      "id": "gdelt-f05rxog",
+      "title": "Saladas proteicas : 5 receitas com proteínas vegetais para o almoço",
+      "sourceName": "CartaCapital",
+      "sourceUrl": "https://www.cartacapital.com.br/",
+      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
+      "sourceEditorial": "Jornalismo progressista - Conteúdo sob assinatura parcial",
+      "country": "Brasil",
+      "paywall": true,
+      "originalUrl": "https://www.cartacapital.com.br/receitas/saladas-proteicas-5-receitas-com-proteinas-vegetais-para-o-almoco/",
+      "publishedAtStr": "2026-10-15T16:45:00Z",
+      "publishedAtTs": 1792082700000,
+      "rawContent": "Saladas proteicas : 5 receitas com proteínas vegetais para o almoço",
+      "linkStatus": "active",
+      "lastChecked": 1792089374901
+    },
+    {
+      "id": "gdelt-0o6xnn4",
+      "title": "O que fundamentou a nova prisão de Márcio Canella pela PF no Rio",
+      "sourceName": "CartaCapital",
+      "sourceUrl": "https://www.cartacapital.com.br/",
+      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
+      "sourceEditorial": "Jornalismo progressista - Conteúdo sob assinatura parcial",
+      "country": "Brasil",
+      "paywall": true,
+      "originalUrl": "https://www.cartacapital.com.br/justica/o-que-fundamentou-a-nova-prisao-de-marcio-canella-pela-pf-no-rio/",
+      "publishedAtStr": "2026-10-15T16:45:00Z",
+      "publishedAtTs": 1792082700000,
+      "rawContent": "O que fundamentou a nova prisão de Márcio Canella pela PF no Rio",
+      "linkStatus": "active",
+      "lastChecked": 1792089374901
+    },
+    {
+      "id": "gdelt-ln3r15m",
+      "title": "Defesa Civil de SP alerta para possibilidade de chuvas intensas nesta quinta",
+      "sourceName": "CartaCapital",
+      "sourceUrl": "https://www.cartacapital.com.br/",
+      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
+      "sourceEditorial": "Jornalismo progressista - Conteúdo sob assinatura parcial",
+      "country": "Brasil",
+      "paywall": true,
+      "originalUrl": "https://www.cartacapital.com.br/cartaexpressa/defesa-civil-de-sp-alerta-para-possibilidade-de-chuvas-intensas-nesta-quinta/",
+      "publishedAtStr": "2026-10-15T16:45:00Z",
+      "publishedAtTs": 1792082700000,
+      "rawContent": "Defesa Civil de SP alerta para possibilidade de chuvas intensas nesta quinta",
+      "linkStatus": "active",
+      "lastChecked": 1792089374901
+    },
+    {
+      "id": "gdelt-inp7nvt",
+      "title": "Governo inicia pagamento de lote complementar do abono salarial",
+      "sourceName": "CartaCapital",
+      "sourceUrl": "https://www.cartacapital.com.br/",
+      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
+      "sourceEditorial": "Jornalismo progressista - Conteúdo sob assinatura parcial",
+      "country": "Brasil",
+      "paywall": true,
+      "originalUrl": "https://www.cartacapital.com.br/economia/governo-inicia-pagamento-de-lote-complementar-do-abono-salarial/",
+      "publishedAtStr": "2026-10-15T16:45:00Z",
+      "publishedAtTs": 1792082700000,
+      "rawContent": "Governo inicia pagamento de lote complementar do abono salarial",
+      "linkStatus": "active",
+      "lastChecked": 1792089374901
+    },
+    {
+      "id": "gdelt-0ooahk5",
+      "title": "Ucrânia corre contra o tempo e united states IA para se defender dos drones a jato de Putin",
+      "sourceName": "Estadão Internacional",
+      "sourceUrl": "https://www.estadao.com.br/internacional/",
+      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
+      "sourceEditorial": "Jornal tradicional de geopolítica - Conteúdo sob assinatura",
+      "country": "Brasil",
+      "paywall": true,
+      "originalUrl": "https://www.estadao.com.br/internacional/ucrania-corre-contra-o-tempo-e-usa-ia-para-se-defender-dos-drones-a-jato-de-putin/",
+      "publishedAtStr": "2026-10-15T16:00:00Z",
+      "publishedAtTs": 1792080000000,
+      "rawContent": "Ucrânia corre contra o tempo e united states IA para se defender dos drones a jato de Putin",
+      "linkStatus": "active",
+      "lastChecked": 1792089374901
+    },
+    {
+      "id": "gdelt-ua4hqfu",
+      "title": "Trump cancela transmissão ao vivo de execuo de psiquiatra condenado por massacre",
+      "sourceName": "Estadão Internacional",
+      "sourceUrl": "https://www.estadao.com.br/internacional/",
+      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
+      "sourceEditorial": "Jornal tradicional de geopolítica - Conteúdo sob assinatura",
+      "country": "Brasil",
+      "paywall": true,
+      "originalUrl": "https://www.estadao.com.br/internacional/trump-cancela-transmissao-ao-vivo-de-execucao-de-psiquiatra-condenado-por-massacre-npr/",
+      "publishedAtStr": "2026-10-15T16:00:00Z",
+      "publishedAtTs": 1792080000000,
+      "rawContent": "Trump cancela transmissão ao vivo de execuo de psiquiatra condenado por massacre",
+      "linkStatus": "active",
+      "lastChecked": 1792089374901
+    },
+    {
+      "id": "gdelt-177j4q2",
+      "title": "Empresa israelense united states anúncios online em operação de espionagem , dizem pesquisadores",
+      "sourceName": "InfoMoney",
+      "sourceUrl": "https://www.infomoney.com.br/",
       "sourceType": "Imprensa Comercial Brasileira",
-      "sourceEditorial": "Portal de notícias mainstream do Grupo Globo",
+      "sourceEditorial": "Portal especializado em mercados e economia global",
       "country": "Brasil",
       "paywall": false,
-      "originalUrl": "https://g1.globo.com/mundo/noticia/2026/10/15/ponte-entre-china-e-coreia-do-norte-e-inaugurada.ghtml",
-      "publishedAtStr": "2026-10-15T13:30:00Z",
-      "publishedAtTs": 1792071000000,
-      "rawContent": "Ponte entre China e Coreia do Norte é inaugurada 12 anos após sua construo",
+      "originalUrl": "https://www.infomoney.com.br/mercados/empresa-israelense-usa-anuncios-online-em-operacao-de-espionagem-dizem-pesquisadores/",
+      "publishedAtStr": "2026-10-15T16:00:00Z",
+      "publishedAtTs": 1792080000000,
+      "rawContent": "Empresa israelense united states anúncios online em operação de espionagem , dizem pesquisadores",
       "linkStatus": "active",
-      "lastChecked": 1792074308317
+      "lastChecked": 1792089374901
     },
     {
-      "id": "gdelt-sw3sjj5",
-      "title": "Telhado de escola cai no Paquistão e deixa pelo menos 28 mortos",
-      "sourceName": "Agência Brasil",
-      "sourceUrl": "https://agenciabrasil.ebc.com.br/internacional",
-      "sourceType": "Agência Estatal",
-      "sourceEditorial": "Agência pública de notícias da EBC (Governo Federal)",
-      "country": "Brasil",
-      "paywall": false,
-      "originalUrl": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-10/telhado-de-escola-cai-no-paquistao-e-deixa-pelo-menos-28-mortos",
-      "publishedAtStr": "2026-10-15T13:30:00Z",
-      "publishedAtTs": 1792071000000,
-      "rawContent": "Telhado de escola cai no Paquistão e deixa pelo menos 28 mortos",
-      "linkStatus": "active",
-      "lastChecked": 1792074308317
-    },
-    {
-      "id": "gdelt-syf7zck",
-      "title": "Ucrânia destrói jatos de guerra em base militar russa ; veja FOTOS",
-      "sourceName": "G1 Mundo",
-      "sourceUrl": "https://g1.globo.com/mundo/",
+      "id": "gdelt-wrp38m8",
+      "title": "Com juros altos , renda fixa supera variável e domina carteiras dos mais ricos",
+      "sourceName": "InfoMoney",
+      "sourceUrl": "https://www.infomoney.com.br/",
       "sourceType": "Imprensa Comercial Brasileira",
-      "sourceEditorial": "Portal de notícias mainstream do Grupo Globo",
+      "sourceEditorial": "Portal especializado em mercados e economia global",
       "country": "Brasil",
       "paywall": false,
-      "originalUrl": "https://g1.globo.com/mundo/noticia/2026/10/15/ucrania-destroi-jatos-base-militar-russa-fotos.ghtml",
-      "publishedAtStr": "2026-10-15T13:30:00Z",
-      "publishedAtTs": 1792071000000,
-      "rawContent": "Ucrânia destrói jatos de guerra em base militar russa ; veja FOTOS",
+      "originalUrl": "https://www.infomoney.com.br/onde-investir/com-juros-altos-renda-fixa-supera-variavel-e-domina-carteiras-dos-mais-ricos/",
+      "publishedAtStr": "2026-10-15T16:00:00Z",
+      "publishedAtTs": 1792080000000,
+      "rawContent": "Com juros altos , renda fixa supera variável e domina carteiras dos mais ricos",
       "linkStatus": "active",
-      "lastChecked": 1792074308317
+      "lastChecked": 1792089374901
     },
     {
-      "id": "gdelt-zce0eu6",
+      "id": "gdelt-b3xzy2m",
+      "title": "Pesquisas , EUA e fim da 6X1 em foco : o que faz Ibovespa ter nova queda nesta 5ª",
+      "sourceName": "InfoMoney",
+      "sourceUrl": "https://www.infomoney.com.br/",
+      "sourceType": "Imprensa Comercial Brasileira",
+      "sourceEditorial": "Portal especializado em mercados e economia global",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://www.infomoney.com.br/mercados/ibovespa-pesquisas-eleitorais-eua-fim-da-6x1-em-foco-o-que-faz-indice-ter-nova-queda-nesta-5a/",
+      "publishedAtStr": "2026-10-15T16:00:00Z",
+      "publishedAtTs": 1792080000000,
+      "rawContent": "Pesquisas , EUA e fim da 6X1 em foco : o que faz Ibovespa ter nova queda nesta 5ª",
+      "linkStatus": "active",
+      "lastChecked": 1792089374901
+    },
+    {
+      "id": "gdelt-bqzcvke",
+      "title": "Fundos de pensão esperam rentabilidade de 14 % e patrimônio de R$ 1 , 51 tri para 2026",
+      "sourceName": "InfoMoney",
+      "sourceUrl": "https://www.infomoney.com.br/",
+      "sourceType": "Imprensa Comercial Brasileira",
+      "sourceEditorial": "Portal especializado em mercados e economia global",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://www.infomoney.com.br/minhas-financas/fundos-de-pensao-esperam-rentabilidade-de-14-e-patrimonio-de-r-151-tri-para-2026/",
+      "publishedAtStr": "2026-10-15T16:00:00Z",
+      "publishedAtTs": 1792080000000,
+      "rawContent": "Fundos de pensão esperam rentabilidade de 14 % e patrimônio de R$ 1 , 51 tri para 2026",
+      "linkStatus": "active",
+      "lastChecked": 1792089374901
+    },
+    {
+      "id": "gdelt-57frmmd",
+      "title": "Competente ,  amigo ,  sabe trabalhar : os elogios de Flávio Bolsonaro a Márcio Canella , preso pela PF",
+      "sourceName": "CartaCapital",
+      "sourceUrl": "https://www.cartacapital.com.br/",
+      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
+      "sourceEditorial": "Jornalismo progressista - Conteúdo sob assinatura parcial",
+      "country": "Brasil",
+      "paywall": true,
+      "originalUrl": "https://www.cartacapital.com.br/politica/competente-amigo-sabe-trabalhar-os-elogios-de-flavio-bolsonaro-a-marcio-canella-preso-pela-pf/",
+      "publishedAtStr": "2026-10-15T15:15:00Z",
+      "publishedAtTs": 1792077300000,
+      "rawContent": "Competente ,  amigo ,  sabe trabalhar : os elogios de Flávio Bolsonaro a Márcio Canella , preso pela PF",
+      "linkStatus": "active",
+      "lastChecked": 1792089374901
+    },
+    {
+      "id": "gdelt-okvutw4",
+      "title": "TSE derruba prazo de 48 horas para registrar canais , após o caso  Exército do Lula",
+      "sourceName": "CartaCapital",
+      "sourceUrl": "https://www.cartacapital.com.br/",
+      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
+      "sourceEditorial": "Jornalismo progressista - Conteúdo sob assinatura parcial",
+      "country": "Brasil",
+      "paywall": true,
+      "originalUrl": "https://www.cartacapital.com.br/justica/tse-derruba-prazo-de-48-horas-para-registrar-canais-apos-o-caso-exercito-do-lula/",
+      "publishedAtStr": "2026-10-15T15:15:00Z",
+      "publishedAtTs": 1792077300000,
+      "rawContent": "TSE derruba prazo de 48 horas para registrar canais , após o caso  Exército do Lula",
+      "linkStatus": "active",
+      "lastChecked": 1792089374901
+    },
+    {
+      "id": "gdelt-whpu3eg",
       "title": "Radiografia de tórax do papa mostra  boa recuperao  do pulmão , dizem médicos de Leão XIV",
       "sourceName": "Estadão Internacional",
       "sourceUrl": "https://www.estadao.com.br/internacional/",
@@ -74,7 +250,7 @@
       "lastChecked": 1792074308317
     },
     {
-      "id": "gdelt-guqfe7u",
+      "id": "gdelt-ov2l59w",
       "title": "Setor de turismo teve 119 , 4 milhões de dados de viajantes expostos na dark web",
       "sourceName": "Veja Mundo",
       "sourceUrl": "https://veja.abril.com.br/mundo/",
@@ -90,7 +266,7 @@
       "lastChecked": 1792074308317
     },
     {
-      "id": "gdelt-9yyd932",
+      "id": "gdelt-uq71gub",
       "title": "Esquerda sai às ruas e mostra força após Espriella assinar decreto endurecendo repressão na Colômbia",
       "sourceName": "Estadão Internacional",
       "sourceUrl": "https://www.estadao.com.br/internacional/",
@@ -106,7 +282,7 @@
       "lastChecked": 1792074308317
     },
     {
-      "id": "gdelt-orj6a25",
+      "id": "gdelt-m7r4eyv",
       "title": "Plano ( PLPL3 ) tem queda de 24 % nas vendas líquidas de R$ 775 , 3 no 3º tri",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -122,7 +298,7 @@
       "lastChecked": 1792074308317
     },
     {
-      "id": "gdelt-2suzlyn",
+      "id": "gdelt-aazjakc",
       "title": "Harry e Meghan fazem primeira apario pública juntos desde o retorno ao Reino Unido",
       "sourceName": "Estadão Internacional",
       "sourceUrl": "https://www.estadao.com.br/internacional/",
@@ -138,7 +314,7 @@
       "lastChecked": 1792074308317
     },
     {
-      "id": "gdelt-996y7px",
+      "id": "gdelt-65q3wgk",
       "title": "PF aponta movimentação de R$ 7 , 6 bi em esquema que prendeu Marcio Canella",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -154,7 +330,7 @@
       "lastChecked": 1792074308317
     },
     {
-      "id": "gdelt-cm8kdqf",
+      "id": "gdelt-8uninn7",
       "title": "TotalEnergies destaca aumento acentuado no lucro , guerra no Irã puxa preços",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -170,7 +346,7 @@
       "lastChecked": 1792074308317
     },
     {
-      "id": "gdelt-we5eld0",
+      "id": "gdelt-719l1c2",
       "title": "Deputado eleito Márcio Canella e ex - chefe da Polícia Civil do RJ são presos pela PF",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -186,7 +362,7 @@
       "lastChecked": 1792074308317
     },
     {
-      "id": "gdelt-a2wpo1n",
+      "id": "gdelt-wflyb7o",
       "title": "Anthropic bate receita de US$ 16 , 8 bi antes de IPO , mas desaceleração frustra mercado",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -202,7 +378,7 @@
       "lastChecked": 1792074308317
     },
     {
-      "id": "gdelt-i8zmkcy",
+      "id": "gdelt-buex036",
       "title": "O que mudou nas campanhas de Lula e Flávio após o primeiro turno ?",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -218,7 +394,7 @@
       "lastChecked": 1792074308317
     },
     {
-      "id": "gdelt-ss1178i",
+      "id": "gdelt-7u8lgky",
       "title": "Melnick ( MELK3 ) vende e lança menos no 3º trimestre",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -234,7 +410,7 @@
       "lastChecked": 1792074308317
     },
     {
-      "id": "gdelt-07s68i0",
+      "id": "gdelt-bxakycr",
       "title": "Estrutura sem VPs ajudou a impulsionar crescimento da Kalshi , afirma cofundadora",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -250,7 +426,7 @@
       "lastChecked": 1792074308317
     },
     {
-      "id": "gdelt-6z4ooj8",
+      "id": "gdelt-jttm00t",
       "title": "Papa Leão passou noite tranquila e tem boa evoluo após retirada de tumor , diz Vaticano",
       "sourceName": "Veja Mundo",
       "sourceUrl": "https://veja.abril.com.br/mundo/",
@@ -266,7 +442,7 @@
       "lastChecked": 1792074308317
     },
     {
-      "id": "gdelt-3go8o4t",
+      "id": "gdelt-t5g7ffl",
       "title": "Agenda dos candidatos : Lula dá entrevista à  Globo ; Flávio Bolsonaro faz comício em MG",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -282,7 +458,7 @@
       "lastChecked": 1792074308317
     },
     {
-      "id": "gdelt-6e4pe3y",
+      "id": "gdelt-hsz8du0",
       "title": "Trump cogita usar a  Mãe de Todas as Bomba contra o Irã , afirma  CNN",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -298,7 +474,7 @@
       "lastChecked": 1792074308317
     },
     {
-      "id": "gdelt-t7aji0c",
+      "id": "gdelt-adxol3m",
       "title": "Estados Unidos enviam 600 soldados à América Latina em ofensiva contra narcotráfico",
       "sourceName": "Veja Mundo",
       "sourceUrl": "https://veja.abril.com.br/mundo/",
@@ -314,7 +490,7 @@
       "lastChecked": 1792074308317
     },
     {
-      "id": "gdelt-1c2buaq",
+      "id": "gdelt-lckvs3v",
       "title": "Ucrânia retoma ataques contra refinarias russas ; Zelensky pede  honestidade  dos EUA",
       "sourceName": "Veja Mundo",
       "sourceUrl": "https://veja.abril.com.br/mundo/",
@@ -330,7 +506,7 @@
       "lastChecked": 1792074308317
     },
     {
-      "id": "gdelt-ajpj54q",
+      "id": "gdelt-xdvg93v",
       "title": "EUA cogitam atacar Irã com  Mãe de Todas as Bomba , diz emissora",
       "sourceName": "Veja Mundo",
       "sourceUrl": "https://veja.abril.com.br/mundo/",
@@ -346,7 +522,7 @@
       "lastChecked": 1792074308317
     },
     {
-      "id": "gdelt-k115pnl",
+      "id": "gdelt-q7wm31s",
       "title": "FMI prevê que a Índia vai superar o Japão como quarta maior economia do mundo em 2027",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -362,7 +538,7 @@
       "lastChecked": 1792074308317
     },
     {
-      "id": "gdelt-a166u4s",
+      "id": "gdelt-lvckump",
       "title": "Deputado estadual eleito Márcio Canella , do RJ , volta a ser preso pela PF",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -374,54 +550,6 @@
       "publishedAtStr": "2026-10-15T12:30:00Z",
       "publishedAtTs": 1792067400000,
       "rawContent": "Deputado estadual eleito Márcio Canella , do RJ , volta a ser preso pela PF",
-      "linkStatus": "active",
-      "lastChecked": 1792074308317
-    },
-    {
-      "id": "gdelt-xb6wh6n",
-      "title": "Quem é Zoe Lucas , naturalista canadense que vive isolada em ilha remota há cerca de 50 anos",
-      "sourceName": "O Globo Mundo",
-      "sourceUrl": "https://oglobo.globo.com/mundo/",
-      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
-      "sourceEditorial": "Jornal diário (Grupo Globo) - Conteúdo sob assinatura",
-      "country": "Brasil",
-      "paywall": true,
-      "originalUrl": "https://oglobo.globo.com/mundo/epoca/noticia/2026/10/15/quem-e-zoe-lucas-naturalista-canadense-que-vive-isolada-em-ilha-remota-ha-cerca-de-50-anos.ghtml",
-      "publishedAtStr": "2026-10-15T10:00:00Z",
-      "publishedAtTs": 1792058400000,
-      "rawContent": "Quem é Zoe Lucas , naturalista canadense que vive isolada em ilha remota há cerca de 50 anos",
-      "linkStatus": "active",
-      "lastChecked": 1792074308317
-    },
-    {
-      "id": "gdelt-haf8vw9",
-      "title": "Australiana é acusada de colocar veneno para matar caracóis em comida de colega de trabalho",
-      "sourceName": "O Globo Mundo",
-      "sourceUrl": "https://oglobo.globo.com/mundo/",
-      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
-      "sourceEditorial": "Jornal diário (Grupo Globo) - Conteúdo sob assinatura",
-      "country": "Brasil",
-      "paywall": true,
-      "originalUrl": "https://oglobo.globo.com/mundo/epoca/noticia/2026/10/15/australiana-e-acusada-de-colocar-veneno-para-matar-caracois-em-comida-de-colega-de-trabalho.ghtml",
-      "publishedAtStr": "2026-10-15T10:00:00Z",
-      "publishedAtTs": 1792058400000,
-      "rawContent": "Australiana é acusada de colocar veneno para matar caracóis em comida de colega de trabalho",
-      "linkStatus": "active",
-      "lastChecked": 1792074308317
-    },
-    {
-      "id": "gdelt-481prba",
-      "title": "Quem é Celia Melamed , a veterinária médium que  conversa  com cachorro morto de Javier Milei",
-      "sourceName": "O Globo Mundo",
-      "sourceUrl": "https://oglobo.globo.com/mundo/",
-      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
-      "sourceEditorial": "Jornal diário (Grupo Globo) - Conteúdo sob assinatura",
-      "country": "Brasil",
-      "paywall": true,
-      "originalUrl": "https://oglobo.globo.com/mundo/epoca/noticia/2026/10/15/quem-e-celia-melamed-a-veterinaria-medium-que-conversa-com-cachorro-morto-de-javier-milei.ghtml",
-      "publishedAtStr": "2026-10-15T10:00:00Z",
-      "publishedAtTs": 1792058400000,
-      "rawContent": "Quem é Celia Melamed , a veterinária médium que  conversa  com cachorro morto de Javier Milei",
       "linkStatus": "active",
       "lastChecked": 1792074308317
     }
