@@ -1,16 +1,112 @@
 {
-  "updatedAt": "2026-10-15T23:58:23.126Z",
+  "updatedAt": "2026-10-16T03:24:26.241Z",
   "periodUsed": "24h",
-  "count": 47,
+  "count": 53,
   "linkVerificationStats": {
-    "checkedThisRun": 2,
-    "active": 2,
+    "checkedThisRun": 6,
+    "active": 6,
     "broken": 0,
     "unknown": 0
   },
   "articles": [
     {
-      "id": "gdelt-l8kgtbp",
+      "id": "gdelt-wkc9b58",
+      "title": "Explosão de protestos na Espanha escancara efeitos da profunda crise habitacional das metrópoles",
+      "sourceName": "Veja Mundo",
+      "sourceUrl": "https://veja.abril.com.br/mundo/",
+      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
+      "sourceEditorial": "Revista semanal - Conteúdo sob assinatura parcial",
+      "country": "Brasil",
+      "paywall": true,
+      "originalUrl": "https://veja.abril.com.br/mundo/explosao-de-protestos-na-espanha-escancara-efeitos-da-profunda-crise-habitacional-das-metropoles/",
+      "publishedAtStr": "2026-10-16T01:15:00Z",
+      "publishedAtTs": 1792113300000,
+      "rawContent": "Explosão de protestos na Espanha escancara efeitos da profunda crise habitacional das metrópoles",
+      "linkStatus": "active",
+      "lastChecked": 1792121063548
+    },
+    {
+      "id": "gdelt-9gsy817",
+      "title": "TSE proíbe Meta de restringir conteúdo político - eleitoral",
+      "sourceName": "CartaCapital",
+      "sourceUrl": "https://www.cartacapital.com.br/",
+      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
+      "sourceEditorial": "Jornalismo progressista - Conteúdo sob assinatura parcial",
+      "country": "Brasil",
+      "paywall": true,
+      "originalUrl": "https://www.cartacapital.com.br/politica/tse-proibe-meta-de-restringir-conteudo-politico-eleitoral/",
+      "publishedAtStr": "2026-10-16T01:15:00Z",
+      "publishedAtTs": 1792113300000,
+      "rawContent": "TSE proíbe Meta de restringir conteúdo político - eleitoral",
+      "linkStatus": "active",
+      "lastChecked": 1792121063548
+    },
+    {
+      "id": "gdelt-ojka4yg",
+      "title": "TSE manda PT apagar post que diz que Flávio Bolsonaro planeja corte de R$ 250 bilhões",
+      "sourceName": "CartaCapital",
+      "sourceUrl": "https://www.cartacapital.com.br/",
+      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
+      "sourceEditorial": "Jornalismo progressista - Conteúdo sob assinatura parcial",
+      "country": "Brasil",
+      "paywall": true,
+      "originalUrl": "https://www.cartacapital.com.br/politica/tse-manda-pt-apagar-post-que-diz-que-flavio-bolsonaro-planeja-corte-de-r-250-bilhoes/",
+      "publishedAtStr": "2026-10-16T01:15:00Z",
+      "publishedAtTs": 1792113300000,
+      "rawContent": "TSE manda PT apagar post que diz que Flávio Bolsonaro planeja corte de R$ 250 bilhões",
+      "linkStatus": "active",
+      "lastChecked": 1792121063548
+    },
+    {
+      "id": "gdelt-x66ad3k",
+      "title": "Flávio critica proposta de tarifa zero de ônibus de Lula :  promessa mirabolante  | Eleies 2026",
+      "sourceName": "Valor Econômico",
+      "sourceUrl": "https://valor.globo.com/",
+      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
+      "sourceEditorial": "Jornal diário financeiro - Conteúdo sob assinatura",
+      "country": "Brasil",
+      "paywall": true,
+      "originalUrl": "https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/15/flvio-critica-proposta-de-tarifa-zero-de-nibus-de-lula-promessa-mirabolante.ghtml",
+      "publishedAtStr": "2026-10-16T01:15:00Z",
+      "publishedAtTs": 1792113300000,
+      "rawContent": "Flávio critica proposta de tarifa zero de ônibus de Lula :  promessa mirabolante  | Eleies 2026",
+      "linkStatus": "active",
+      "lastChecked": 1792121063548
+    },
+    {
+      "id": "gdelt-l8jo4g3",
+      "title": "Nunes e Tarcísio divergem sobre enchente no túnel do Anhangabaú , que deixou carros submersos",
+      "sourceName": "CartaCapital",
+      "sourceUrl": "https://www.cartacapital.com.br/",
+      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
+      "sourceEditorial": "Jornalismo progressista - Conteúdo sob assinatura parcial",
+      "country": "Brasil",
+      "paywall": true,
+      "originalUrl": "https://www.cartacapital.com.br/politica/nunes-e-tarcisio-divergem-sobre-enchente-no-tunel-do-anhangabau-que-deixou-carros-submersos/",
+      "publishedAtStr": "2026-10-15T23:45:00Z",
+      "publishedAtTs": 1792107900000,
+      "rawContent": "Nunes e Tarcísio divergem sobre enchente no túnel do Anhangabaú , que deixou carros submersos",
+      "linkStatus": "active",
+      "lastChecked": 1792121063548
+    },
+    {
+      "id": "gdelt-zbz26pi",
+      "title": "Camilo Santana ignora resistência do PT e apresenta emenda para reduzir maioridade penal",
+      "sourceName": "CartaCapital",
+      "sourceUrl": "https://www.cartacapital.com.br/",
+      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
+      "sourceEditorial": "Jornalismo progressista - Conteúdo sob assinatura parcial",
+      "country": "Brasil",
+      "paywall": true,
+      "originalUrl": "https://www.cartacapital.com.br/politica/camilo-santana-ignora-resistencia-do-pt-e-apresenta-emenda-para-reduzir-maioridade-penal/",
+      "publishedAtStr": "2026-10-15T23:45:00Z",
+      "publishedAtTs": 1792107900000,
+      "rawContent": "Camilo Santana ignora resistência do PT e apresenta emenda para reduzir maioridade penal",
+      "linkStatus": "active",
+      "lastChecked": 1792121063548
+    },
+    {
+      "id": "gdelt-wbdynx7",
       "title": "difícil forçar um país à rendio à base de bombas . Mas a Rússia está tentando",
       "sourceName": "Estadão Internacional",
       "sourceUrl": "https://www.estadao.com.br/internacional/",
@@ -26,7 +122,7 @@
       "lastChecked": 1792108701743
     },
     {
-      "id": "gdelt-nz332y2",
+      "id": "gdelt-00hljdu",
       "title": "Príncipe Harry revela pedido do filho antes de primeiro dia de aula no Reino Unido",
       "sourceName": "Veja Mundo",
       "sourceUrl": "https://veja.abril.com.br/mundo/",
@@ -42,7 +138,7 @@
       "lastChecked": 1792108701743
     },
     {
-      "id": "gdelt-03tuug1",
+      "id": "gdelt-bop8oyy",
       "title": "Levante estudantil",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -58,7 +154,7 @@
       "lastChecked": 1792100850555
     },
     {
-      "id": "gdelt-tuprfw7",
+      "id": "gdelt-rmng887",
       "title": "Príncipe William quer restaurar título real tirado de Diana",
       "sourceName": "Veja Mundo",
       "sourceUrl": "https://veja.abril.com.br/mundo/",
@@ -74,7 +170,7 @@
       "lastChecked": 1792100850555
     },
     {
-      "id": "gdelt-65vkq1p",
+      "id": "gdelt-ed0wqlp",
       "title": "Meta se reúne com Nunes Marques após IA bloquear cartaz de Lula com número 13",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -90,7 +186,7 @@
       "lastChecked": 1792100850555
     },
     {
-      "id": "gdelt-j8us24f",
+      "id": "gdelt-j1871n5",
       "title": "TSE derruba decisão de Mendonça que mantinha no ar conteúdos contra Lula",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -106,7 +202,7 @@
       "lastChecked": 1792100850555
     },
     {
-      "id": "gdelt-cyqn8vs",
+      "id": "gdelt-d4d37pq",
       "title": "A raiva compartilhada",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -122,7 +218,7 @@
       "lastChecked": 1792100850555
     },
     {
-      "id": "gdelt-uhyj4lb",
+      "id": "gdelt-5xzpzia",
       "title": "O futuro nas ruas",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -138,7 +234,7 @@
       "lastChecked": 1792100850555
     },
     {
-      "id": "gdelt-kgekn2e",
+      "id": "gdelt-zvrbi92",
       "title": "Kassio veste a camisa",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -154,7 +250,7 @@
       "lastChecked": 1792100850555
     },
     {
-      "id": "gdelt-x6c0iny",
+      "id": "gdelt-piilp3b",
       "title": "Sob a iminência do trágico",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -170,7 +266,7 @@
       "lastChecked": 1792100850555
     },
     {
-      "id": "gdelt-55cv0jz",
+      "id": "gdelt-ugc0gfy",
       "title": "6 - 7 e 68",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -186,7 +282,7 @@
       "lastChecked": 1792100850555
     },
     {
-      "id": "gdelt-8tdiwm4",
+      "id": "gdelt-lkxjgcm",
       "title": "Globo  demite Frederic Kachar após revelação de intimidade com Vorcaro",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -202,7 +298,7 @@
       "lastChecked": 1792100850555
     },
     {
-      "id": "gdelt-5f2adl1",
+      "id": "gdelt-urilt5u",
       "title": "Justiça dos EUA cita caso brasileiro sobre tentativa de manipular inteligência artificial",
       "sourceName": "Veja Mundo",
       "sourceUrl": "https://veja.abril.com.br/mundo/",
@@ -218,7 +314,7 @@
       "lastChecked": 1792100850555
     },
     {
-      "id": "gdelt-bb353ve",
+      "id": "gdelt-y6piasd",
       "title": "Trump descarta transmissão de execuo de condenado por massacre em base militar",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -234,7 +330,7 @@
       "lastChecked": 1792089374901
     },
     {
-      "id": "gdelt-p7f25j6",
+      "id": "gdelt-tdueh4w",
       "title": "Musk diz que Trump decide velocidade da Starlink militar na Ucrânia",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -250,7 +346,7 @@
       "lastChecked": 1792089374901
     },
     {
-      "id": "gdelt-hvryjrc",
+      "id": "gdelt-jlpvwg0",
       "title": "Saladas proteicas : 5 receitas com proteínas vegetais para o almoço",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -266,7 +362,7 @@
       "lastChecked": 1792089374901
     },
     {
-      "id": "gdelt-fo4rxpn",
+      "id": "gdelt-w3ss0j1",
       "title": "O que fundamentou a nova prisão de Márcio Canella pela PF no Rio",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -282,7 +378,7 @@
       "lastChecked": 1792089374901
     },
     {
-      "id": "gdelt-wtyyprg",
+      "id": "gdelt-cef3zjo",
       "title": "Defesa Civil de SP alerta para possibilidade de chuvas intensas nesta quinta",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -298,7 +394,7 @@
       "lastChecked": 1792089374901
     },
     {
-      "id": "gdelt-0i94dw1",
+      "id": "gdelt-2rh354c",
       "title": "Governo inicia pagamento de lote complementar do abono salarial",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -314,7 +410,7 @@
       "lastChecked": 1792089374901
     },
     {
-      "id": "gdelt-7xzserr",
+      "id": "gdelt-94509bs",
       "title": "Ucrânia corre contra o tempo e united states IA para se defender dos drones a jato de Putin",
       "sourceName": "Estadão Internacional",
       "sourceUrl": "https://www.estadao.com.br/internacional/",
@@ -330,7 +426,7 @@
       "lastChecked": 1792089374901
     },
     {
-      "id": "gdelt-fihb7pq",
+      "id": "gdelt-t92rm53",
       "title": "Trump cancela transmissão ao vivo de execuo de psiquiatra condenado por massacre",
       "sourceName": "Estadão Internacional",
       "sourceUrl": "https://www.estadao.com.br/internacional/",
@@ -346,7 +442,7 @@
       "lastChecked": 1792089374901
     },
     {
-      "id": "gdelt-qv6mjj4",
+      "id": "gdelt-4wbw33l",
       "title": "Empresa israelense united states anúncios online em operação de espionagem , dizem pesquisadores",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -362,7 +458,7 @@
       "lastChecked": 1792089374901
     },
     {
-      "id": "gdelt-amwhmc7",
+      "id": "gdelt-usyyg3h",
       "title": "Com juros altos , renda fixa supera variável e domina carteiras dos mais ricos",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -378,7 +474,7 @@
       "lastChecked": 1792089374901
     },
     {
-      "id": "gdelt-cxgmbcx",
+      "id": "gdelt-ba2oi4b",
       "title": "Pesquisas , EUA e fim da 6X1 em foco : o que faz Ibovespa ter nova queda nesta 5ª",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -394,7 +490,7 @@
       "lastChecked": 1792089374901
     },
     {
-      "id": "gdelt-mfvazxq",
+      "id": "gdelt-e44jbuq",
       "title": "Fundos de pensão esperam rentabilidade de 14 % e patrimônio de R$ 1 , 51 tri para 2026",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -410,7 +506,7 @@
       "lastChecked": 1792089374901
     },
     {
-      "id": "gdelt-eyn5vwp",
+      "id": "gdelt-9lzx8qd",
       "title": "Competente ,  amigo ,  sabe trabalhar : os elogios de Flávio Bolsonaro a Márcio Canella , preso pela PF",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -426,7 +522,7 @@
       "lastChecked": 1792089374901
     },
     {
-      "id": "gdelt-keccae2",
+      "id": "gdelt-k1nj74p",
       "title": "TSE derruba prazo de 48 horas para registrar canais , após o caso  Exército do Lula",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -442,7 +538,7 @@
       "lastChecked": 1792089374901
     },
     {
-      "id": "gdelt-7n606gk",
+      "id": "gdelt-253jngl",
       "title": "Radiografia de tórax do papa mostra  boa recuperao  do pulmão , dizem médicos de Leão XIV",
       "sourceName": "Estadão Internacional",
       "sourceUrl": "https://www.estadao.com.br/internacional/",
@@ -458,7 +554,7 @@
       "lastChecked": 1792074308317
     },
     {
-      "id": "gdelt-2dfitjn",
+      "id": "gdelt-mcxkf0g",
       "title": "Setor de turismo teve 119 , 4 milhões de dados de viajantes expostos na dark web",
       "sourceName": "Veja Mundo",
       "sourceUrl": "https://veja.abril.com.br/mundo/",
@@ -474,7 +570,7 @@
       "lastChecked": 1792074308317
     },
     {
-      "id": "gdelt-akqx8ha",
+      "id": "gdelt-elasu69",
       "title": "Esquerda sai às ruas e mostra força após Espriella assinar decreto endurecendo repressão na Colômbia",
       "sourceName": "Estadão Internacional",
       "sourceUrl": "https://www.estadao.com.br/internacional/",
@@ -490,7 +586,7 @@
       "lastChecked": 1792074308317
     },
     {
-      "id": "gdelt-f2x11as",
+      "id": "gdelt-qz1mgjo",
       "title": "Plano ( PLPL3 ) tem queda de 24 % nas vendas líquidas de R$ 775 , 3 no 3º tri",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -506,7 +602,7 @@
       "lastChecked": 1792074308317
     },
     {
-      "id": "gdelt-9cueg9x",
+      "id": "gdelt-qlw499f",
       "title": "Harry e Meghan fazem primeira apario pública juntos desde o retorno ao Reino Unido",
       "sourceName": "Estadão Internacional",
       "sourceUrl": "https://www.estadao.com.br/internacional/",
@@ -522,7 +618,7 @@
       "lastChecked": 1792074308317
     },
     {
-      "id": "gdelt-i2o7fsb",
+      "id": "gdelt-mi4baw1",
       "title": "PF aponta movimentação de R$ 7 , 6 bi em esquema que prendeu Marcio Canella",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -538,7 +634,7 @@
       "lastChecked": 1792074308317
     },
     {
-      "id": "gdelt-0qrqabe",
+      "id": "gdelt-ekunopf",
       "title": "TotalEnergies destaca aumento acentuado no lucro , guerra no Irã puxa preços",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -554,7 +650,7 @@
       "lastChecked": 1792074308317
     },
     {
-      "id": "gdelt-qbjmi3l",
+      "id": "gdelt-y2ym4k4",
       "title": "Deputado eleito Márcio Canella e ex - chefe da Polícia Civil do RJ são presos pela PF",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -570,7 +666,7 @@
       "lastChecked": 1792074308317
     },
     {
-      "id": "gdelt-1c6b5v1",
+      "id": "gdelt-ze08jd0",
       "title": "Anthropic bate receita de US$ 16 , 8 bi antes de IPO , mas desaceleração frustra mercado",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -586,7 +682,7 @@
       "lastChecked": 1792074308317
     },
     {
-      "id": "gdelt-gzh1d6b",
+      "id": "gdelt-koeh8gd",
       "title": "O que mudou nas campanhas de Lula e Flávio após o primeiro turno ?",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -602,7 +698,7 @@
       "lastChecked": 1792074308317
     },
     {
-      "id": "gdelt-o3lck0b",
+      "id": "gdelt-lbp0cz3",
       "title": "Melnick ( MELK3 ) vende e lança menos no 3º trimestre",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -618,7 +714,7 @@
       "lastChecked": 1792074308317
     },
     {
-      "id": "gdelt-bhjddr1",
+      "id": "gdelt-osel719",
       "title": "Estrutura sem VPs ajudou a impulsionar crescimento da Kalshi , afirma cofundadora",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -634,7 +730,7 @@
       "lastChecked": 1792074308317
     },
     {
-      "id": "gdelt-w2qj4w6",
+      "id": "gdelt-xhb4sj4",
       "title": "Papa Leão passou noite tranquila e tem boa evoluo após retirada de tumor , diz Vaticano",
       "sourceName": "Veja Mundo",
       "sourceUrl": "https://veja.abril.com.br/mundo/",
@@ -650,7 +746,7 @@
       "lastChecked": 1792074308317
     },
     {
-      "id": "gdelt-okjr6vr",
+      "id": "gdelt-ffb15bg",
       "title": "Agenda dos candidatos : Lula dá entrevista à  Globo ; Flávio Bolsonaro faz comício em MG",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -666,7 +762,7 @@
       "lastChecked": 1792074308317
     },
     {
-      "id": "gdelt-k7be3cj",
+      "id": "gdelt-etp8wr3",
       "title": "Trump cogita usar a  Mãe de Todas as Bomba contra o Irã , afirma  CNN",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -682,7 +778,7 @@
       "lastChecked": 1792074308317
     },
     {
-      "id": "gdelt-7l8ufdt",
+      "id": "gdelt-di7gdqe",
       "title": "Estados Unidos enviam 600 soldados à América Latina em ofensiva contra narcotráfico",
       "sourceName": "Veja Mundo",
       "sourceUrl": "https://veja.abril.com.br/mundo/",
@@ -698,7 +794,7 @@
       "lastChecked": 1792074308317
     },
     {
-      "id": "gdelt-kf8ok1m",
+      "id": "gdelt-t7fk2ad",
       "title": "Ucrânia retoma ataques contra refinarias russas ; Zelensky pede  honestidade  dos EUA",
       "sourceName": "Veja Mundo",
       "sourceUrl": "https://veja.abril.com.br/mundo/",
@@ -714,7 +810,7 @@
       "lastChecked": 1792074308317
     },
     {
-      "id": "gdelt-nru37kj",
+      "id": "gdelt-arp2a84",
       "title": "EUA cogitam atacar Irã com  Mãe de Todas as Bomba , diz emissora",
       "sourceName": "Veja Mundo",
       "sourceUrl": "https://veja.abril.com.br/mundo/",
@@ -730,7 +826,7 @@
       "lastChecked": 1792074308317
     },
     {
-      "id": "gdelt-uv4zk67",
+      "id": "gdelt-63ad9rd",
       "title": "FMI prevê que a Índia vai superar o Japão como quarta maior economia do mundo em 2027",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -746,7 +842,7 @@
       "lastChecked": 1792074308317
     },
     {
-      "id": "gdelt-tf0bb6q",
+      "id": "gdelt-3hbboaw",
       "title": "Deputado estadual eleito Márcio Canella , do RJ , volta a ser preso pela PF",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
