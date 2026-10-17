@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-10-17T09:45:42.990Z",
+  "updatedAt": "2026-10-17T13:19:24.217Z",
   "periodUsed": "24h",
-  "count": 90,
+  "count": 77,
   "linkVerificationStats": {
     "checkedThisRun": 40,
     "active": 40,
@@ -10,135 +10,199 @@
   },
   "articles": [
     {
-      "id": "gdelt-7bv9slt",
-      "title": "Protestos da geração Z se espalham pelo mundo ; entenda as causas",
-      "sourceName": "G1 Mundo",
-      "sourceUrl": "https://g1.globo.com/mundo/",
+      "id": "gdelt-7yzonta",
+      "title": "Previdência multimercado vale a pena com juros altos ? Grão Investimentos avalia",
+      "sourceName": "InfoMoney",
+      "sourceUrl": "https://www.infomoney.com.br/",
       "sourceType": "Imprensa Comercial Brasileira",
-      "sourceEditorial": "Portal de notícias mainstream do Grupo Globo",
+      "sourceEditorial": "Portal especializado em mercados e economia global",
       "country": "Brasil",
       "paywall": false,
-      "originalUrl": "https://g1.globo.com/mundo/noticia/2026/10/17/uma-geracao-em-protesto-gen-z-usa-redes-sociais-para-tomar-as-ruas-ao-redor-do-mundo.ghtml",
-      "publishedAtStr": "2026-10-17T09:15:00Z",
-      "publishedAtTs": 1792228500000,
-      "rawContent": "Protestos da geração Z se espalham pelo mundo ; entenda as causas",
+      "originalUrl": "https://www.infomoney.com.br/onde-investir/previdencia-multimercado-vale-a-pena-com-juros-altos-grao-investimentos-avalia/",
+      "publishedAtStr": "2026-10-17T12:45:00Z",
+      "publishedAtTs": 1792241100000,
+      "rawContent": "Previdência multimercado vale a pena com juros altos ? Grão Investimentos avalia",
       "linkStatus": "active",
-      "lastChecked": 1792230322570
+      "lastChecked": 1792243142423
     },
     {
-      "id": "gdelt-vetudiq",
-      "title": "Em sabatina , Flávio foca em Lula e se esquiva sobre Vorcaro",
-      "sourceName": "DW Brasil",
-      "sourceUrl": "https://www.dw.com/pt-br/",
-      "sourceType": "Imprensa Internacional / Pública",
-      "sourceEditorial": "Emissora pública da Alemanha; foco em diplomacia e direitos humanos",
-      "country": "Alemanha",
-      "paywall": false,
-      "originalUrl": "https://www.dw.com/pt-br/em-sabatina-fl%C3%A1vio-foca-em-ataques-a-lula-e-se-esquiva-de-perguntas-sobre-vorcaro/a-79685320",
-      "publishedAtStr": "2026-10-17T09:15:00Z",
-      "publishedAtTs": 1792228500000,
-      "rawContent": "Em sabatina , Flávio foca em Lula e se esquiva sobre Vorcaro",
-      "linkStatus": "active",
-      "lastChecked": 1792230322570
-    },
-    {
-      "id": "gdelt-n682o67",
-      "title": "Primeira - dama da Colômbia nega irregularidades em doações de US$ 17 milhões após terremoto",
-      "sourceName": "G1 Mundo",
-      "sourceUrl": "https://g1.globo.com/mundo/",
-      "sourceType": "Imprensa Comercial Brasileira",
-      "sourceEditorial": "Portal de notícias mainstream do Grupo Globo",
-      "country": "Brasil",
-      "paywall": false,
-      "originalUrl": "https://g1.globo.com/mundo/noticia/2026/10/17/primeira-dama-da-colombia-nega-irregularidades-em-doacoes-de-us-17-milhoes-apos-terremoto.ghtml",
-      "publishedAtStr": "2026-10-17T06:30:00Z",
-      "publishedAtTs": 1792218600000,
-      "rawContent": "Primeira - dama da Colômbia nega irregularidades em doações de US$ 17 milhões após terremoto",
-      "linkStatus": "active",
-      "lastChecked": 1792230322570
-    },
-    {
-      "id": "gdelt-u3s4j24",
-      "title": "Brasileiros no exterior tentam reverter absteno no 2º turno",
-      "sourceName": "G1 Mundo",
-      "sourceUrl": "https://g1.globo.com/mundo/",
-      "sourceType": "Imprensa Comercial Brasileira",
-      "sourceEditorial": "Portal de notícias mainstream do Grupo Globo",
-      "country": "Brasil",
-      "paywall": false,
-      "originalUrl": "https://g1.globo.com/mundo/noticia/2026/10/17/brasileiros-no-exterior-se-mobilizam-para-reverter-abstencao-no-2o-turno.ghtml",
-      "publishedAtStr": "2026-10-17T05:30:00Z",
-      "publishedAtTs": 1792215000000,
-      "rawContent": "Brasileiros no exterior tentam reverter absteno no 2º turno",
-      "linkStatus": "active",
-      "lastChecked": 1792230322570
-    },
-    {
-      "id": "gdelt-lrwynia",
-      "title": "Primeira - dama da Colômbia nega que houve irregularidades no uso de dinheiro doado após terremoto",
-      "sourceName": "O Globo Mundo",
-      "sourceUrl": "https://oglobo.globo.com/mundo/",
+      "id": "gdelt-ciqpr2s",
+      "title": "Incêndio destrói um resort em Bangladesh e mata 10 pessoas",
+      "sourceName": "Estadão Internacional",
+      "sourceUrl": "https://www.estadao.com.br/internacional/",
       "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
-      "sourceEditorial": "Jornal diário (Grupo Globo) - Conteúdo sob assinatura",
+      "sourceEditorial": "Jornal tradicional de geopolítica - Conteúdo sob assinatura",
       "country": "Brasil",
       "paywall": true,
-      "originalUrl": "https://oglobo.globo.com/mundo/noticia/2026/10/17/primeira-dama-da-colombia-nega-que-houve-irregularidades-no-uso-de-dinheiro-doado-apos-terremoto.ghtml",
-      "publishedAtStr": "2026-10-17T05:00:00Z",
-      "publishedAtTs": 1792213200000,
-      "rawContent": "Primeira - dama da Colômbia nega que houve irregularidades no uso de dinheiro doado após terremoto",
+      "originalUrl": "https://www.estadao.com.br/internacional/um-incendio-destroi-um-resort-em-bangladesh-e-mata-10-pessoas/",
+      "publishedAtStr": "2026-10-17T12:45:00Z",
+      "publishedAtTs": 1792241100000,
+      "rawContent": "Incêndio destrói um resort em Bangladesh e mata 10 pessoas",
       "linkStatus": "active",
-      "lastChecked": 1792216113674
+      "lastChecked": 1792243142423
     },
     {
-      "id": "gdelt-mfvx9xx",
-      "title": "Qual a diferença entre ano e segundo bissexto ? Entenda mudanças previstas para 2027",
-      "sourceName": "O Globo Mundo",
-      "sourceUrl": "https://oglobo.globo.com/mundo/",
+      "id": "gdelt-tnmuby1",
+      "title": "O ônibus da Nutella que quase esvaziou Barolo",
+      "sourceName": "CartaCapital",
+      "sourceUrl": "https://www.cartacapital.com.br/",
       "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
-      "sourceEditorial": "Jornal diário (Grupo Globo) - Conteúdo sob assinatura",
+      "sourceEditorial": "Jornalismo progressista - Conteúdo sob assinatura parcial",
       "country": "Brasil",
       "paywall": true,
-      "originalUrl": "https://oglobo.globo.com/mundo/clima-e-ciencia/noticia/2026/10/17/qual-a-diferenca-entre-ano-e-segundo-bissexto-entenda-mudancas-previstas-para-2027.ghtml",
-      "publishedAtStr": "2026-10-17T05:00:00Z",
-      "publishedAtTs": 1792213200000,
-      "rawContent": "Qual a diferença entre ano e segundo bissexto ? Entenda mudanças previstas para 2027",
+      "originalUrl": "https://www.cartacapital.com.br/blogs/pantagruel/o-onibus-da-nutella-que-quase-esvaziou-barolo/",
+      "publishedAtStr": "2026-10-17T12:45:00Z",
+      "publishedAtTs": 1792241100000,
+      "rawContent": "O ônibus da Nutella que quase esvaziou Barolo",
       "linkStatus": "active",
-      "lastChecked": 1792216113674
+      "lastChecked": 1792243142423
     },
     {
-      "id": "gdelt-mxcar6r",
-      "title": "Família acusa ICE de divulgar foto de homem morto em 2017 como suspeito vivo no Texas ; entenda",
-      "sourceName": "O Globo Mundo",
-      "sourceUrl": "https://oglobo.globo.com/mundo/",
-      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
-      "sourceEditorial": "Jornal diário (Grupo Globo) - Conteúdo sob assinatura",
+      "id": "gdelt-87kvlgt",
+      "title": "Governo Trump diz apoiar eleio livre no Brasil e defende sanções a Moraes , PCC e CV",
+      "sourceName": "InfoMoney",
+      "sourceUrl": "https://www.infomoney.com.br/",
+      "sourceType": "Imprensa Comercial Brasileira",
+      "sourceEditorial": "Portal especializado em mercados e economia global",
       "country": "Brasil",
-      "paywall": true,
-      "originalUrl": "https://oglobo.globo.com/mundo/epoca/noticia/2026/10/17/familia-acusa-ice-de-divulgar-foto-de-homem-morto-em-2017-como-suspeito-vivo-no-texas-entenda.ghtml",
-      "publishedAtStr": "2026-10-17T05:00:00Z",
-      "publishedAtTs": 1792213200000,
-      "rawContent": "Família acusa ICE de divulgar foto de homem morto em 2017 como suspeito vivo no Texas ; entenda",
-      "linkStatus": "active",
-      "lastChecked": 1792216113674
-    },
-    {
-      "id": "gdelt-tyt2pf9",
-      "title": "Flávio Bolsonaro na Globo : o que disse o candidato à Presidência na 2ª entrevista à emissora",
-      "sourceName": "BBC News Brasil",
-      "sourceUrl": "https://www.bbc.com/portuguese",
-      "sourceType": "Imprensa Internacional / Pública",
-      "sourceEditorial": "Emissora pública do Reino Unido; jornalismo global independente",
-      "country": "Reino Unido",
       "paywall": false,
-      "originalUrl": "https://www.bbc.com/portuguese/articles/cmly0n1qdqr4o",
-      "publishedAtStr": "2026-10-17T04:15:00Z",
-      "publishedAtTs": 1792210500000,
-      "rawContent": "Flávio Bolsonaro na Globo : o que disse o candidato à Presidência na 2ª entrevista à emissora",
+      "originalUrl": "https://www.infomoney.com.br/politica/governo-trump-diz-apoiar-eleicao-livre-no-brasil-e-defende-sancoes-a-moraes-pcc-e-cv/",
+      "publishedAtStr": "2026-10-17T12:45:00Z",
+      "publishedAtTs": 1792241100000,
+      "rawContent": "Governo Trump diz apoiar eleio livre no Brasil e defende sanções a Moraes , PCC e CV",
       "linkStatus": "active",
-      "lastChecked": 1792216113674
+      "lastChecked": 1792243142423
     },
     {
-      "id": "gdelt-76pfcb5",
+      "id": "gdelt-j5i5qrw",
+      "title": "Dólar volta a subir : é um bom momento para investir lá fora ?",
+      "sourceName": "InfoMoney",
+      "sourceUrl": "https://www.infomoney.com.br/",
+      "sourceType": "Imprensa Comercial Brasileira",
+      "sourceEditorial": "Portal especializado em mercados e economia global",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://www.infomoney.com.br/onde-investir/dolar-volta-a-subir-e-bom-momento-investir-la-fora/",
+      "publishedAtStr": "2026-10-17T12:45:00Z",
+      "publishedAtTs": 1792241100000,
+      "rawContent": "Dólar volta a subir : é um bom momento para investir lá fora ?",
+      "linkStatus": "active",
+      "lastChecked": 1792243142423
+    },
+    {
+      "id": "gdelt-kvdeqd4",
+      "title": "Segurança , escala 6x1 e Milei : os temas de Lula para o debate contra Flávio Bolsonaro",
+      "sourceName": "CartaCapital",
+      "sourceUrl": "https://www.cartacapital.com.br/",
+      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
+      "sourceEditorial": "Jornalismo progressista - Conteúdo sob assinatura parcial",
+      "country": "Brasil",
+      "paywall": true,
+      "originalUrl": "https://www.cartacapital.com.br/politica/seguranca-escala-6x1-e-milei-os-temas-de-lula-para-o-debate-contra-flavio-bolsonaro/",
+      "publishedAtStr": "2026-10-17T12:45:00Z",
+      "publishedAtTs": 1792241100000,
+      "rawContent": "Segurança , escala 6x1 e Milei : os temas de Lula para o debate contra Flávio Bolsonaro",
+      "linkStatus": "active",
+      "lastChecked": 1792243142423
+    },
+    {
+      "id": "gdelt-pkrjuag",
+      "title": "Vaticano diz que papa Leão XIV receberá alta hospitalar neste sábado , 17",
+      "sourceName": "Estadão Internacional",
+      "sourceUrl": "https://www.estadao.com.br/internacional/",
+      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
+      "sourceEditorial": "Jornal tradicional de geopolítica - Conteúdo sob assinatura",
+      "country": "Brasil",
+      "paywall": true,
+      "originalUrl": "https://www.estadao.com.br/internacional/vaticano-diz-que-papa-leao-xiv-recebera-alta-hospitalar-neste-sabado-17/",
+      "publishedAtStr": "2026-10-17T12:45:00Z",
+      "publishedAtTs": 1792241100000,
+      "rawContent": "Vaticano diz que papa Leão XIV receberá alta hospitalar neste sábado , 17",
+      "linkStatus": "active",
+      "lastChecked": 1792243142423
+    },
+    {
+      "id": "gdelt-4gzk634",
+      "title": "Potencial de alta do Ibovespa , IPCA e balanços dos EUA ; veja destaques da semana",
+      "sourceName": "InfoMoney",
+      "sourceUrl": "https://www.infomoney.com.br/",
+      "sourceType": "Imprensa Comercial Brasileira",
+      "sourceEditorial": "Portal especializado em mercados e economia global",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://www.infomoney.com.br/onde-investir/potencial-de-alta-do-ibovespa-ipca-e-balancos-dos-eua-veja-destaques-da-semana/",
+      "publishedAtStr": "2026-10-17T12:45:00Z",
+      "publishedAtTs": 1792241100000,
+      "rawContent": "Potencial de alta do Ibovespa , IPCA e balanços dos EUA ; veja destaques da semana",
+      "linkStatus": "active",
+      "lastChecked": 1792243142423
+    },
+    {
+      "id": "gdelt-a2y446y",
+      "title": "Mercado de certificados pode destravar a descarbonização das companhias aéreas",
+      "sourceName": "InfoMoney",
+      "sourceUrl": "https://www.infomoney.com.br/",
+      "sourceType": "Imprensa Comercial Brasileira",
+      "sourceEditorial": "Portal especializado em mercados e economia global",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://www.infomoney.com.br/business/certificados-ambientais-de-saf-podem-acelerar-descarbonizacao-das-cias-aereas/",
+      "publishedAtStr": "2026-10-17T12:45:00Z",
+      "publishedAtTs": 1792241100000,
+      "rawContent": "Mercado de certificados pode destravar a descarbonização das companhias aéreas",
+      "linkStatus": "active",
+      "lastChecked": 1792243142423
+    },
+    {
+      "id": "gdelt-9syicpb",
+      "title": "Por que líderes estão prejudicando o sono das equipes sem perceber",
+      "sourceName": "InfoMoney",
+      "sourceUrl": "https://www.infomoney.com.br/",
+      "sourceType": "Imprensa Comercial Brasileira",
+      "sourceEditorial": "Portal especializado em mercados e economia global",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://www.infomoney.com.br/business/global/por-que-lideres-estao-prejudicando-o-sono-das-equipes-sem-perceber/",
+      "publishedAtStr": "2026-10-17T12:45:00Z",
+      "publishedAtTs": 1792241100000,
+      "rawContent": "Por que líderes estão prejudicando o sono das equipes sem perceber",
+      "linkStatus": "active",
+      "lastChecked": 1792243142423
+    },
+    {
+      "id": "gdelt-z5nh175",
+      "title": "Mortes por doenças cardiovasculares devem aumentar 10 , 8 % no Brasil até 2030",
+      "sourceName": "InfoMoney",
+      "sourceUrl": "https://www.infomoney.com.br/",
+      "sourceType": "Imprensa Comercial Brasileira",
+      "sourceEditorial": "Portal especializado em mercados e economia global",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://www.infomoney.com.br/saude/mortes-por-doencas-cardiovasculares-devem-aumentar-108-no-brasil-ate-2030/",
+      "publishedAtStr": "2026-10-17T12:45:00Z",
+      "publishedAtTs": 1792241100000,
+      "rawContent": "Mortes por doenças cardiovasculares devem aumentar 10 , 8 % no Brasil até 2030",
+      "linkStatus": "active",
+      "lastChecked": 1792243142423
+    },
+    {
+      "id": "gdelt-3nqihq7",
+      "title": "O rap continua a ser uma voz de contestação da periferia",
+      "sourceName": "CartaCapital",
+      "sourceUrl": "https://www.cartacapital.com.br/",
+      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
+      "sourceEditorial": "Jornalismo progressista - Conteúdo sob assinatura parcial",
+      "country": "Brasil",
+      "paywall": true,
+      "originalUrl": "https://www.cartacapital.com.br/blogs/augusto-diniz/o-rap-continua-a-ser-uma-voz-de-contestacao-da-periferia/",
+      "publishedAtStr": "2026-10-17T12:45:00Z",
+      "publishedAtTs": 1792241100000,
+      "rawContent": "O rap continua a ser uma voz de contestação da periferia",
+      "linkStatus": "active",
+      "lastChecked": 1792243142423
+    },
+    {
+      "id": "gdelt-avaj3k0",
       "title": "Governo Trump diz apoiar eleições livres no Brasil e defende medidas contra Moraes , PCC e CV",
       "sourceName": "Estadão Internacional",
       "sourceUrl": "https://www.estadao.com.br/internacional/",
@@ -154,39 +218,7 @@
       "lastChecked": 1792230322570
     },
     {
-      "id": "gdelt-zv6p9qn",
-      "title": "Coreia do Norte testa torpedo que united states IA para detectar alvos",
-      "sourceName": "G1 Mundo",
-      "sourceUrl": "https://g1.globo.com/mundo/",
-      "sourceType": "Imprensa Comercial Brasileira",
-      "sourceEditorial": "Portal de notícias mainstream do Grupo Globo",
-      "country": "Brasil",
-      "paywall": false,
-      "originalUrl": "https://g1.globo.com/mundo/noticia/2026/10/16/coreia-do-norte-testa-torpedo-que-usa-inteligencia-artificial-para-detectar-alvos.ghtml",
-      "publishedAtStr": "2026-10-17T00:15:00Z",
-      "publishedAtTs": 1792196100000,
-      "rawContent": "Coreia do Norte testa torpedo que united states IA para detectar alvos",
-      "linkStatus": "active",
-      "lastChecked": 1792199451706
-    },
-    {
-      "id": "gdelt-karv4zq",
-      "title": "Lisboa vai retirar patinetes elétricos de circulação e moradores preparam abaixo - assinado ; entenda decisão",
-      "sourceName": "O Globo Mundo",
-      "sourceUrl": "https://oglobo.globo.com/mundo/",
-      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
-      "sourceEditorial": "Jornal diário (Grupo Globo) - Conteúdo sob assinatura",
-      "country": "Brasil",
-      "paywall": true,
-      "originalUrl": "https://oglobo.globo.com/mundo/epoca/noticia/2026/10/16/lisboa-vai-retirar-patinetes-eletricos-de-circulacao-e-moradores-preparar-abaixo-assinado-entenda-decisao.ghtml",
-      "publishedAtStr": "2026-10-17T00:15:00Z",
-      "publishedAtTs": 1792196100000,
-      "rawContent": "Lisboa vai retirar patinetes elétricos de circulação e moradores preparam abaixo - assinado ; entenda decisão",
-      "linkStatus": "active",
-      "lastChecked": 1792199451706
-    },
-    {
-      "id": "gdelt-5ci1yzb",
+      "id": "gdelt-2buu8cf",
       "title": "Caixa Seguridade terá ganho de R$ 210 milhões com multa do Banco Pan",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -202,7 +234,7 @@
       "lastChecked": 1792230322570
     },
     {
-      "id": "gdelt-66qg0yh",
+      "id": "gdelt-e670t7d",
       "title": "Briga entre países trava novo raio - X do clima às vésperas de decisões cruciais",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -218,7 +250,7 @@
       "lastChecked": 1792230322570
     },
     {
-      "id": "gdelt-wvaetq7",
+      "id": "gdelt-4xgbuux",
       "title": "Anac endurece regras em Congonhas para combater mercado paralelo de slots",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -234,7 +266,7 @@
       "lastChecked": 1792230322570
     },
     {
-      "id": "gdelt-a9d5tjf",
+      "id": "gdelt-5tnpcls",
       "title": "Rússia diz ter tomado cidade estratégica no leste da Ucrânia",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -250,7 +282,7 @@
       "lastChecked": 1792230322570
     },
     {
-      "id": "gdelt-xmoyrl5",
+      "id": "gdelt-ul0hjpt",
       "title": "Vorcaro agiu para adiar reportagem da  Folha de S . Paulo , diz site",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -266,23 +298,7 @@
       "lastChecked": 1792230322570
     },
     {
-      "id": "gdelt-tsdcv1r",
-      "title": "Todos os 7 candidatos à chefia da ONU enfrentam veto",
-      "sourceName": "G1 Mundo",
-      "sourceUrl": "https://g1.globo.com/mundo/",
-      "sourceType": "Imprensa Comercial Brasileira",
-      "sourceEditorial": "Portal de notícias mainstream do Grupo Globo",
-      "country": "Brasil",
-      "paywall": false,
-      "originalUrl": "https://g1.globo.com/mundo/noticia/2026/10/16/todos-os-7-candidatos-a-chefia-da-onu-enfrentam-veto-e-impasse-abre-espaco-para-novos-nomes.ghtml",
-      "publishedAtStr": "2026-10-16T23:30:00Z",
-      "publishedAtTs": 1792193400000,
-      "rawContent": "Todos os 7 candidatos à chefia da ONU enfrentam veto",
-      "linkStatus": "active",
-      "lastChecked": 1792199451706
-    },
-    {
-      "id": "gdelt-srer66p",
+      "id": "gdelt-aktttb4",
       "title": "William e Kate perdem posto de membros mais populares da Família Real",
       "sourceName": "Veja Mundo",
       "sourceUrl": "https://veja.abril.com.br/mundo/",
@@ -298,7 +314,7 @@
       "lastChecked": 1792230322570
     },
     {
-      "id": "gdelt-whi5ng5",
+      "id": "gdelt-b5z2r03",
       "title": "Quem é a porta - voz de Trump que durou menos de uma semana no cargo",
       "sourceName": "Estadão Internacional",
       "sourceUrl": "https://www.estadao.com.br/internacional/",
@@ -314,7 +330,7 @@
       "lastChecked": 1792230322570
     },
     {
-      "id": "gdelt-ocswybl",
+      "id": "gdelt-qq69kz6",
       "title": "Brasil é o segundo maior importador de pesticidas vetados na Europa",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -330,7 +346,7 @@
       "lastChecked": 1792230322570
     },
     {
-      "id": "gdelt-8jh2qil",
+      "id": "gdelt-govw8kr",
       "title": "Vai preparar quiabo ou ora - pro - nóbis ? Conheça truque para diminuir a baba",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -346,7 +362,7 @@
       "lastChecked": 1792230322570
     },
     {
-      "id": "gdelt-84ma9e9",
+      "id": "gdelt-77u8eu1",
       "title": "Meta cita  falha , mas nega interferência nas eleições brasileiras",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -362,7 +378,7 @@
       "lastChecked": 1792230322570
     },
     {
-      "id": "gdelt-fi9uxfd",
+      "id": "gdelt-elfwa2a",
       "title": "TSE manda Flávio Bolsonaro apagar publicação que afirma que Lula fecharia igrejas",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -378,7 +394,7 @@
       "lastChecked": 1792230322570
     },
     {
-      "id": "gdelt-frqxxaq",
+      "id": "gdelt-36m3l3l",
       "title": "Rintarô narra em HQ as décadas de penúria por trás dos animes",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -394,7 +410,7 @@
       "lastChecked": 1792230322570
     },
     {
-      "id": "gdelt-7ctuc9w",
+      "id": "gdelt-h1hgcrn",
       "title": "Eleio de Flávio pode levar à destruio completa dos direitos trabalhista , alerta jurista",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -410,7 +426,7 @@
       "lastChecked": 1792230322570
     },
     {
-      "id": "gdelt-anuzwv2",
+      "id": "gdelt-jhlebhy",
       "title": "Expansão da extrema - direita no Congresso pode ameaçar pautas de gênero , avalia especialista",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -426,7 +442,7 @@
       "lastChecked": 1792230322570
     },
     {
-      "id": "gdelt-fk84pm3",
+      "id": "gdelt-dwg5mte",
       "title": "Governo da Colômbia ordena retirada de obras de museu e provoca controvérsia",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -442,7 +458,7 @@
       "lastChecked": 1792230322570
     },
     {
-      "id": "gdelt-zuj7kx7",
+      "id": "gdelt-u7ck99z",
       "title": "Igreja Universal evita declarar apoio a Flávio Bolsonaro e se diz neutra no 2º turno",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -458,7 +474,7 @@
       "lastChecked": 1792230322570
     },
     {
-      "id": "gdelt-c66bnd9",
+      "id": "gdelt-zet1vtj",
       "title": "MP - SP apura supostas regalias recebidas por Milton Leite na prisão",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -474,7 +490,7 @@
       "lastChecked": 1792230322570
     },
     {
-      "id": "gdelt-axfa24q",
+      "id": "gdelt-mxxrt3l",
       "title": "Algoritmos das big techs viram o novo campo de batalha da eleio",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -490,23 +506,7 @@
       "lastChecked": 1792230322570
     },
     {
-      "id": "gdelt-xnbpypc",
-      "title": "Papa fala com Putin ao telefone e pede trégua na Ucrânia",
-      "sourceName": "DW Brasil",
-      "sourceUrl": "https://www.dw.com/pt-br/",
-      "sourceType": "Imprensa Internacional / Pública",
-      "sourceEditorial": "Emissora pública da Alemanha; foco em diplomacia e direitos humanos",
-      "country": "Alemanha",
-      "paywall": false,
-      "originalUrl": "https://www.dw.com/pt-br/papa-liga-para-putin-e-pede-tr%C3%A9gua-na-ucr%C3%A2nia/a-79684891",
-      "publishedAtStr": "2026-10-16T22:30:00Z",
-      "publishedAtTs": 1792189800000,
-      "rawContent": "Papa fala com Putin ao telefone e pede trégua na Ucrânia",
-      "linkStatus": "active",
-      "lastChecked": 1792199451706
-    },
-    {
-      "id": "gdelt-bjckzh1",
+      "id": "gdelt-j43ulla",
       "title": "TSE define regras para canais de WhatsApp durante a campanha",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -522,7 +522,7 @@
       "lastChecked": 1792230322570
     },
     {
-      "id": "gdelt-t2am5ua",
+      "id": "gdelt-twb1nm7",
       "title": "Lula :  Precisamos avançar . O País está em um ponto de crescimento extraordinário",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -538,7 +538,7 @@
       "lastChecked": 1792230322570
     },
     {
-      "id": "gdelt-z3lcpiy",
+      "id": "gdelt-6cqj1sq",
       "title": "Meta nega interferência eleitoral e atribui falhas envolvendo Lula a erros técnicos",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -554,7 +554,7 @@
       "lastChecked": 1792230322570
     },
     {
-      "id": "gdelt-kvjshly",
+      "id": "gdelt-an3e4a0",
       "title": "Durigan : Governo pode preparar linha de crédito para empresas afetadas por fim da 6×1",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -570,7 +570,7 @@
       "lastChecked": 1792230322570
     },
     {
-      "id": "gdelt-kh3tg24",
+      "id": "gdelt-ym15vgg",
       "title": "Bolsas de NY fecham em baixa com temores por IA e Nasdaq recua mais de 2 %",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -586,7 +586,7 @@
       "lastChecked": 1792230322570
     },
     {
-      "id": "gdelt-97zqjbh",
+      "id": "gdelt-d1b0dg9",
       "title": "Funcionários da Meta admitiram que contas de Lula foram prejudicadas , diz Folha",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -602,7 +602,7 @@
       "lastChecked": 1792230322570
     },
     {
-      "id": "gdelt-dgy76e0",
+      "id": "gdelt-f4q5lcl",
       "title": "PRIO lidera ganhos e Vamos tomba em semana de correo do Ibovespa ; veja destaques",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -618,7 +618,7 @@
       "lastChecked": 1792230322570
     },
     {
-      "id": "gdelt-jm2olt0",
+      "id": "gdelt-der5c4r",
       "title": "XP anuncia saída de Martín Escobari do Conselho e traz executivo da Microsoft",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -634,7 +634,7 @@
       "lastChecked": 1792230322570
     },
     {
-      "id": "gdelt-meq0vaa",
+      "id": "gdelt-h0kra4n",
       "title": "Motta anuncia que terceirizados da Câmara adotarão escala 5×2 já na próxima semana",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -650,7 +650,7 @@
       "lastChecked": 1792230322570
     },
     {
-      "id": "gdelt-kd7w9rr",
+      "id": "gdelt-otl3wca",
       "title": "Quer empreender gastando pouco ? A Nuvemshop pode ser um bom começo",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -666,7 +666,7 @@
       "lastChecked": 1792230322570
     },
     {
-      "id": "gdelt-hgn0zo1",
+      "id": "gdelt-dmrqazm",
       "title": "Rico anuncia vantagens especiais em parceria com Livelo , Shell Box e Localiza",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -682,7 +682,7 @@
       "lastChecked": 1792230322570
     },
     {
-      "id": "gdelt-95wmywo",
+      "id": "gdelt-kd2gli9",
       "title": "Durigan : Uso de projeto de Milei por equipe econômica de Flávio não está claro",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -698,7 +698,7 @@
       "lastChecked": 1792230322570
     },
     {
-      "id": "gdelt-j8khoud",
+      "id": "gdelt-zm352nq",
       "title": "Manifestações , bloqueios e temor de violência : França terá sábado de protestos",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -714,7 +714,7 @@
       "lastChecked": 1792230322570
     },
     {
-      "id": "gdelt-l56a3s8",
+      "id": "gdelt-xi6o7uz",
       "title": "Moraes autoriza Bolsonaro a receber dez convidados para aniversário da filha",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -730,7 +730,7 @@
       "lastChecked": 1792230322570
     },
     {
-      "id": "gdelt-z2has97",
+      "id": "gdelt-ryn178k",
       "title": "O maior erro do Grupo Impettus levou ao maior sucesso",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -746,7 +746,7 @@
       "lastChecked": 1792230322570
     },
     {
-      "id": "gdelt-7gp8mzg",
+      "id": "gdelt-0dmqk3z",
       "title": "Coletes Amarelos : o que foi o movimento de 2018 na França que pode ressurgir em 2026",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -762,7 +762,7 @@
       "lastChecked": 1792230322570
     },
     {
-      "id": "gdelt-e7xbmmo",
+      "id": "gdelt-93tqhv3",
       "title": "Conheça a tradio mais inusitada do México : uma corrida de melões",
       "sourceName": "Estadão Internacional",
       "sourceUrl": "https://www.estadao.com.br/internacional/",
@@ -778,7 +778,7 @@
       "lastChecked": 1792230322570
     },
     {
-      "id": "gdelt-pj9oi13",
+      "id": "gdelt-fd2s330",
       "title": "Startups : Empresa de chinelos à base de soja retoma operação e aposta em nicho verde",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -790,11 +790,11 @@
       "publishedAtStr": "2026-10-16T22:30:00Z",
       "publishedAtTs": 1792189800000,
       "rawContent": "Startups : Empresa de chinelos à base de soja retoma operação e aposta em nicho verde",
-      "linkStatus": "unknown",
-      "lastChecked": null
+      "linkStatus": "active",
+      "lastChecked": 1792243142423
     },
     {
-      "id": "gdelt-gaa541e",
+      "id": "gdelt-qjtjgop",
       "title": "Lula 3 é primeiro governo com queda de desmatamento nos 4 anos , diz Miriam Belchior",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -806,59 +806,11 @@
       "publishedAtStr": "2026-10-16T22:30:00Z",
       "publishedAtTs": 1792189800000,
       "rawContent": "Lula 3 é primeiro governo com queda de desmatamento nos 4 anos , diz Miriam Belchior",
-      "linkStatus": "unknown",
-      "lastChecked": null
-    },
-    {
-      "id": "gdelt-5rx957p",
-      "title": "Eleitores no exterior tentam reverter absteno no 2º turno",
-      "sourceName": "DW Brasil",
-      "sourceUrl": "https://www.dw.com/pt-br/",
-      "sourceType": "Imprensa Internacional / Pública",
-      "sourceEditorial": "Emissora pública da Alemanha; foco em diplomacia e direitos humanos",
-      "country": "Alemanha",
-      "paywall": false,
-      "originalUrl": "https://www.dw.com/pt-br/brasileiros-no-exterior-se-mobilizam-para-reverter-absten%C3%A7%C3%A3o-no-2%C2%BA-turno/a-79664225",
-      "publishedAtStr": "2026-10-16T21:15:00Z",
-      "publishedAtTs": 1792185300000,
-      "rawContent": "Eleitores no exterior tentam reverter absteno no 2º turno",
       "linkStatus": "active",
-      "lastChecked": 1792199451706
+      "lastChecked": 1792243142423
     },
     {
-      "id": "gdelt-ljqssvp",
-      "title": "O que explica o sucesso das marcas chinesas de tecnologia",
-      "sourceName": "DW Brasil",
-      "sourceUrl": "https://www.dw.com/pt-br/",
-      "sourceType": "Imprensa Internacional / Pública",
-      "sourceEditorial": "Emissora pública da Alemanha; foco em diplomacia e direitos humanos",
-      "country": "Alemanha",
-      "paywall": false,
-      "originalUrl": "https://www.dw.com/pt-br/o-que-explica-o-sucesso-das-marcas-chinesas-de-tecnologia/a-79682365",
-      "publishedAtStr": "2026-10-16T21:15:00Z",
-      "publishedAtTs": 1792185300000,
-      "rawContent": "O que explica o sucesso das marcas chinesas de tecnologia",
-      "linkStatus": "active",
-      "lastChecked": 1792199451706
-    },
-    {
-      "id": "gdelt-1vxf1gj",
-      "title": "Governo Trump diz que apoia eleio no Brasil e defende aes",
-      "sourceName": "G1 Mundo",
-      "sourceUrl": "https://g1.globo.com/mundo/",
-      "sourceType": "Imprensa Comercial Brasileira",
-      "sourceEditorial": "Portal de notícias mainstream do Grupo Globo",
-      "country": "Brasil",
-      "paywall": false,
-      "originalUrl": "https://g1.globo.com/mundo/noticia/2026/10/16/em-carta-governo-trump-diz-que-apoia-processo-eleitoral-no-brasil-e-defende-acoes-contra-moraes-pcc-e-cv.ghtml",
-      "publishedAtStr": "2026-10-16T20:45:00Z",
-      "publishedAtTs": 1792183500000,
-      "rawContent": "Governo Trump diz que apoia eleio no Brasil e defende aes",
-      "linkStatus": "active",
-      "lastChecked": 1792199451706
-    },
-    {
-      "id": "gdelt-ryifnbf",
+      "id": "gdelt-gn3jum8",
       "title": "A reação de Zelensky ao ser perguntado se é usado por Trump como  bode expiatório",
       "sourceName": "Veja Mundo",
       "sourceUrl": "https://veja.abril.com.br/mundo/",
@@ -870,11 +822,11 @@
       "publishedAtStr": "2026-10-16T20:00:00Z",
       "publishedAtTs": 1792180800000,
       "rawContent": "A reação de Zelensky ao ser perguntado se é usado por Trump como  bode expiatório",
-      "linkStatus": "unknown",
-      "lastChecked": null
+      "linkStatus": "active",
+      "lastChecked": 1792243142423
     },
     {
-      "id": "gdelt-6q7ck2m",
+      "id": "gdelt-9ku9koz",
       "title": "Déficit nas contas públicas dos EUA chega a US$ 1 , 99 tri , o maior desde auge da pandemia",
       "sourceName": "Veja Mundo",
       "sourceUrl": "https://veja.abril.com.br/mundo/",
@@ -886,11 +838,11 @@
       "publishedAtStr": "2026-10-16T20:00:00Z",
       "publishedAtTs": 1792180800000,
       "rawContent": "Déficit nas contas públicas dos EUA chega a US$ 1 , 99 tri , o maior desde auge da pandemia",
-      "linkStatus": "unknown",
-      "lastChecked": null
+      "linkStatus": "active",
+      "lastChecked": 1792243142423
     },
     {
-      "id": "gdelt-3r1cs17",
+      "id": "gdelt-tx0qowu",
       "title": "PF manda ao STF inquérito que liga Vorcaro a rede de tráfico internacional de pessoas",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -902,11 +854,11 @@
       "publishedAtStr": "2026-10-16T19:45:00Z",
       "publishedAtTs": 1792179900000,
       "rawContent": "PF manda ao STF inquérito que liga Vorcaro a rede de tráfico internacional de pessoas",
-      "linkStatus": "unknown",
-      "lastChecked": null
+      "linkStatus": "active",
+      "lastChecked": 1792243142423
     },
     {
-      "id": "gdelt-fctvr88",
+      "id": "gdelt-q1q9jdu",
       "title": "TSE define regras para uso de canais de WhatsApp após caso  Exército do Lula",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -918,11 +870,11 @@
       "publishedAtStr": "2026-10-16T19:45:00Z",
       "publishedAtTs": 1792179900000,
       "rawContent": "TSE define regras para uso de canais de WhatsApp após caso  Exército do Lula",
-      "linkStatus": "unknown",
-      "lastChecked": null
+      "linkStatus": "active",
+      "lastChecked": 1792243142423
     },
     {
-      "id": "gdelt-bcvcosw",
+      "id": "gdelt-zipuuoc",
       "title": "Brasil voltará a ser 8ª maior economia do mundo em 2027 , prevê FMI",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -934,11 +886,11 @@
       "publishedAtStr": "2026-10-16T19:45:00Z",
       "publishedAtTs": 1792179900000,
       "rawContent": "Brasil voltará a ser 8ª maior economia do mundo em 2027 , prevê FMI",
-      "linkStatus": "unknown",
-      "lastChecked": null
+      "linkStatus": "active",
+      "lastChecked": 1792243142423
     },
     {
-      "id": "gdelt-ku325il",
+      "id": "gdelt-c34p1zo",
       "title": "Secretária de imprensa de Trump é demitida após cinco dias no cargo , diz NYT",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -950,11 +902,11 @@
       "publishedAtStr": "2026-10-16T19:45:00Z",
       "publishedAtTs": 1792179900000,
       "rawContent": "Secretária de imprensa de Trump é demitida após cinco dias no cargo , diz NYT",
-      "linkStatus": "unknown",
-      "lastChecked": null
+      "linkStatus": "active",
+      "lastChecked": 1792243142423
     },
     {
-      "id": "gdelt-olzccka",
+      "id": "gdelt-28ox2vy",
       "title": "Aperitivos com grão - de - bico : 3 receitas proteicas fáceis para fazer em casa",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -966,11 +918,11 @@
       "publishedAtStr": "2026-10-16T19:45:00Z",
       "publishedAtTs": 1792179900000,
       "rawContent": "Aperitivos com grão - de - bico : 3 receitas proteicas fáceis para fazer em casa",
-      "linkStatus": "unknown",
-      "lastChecked": null
+      "linkStatus": "active",
+      "lastChecked": 1792243142423
     },
     {
-      "id": "gdelt-pyl2fk9",
+      "id": "gdelt-rbmdb0x",
       "title": "De Trump aos Beatles : o fechamento histórico do Plaza em Nova York",
       "sourceName": "Veja Mundo",
       "sourceUrl": "https://veja.abril.com.br/mundo/",
@@ -982,11 +934,11 @@
       "publishedAtStr": "2026-10-16T19:45:00Z",
       "publishedAtTs": 1792179900000,
       "rawContent": "De Trump aos Beatles : o fechamento histórico do Plaza em Nova York",
-      "linkStatus": "unknown",
-      "lastChecked": null
+      "linkStatus": "active",
+      "lastChecked": 1792243142423
     },
     {
-      "id": "gdelt-6x2518j",
+      "id": "gdelt-y2psdjc",
       "title": "Ministro do TSE nega pedido de Flávio para restringir atuação de sindicatos e estudantes",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -998,11 +950,11 @@
       "publishedAtStr": "2026-10-16T19:45:00Z",
       "publishedAtTs": 1792179900000,
       "rawContent": "Ministro do TSE nega pedido de Flávio para restringir atuação de sindicatos e estudantes",
-      "linkStatus": "unknown",
-      "lastChecked": null
+      "linkStatus": "active",
+      "lastChecked": 1792243142423
     },
     {
-      "id": "gdelt-lhg9e1b",
+      "id": "gdelt-34mdnh2",
       "title": "Midterm : democratas superam republicanos em arrecadação apesar de bilhões de Musk",
       "sourceName": "Veja Mundo",
       "sourceUrl": "https://veja.abril.com.br/mundo/",
@@ -1014,11 +966,11 @@
       "publishedAtStr": "2026-10-16T19:45:00Z",
       "publishedAtTs": 1792179900000,
       "rawContent": "Midterm : democratas superam republicanos em arrecadação apesar de bilhões de Musk",
-      "linkStatus": "unknown",
-      "lastChecked": null
+      "linkStatus": "active",
+      "lastChecked": 1792243142423
     },
     {
-      "id": "gdelt-prdee1y",
+      "id": "gdelt-m2lxspd",
       "title": "Secretária de imprensa de Trump é demitida após cinco dias no cargo",
       "sourceName": "Veja Mundo",
       "sourceUrl": "https://veja.abril.com.br/mundo/",
@@ -1030,11 +982,11 @@
       "publishedAtStr": "2026-10-16T19:45:00Z",
       "publishedAtTs": 1792179900000,
       "rawContent": "Secretária de imprensa de Trump é demitida após cinco dias no cargo",
-      "linkStatus": "unknown",
-      "lastChecked": null
+      "linkStatus": "active",
+      "lastChecked": 1792243142423
     },
     {
-      "id": "gdelt-tq7kjy4",
+      "id": "gdelt-uz4529j",
       "title": "Mendonça libera candidatura de filha de Roberto Jefferson",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -1046,11 +998,11 @@
       "publishedAtStr": "2026-10-16T19:45:00Z",
       "publishedAtTs": 1792179900000,
       "rawContent": "Mendonça libera candidatura de filha de Roberto Jefferson",
-      "linkStatus": "unknown",
-      "lastChecked": null
+      "linkStatus": "active",
+      "lastChecked": 1792243142423
     },
     {
-      "id": "gdelt-2dk6ra2",
+      "id": "gdelt-jpfwdck",
       "title": "Colonos israelenses atacam jornalista dos EUA na Cisjordânia ocupada",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -1062,27 +1014,11 @@
       "publishedAtStr": "2026-10-16T19:45:00Z",
       "publishedAtTs": 1792179900000,
       "rawContent": "Colonos israelenses atacam jornalista dos EUA na Cisjordânia ocupada",
-      "linkStatus": "unknown",
-      "lastChecked": null
-    },
-    {
-      "id": "gdelt-uvedfcd",
-      "title": "Estudante que matou bebê e escondeu corpo em armário é condenada nos EUA",
-      "sourceName": "O Globo Mundo",
-      "sourceUrl": "https://oglobo.globo.com/mundo/",
-      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
-      "sourceEditorial": "Jornal diário (Grupo Globo) - Conteúdo sob assinatura",
-      "country": "Brasil",
-      "paywall": true,
-      "originalUrl": "https://oglobo.globo.com/mundo/epoca/noticia/2026/10/16/estudante-que-matou-bebe-e-escondeu-corpo-em-armario-e-condenada-nos-eua.ghtml",
-      "publishedAtStr": "2026-10-16T19:30:00Z",
-      "publishedAtTs": 1792179000000,
-      "rawContent": "Estudante que matou bebê e escondeu corpo em armário é condenada nos EUA",
       "linkStatus": "active",
-      "lastChecked": 1792199451706
+      "lastChecked": 1792243142423
     },
     {
-      "id": "gdelt-mr0fned",
+      "id": "gdelt-qizab1d",
       "title": "Nova secretária de imprensa de Trump , Katie Zacharia , deixa cargo após menos de uma semana no posto",
       "sourceName": "Estadão Internacional",
       "sourceUrl": "https://www.estadao.com.br/internacional/",
@@ -1094,27 +1030,11 @@
       "publishedAtStr": "2026-10-16T19:30:00Z",
       "publishedAtTs": 1792179000000,
       "rawContent": "Nova secretária de imprensa de Trump , Katie Zacharia , deixa cargo após menos de uma semana no posto",
-      "linkStatus": "unknown",
-      "lastChecked": null
-    },
-    {
-      "id": "gdelt-lj5zy1f",
-      "title": "Katie Zacharia : quem é a porta - voz da Casa Branca que deixou o cargo",
-      "sourceName": "G1 Mundo",
-      "sourceUrl": "https://g1.globo.com/mundo/",
-      "sourceType": "Imprensa Comercial Brasileira",
-      "sourceEditorial": "Portal de notícias mainstream do Grupo Globo",
-      "country": "Brasil",
-      "paywall": false,
-      "originalUrl": "https://g1.globo.com/mundo/noticia/2026/10/16/katie-zacharia-quem-e-a-porta-voz-da-casa-branca-que-durou-menos-de-uma-semana-no-cargo.ghtml",
-      "publishedAtStr": "2026-10-16T18:45:00Z",
-      "publishedAtTs": 1792176300000,
-      "rawContent": "Katie Zacharia : quem é a porta - voz da Casa Branca que deixou o cargo",
       "linkStatus": "active",
-      "lastChecked": 1792199451706
+      "lastChecked": 1792243142423
     },
     {
-      "id": "gdelt-97eyml2",
+      "id": "gdelt-t49z4sr",
       "title": "Tencent descobre agentes de IA fora de controle após alerta de pesquisadores",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -1126,11 +1046,11 @@
       "publishedAtStr": "2026-10-16T17:30:00Z",
       "publishedAtTs": 1792171800000,
       "rawContent": "Tencent descobre agentes de IA fora de controle após alerta de pesquisadores",
-      "linkStatus": "unknown",
-      "lastChecked": null
+      "linkStatus": "active",
+      "lastChecked": 1792243142423
     },
     {
-      "id": "gdelt-nf0vxej",
+      "id": "gdelt-9vji6on",
       "title": "Maior queda em 28 anos : o que fez uma das piores bolsas do mundo desabar ainda mais",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -1142,11 +1062,11 @@
       "publishedAtStr": "2026-10-16T17:30:00Z",
       "publishedAtTs": 1792171800000,
       "rawContent": "Maior queda em 28 anos : o que fez uma das piores bolsas do mundo desabar ainda mais",
-      "linkStatus": "unknown",
-      "lastChecked": null
+      "linkStatus": "active",
+      "lastChecked": 1792243142423
     },
     {
-      "id": "gdelt-midy0sz",
+      "id": "gdelt-orveipg",
       "title": "Não quero que empresas quebrem , mas ninguém tem que morrer trabalhando , diz Lula",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -1158,11 +1078,11 @@
       "publishedAtStr": "2026-10-16T17:30:00Z",
       "publishedAtTs": 1792171800000,
       "rawContent": "Não quero que empresas quebrem , mas ninguém tem que morrer trabalhando , diz Lula",
-      "linkStatus": "unknown",
-      "lastChecked": null
+      "linkStatus": "active",
+      "lastChecked": 1792243142423
     },
     {
-      "id": "gdelt-56zt5ui",
+      "id": "gdelt-dikejn8",
       "title": "Casa Branca ordenou restrio a sistema de satélites usado pela Ucrânia",
       "sourceName": "Estadão Internacional",
       "sourceUrl": "https://www.estadao.com.br/internacional/",
@@ -1174,43 +1094,11 @@
       "publishedAtStr": "2026-10-16T17:15:00Z",
       "publishedAtTs": 1792170900000,
       "rawContent": "Casa Branca ordenou restrio a sistema de satélites usado pela Ucrânia",
-      "linkStatus": "unknown",
-      "lastChecked": null
-    },
-    {
-      "id": "gdelt-4sca6w6",
-      "title": "Mexicano é preso em aeroporto na Alemanha com 37 cobras venenosas na bagagem",
-      "sourceName": "G1 Mundo",
-      "sourceUrl": "https://g1.globo.com/mundo/",
-      "sourceType": "Imprensa Comercial Brasileira",
-      "sourceEditorial": "Portal de notícias mainstream do Grupo Globo",
-      "country": "Brasil",
-      "paywall": false,
-      "originalUrl": "https://g1.globo.com/mundo/noticia/2026/10/16/mexicano-e-preso-em-aeroporto-na-alemanha-com-37-cobras-venenosas-na-bagagem.ghtml",
-      "publishedAtStr": "2026-10-16T16:30:00Z",
-      "publishedAtTs": 1792168200000,
-      "rawContent": "Mexicano é preso em aeroporto na Alemanha com 37 cobras venenosas na bagagem",
       "linkStatus": "active",
-      "lastChecked": 1792199451706
+      "lastChecked": 1792243142423
     },
     {
-      "id": "gdelt-z63fxsl",
-      "title": "Papa fala ao telefone com Putin , oferece mediação na guerra e pede corretor humanitário",
-      "sourceName": "G1 Mundo",
-      "sourceUrl": "https://g1.globo.com/mundo/",
-      "sourceType": "Imprensa Comercial Brasileira",
-      "sourceEditorial": "Portal de notícias mainstream do Grupo Globo",
-      "country": "Brasil",
-      "paywall": false,
-      "originalUrl": "https://g1.globo.com/mundo/noticia/2026/10/16/papa-fala-ao-telefone-com-putin-oferece-mediacao-na-guerra-e-pede-corretor-humanitario.ghtml",
-      "publishedAtStr": "2026-10-16T16:00:00Z",
-      "publishedAtTs": 1792166400000,
-      "rawContent": "Papa fala ao telefone com Putin , oferece mediação na guerra e pede corretor humanitário",
-      "linkStatus": "active",
-      "lastChecked": 1792199451706
-    },
-    {
-      "id": "gdelt-7t9rhd2",
+      "id": "gdelt-akfdeh5",
       "title": "Derrota de Simões ajudará Lula a virar o jogo contra Flávio Bolsonaro em Minas , diz Rogério Correia",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -1222,11 +1110,11 @@
       "publishedAtStr": "2026-10-16T14:45:00Z",
       "publishedAtTs": 1792161900000,
       "rawContent": "Derrota de Simões ajudará Lula a virar o jogo contra Flávio Bolsonaro em Minas , diz Rogério Correia",
-      "linkStatus": "unknown",
-      "lastChecked": null
+      "linkStatus": "active",
+      "lastChecked": 1792243142423
     },
     {
-      "id": "gdelt-dq5d798",
+      "id": "gdelt-dde8cyk",
       "title": "CNT / MDA mostra empate técnico entre Flávio e Lula a 9 dias do 2º turno",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -1238,11 +1126,11 @@
       "publishedAtStr": "2026-10-16T14:45:00Z",
       "publishedAtTs": 1792161900000,
       "rawContent": "CNT / MDA mostra empate técnico entre Flávio e Lula a 9 dias do 2º turno",
-      "linkStatus": "unknown",
-      "lastChecked": null
+      "linkStatus": "active",
+      "lastChecked": 1792243142423
     },
     {
-      "id": "gdelt-uj9ljh9",
+      "id": "gdelt-1erkfgg",
       "title": "Leia na íntegra a nova pesquisa CNT / MDA sobre o 2º turno entre Lula e Flávio Bolsonaro",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -1254,11 +1142,11 @@
       "publishedAtStr": "2026-10-16T14:45:00Z",
       "publishedAtTs": 1792161900000,
       "rawContent": "Leia na íntegra a nova pesquisa CNT / MDA sobre o 2º turno entre Lula e Flávio Bolsonaro",
-      "linkStatus": "unknown",
-      "lastChecked": null
+      "linkStatus": "active",
+      "lastChecked": 1792243142423
     },
     {
-      "id": "gdelt-hfwqzjc",
+      "id": "gdelt-0v23nwf",
       "title": "Congresso promulga PEC que dá fim à escala 6x1",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -1270,11 +1158,11 @@
       "publishedAtStr": "2026-10-16T14:45:00Z",
       "publishedAtTs": 1792161900000,
       "rawContent": "Congresso promulga PEC que dá fim à escala 6x1",
-      "linkStatus": "unknown",
-      "lastChecked": null
+      "linkStatus": "active",
+      "lastChecked": 1792243142423
     },
     {
-      "id": "gdelt-w5d9eqr",
+      "id": "gdelt-07ft31d",
       "title": "Mãe de todas as bomba : como é a arma poderosa que os EUA planejam usar contra o Irã",
       "sourceName": "Veja Mundo",
       "sourceUrl": "https://veja.abril.com.br/mundo/",
@@ -1286,11 +1174,11 @@
       "publishedAtStr": "2026-10-16T14:30:00Z",
       "publishedAtTs": 1792161000000,
       "rawContent": "Mãe de todas as bomba : como é a arma poderosa que os EUA planejam usar contra o Irã",
-      "linkStatus": "unknown",
-      "lastChecked": null
+      "linkStatus": "active",
+      "lastChecked": 1792243142423
     },
     {
-      "id": "gdelt-bxijldu",
+      "id": "gdelt-dqo0jry",
       "title": "O estado de saúde de papa Leão XIV após retirada de câncer",
       "sourceName": "Veja Mundo",
       "sourceUrl": "https://veja.abril.com.br/mundo/",
@@ -1302,11 +1190,11 @@
       "publishedAtStr": "2026-10-16T14:15:00Z",
       "publishedAtTs": 1792160100000,
       "rawContent": "O estado de saúde de papa Leão XIV após retirada de câncer",
-      "linkStatus": "unknown",
-      "lastChecked": null
+      "linkStatus": "active",
+      "lastChecked": 1792243142423
     },
     {
-      "id": "gdelt-qgss56e",
+      "id": "gdelt-zdksquy",
       "title": "Vaticano publica 1ª imagem do papa após cirurgia ; Leão XIV deve aparecer em público no domingo",
       "sourceName": "Estadão Internacional",
       "sourceUrl": "https://www.estadao.com.br/internacional/",
@@ -1318,11 +1206,11 @@
       "publishedAtStr": "2026-10-16T13:30:00Z",
       "publishedAtTs": 1792157400000,
       "rawContent": "Vaticano publica 1ª imagem do papa após cirurgia ; Leão XIV deve aparecer em público no domingo",
-      "linkStatus": "unknown",
-      "lastChecked": null
+      "linkStatus": "active",
+      "lastChecked": 1792243142423
     },
     {
-      "id": "gdelt-1ufcodj",
+      "id": "gdelt-bhnazyw",
       "title": "Trump diz que retomada dos ataques ucranianos a refinarias russas é  uma vergonha",
       "sourceName": "Estadão Internacional",
       "sourceUrl": "https://www.estadao.com.br/internacional/",
@@ -1334,11 +1222,11 @@
       "publishedAtStr": "2026-10-16T13:30:00Z",
       "publishedAtTs": 1792157400000,
       "rawContent": "Trump diz que retomada dos ataques ucranianos a refinarias russas é  uma vergonha",
-      "linkStatus": "unknown",
-      "lastChecked": null
+      "linkStatus": "active",
+      "lastChecked": 1792243142423
     },
     {
-      "id": "gdelt-k9i2ykc",
+      "id": "gdelt-mvzy2hd",
       "title": "Furacão Trudy ganha força e atinge categoria 3 na costa do Pacífico do México",
       "sourceName": "Estadão Internacional",
       "sourceUrl": "https://www.estadao.com.br/internacional/",
@@ -1350,102 +1238,6 @@
       "publishedAtStr": "2026-10-16T13:30:00Z",
       "publishedAtTs": 1792157400000,
       "rawContent": "Furacão Trudy ganha força e atinge categoria 3 na costa do Pacífico do México",
-      "linkStatus": "unknown",
-      "lastChecked": null
-    },
-    {
-      "id": "gdelt-7n17yij",
-      "title": "Agenda dos candidatos : Lula promulga fim da escala 6x1 ; Flávio Bolsonaro vai à  Globo",
-      "sourceName": "CartaCapital",
-      "sourceUrl": "https://www.cartacapital.com.br/",
-      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
-      "sourceEditorial": "Jornalismo progressista - Conteúdo sob assinatura parcial",
-      "country": "Brasil",
-      "paywall": true,
-      "originalUrl": "https://www.cartacapital.com.br/politica/agenda-dos-candidatos-lula-promulga-fim-da-escala-6x1-flavio-bolsonaro-vai-a-globo/",
-      "publishedAtStr": "2026-10-16T13:15:00Z",
-      "publishedAtTs": 1792156500000,
-      "rawContent": "Agenda dos candidatos : Lula promulga fim da escala 6x1 ; Flávio Bolsonaro vai à  Globo",
-      "linkStatus": "unknown",
-      "lastChecked": null
-    },
-    {
-      "id": "gdelt-pfyspis",
-      "title": "Espanha registrou o mês de setembro mais quente desde o início dos registros",
-      "sourceName": "CartaCapital",
-      "sourceUrl": "https://www.cartacapital.com.br/",
-      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
-      "sourceEditorial": "Jornalismo progressista - Conteúdo sob assinatura parcial",
-      "country": "Brasil",
-      "paywall": true,
-      "originalUrl": "https://www.cartacapital.com.br/mundo/espanha-registrou-o-mes-de-setembro-mais-quente-desde-o-inicio-dos-registros/",
-      "publishedAtStr": "2026-10-16T13:15:00Z",
-      "publishedAtTs": 1792156500000,
-      "rawContent": "Espanha registrou o mês de setembro mais quente desde o início dos registros",
-      "linkStatus": "unknown",
-      "lastChecked": null
-    },
-    {
-      "id": "gdelt-lksz3kv",
-      "title": "União Europeia reafirma apoio a Zelensky em meio a tensão com Trump",
-      "sourceName": "CartaCapital",
-      "sourceUrl": "https://www.cartacapital.com.br/",
-      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
-      "sourceEditorial": "Jornalismo progressista - Conteúdo sob assinatura parcial",
-      "country": "Brasil",
-      "paywall": true,
-      "originalUrl": "https://www.cartacapital.com.br/mundo/uniao-europeia-reafirma-apoio-a-zelensky-em-meio-a-tensao-com-trump/",
-      "publishedAtStr": "2026-10-16T13:15:00Z",
-      "publishedAtTs": 1792156500000,
-      "rawContent": "União Europeia reafirma apoio a Zelensky em meio a tensão com Trump",
-      "linkStatus": "unknown",
-      "lastChecked": null
-    },
-    {
-      "id": "gdelt-ezcj1ag",
-      "title": "Mexicano é preso em aeroporto na Alemanha com 37 cobras venenosas",
-      "sourceName": "CartaCapital",
-      "sourceUrl": "https://www.cartacapital.com.br/",
-      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
-      "sourceEditorial": "Jornalismo progressista - Conteúdo sob assinatura parcial",
-      "country": "Brasil",
-      "paywall": true,
-      "originalUrl": "https://www.cartacapital.com.br/mundo/mexicano-e-preso-em-aeroporto-na-alemanha-com-37-cobras-venenosas/",
-      "publishedAtStr": "2026-10-16T13:15:00Z",
-      "publishedAtTs": 1792156500000,
-      "rawContent": "Mexicano é preso em aeroporto na Alemanha com 37 cobras venenosas",
-      "linkStatus": "unknown",
-      "lastChecked": null
-    },
-    {
-      "id": "gdelt-qoqy0iq",
-      "title": "Lula avança e chega a 50 % dos votos válidos , mostra pesquisa PoderData",
-      "sourceName": "CartaCapital",
-      "sourceUrl": "https://www.cartacapital.com.br/",
-      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
-      "sourceEditorial": "Jornalismo progressista - Conteúdo sob assinatura parcial",
-      "country": "Brasil",
-      "paywall": true,
-      "originalUrl": "https://www.cartacapital.com.br/politica/lula-avanca-e-chega-a-50-dos-votos-validos-mostra-pesquisa-poderdata/",
-      "publishedAtStr": "2026-10-16T13:15:00Z",
-      "publishedAtTs": 1792156500000,
-      "rawContent": "Lula avança e chega a 50 % dos votos válidos , mostra pesquisa PoderData",
-      "linkStatus": "unknown",
-      "lastChecked": null
-    },
-    {
-      "id": "gdelt-090ljpi",
-      "title": "Por que o acordo entre Mercosul e UE enfrenta resistência na Europa , apesar dos ganhos econômicos",
-      "sourceName": "Valor Econômico",
-      "sourceUrl": "https://valor.globo.com/",
-      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
-      "sourceEditorial": "Jornal diário financeiro - Conteúdo sob assinatura",
-      "country": "Brasil",
-      "paywall": true,
-      "originalUrl": "https://valor.globo.com/eu-e/noticia/2026/10/16/por-que-o-acordo-entre-mercosul-e-ue-enfrenta-resistencia-na-europa-apesar-dos-ganhos-economicos.ghtml",
-      "publishedAtStr": "2026-10-16T11:00:00Z",
-      "publishedAtTs": 1792148400000,
-      "rawContent": "Por que o acordo entre Mercosul e UE enfrenta resistência na Europa , apesar dos ganhos econômicos",
       "linkStatus": "unknown",
       "lastChecked": null
     }
