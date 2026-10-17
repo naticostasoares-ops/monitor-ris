@@ -1,16 +1,80 @@
 {
-  "updatedAt": "2026-10-17T01:11:02.783Z",
-  "periodUsed": "24h",
-  "count": 14,
+  "updatedAt": "2026-10-17T05:48:37.201Z",
+  "periodUsed": "7d",
+  "count": 17,
   "linkVerificationStats": {
-    "checkedThisRun": 14,
-    "active": 14,
+    "checkedThisRun": 4,
+    "active": 4,
     "broken": 0,
     "unknown": 0
   },
   "articles": [
     {
-      "id": "gdelt-bfo5tjv",
+      "id": "gdelt-3df6lm3",
+      "title": "Primeira - dama da Colômbia nega que houve irregularidades no uso de dinheiro doado após terremoto",
+      "sourceName": "O Globo Mundo",
+      "sourceUrl": "https://oglobo.globo.com/mundo/",
+      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
+      "sourceEditorial": "Jornal diário (Grupo Globo) - Conteúdo sob assinatura",
+      "country": "Brasil",
+      "paywall": true,
+      "originalUrl": "https://oglobo.globo.com/mundo/noticia/2026/10/17/primeira-dama-da-colombia-nega-que-houve-irregularidades-no-uso-de-dinheiro-doado-apos-terremoto.ghtml",
+      "publishedAtStr": "2026-10-17T05:00:00Z",
+      "publishedAtTs": 1792213200000,
+      "rawContent": "Primeira - dama da Colômbia nega que houve irregularidades no uso de dinheiro doado após terremoto",
+      "linkStatus": "active",
+      "lastChecked": 1792216113674
+    },
+    {
+      "id": "gdelt-csei3j2",
+      "title": "Qual a diferença entre ano e segundo bissexto ? Entenda mudanças previstas para 2027",
+      "sourceName": "O Globo Mundo",
+      "sourceUrl": "https://oglobo.globo.com/mundo/",
+      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
+      "sourceEditorial": "Jornal diário (Grupo Globo) - Conteúdo sob assinatura",
+      "country": "Brasil",
+      "paywall": true,
+      "originalUrl": "https://oglobo.globo.com/mundo/clima-e-ciencia/noticia/2026/10/17/qual-a-diferenca-entre-ano-e-segundo-bissexto-entenda-mudancas-previstas-para-2027.ghtml",
+      "publishedAtStr": "2026-10-17T05:00:00Z",
+      "publishedAtTs": 1792213200000,
+      "rawContent": "Qual a diferença entre ano e segundo bissexto ? Entenda mudanças previstas para 2027",
+      "linkStatus": "active",
+      "lastChecked": 1792216113674
+    },
+    {
+      "id": "gdelt-6vkzspu",
+      "title": "Família acusa ICE de divulgar foto de homem morto em 2017 como suspeito vivo no Texas ; entenda",
+      "sourceName": "O Globo Mundo",
+      "sourceUrl": "https://oglobo.globo.com/mundo/",
+      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
+      "sourceEditorial": "Jornal diário (Grupo Globo) - Conteúdo sob assinatura",
+      "country": "Brasil",
+      "paywall": true,
+      "originalUrl": "https://oglobo.globo.com/mundo/epoca/noticia/2026/10/17/familia-acusa-ice-de-divulgar-foto-de-homem-morto-em-2017-como-suspeito-vivo-no-texas-entenda.ghtml",
+      "publishedAtStr": "2026-10-17T05:00:00Z",
+      "publishedAtTs": 1792213200000,
+      "rawContent": "Família acusa ICE de divulgar foto de homem morto em 2017 como suspeito vivo no Texas ; entenda",
+      "linkStatus": "active",
+      "lastChecked": 1792216113674
+    },
+    {
+      "id": "gdelt-jwutfgx",
+      "title": "Flávio Bolsonaro na Globo : o que disse o candidato à Presidência na 2ª entrevista à emissora",
+      "sourceName": "BBC News Brasil",
+      "sourceUrl": "https://www.bbc.com/portuguese",
+      "sourceType": "Imprensa Internacional / Pública",
+      "sourceEditorial": "Emissora pública do Reino Unido; jornalismo global independente",
+      "country": "Reino Unido",
+      "paywall": false,
+      "originalUrl": "https://www.bbc.com/portuguese/articles/cmly0n1qdqr4o",
+      "publishedAtStr": "2026-10-17T04:15:00Z",
+      "publishedAtTs": 1792210500000,
+      "rawContent": "Flávio Bolsonaro na Globo : o que disse o candidato à Presidência na 2ª entrevista à emissora",
+      "linkStatus": "active",
+      "lastChecked": 1792216113674
+    },
+    {
+      "id": "gdelt-q1crymb",
       "title": "Coreia do Norte testa torpedo que united states IA para detectar alvos",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -26,7 +90,7 @@
       "lastChecked": 1792199451706
     },
     {
-      "id": "gdelt-qs5u9cr",
+      "id": "gdelt-po8ah41",
       "title": "Lisboa vai retirar patinetes elétricos de circulação e moradores preparam abaixo - assinado ; entenda decisão",
       "sourceName": "O Globo Mundo",
       "sourceUrl": "https://oglobo.globo.com/mundo/",
@@ -42,7 +106,7 @@
       "lastChecked": 1792199451706
     },
     {
-      "id": "gdelt-1z22n53",
+      "id": "gdelt-ebxe88z",
       "title": "Todos os 7 candidatos à chefia da ONU enfrentam veto",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -58,7 +122,7 @@
       "lastChecked": 1792199451706
     },
     {
-      "id": "gdelt-wbtt9mp",
+      "id": "gdelt-24lfc06",
       "title": "Papa fala com Putin ao telefone e pede trégua na Ucrânia",
       "sourceName": "DW Brasil",
       "sourceUrl": "https://www.dw.com/pt-br/",
@@ -74,7 +138,7 @@
       "lastChecked": 1792199451706
     },
     {
-      "id": "gdelt-696zxfx",
+      "id": "gdelt-zig6nvt",
       "title": "Eleitores no exterior tentam reverter absteno no 2º turno",
       "sourceName": "DW Brasil",
       "sourceUrl": "https://www.dw.com/pt-br/",
@@ -90,7 +154,7 @@
       "lastChecked": 1792199451706
     },
     {
-      "id": "gdelt-6tv6zg2",
+      "id": "gdelt-y2caz9w",
       "title": "O que explica o sucesso das marcas chinesas de tecnologia",
       "sourceName": "DW Brasil",
       "sourceUrl": "https://www.dw.com/pt-br/",
@@ -106,7 +170,7 @@
       "lastChecked": 1792199451706
     },
     {
-      "id": "gdelt-5q0t6u2",
+      "id": "gdelt-p8zin0l",
       "title": "Governo Trump diz que apoia eleio no Brasil e defende aes",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -122,7 +186,7 @@
       "lastChecked": 1792199451706
     },
     {
-      "id": "gdelt-v21lmq3",
+      "id": "gdelt-msrnin6",
       "title": "Estudante que matou bebê e escondeu corpo em armário é condenada nos EUA",
       "sourceName": "O Globo Mundo",
       "sourceUrl": "https://oglobo.globo.com/mundo/",
@@ -138,7 +202,7 @@
       "lastChecked": 1792199451706
     },
     {
-      "id": "gdelt-u4wkv2k",
+      "id": "gdelt-qeb50z7",
       "title": "Katie Zacharia : quem é a porta - voz da Casa Branca que deixou o cargo",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -154,7 +218,7 @@
       "lastChecked": 1792199451706
     },
     {
-      "id": "gdelt-4srl63c",
+      "id": "gdelt-8jtvlcf",
       "title": "Mexicano é preso em aeroporto na Alemanha com 37 cobras venenosas na bagagem",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -170,7 +234,7 @@
       "lastChecked": 1792199451706
     },
     {
-      "id": "gdelt-s2v996t",
+      "id": "gdelt-w9l5eh1",
       "title": "Papa fala ao telefone com Putin , oferece mediação na guerra e pede corretor humanitário",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -186,7 +250,7 @@
       "lastChecked": 1792199451706
     },
     {
-      "id": "gdelt-4vssq6p",
+      "id": "gdelt-a2bdbwv",
       "title": "Vaticano anuncia que Papa Leão XIV tem  melhora constante  e divulga foto do Pontífice presidindo missa",
       "sourceName": "O Globo Mundo",
       "sourceUrl": "https://oglobo.globo.com/mundo/",
@@ -202,7 +266,7 @@
       "lastChecked": 1792199451706
     },
     {
-      "id": "gdelt-x9q4cuk",
+      "id": "gdelt-qar2pq6",
       "title": "Armas supersônicas corrida armamentista entre Coreias",
       "sourceName": "DW Brasil",
       "sourceUrl": "https://www.dw.com/pt-br/",
@@ -214,22 +278,6 @@
       "publishedAtStr": "2026-10-16T13:15:00Z",
       "publishedAtTs": 1792156500000,
       "rawContent": "Armas supersônicas corrida armamentista entre Coreias",
-      "linkStatus": "active",
-      "lastChecked": 1792199451706
-    },
-    {
-      "id": "gdelt-840h8js",
-      "title": "Mexicano preso em aeroporto na Alemanha com cobras venenosas",
-      "sourceName": "DW Brasil",
-      "sourceUrl": "https://www.dw.com/pt-br/",
-      "sourceType": "Imprensa Internacional / Pública",
-      "sourceEditorial": "Emissora pública da Alemanha; foco em diplomacia e direitos humanos",
-      "country": "Alemanha",
-      "paywall": false,
-      "originalUrl": "https://www.dw.com/pt-br/mexicano-%C3%A9-preso-em-aeroporto-na-alemanha-com-37-cobras-venenosas-na-bagagem/a-79678696",
-      "publishedAtStr": "2026-10-16T13:15:00Z",
-      "publishedAtTs": 1792156500000,
-      "rawContent": "Mexicano preso em aeroporto na Alemanha com cobras venenosas",
       "linkStatus": "active",
       "lastChecked": 1792199451706
     }
