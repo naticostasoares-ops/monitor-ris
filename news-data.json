@@ -1,16 +1,80 @@
 {
-  "updatedAt": "2026-10-17T23:21:41.960Z",
-  "periodUsed": "7d",
+  "updatedAt": "2026-10-18T01:09:36.453Z",
+  "periodUsed": "24h",
   "count": 25,
   "linkVerificationStats": {
-    "checkedThisRun": 0,
-    "active": 0,
+    "checkedThisRun": 4,
+    "active": 4,
     "broken": 0,
     "unknown": 0
   },
   "articles": [
     {
-      "id": "gdelt-nzp2fkg",
+      "id": "gdelt-akyaxnd",
+      "title": "Quinto dia de protestos na Albânia termina com confronto entre manifestantes e polícia",
+      "sourceName": "O Globo Mundo",
+      "sourceUrl": "https://oglobo.globo.com/mundo/",
+      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
+      "sourceEditorial": "Jornal diário (Grupo Globo) - Conteúdo sob assinatura",
+      "country": "Brasil",
+      "paywall": true,
+      "originalUrl": "https://oglobo.globo.com/mundo/noticia/2026/10/17/quinto-dia-de-protestos-na-albania-termina-com-confronto-entre-manifestantes-e-policia.ghtml",
+      "publishedAtStr": "2026-10-18T00:00:00Z",
+      "publishedAtTs": 1792281600000,
+      "rawContent": "Quinto dia de protestos na Albânia termina com confronto entre manifestantes e polícia",
+      "linkStatus": "active",
+      "lastChecked": 1792285773324
+    },
+    {
+      "id": "gdelt-30vf6g8",
+      "title": "Ex - jogador da seleo ucraniana é encontrado morto na linha de frente da guerra com a Rússia",
+      "sourceName": "O Globo Mundo",
+      "sourceUrl": "https://oglobo.globo.com/mundo/",
+      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
+      "sourceEditorial": "Jornal diário (Grupo Globo) - Conteúdo sob assinatura",
+      "country": "Brasil",
+      "paywall": true,
+      "originalUrl": "https://oglobo.globo.com/mundo/noticia/2026/10/17/ex-jogador-da-selecao-ucraniana-e-encontrado-morto-na-linha-de-frente-da-guerra-com-a-russia.ghtml",
+      "publishedAtStr": "2026-10-18T00:00:00Z",
+      "publishedAtTs": 1792281600000,
+      "rawContent": "Ex - jogador da seleo ucraniana é encontrado morto na linha de frente da guerra com a Rússia",
+      "linkStatus": "active",
+      "lastChecked": 1792285773324
+    },
+    {
+      "id": "gdelt-cx6lz5a",
+      "title": "Qual é o risco real de uma guerra entre Rússia e Alemanha ?",
+      "sourceName": "DW Brasil",
+      "sourceUrl": "https://www.dw.com/pt-br/",
+      "sourceType": "Imprensa Internacional / Pública",
+      "sourceEditorial": "Emissora pública da Alemanha; foco em diplomacia e direitos humanos",
+      "country": "Alemanha",
+      "paywall": false,
+      "originalUrl": "https://www.dw.com/pt-br/qual-%C3%A9-o-risco-real-de-uma-guerra-entre-r%C3%BAssia-e-alemanha/a-79690261",
+      "publishedAtStr": "2026-10-17T23:30:00Z",
+      "publishedAtTs": 1792279800000,
+      "rawContent": "Qual é o risco real de uma guerra entre Rússia e Alemanha ?",
+      "linkStatus": "active",
+      "lastChecked": 1792285773324
+    },
+    {
+      "id": "gdelt-8r7a878",
+      "title": "Carro invade jogo de futebol no Kansas e deixa dois mortos",
+      "sourceName": "G1 Mundo",
+      "sourceUrl": "https://g1.globo.com/mundo/",
+      "sourceType": "Imprensa Comercial Brasileira",
+      "sourceEditorial": "Portal de notícias mainstream do Grupo Globo",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://g1.globo.com/mundo/noticia/2026/10/17/carro-invade-jogo-futebol-kansas-mortos.ghtml",
+      "publishedAtStr": "2026-10-17T23:30:00Z",
+      "publishedAtTs": 1792279800000,
+      "rawContent": "Carro invade jogo de futebol no Kansas e deixa dois mortos",
+      "linkStatus": "active",
+      "lastChecked": 1792285773324
+    },
+    {
+      "id": "gdelt-3jlrtjv",
       "title": "Líder do  Partido das Barata é libertado na Índia",
       "sourceName": "O Globo Mundo",
       "sourceUrl": "https://oglobo.globo.com/mundo/",
@@ -26,7 +90,7 @@
       "lastChecked": 1792271980686
     },
     {
-      "id": "gdelt-6djap1t",
+      "id": "gdelt-jmmwufy",
       "title": "Resort pega fogo e mata dez pessoas em região turística de Bangladesh",
       "sourceName": "O Globo Mundo",
       "sourceUrl": "https://oglobo.globo.com/mundo/",
@@ -42,7 +106,7 @@
       "lastChecked": 1792271980686
     },
     {
-      "id": "gdelt-2pzsk1y",
+      "id": "gdelt-aem15hh",
       "title": "Fim da escala 6x1 : menos cansaço , mais tempo com a família",
       "sourceName": "DW Brasil",
       "sourceUrl": "https://www.dw.com/pt-br/",
@@ -58,7 +122,7 @@
       "lastChecked": 1792271980686
     },
     {
-      "id": "gdelt-adjs4de",
+      "id": "gdelt-ksgfwjy",
       "title": "Polícia prendeu ex - príncipe Andrew para impedir que ele usasse rei Charles para destruir provas de ligao com Epstein",
       "sourceName": "O Globo Mundo",
       "sourceUrl": "https://oglobo.globo.com/mundo/",
@@ -74,7 +138,7 @@
       "lastChecked": 1792271980686
     },
     {
-      "id": "gdelt-ul3peyx",
+      "id": "gdelt-b2rfzy6",
       "title": "Porta - voz de Trump que durou apenas cinco dias na Casa Branca bate  recorde  de passagem curta em funo",
       "sourceName": "O Globo Mundo",
       "sourceUrl": "https://oglobo.globo.com/mundo/",
@@ -90,7 +154,7 @@
       "lastChecked": 1792271980686
     },
     {
-      "id": "gdelt-6sn1q0j",
+      "id": "gdelt-a20i34j",
       "title": "Diamante rosa roubado e reencontrado após camareira morder ma que escondia a joia em 1926 é exibido pela 1ª vez após 100 anos",
       "sourceName": "O Globo Mundo",
       "sourceUrl": "https://oglobo.globo.com/mundo/",
@@ -106,7 +170,7 @@
       "lastChecked": 1792271980686
     },
     {
-      "id": "gdelt-bt2zi1l",
+      "id": "gdelt-l8pgbfo",
       "title": "Trump libera uso de rosquinhas com gordura de bacon para atrair ursos e facilitar caça no Alasca",
       "sourceName": "O Globo Mundo",
       "sourceUrl": "https://oglobo.globo.com/mundo/",
@@ -122,7 +186,7 @@
       "lastChecked": 1792271980686
     },
     {
-      "id": "gdelt-qvcndl3",
+      "id": "gdelt-cwumlee",
       "title": "Papa Leão 14 tem alta hospitalar e pode voltar ao Vaticano",
       "sourceName": "DW Brasil",
       "sourceUrl": "https://www.dw.com/pt-br/",
@@ -138,7 +202,7 @@
       "lastChecked": 1792271980686
     },
     {
-      "id": "gdelt-uxw48ut",
+      "id": "gdelt-jtik7s5",
       "title": "Polícia united states gás lacrimogêneo e entra em confronto com manifestantes em protestos contra o custo de vida na França",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -154,7 +218,7 @@
       "lastChecked": 1792271980686
     },
     {
-      "id": "gdelt-r6jchdn",
+      "id": "gdelt-928m6w8",
       "title": "TSE mantém ordem para Meta garantir isonomia a Lula e Flávio",
       "sourceName": "DW Brasil",
       "sourceUrl": "https://www.dw.com/pt-br/",
@@ -170,7 +234,7 @@
       "lastChecked": 1792271980686
     },
     {
-      "id": "gdelt-11cnm9a",
+      "id": "gdelt-sjwj4dw",
       "title": "Papa Leão XIV recebe alta após cirurgia para retirar tumor cancerígeno no pulmão e deve retornar ao Vaticano neste sábado",
       "sourceName": "O Globo Mundo",
       "sourceUrl": "https://oglobo.globo.com/mundo/",
@@ -186,7 +250,7 @@
       "lastChecked": 1792271980686
     },
     {
-      "id": "gdelt-i0im0dm",
+      "id": "gdelt-l551swu",
       "title": "Rússia registra 26 mortes em ataques de ursos em meio ao avanço dos animais sobre áreas habitadas",
       "sourceName": "O Globo Mundo",
       "sourceUrl": "https://oglobo.globo.com/mundo/",
@@ -202,7 +266,7 @@
       "lastChecked": 1792271980686
     },
     {
-      "id": "gdelt-a2lwl35",
+      "id": "gdelt-tbh8j7l",
       "title": "Justiça do México condena três homens a 158 anos de prisão por assassinato de surfistas estrangeiros em 2024",
       "sourceName": "O Globo Mundo",
       "sourceUrl": "https://oglobo.globo.com/mundo/",
@@ -218,7 +282,7 @@
       "lastChecked": 1792271980686
     },
     {
-      "id": "gdelt-8voao72",
+      "id": "gdelt-jqhdagl",
       "title": "Protestos da geração Z se espalham pelo mundo ; entenda as causas",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -234,7 +298,7 @@
       "lastChecked": 1792271980686
     },
     {
-      "id": "gdelt-jchq9rg",
+      "id": "gdelt-qafvmbo",
       "title": "Em sabatina , Flávio foca em Lula e se esquiva sobre Vorcaro",
       "sourceName": "DW Brasil",
       "sourceUrl": "https://www.dw.com/pt-br/",
@@ -250,7 +314,7 @@
       "lastChecked": 1792271980686
     },
     {
-      "id": "gdelt-u925dw0",
+      "id": "gdelt-yqe3vt5",
       "title": "Primeira - dama da Colômbia nega irregularidades em doações de US$ 17 milhões após terremoto",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -266,7 +330,7 @@
       "lastChecked": 1792271980686
     },
     {
-      "id": "gdelt-03lebsm",
+      "id": "gdelt-g10vi1k",
       "title": "Brasileiros no exterior tentam reverter absteno no 2º turno",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -282,7 +346,7 @@
       "lastChecked": 1792271980686
     },
     {
-      "id": "gdelt-rylmsgw",
+      "id": "gdelt-y7pfplv",
       "title": "Primeira - dama da Colômbia nega que houve irregularidades no uso de dinheiro doado após terremoto",
       "sourceName": "O Globo Mundo",
       "sourceUrl": "https://oglobo.globo.com/mundo/",
@@ -298,7 +362,7 @@
       "lastChecked": 1792271980686
     },
     {
-      "id": "gdelt-htqel18",
+      "id": "gdelt-n4ifjbk",
       "title": "Qual a diferença entre ano e segundo bissexto ? Entenda mudanças previstas para 2027",
       "sourceName": "O Globo Mundo",
       "sourceUrl": "https://oglobo.globo.com/mundo/",
@@ -314,7 +378,7 @@
       "lastChecked": 1792271980686
     },
     {
-      "id": "gdelt-kj1xbtd",
+      "id": "gdelt-1a9vppm",
       "title": "Família acusa ICE de divulgar foto de homem morto em 2017 como suspeito vivo no Texas ; entenda",
       "sourceName": "O Globo Mundo",
       "sourceUrl": "https://oglobo.globo.com/mundo/",
@@ -330,7 +394,7 @@
       "lastChecked": 1792271980686
     },
     {
-      "id": "gdelt-c7lubwu",
+      "id": "gdelt-ly7aash",
       "title": "Flávio Bolsonaro na Globo : o que disse o candidato à Presidência na 2ª entrevista à emissora",
       "sourceName": "BBC News Brasil",
       "sourceUrl": "https://www.bbc.com/portuguese",
@@ -342,70 +406,6 @@
       "publishedAtStr": "2026-10-17T04:15:00Z",
       "publishedAtTs": 1792210500000,
       "rawContent": "Flávio Bolsonaro na Globo : o que disse o candidato à Presidência na 2ª entrevista à emissora",
-      "linkStatus": "active",
-      "lastChecked": 1792271980686
-    },
-    {
-      "id": "gdelt-376xy0a",
-      "title": "Coreia do Norte testa torpedo que united states IA para detectar alvos",
-      "sourceName": "G1 Mundo",
-      "sourceUrl": "https://g1.globo.com/mundo/",
-      "sourceType": "Imprensa Comercial Brasileira",
-      "sourceEditorial": "Portal de notícias mainstream do Grupo Globo",
-      "country": "Brasil",
-      "paywall": false,
-      "originalUrl": "https://g1.globo.com/mundo/noticia/2026/10/16/coreia-do-norte-testa-torpedo-que-usa-inteligencia-artificial-para-detectar-alvos.ghtml",
-      "publishedAtStr": "2026-10-17T00:15:00Z",
-      "publishedAtTs": 1792196100000,
-      "rawContent": "Coreia do Norte testa torpedo que united states IA para detectar alvos",
-      "linkStatus": "active",
-      "lastChecked": 1792271980686
-    },
-    {
-      "id": "gdelt-cpulh0r",
-      "title": "Lisboa vai retirar patinetes elétricos de circulação e moradores preparam abaixo - assinado ; entenda decisão",
-      "sourceName": "O Globo Mundo",
-      "sourceUrl": "https://oglobo.globo.com/mundo/",
-      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
-      "sourceEditorial": "Jornal diário (Grupo Globo) - Conteúdo sob assinatura",
-      "country": "Brasil",
-      "paywall": true,
-      "originalUrl": "https://oglobo.globo.com/mundo/epoca/noticia/2026/10/16/lisboa-vai-retirar-patinetes-eletricos-de-circulacao-e-moradores-preparar-abaixo-assinado-entenda-decisao.ghtml",
-      "publishedAtStr": "2026-10-17T00:15:00Z",
-      "publishedAtTs": 1792196100000,
-      "rawContent": "Lisboa vai retirar patinetes elétricos de circulação e moradores preparam abaixo - assinado ; entenda decisão",
-      "linkStatus": "active",
-      "lastChecked": 1792271980686
-    },
-    {
-      "id": "gdelt-d5f6868",
-      "title": "Todos os 7 candidatos à chefia da ONU enfrentam veto",
-      "sourceName": "G1 Mundo",
-      "sourceUrl": "https://g1.globo.com/mundo/",
-      "sourceType": "Imprensa Comercial Brasileira",
-      "sourceEditorial": "Portal de notícias mainstream do Grupo Globo",
-      "country": "Brasil",
-      "paywall": false,
-      "originalUrl": "https://g1.globo.com/mundo/noticia/2026/10/16/todos-os-7-candidatos-a-chefia-da-onu-enfrentam-veto-e-impasse-abre-espaco-para-novos-nomes.ghtml",
-      "publishedAtStr": "2026-10-16T23:30:00Z",
-      "publishedAtTs": 1792193400000,
-      "rawContent": "Todos os 7 candidatos à chefia da ONU enfrentam veto",
-      "linkStatus": "active",
-      "lastChecked": 1792271980686
-    },
-    {
-      "id": "gdelt-mazyopf",
-      "title": "Papa fala com Putin ao telefone e pede trégua na Ucrânia",
-      "sourceName": "DW Brasil",
-      "sourceUrl": "https://www.dw.com/pt-br/",
-      "sourceType": "Imprensa Internacional / Pública",
-      "sourceEditorial": "Emissora pública da Alemanha; foco em diplomacia e direitos humanos",
-      "country": "Alemanha",
-      "paywall": false,
-      "originalUrl": "https://www.dw.com/pt-br/papa-liga-para-putin-e-pede-tr%C3%A9gua-na-ucr%C3%A2nia/a-79684891",
-      "publishedAtStr": "2026-10-16T22:30:00Z",
-      "publishedAtTs": 1792189800000,
-      "rawContent": "Papa fala com Putin ao telefone e pede trégua na Ucrânia",
       "linkStatus": "active",
       "lastChecked": 1792271980686
     }
