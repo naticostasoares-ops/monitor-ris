@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-10-20T05:18:17.139Z",
-  "periodUsed": "7d",
-  "count": 116,
+  "updatedAt": "2026-10-20T10:09:15.030Z",
+  "periodUsed": "24h",
+  "count": 103,
   "linkVerificationStats": {
     "checkedThisRun": 40,
     "active": 40,
@@ -10,71 +10,7 @@
   },
   "articles": [
     {
-      "id": "gdelt-klcrzit",
-      "title": "Zelensky diz que sistema da SpaceX usado na guerra ficou mais lento e afeta tropas ucranianas",
-      "sourceName": "G1 Mundo",
-      "sourceUrl": "https://g1.globo.com/mundo/",
-      "sourceType": "Imprensa Comercial Brasileira",
-      "sourceEditorial": "Portal de notícias mainstream do Grupo Globo",
-      "country": "Brasil",
-      "paywall": false,
-      "originalUrl": "https://g1.globo.com/mundo/noticia/2026/10/20/zelensky-diz-que-sistema-da-spacex-usado-na-guerra-ficou-mais-lento.ghtml",
-      "publishedAtStr": "2026-10-20T04:45:00Z",
-      "publishedAtTs": 1792471500000,
-      "rawContent": "Zelensky diz que sistema da SpaceX usado na guerra ficou mais lento e afeta tropas ucranianas",
-      "linkStatus": "active",
-      "lastChecked": 1792473479955
-    },
-    {
-      "id": "gdelt-nn09yec",
-      "title": "França : como protesto levou 500 mil às ruas e mergulhou Paris no caos",
-      "sourceName": "G1 Mundo",
-      "sourceUrl": "https://g1.globo.com/mundo/",
-      "sourceType": "Imprensa Comercial Brasileira",
-      "sourceEditorial": "Portal de notícias mainstream do Grupo Globo",
-      "country": "Brasil",
-      "paywall": false,
-      "originalUrl": "https://g1.globo.com/mundo/noticia/2026/10/20/como-protesto-estudantil-evoluiu-na-franca-levou-500-mil-as-ruas-e-mergulhou-paris-no-caos.ghtml",
-      "publishedAtStr": "2026-10-20T03:45:00Z",
-      "publishedAtTs": 1792467900000,
-      "rawContent": "França : como protesto levou 500 mil às ruas e mergulhou Paris no caos",
-      "linkStatus": "active",
-      "lastChecked": 1792473479955
-    },
-    {
-      "id": "gdelt-pey3prz",
-      "title": "Zelensky diz que limitações no sistema de satélites Starshield prejudicam suas tropas ; entenda",
-      "sourceName": "O Globo Mundo",
-      "sourceUrl": "https://oglobo.globo.com/mundo/",
-      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
-      "sourceEditorial": "Jornal diário (Grupo Globo) - Conteúdo sob assinatura",
-      "country": "Brasil",
-      "paywall": true,
-      "originalUrl": "https://oglobo.globo.com/mundo/noticia/2026/10/20/zelensky-diz-que-limitacoes-no-sistema-de-satelites-starshield-prejudicam-suas-tropas-entenda.ghtml",
-      "publishedAtStr": "2026-10-20T03:45:00Z",
-      "publishedAtTs": 1792467900000,
-      "rawContent": "Zelensky diz que limitações no sistema de satélites Starshield prejudicam suas tropas ; entenda",
-      "linkStatus": "active",
-      "lastChecked": 1792473479955
-    },
-    {
-      "id": "gdelt-2dgb49t",
-      "title": "Gerao Z : perguntamos a 10 jovens como eles decidem o voto",
-      "sourceName": "BBC News Brasil",
-      "sourceUrl": "https://www.bbc.com/portuguese",
-      "sourceType": "Imprensa Internacional / Pública",
-      "sourceEditorial": "Emissora pública do Reino Unido; jornalismo global independente",
-      "country": "Reino Unido",
-      "paywall": false,
-      "originalUrl": "https://www.bbc.com/portuguese/articles/cr4g197e8l52o",
-      "publishedAtStr": "2026-10-20T03:45:00Z",
-      "publishedAtTs": 1792467900000,
-      "rawContent": "Gerao Z : perguntamos a 10 jovens como eles decidem o voto",
-      "linkStatus": "active",
-      "lastChecked": 1792473479955
-    },
-    {
-      "id": "gdelt-g5st9al",
+      "id": "gdelt-i80y8fl",
       "title": "Coordenadores de Flávio e Lula divergem sobre contas públicas e tentativa de golpe",
       "sourceName": "Valor Econômico",
       "sourceUrl": "https://valor.globo.com/",
@@ -90,7 +26,7 @@
       "lastChecked": 1792473479955
     },
     {
-      "id": "gdelt-g0ktw4j",
+      "id": "gdelt-sjsoyee",
       "title": "Brasil precisará de quase mil novos aviões para atender demanda até 2045 , diz Airbus",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -106,7 +42,7 @@
       "lastChecked": 1792473479955
     },
     {
-      "id": "gdelt-s9o2po9",
+      "id": "gdelt-r1z9loi",
       "title": "Quadro de Janones é estável e alta pode ocorrer nas próximas 48h , diz boletim médico",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -122,7 +58,7 @@
       "lastChecked": 1792473479955
     },
     {
-      "id": "gdelt-1noaro2",
+      "id": "gdelt-3ze17qs",
       "title": "Flávio Bolsonaro promete regularizar terras no Pará e rever restrições ambientais",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -138,7 +74,7 @@
       "lastChecked": 1792473479955
     },
     {
-      "id": "gdelt-mq2joak",
+      "id": "gdelt-mfqxk7e",
       "title": "ASSISTA : Lula x Flávio : o que está em jogo na última semana antes do segundo turno ?",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -154,7 +90,7 @@
       "lastChecked": 1792473479955
     },
     {
-      "id": "gdelt-mgcwn51",
+      "id": "gdelt-cpxhqmu",
       "title": "Nasdaq sobe mais de 1 % com recuperação de parte das perdas por temores com IA",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -170,7 +106,7 @@
       "lastChecked": 1792473479955
     },
     {
-      "id": "gdelt-ru5092d",
+      "id": "gdelt-bjlglv6",
       "title": "Dona de Gol e Avianca evita expansão agressiva e aposta em parcerias para crescer",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -186,7 +122,7 @@
       "lastChecked": 1792473479955
     },
     {
-      "id": "gdelt-hv8bghx",
+      "id": "gdelt-9ad2t15",
       "title": "Trump diz que Zelensky deveria deixar negociações sobre guerra na Ucrânia",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -202,7 +138,7 @@
       "lastChecked": 1792473479955
     },
     {
-      "id": "gdelt-y7i4kxc",
+      "id": "gdelt-nt9suds",
       "title": "Petróleo cai calibrando guerra no Oriente Médio e alívio de sanes à Rússia",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -218,7 +154,7 @@
       "lastChecked": 1792473479955
     },
     {
-      "id": "gdelt-13j2ove",
+      "id": "gdelt-tnzeqw5",
       "title": "Por que Alberta , província mais rica do Canadá , pode se separar do país ? Entenda",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -234,7 +170,7 @@
       "lastChecked": 1792473479955
     },
     {
-      "id": "gdelt-pzyrl59",
+      "id": "gdelt-zlrcw1g",
       "title": "Zanin pede informações ao TSE em ao que o PSD contesta eleio de Douglas Ruas",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -250,7 +186,7 @@
       "lastChecked": 1792473479955
     },
     {
-      "id": "gdelt-05q9q20",
+      "id": "gdelt-kgt6d5n",
       "title": "Anthropic reforça aposta em data centers e negocia contrato de US$ 45 bilhões",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -266,7 +202,7 @@
       "lastChecked": 1792473479955
     },
     {
-      "id": "gdelt-gmmksjh",
+      "id": "gdelt-swycpuz",
       "title": "PGR se manifesta contra investigação de Mendonça por abuso de autoridade",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -282,7 +218,7 @@
       "lastChecked": 1792473479955
     },
     {
-      "id": "gdelt-487ysdk",
+      "id": "gdelt-3a50qvl",
       "title": "MP aciona TSE para que eleitor seja avisado por WhatsApp sobre locais de votação",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -298,7 +234,7 @@
       "lastChecked": 1792473479955
     },
     {
-      "id": "gdelt-tzr0neb",
+      "id": "gdelt-syvg0kl",
       "title": "Balança comercial registra superávit de US$ 2 , 661 bilhões na 3ª semana de outubro",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -314,7 +250,7 @@
       "lastChecked": 1792473479955
     },
     {
-      "id": "gdelt-9fbrws4",
+      "id": "gdelt-3jvrvs0",
       "title": "Brasil registra foco de Doença de Newcastle em perus em Santa Catarina",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -330,7 +266,7 @@
       "lastChecked": 1792473479955
     },
     {
-      "id": "gdelt-w168bfo",
+      "id": "gdelt-hjlgjxg",
       "title": "Acordo com China prevê autoembargo brasileiro em caso de Newcastle , diz ABPA",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -346,7 +282,7 @@
       "lastChecked": 1792473479955
     },
     {
-      "id": "gdelt-2m8xay7",
+      "id": "gdelt-rjf7pxu",
       "title": "Ri Happy : o que muda para o consumidor após o pedido de recuperação extrajudicial ?",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -362,7 +298,7 @@
       "lastChecked": 1792473479955
     },
     {
-      "id": "gdelt-at0cz3n",
+      "id": "gdelt-v95ky3h",
       "title": "MBRF3 cai 4 % e JBS cai 1 % após registro de doença em perus em SC : qual real impacto ?",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -378,7 +314,7 @@
       "lastChecked": 1792473479955
     },
     {
-      "id": "gdelt-14m3u12",
+      "id": "gdelt-9k4qatc",
       "title": "AMER3 : Justiça do RJ aprova fim de recuperação judicial da Americanas",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -394,23 +330,7 @@
       "lastChecked": 1792473479955
     },
     {
-      "id": "gdelt-cd163up",
-      "title": "Menopausa : por que médicos dizem que o medo da terapia hormonal é maior que o risco real",
-      "sourceName": "BBC News Brasil",
-      "sourceUrl": "https://www.bbc.com/portuguese",
-      "sourceType": "Imprensa Internacional / Pública",
-      "sourceEditorial": "Emissora pública do Reino Unido; jornalismo global independente",
-      "country": "Reino Unido",
-      "paywall": false,
-      "originalUrl": "https://www.bbc.com/portuguese/articles/c98vzgy2vjzo",
-      "publishedAtStr": "2026-10-19T23:00:00Z",
-      "publishedAtTs": 1792450800000,
-      "rawContent": "Menopausa : por que médicos dizem que o medo da terapia hormonal é maior que o risco real",
-      "linkStatus": "active",
-      "lastChecked": 1792456286104
-    },
-    {
-      "id": "gdelt-n33g0fg",
+      "id": "gdelt-w2rh8ty",
       "title": "Ataque russo contra parque na Ucrânia deixa seis mortos , incluindo três crianças",
       "sourceName": "Veja Mundo",
       "sourceUrl": "https://veja.abril.com.br/mundo/",
@@ -426,23 +346,7 @@
       "lastChecked": 1792473479955
     },
     {
-      "id": "gdelt-taqlgk0",
-      "title": "Asa de avião da Latam pega fogo antes da decolagem no Peru ; passageiros desembarcam",
-      "sourceName": "G1 Mundo",
-      "sourceUrl": "https://g1.globo.com/mundo/",
-      "sourceType": "Imprensa Comercial Brasileira",
-      "sourceEditorial": "Portal de notícias mainstream do Grupo Globo",
-      "country": "Brasil",
-      "paywall": false,
-      "originalUrl": "https://g1.globo.com/mundo/noticia/2026/10/19/asa-de-aviao-da-latam-pega-fogo-antes-da-decolagem-no-peru-passageiros-desembarcam.ghtml",
-      "publishedAtStr": "2026-10-19T22:30:00Z",
-      "publishedAtTs": 1792449000000,
-      "rawContent": "Asa de avião da Latam pega fogo antes da decolagem no Peru ; passageiros desembarcam",
-      "linkStatus": "active",
-      "lastChecked": 1792456286104
-    },
-    {
-      "id": "gdelt-qhreyb5",
+      "id": "gdelt-0rqk9su",
       "title": "Jornalista Christiane Amanpour anuncia que deixará a CNN após 43 anos",
       "sourceName": "Estadão Internacional",
       "sourceUrl": "https://www.estadao.com.br/internacional/",
@@ -458,7 +362,7 @@
       "lastChecked": 1792473479955
     },
     {
-      "id": "gdelt-tg1iun2",
+      "id": "gdelt-mjji3rh",
       "title": "Deslizamento de terra em mina de ouro ilegal na Colômbia deixa nove mortos",
       "sourceName": "Estadão Internacional",
       "sourceUrl": "https://www.estadao.com.br/internacional/",
@@ -474,7 +378,7 @@
       "lastChecked": 1792473479955
     },
     {
-      "id": "gdelt-h123jgd",
+      "id": "gdelt-an5b8sb",
       "title": "Ameaça de bomba obriga voo que partiu de Israel a realizar pouso de emergência na Bulgária",
       "sourceName": "Veja Mundo",
       "sourceUrl": "https://veja.abril.com.br/mundo/",
@@ -490,71 +394,7 @@
       "lastChecked": 1792473479955
     },
     {
-      "id": "gdelt-a042qkp",
-      "title": "Por que algoritmo parece colocar o eleitor dentro de bolha",
-      "sourceName": "DW Brasil",
-      "sourceUrl": "https://www.dw.com/pt-br/",
-      "sourceType": "Imprensa Internacional / Pública",
-      "sourceEditorial": "Emissora pública da Alemanha; foco em diplomacia e direitos humanos",
-      "country": "Alemanha",
-      "paywall": false,
-      "originalUrl": "https://www.dw.com/pt-br/por-que-o-algoritmo-parece-colocar-o-eleitor-dentro-de-uma-bolha-pol%C3%ADtica/a-79677202",
-      "publishedAtStr": "2026-10-19T21:30:00Z",
-      "publishedAtTs": 1792445400000,
-      "rawContent": "Por que algoritmo parece colocar o eleitor dentro de bolha",
-      "linkStatus": "active",
-      "lastChecked": 1792456286104
-    },
-    {
-      "id": "gdelt-sxi59m1",
-      "title": "Após seca histórica , indígenas se preparam para novo El Niño",
-      "sourceName": "DW Brasil",
-      "sourceUrl": "https://www.dw.com/pt-br/",
-      "sourceType": "Imprensa Internacional / Pública",
-      "sourceEditorial": "Emissora pública da Alemanha; foco em diplomacia e direitos humanos",
-      "country": "Alemanha",
-      "paywall": false,
-      "originalUrl": "https://www.dw.com/pt-br/ind%C3%ADgenas-da-amaz%C3%B4nia-se-preparam-para-o-el-ni%C3%B1o/a-79706190",
-      "publishedAtStr": "2026-10-19T21:30:00Z",
-      "publishedAtTs": 1792445400000,
-      "rawContent": "Após seca histórica , indígenas se preparam para novo El Niño",
-      "linkStatus": "active",
-      "lastChecked": 1792456286104
-    },
-    {
-      "id": "gdelt-lf7kbbh",
-      "title": "Flórida pede prisão de Raúl Castro por caso de 1996 em Cuba",
-      "sourceName": "DW Brasil",
-      "sourceUrl": "https://www.dw.com/pt-br/",
-      "sourceType": "Imprensa Internacional / Pública",
-      "sourceEditorial": "Emissora pública da Alemanha; foco em diplomacia e direitos humanos",
-      "country": "Alemanha",
-      "paywall": false,
-      "originalUrl": "https://www.dw.com/pt-br/fl%C3%B3rida-pede-pris%C3%A3o-de-ra%C3%BAl-castro-por-ataque-de-1996-em-cuba/a-79707293",
-      "publishedAtStr": "2026-10-19T21:30:00Z",
-      "publishedAtTs": 1792445400000,
-      "rawContent": "Flórida pede prisão de Raúl Castro por caso de 1996 em Cuba",
-      "linkStatus": "active",
-      "lastChecked": 1792456286104
-    },
-    {
-      "id": "gdelt-7gbevrj",
-      "title": "Foguete parte do Japão em missão inédita para lua de Marte",
-      "sourceName": "DW Brasil",
-      "sourceUrl": "https://www.dw.com/pt-br/",
-      "sourceType": "Imprensa Internacional / Pública",
-      "sourceEditorial": "Emissora pública da Alemanha; foco em diplomacia e direitos humanos",
-      "country": "Alemanha",
-      "paywall": false,
-      "originalUrl": "https://www.dw.com/pt-br/foguete-parte-do-jap%C3%A3o-em-miss%C3%A3o-in%C3%A9dita-para-lua-de-marte/a-79707565",
-      "publishedAtStr": "2026-10-19T21:30:00Z",
-      "publishedAtTs": 1792445400000,
-      "rawContent": "Foguete parte do Japão em missão inédita para lua de Marte",
-      "linkStatus": "active",
-      "lastChecked": 1792456286104
-    },
-    {
-      "id": "gdelt-qjr4o27",
+      "id": "gdelt-uk4y53p",
       "title": "A última pesquisa AtlasIntel antes do 2º turno entre Lula e Flávio Bolsonaro",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -570,7 +410,7 @@
       "lastChecked": 1792473479955
     },
     {
-      "id": "gdelt-cb37e1m",
+      "id": "gdelt-9pz2qht",
       "title": "Deputada do PSOL pede cassação de Marcelo Aguiar após disparo em balada",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -586,7 +426,7 @@
       "lastChecked": 1792473479955
     },
     {
-      "id": "gdelt-1nain7n",
+      "id": "gdelt-b4rz6xc",
       "title": "Papa pede que Zelenski coopere com Putin para garantir ajuda a cidade ucraniana sob controle russo",
       "sourceName": "Estadão Internacional",
       "sourceUrl": "https://www.estadao.com.br/internacional/",
@@ -602,39 +442,7 @@
       "lastChecked": 1792473479955
     },
     {
-      "id": "gdelt-35oyxo9",
-      "title": "Reuters / Ipsos : aprovação de Trump bate recorde negativo e chega a 31 %",
-      "sourceName": "G1 Mundo",
-      "sourceUrl": "https://g1.globo.com/mundo/",
-      "sourceType": "Imprensa Comercial Brasileira",
-      "sourceEditorial": "Portal de notícias mainstream do Grupo Globo",
-      "country": "Brasil",
-      "paywall": false,
-      "originalUrl": "https://g1.globo.com/mundo/noticia/2026/10/19/reutersipsos-aprovacao-de-trump-bate-recorde-negativo-e-chega-a-31percent.ghtml",
-      "publishedAtStr": "2026-10-19T20:15:00Z",
-      "publishedAtTs": 1792440900000,
-      "rawContent": "Reuters / Ipsos : aprovação de Trump bate recorde negativo e chega a 31 %",
-      "linkStatus": "active",
-      "lastChecked": 1792456286104
-    },
-    {
-      "id": "gdelt-3wehvhy",
-      "title": "Nexus : diferença entre Flávio e Lula cai para 0 , 6 ponto",
-      "sourceName": "DW Brasil",
-      "sourceUrl": "https://www.dw.com/pt-br/",
-      "sourceType": "Imprensa Internacional / Pública",
-      "sourceEditorial": "Emissora pública da Alemanha; foco em diplomacia e direitos humanos",
-      "country": "Alemanha",
-      "paywall": false,
-      "originalUrl": "https://www.dw.com/pt-br/nexus-fl%C3%A1vio-bolsonaro-tem-503-e-lula-497-diferen%C3%A7a-cai-para-06-ponto/live-78393402",
-      "publishedAtStr": "2026-10-19T20:00:00Z",
-      "publishedAtTs": 1792440000000,
-      "rawContent": "Nexus : diferença entre Flávio e Lula cai para 0 , 6 ponto",
-      "linkStatus": "active",
-      "lastChecked": 1792456286104
-    },
-    {
-      "id": "gdelt-vi87ohz",
+      "id": "gdelt-q7vc0px",
       "title": "Seguro no hipismo : entenda como funciona a proteo para cavalos que valem milhões",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -650,7 +458,7 @@
       "lastChecked": 1792473479955
     },
     {
-      "id": "gdelt-9kc0gjn",
+      "id": "gdelt-vexnjw4",
       "title": "Filipinas convocam embaixador da China após declarações que transmitem  ameaça",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -666,7 +474,7 @@
       "lastChecked": 1792473479955
     },
     {
-      "id": "gdelt-ycz76s1",
+      "id": "gdelt-p1hmwg6",
       "title": "Ibovespa : incerteza eleitoral e petróleo ofuscam alta de NY e índice registra queda",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -682,7 +490,7 @@
       "lastChecked": 1792473479955
     },
     {
-      "id": "gdelt-k0toaq4",
+      "id": "gdelt-bcwv61j",
       "title": "PF prende mãe e irmão de Oruam em operação contra o Comando Vermelho no RJ",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -698,7 +506,7 @@
       "lastChecked": 1792473479955
     },
     {
-      "id": "gdelt-lp9mdj4",
+      "id": "gdelt-m9j0wwt",
       "title": "Mineração e siderurgia no 3º tri de 2026 : o que esperar dos balanços ?",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -714,7 +522,7 @@
       "lastChecked": 1792473479955
     },
     {
-      "id": "gdelt-xhex6mi",
+      "id": "gdelt-jdec28z",
       "title": "Paris impõe restrições de circulação na Champs - Élysées , Arco do Triunfo e Notre - Dame",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -730,7 +538,7 @@
       "lastChecked": 1792473479955
     },
     {
-      "id": "gdelt-brzll5c",
+      "id": "gdelt-pbc5976",
       "title": "Como anda a Argentina de Milei ? Veja índices de inflação , pobreza e desemprego",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -746,7 +554,7 @@
       "lastChecked": 1792473479955
     },
     {
-      "id": "gdelt-yks9le6",
+      "id": "gdelt-4dz0c8u",
       "title": "Como buscar uma renda extra mensal sem mudar sua rotina de trabalho",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -762,7 +570,7 @@
       "lastChecked": 1792473479955
     },
     {
-      "id": "gdelt-5zln261",
+      "id": "gdelt-x28r9g7",
       "title": "Varejo deve ter 3º trimestre fraco , mas bancos veem oportunidades em aes para 2027",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -778,7 +586,7 @@
       "lastChecked": 1792473479955
     },
     {
-      "id": "gdelt-lnv8t4w",
+      "id": "gdelt-wx8i47n",
       "title": "Tiro durante confusão em bar com deputado atinge apresentador Fred Bruno , da TV Globo",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -790,11 +598,11 @@
       "publishedAtStr": "2026-10-19T20:00:00Z",
       "publishedAtTs": 1792440000000,
       "rawContent": "Tiro durante confusão em bar com deputado atinge apresentador Fred Bruno , da TV Globo",
-      "linkStatus": "unknown",
-      "lastChecked": null
+      "linkStatus": "active",
+      "lastChecked": 1792490938046
     },
     {
-      "id": "gdelt-xcpvsqi",
+      "id": "gdelt-450mufr",
       "title": "Bolsa da Indonésia afunda ao menor nível desde 2020 após alerta da MSCI",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -806,27 +614,11 @@
       "publishedAtStr": "2026-10-19T20:00:00Z",
       "publishedAtTs": 1792440000000,
       "rawContent": "Bolsa da Indonésia afunda ao menor nível desde 2020 após alerta da MSCI",
-      "linkStatus": "unknown",
-      "lastChecked": null
-    },
-    {
-      "id": "gdelt-gt0hv0c",
-      "title": "O que a sexta extino em massa significa para os humanos",
-      "sourceName": "DW Brasil",
-      "sourceUrl": "https://www.dw.com/pt-br/",
-      "sourceType": "Imprensa Internacional / Pública",
-      "sourceEditorial": "Emissora pública da Alemanha; foco em diplomacia e direitos humanos",
-      "country": "Alemanha",
-      "paywall": false,
-      "originalUrl": "https://www.dw.com/pt-br/o-que-a-sexta-extin%C3%A7%C3%A3o-em-massa-da-terra-significa-para-os-humanos/a-79705732",
-      "publishedAtStr": "2026-10-19T18:45:00Z",
-      "publishedAtTs": 1792435500000,
-      "rawContent": "O que a sexta extino em massa significa para os humanos",
       "linkStatus": "active",
-      "lastChecked": 1792456286104
+      "lastChecked": 1792490938046
     },
     {
-      "id": "gdelt-etbr7a9",
+      "id": "gdelt-2i5vz3h",
       "title": "Trump está pressionando a Ucrânia a se render à Rússia , diz Zelenski",
       "sourceName": "Estadão Internacional",
       "sourceUrl": "https://www.estadao.com.br/internacional/",
@@ -838,11 +630,11 @@
       "publishedAtStr": "2026-10-19T18:45:00Z",
       "publishedAtTs": 1792435500000,
       "rawContent": "Trump está pressionando a Ucrânia a se render à Rússia , diz Zelenski",
-      "linkStatus": "unknown",
-      "lastChecked": null
+      "linkStatus": "active",
+      "lastChecked": 1792490938046
     },
     {
-      "id": "gdelt-31k79ga",
+      "id": "gdelt-tcto5u3",
       "title": "Governo antecipa pagamento do Bolsa Família e todos os beneficiários receberão antes da eleio",
       "sourceName": "Valor Econômico",
       "sourceUrl": "https://valor.globo.com/",
@@ -854,11 +646,11 @@
       "publishedAtStr": "2026-10-19T17:45:00Z",
       "publishedAtTs": 1792431900000,
       "rawContent": "Governo antecipa pagamento do Bolsa Família e todos os beneficiários receberão antes da eleio",
-      "linkStatus": "unknown",
-      "lastChecked": null
+      "linkStatus": "active",
+      "lastChecked": 1792490938046
     },
     {
-      "id": "gdelt-8q02frd",
+      "id": "gdelt-clljygq",
       "title": "Calor extremo e chuva forte marcam a semana no Centro - Oeste",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -870,11 +662,11 @@
       "publishedAtStr": "2026-10-19T17:30:00Z",
       "publishedAtTs": 1792431000000,
       "rawContent": "Calor extremo e chuva forte marcam a semana no Centro - Oeste",
-      "linkStatus": "unknown",
-      "lastChecked": null
+      "linkStatus": "active",
+      "lastChecked": 1792490938046
     },
     {
-      "id": "gdelt-kvk8j2c",
+      "id": "gdelt-k5eljtk",
       "title": "Skoda libera modelos 3D gratuitos para acessórios internos dos carros",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -886,11 +678,11 @@
       "publishedAtStr": "2026-10-19T17:30:00Z",
       "publishedAtTs": 1792431000000,
       "rawContent": "Skoda libera modelos 3D gratuitos para acessórios internos dos carros",
-      "linkStatus": "unknown",
-      "lastChecked": null
+      "linkStatus": "active",
+      "lastChecked": 1792490938046
     },
     {
-      "id": "gdelt-udr9nyu",
+      "id": "gdelt-6nn5ad2",
       "title": "As Meninas da Garagem Secreta  estreia no Gloob e no Globoplay",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -902,11 +694,11 @@
       "publishedAtStr": "2026-10-19T17:30:00Z",
       "publishedAtTs": 1792431000000,
       "rawContent": "As Meninas da Garagem Secreta  estreia no Gloob e no Globoplay",
-      "linkStatus": "unknown",
-      "lastChecked": null
+      "linkStatus": "active",
+      "lastChecked": 1792490938046
     },
     {
-      "id": "gdelt-hsjtr1c",
+      "id": "gdelt-0tiyotr",
       "title": "A Noiva da Presilha Dourada , drama de época chinês , chega à Netflix nesta segunda 19",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -918,11 +710,11 @@
       "publishedAtStr": "2026-10-19T17:30:00Z",
       "publishedAtTs": 1792431000000,
       "rawContent": "A Noiva da Presilha Dourada , drama de época chinês , chega à Netflix nesta segunda 19",
-      "linkStatus": "unknown",
-      "lastChecked": null
+      "linkStatus": "active",
+      "lastChecked": 1792490938046
     },
     {
-      "id": "gdelt-50xvsh3",
+      "id": "gdelt-ylfnnr6",
       "title": "Imprensa não pode manter lorota de  escolha difícil  após debate da  Band , avalia Marcos Coimbra",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -934,11 +726,11 @@
       "publishedAtStr": "2026-10-19T17:30:00Z",
       "publishedAtTs": 1792431000000,
       "rawContent": "Imprensa não pode manter lorota de  escolha difícil  após debate da  Band , avalia Marcos Coimbra",
-      "linkStatus": "unknown",
-      "lastChecked": null
+      "linkStatus": "active",
+      "lastChecked": 1792490938046
     },
     {
-      "id": "gdelt-egz0606",
+      "id": "gdelt-we5ct59",
       "title": "Economia cresce em agosto e chega a 1 , 8 % em 12 meses , aponta FGV",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -950,11 +742,11 @@
       "publishedAtStr": "2026-10-19T17:30:00Z",
       "publishedAtTs": 1792431000000,
       "rawContent": "Economia cresce em agosto e chega a 1 , 8 % em 12 meses , aponta FGV",
-      "linkStatus": "unknown",
-      "lastChecked": null
+      "linkStatus": "active",
+      "lastChecked": 1792490938046
     },
     {
-      "id": "gdelt-hot7hmb",
+      "id": "gdelt-jq6n0o7",
       "title": "Em clima de  já ganhou , bolsonarismo negocia divisão de poder no Congresso",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -966,11 +758,11 @@
       "publishedAtStr": "2026-10-19T16:45:00Z",
       "publishedAtTs": 1792428300000,
       "rawContent": "Em clima de  já ganhou , bolsonarismo negocia divisão de poder no Congresso",
-      "linkStatus": "unknown",
-      "lastChecked": null
+      "linkStatus": "active",
+      "lastChecked": 1792490938046
     },
     {
-      "id": "gdelt-pwumwhl",
+      "id": "gdelt-5ri965y",
       "title": "Calor passa dos 35°C no Norte ; Acre e Rondônia têm alerta de tempestades",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -982,11 +774,11 @@
       "publishedAtStr": "2026-10-19T16:45:00Z",
       "publishedAtTs": 1792428300000,
       "rawContent": "Calor passa dos 35°C no Norte ; Acre e Rondônia têm alerta de tempestades",
-      "linkStatus": "unknown",
-      "lastChecked": null
+      "linkStatus": "active",
+      "lastChecked": 1792490938046
     },
     {
-      "id": "gdelt-cox70r0",
+      "id": "gdelt-v45tv8m",
       "title": "Operação da PF mira ex - servidor do STJ por vazar informações a advogado ligado a Flávio Bolsonaro",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -998,11 +790,11 @@
       "publishedAtStr": "2026-10-19T16:45:00Z",
       "publishedAtTs": 1792428300000,
       "rawContent": "Operação da PF mira ex - servidor do STJ por vazar informações a advogado ligado a Flávio Bolsonaro",
-      "linkStatus": "unknown",
-      "lastChecked": null
+      "linkStatus": "active",
+      "lastChecked": 1792490938046
     },
     {
-      "id": "gdelt-ksg2iih",
+      "id": "gdelt-4gcdd0t",
       "title": "Frente fria muda o tempo no Sul e traz chuva para o fim de semana",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -1014,11 +806,11 @@
       "publishedAtStr": "2026-10-19T16:45:00Z",
       "publishedAtTs": 1792428300000,
       "rawContent": "Frente fria muda o tempo no Sul e traz chuva para o fim de semana",
-      "linkStatus": "unknown",
-      "lastChecked": null
+      "linkStatus": "active",
+      "lastChecked": 1792490938046
     },
     {
-      "id": "gdelt-cqllnvz",
+      "id": "gdelt-m040xcg",
       "title": "André Janones é internado na UTI após arritmia cardíaca",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -1030,11 +822,11 @@
       "publishedAtStr": "2026-10-19T16:45:00Z",
       "publishedAtTs": 1792428300000,
       "rawContent": "André Janones é internado na UTI após arritmia cardíaca",
-      "linkStatus": "unknown",
-      "lastChecked": null
+      "linkStatus": "active",
+      "lastChecked": 1792490938046
     },
     {
-      "id": "gdelt-913odej",
+      "id": "gdelt-llsijhq",
       "title": "A disputa entre Lula e Flávio a 6 dias da eleio , segundo pesquisa Futura",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -1046,11 +838,11 @@
       "publishedAtStr": "2026-10-19T16:45:00Z",
       "publishedAtTs": 1792428300000,
       "rawContent": "A disputa entre Lula e Flávio a 6 dias da eleio , segundo pesquisa Futura",
-      "linkStatus": "unknown",
-      "lastChecked": null
+      "linkStatus": "active",
+      "lastChecked": 1792490938046
     },
     {
-      "id": "gdelt-73tonb7",
+      "id": "gdelt-o8qku79",
       "title": "Ato na sede da Meta em São Paulo denuncia interferência na eleio",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -1062,11 +854,11 @@
       "publishedAtStr": "2026-10-19T16:45:00Z",
       "publishedAtTs": 1792428300000,
       "rawContent": "Ato na sede da Meta em São Paulo denuncia interferência na eleio",
-      "linkStatus": "unknown",
-      "lastChecked": null
+      "linkStatus": "active",
+      "lastChecked": 1792490938046
     },
     {
-      "id": "gdelt-tb7jygs",
+      "id": "gdelt-h8j0i7a",
       "title": "Cardápio saudável : 5 receitas proteicas e fáceis de fazer para o almoço da semana",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -1078,11 +870,11 @@
       "publishedAtStr": "2026-10-19T16:45:00Z",
       "publishedAtTs": 1792428300000,
       "rawContent": "Cardápio saudável : 5 receitas proteicas e fáceis de fazer para o almoço da semana",
-      "linkStatus": "unknown",
-      "lastChecked": null
+      "linkStatus": "active",
+      "lastChecked": 1792490938046
     },
     {
-      "id": "gdelt-p2p6rj4",
+      "id": "gdelt-gu86nyt",
       "title": "Estupro  corresponde a 2 , 8 % dos atos infracionais de adolescentes internados no Brasil",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -1094,11 +886,11 @@
       "publishedAtStr": "2026-10-19T16:45:00Z",
       "publishedAtTs": 1792428300000,
       "rawContent": "Estupro  corresponde a 2 , 8 % dos atos infracionais de adolescentes internados no Brasil",
-      "linkStatus": "unknown",
-      "lastChecked": null
+      "linkStatus": "active",
+      "lastChecked": 1792490938046
     },
     {
-      "id": "gdelt-m8crhxf",
+      "id": "gdelt-g70hwmk",
       "title": "Autor de inesquecíveis sambas abolerados , Benito di Paula deixa marca indelével na música",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -1110,11 +902,11 @@
       "publishedAtStr": "2026-10-19T16:45:00Z",
       "publishedAtTs": 1792428300000,
       "rawContent": "Autor de inesquecíveis sambas abolerados , Benito di Paula deixa marca indelével na música",
-      "linkStatus": "unknown",
-      "lastChecked": null
+      "linkStatus": "active",
+      "lastChecked": 1792490938046
     },
     {
-      "id": "gdelt-kznrpq7",
+      "id": "gdelt-galijfc",
       "title": "Anvisa proíbe lotes de medicamento para tratar câncer",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -1126,11 +918,11 @@
       "publishedAtStr": "2026-10-19T16:45:00Z",
       "publishedAtTs": 1792428300000,
       "rawContent": "Anvisa proíbe lotes de medicamento para tratar câncer",
-      "linkStatus": "unknown",
-      "lastChecked": null
+      "linkStatus": "active",
+      "lastChecked": 1792490938046
     },
     {
-      "id": "gdelt-d98juw5",
+      "id": "gdelt-w23hcpx",
       "title": "PF prende mãe e irmão de Oruam em operação contra o Comando Vermelho",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -1142,11 +934,11 @@
       "publishedAtStr": "2026-10-19T16:45:00Z",
       "publishedAtTs": 1792428300000,
       "rawContent": "PF prende mãe e irmão de Oruam em operação contra o Comando Vermelho",
-      "linkStatus": "unknown",
-      "lastChecked": null
+      "linkStatus": "active",
+      "lastChecked": 1792490938046
     },
     {
-      "id": "gdelt-q9g92ye",
+      "id": "gdelt-t24jtr5",
       "title": "Lula reforça desafio a Flávio Bolsonaro :  Abra seus sigilos",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -1158,11 +950,11 @@
       "publishedAtStr": "2026-10-19T16:45:00Z",
       "publishedAtTs": 1792428300000,
       "rawContent": "Lula reforça desafio a Flávio Bolsonaro :  Abra seus sigilos",
-      "linkStatus": "unknown",
-      "lastChecked": null
+      "linkStatus": "active",
+      "lastChecked": 1792490938046
     },
     {
-      "id": "gdelt-57mrma2",
+      "id": "gdelt-mom7s5a",
       "title": "Sol e calor marcam o início da semana no Sudeste",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -1174,11 +966,11 @@
       "publishedAtStr": "2026-10-19T16:45:00Z",
       "publishedAtTs": 1792428300000,
       "rawContent": "Sol e calor marcam o início da semana no Sudeste",
-      "linkStatus": "unknown",
-      "lastChecked": null
+      "linkStatus": "active",
+      "lastChecked": 1792490938046
     },
     {
-      "id": "gdelt-oinhu4x",
+      "id": "gdelt-4juydpm",
       "title": "Debate 2º turno : quando será o próximo embate entre Lula e Flávio Bolsonaro ?",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -1190,11 +982,11 @@
       "publishedAtStr": "2026-10-19T16:15:00Z",
       "publishedAtTs": 1792426500000,
       "rawContent": "Debate 2º turno : quando será o próximo embate entre Lula e Flávio Bolsonaro ?",
-      "linkStatus": "unknown",
-      "lastChecked": null
+      "linkStatus": "active",
+      "lastChecked": 1792490938046
     },
     {
-      "id": "gdelt-pknxes4",
+      "id": "gdelt-4s2715n",
       "title": "Lula mira absteno , Flávio aposta em aliados : as estratégias da última semana",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -1206,11 +998,11 @@
       "publishedAtStr": "2026-10-19T16:15:00Z",
       "publishedAtTs": 1792426500000,
       "rawContent": "Lula mira absteno , Flávio aposta em aliados : as estratégias da última semana",
-      "linkStatus": "unknown",
-      "lastChecked": null
+      "linkStatus": "active",
+      "lastChecked": 1792490938046
     },
     {
-      "id": "gdelt-x1dgj34",
+      "id": "gdelt-2qs7lxa",
       "title": "Fleury ( FLRY3 ) testa novas máximas ; Vale ( VALE3 ) pode cair ainda mais ?",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -1222,11 +1014,11 @@
       "publishedAtStr": "2026-10-19T16:15:00Z",
       "publishedAtTs": 1792426500000,
       "rawContent": "Fleury ( FLRY3 ) testa novas máximas ; Vale ( VALE3 ) pode cair ainda mais ?",
-      "linkStatus": "unknown",
-      "lastChecked": null
+      "linkStatus": "active",
+      "lastChecked": 1792490938046
     },
     {
-      "id": "gdelt-3449cda",
+      "id": "gdelt-zec9apc",
       "title": "Dólar hoje recua com novas pesquisas eleitorais no radar",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -1238,11 +1030,11 @@
       "publishedAtStr": "2026-10-19T16:15:00Z",
       "publishedAtTs": 1792426500000,
       "rawContent": "Dólar hoje recua com novas pesquisas eleitorais no radar",
-      "linkStatus": "unknown",
-      "lastChecked": null
+      "linkStatus": "active",
+      "lastChecked": 1792490938046
     },
     {
-      "id": "gdelt-ozfekvi",
+      "id": "gdelt-5rzussn",
       "title": "Dexco encerra produo de louças sanitárias em unidade em Pernambuco",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -1254,11 +1046,11 @@
       "publishedAtStr": "2026-10-19T16:15:00Z",
       "publishedAtTs": 1792426500000,
       "rawContent": "Dexco encerra produo de louças sanitárias em unidade em Pernambuco",
-      "linkStatus": "unknown",
-      "lastChecked": null
+      "linkStatus": "active",
+      "lastChecked": 1792490938046
     },
     {
-      "id": "gdelt-9js9hyk",
+      "id": "gdelt-kcwslhc",
       "title": "Como os americanos se sentem em relação ao socialismo ?",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -1270,11 +1062,11 @@
       "publishedAtStr": "2026-10-19T16:15:00Z",
       "publishedAtTs": 1792426500000,
       "rawContent": "Como os americanos se sentem em relação ao socialismo ?",
-      "linkStatus": "unknown",
-      "lastChecked": null
+      "linkStatus": "active",
+      "lastChecked": 1792490938046
     },
     {
-      "id": "gdelt-p9qkub0",
+      "id": "gdelt-lz1o4h4",
       "title": "S & P 500 e Nasdaq sobem com recuperação de aes ligadas à IA antes de balanços",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -1286,11 +1078,11 @@
       "publishedAtStr": "2026-10-19T16:15:00Z",
       "publishedAtTs": 1792426500000,
       "rawContent": "S & P 500 e Nasdaq sobem com recuperação de aes ligadas à IA antes de balanços",
-      "linkStatus": "unknown",
-      "lastChecked": null
+      "linkStatus": "active",
+      "lastChecked": 1792490938046
     },
     {
-      "id": "gdelt-ldkdz84",
+      "id": "gdelt-eyu8puu",
       "title": "Fed vê IA pressionar inflação , mas outros podem ter que arcar com o remédio",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -1302,11 +1094,11 @@
       "publishedAtStr": "2026-10-19T16:15:00Z",
       "publishedAtTs": 1792426500000,
       "rawContent": "Fed vê IA pressionar inflação , mas outros podem ter que arcar com o remédio",
-      "linkStatus": "unknown",
-      "lastChecked": null
+      "linkStatus": "active",
+      "lastChecked": 1792490938046
     },
     {
-      "id": "gdelt-akvflwn",
+      "id": "gdelt-f4h8eik",
       "title": "TSE dá 24 horas para Meta cumprir decisão sobre campanhas de Lula e Flávio",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -1318,11 +1110,11 @@
       "publishedAtStr": "2026-10-19T16:15:00Z",
       "publishedAtTs": 1792426500000,
       "rawContent": "TSE dá 24 horas para Meta cumprir decisão sobre campanhas de Lula e Flávio",
-      "linkStatus": "unknown",
-      "lastChecked": null
+      "linkStatus": "active",
+      "lastChecked": 1792490938046
     },
     {
-      "id": "gdelt-sic58vd",
+      "id": "gdelt-t5gn6uq",
       "title": "Deputado do PL é detido após disparo de arma em bar de São Paulo e acaba liberado",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -1334,11 +1126,11 @@
       "publishedAtStr": "2026-10-19T16:15:00Z",
       "publishedAtTs": 1792426500000,
       "rawContent": "Deputado do PL é detido após disparo de arma em bar de São Paulo e acaba liberado",
-      "linkStatus": "unknown",
-      "lastChecked": null
+      "linkStatus": "active",
+      "lastChecked": 1792490938046
     },
     {
-      "id": "gdelt-c2kmld9",
+      "id": "gdelt-r1v6emj",
       "title": "Setor de saúde terá melhora operacional ou trimestre mais fraco no 3T ; veja análises",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -1350,11 +1142,11 @@
       "publishedAtStr": "2026-10-19T16:15:00Z",
       "publishedAtTs": 1792426500000,
       "rawContent": "Setor de saúde terá melhora operacional ou trimestre mais fraco no 3T ; veja análises",
-      "linkStatus": "unknown",
-      "lastChecked": null
+      "linkStatus": "active",
+      "lastChecked": 1792490938046
     },
     {
-      "id": "gdelt-j6c4wiw",
+      "id": "gdelt-bhfz7sp",
       "title": "Cafés abertos e ruas em chamas : os dois mundos na noite  surrealista  de Paris",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -1366,11 +1158,11 @@
       "publishedAtStr": "2026-10-19T16:15:00Z",
       "publishedAtTs": 1792426500000,
       "rawContent": "Cafés abertos e ruas em chamas : os dois mundos na noite  surrealista  de Paris",
-      "linkStatus": "unknown",
-      "lastChecked": null
+      "linkStatus": "active",
+      "lastChecked": 1792490938046
     },
     {
-      "id": "gdelt-ycgilkz",
+      "id": "gdelt-f27iran",
       "title": "Volkswagen planeja congelar salários até 2030 , afirma conselho de trabalhadores",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -1382,11 +1174,11 @@
       "publishedAtStr": "2026-10-19T16:15:00Z",
       "publishedAtTs": 1792426500000,
       "rawContent": "Volkswagen planeja congelar salários até 2030 , afirma conselho de trabalhadores",
-      "linkStatus": "unknown",
-      "lastChecked": null
+      "linkStatus": "active",
+      "lastChecked": 1792490938046
     },
     {
-      "id": "gdelt-ssarxch",
+      "id": "gdelt-83yv6io",
       "title": "Títulos da França caem após distúrbios aumentarem pressão sobre o governo",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -1398,11 +1190,11 @@
       "publishedAtStr": "2026-10-19T16:15:00Z",
       "publishedAtTs": 1792426500000,
       "rawContent": "Títulos da França caem após distúrbios aumentarem pressão sobre o governo",
-      "linkStatus": "unknown",
-      "lastChecked": null
+      "linkStatus": "active",
+      "lastChecked": 1792490938046
     },
     {
-      "id": "gdelt-w4xdvvm",
+      "id": "gdelt-n832itt",
       "title": "A 5 dias da eleio , Real Time mede transferência de votos entre Lula e Flávio",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -1414,11 +1206,11 @@
       "publishedAtStr": "2026-10-19T16:15:00Z",
       "publishedAtTs": 1792426500000,
       "rawContent": "A 5 dias da eleio , Real Time mede transferência de votos entre Lula e Flávio",
-      "linkStatus": "unknown",
-      "lastChecked": null
+      "linkStatus": "active",
+      "lastChecked": 1792490938046
     },
     {
-      "id": "gdelt-skgupv6",
+      "id": "gdelt-hqgb0sa",
       "title": "Lula x Bolsonaro : o que diziam as pesquisas a uma semana do 2º turno de 2022 ?",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -1430,11 +1222,11 @@
       "publishedAtStr": "2026-10-19T16:15:00Z",
       "publishedAtTs": 1792426500000,
       "rawContent": "Lula x Bolsonaro : o que diziam as pesquisas a uma semana do 2º turno de 2022 ?",
-      "linkStatus": "unknown",
-      "lastChecked": null
+      "linkStatus": "active",
+      "lastChecked": 1792490938046
     },
     {
-      "id": "gdelt-0k3d07d",
+      "id": "gdelt-0e6tpm9",
       "title": "Eleições podem levar o Ibovespa aos 230 mil pontos ou ampliar a correo ?",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -1450,7 +1242,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-7czwjun",
+      "id": "gdelt-0jgtyed",
       "title": "Quem é Marcelo Aguiar , deputado do PL e cantor gospel detido após disparar arma em SP",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -1466,7 +1258,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-r29jpdb",
+      "id": "gdelt-k7zb0s4",
       "title": "Renda Fixa Hoje : confira as taxas de CDBs , LCIs e LCAs na XP nesta segunda - feira ( 19 )",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -1482,7 +1274,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-vv4c72j",
+      "id": "gdelt-excd12s",
       "title": "Onde estamos ? Dominância Política ?",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -1498,7 +1290,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-2sgmaas",
+      "id": "gdelt-9y375mh",
       "title": "Lindt demite CEO após resultados ruins e revisões para baixo nas perspectivas",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -1514,7 +1306,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-cbopvo6",
+      "id": "gdelt-q0a5pf8",
       "title": "Férias de 1 noite e viagens góticas ? As tendências que dominarão 2027",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -1530,7 +1322,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-8cs5k70",
+      "id": "gdelt-kkj856q",
       "title": "Taxas dos DIs caem após novas pesquisas eleitorais e debate entre Flávio e Lula",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -1546,7 +1338,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-htr9ae8",
+      "id": "gdelt-mvwt1gw",
       "title": "TCE - RJ suspende contrato em plataforma por suspeita de irregularidades de Castro",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -1562,7 +1354,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-536f16u",
+      "id": "gdelt-17q0jyu",
       "title": "Empresas estudam pontos para  carros voadores  em SP",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -1578,7 +1370,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-ekv624l",
+      "id": "gdelt-b03z6mo",
       "title": "O que é o Ministério da Prosperidade , promessa de Flávio Bolsonaro se eleito ?",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -1594,7 +1386,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-lgp68wy",
+      "id": "gdelt-5wl7fn3",
       "title": "Decepcionante , triste , vergonhoso , infeliz : eleitores analisam o debate presidencial",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -1610,7 +1402,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-qb4ba9j",
+      "id": "gdelt-mtvgpld",
       "title": "Rede DOr ( RDOR3 ): novo acordo de controladores reforça sucessão e agrada a analistas",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -1626,7 +1418,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-r5fwxjr",
+      "id": "gdelt-oqhs36q",
       "title": "Imprensa estrangeira pontua ataques e poucas propostas em debate entre Lula e Flávio",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -1642,7 +1434,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-egcpmy4",
+      "id": "gdelt-7506x6d",
       "title": "De olho na sucessão de Macron , direita radical fala em  lei e ordem  contra protestos na França",
       "sourceName": "Estadão Internacional",
       "sourceUrl": "https://www.estadao.com.br/internacional/",
@@ -1658,7 +1450,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-o9boddy",
+      "id": "gdelt-vrc4quj",
       "title": "Protestos na França se espalham para Itália , Portugal e Albânia ; Meloni convoca reunião de segurança",
       "sourceName": "Estadão Internacional",
       "sourceUrl": "https://www.estadao.com.br/internacional/",
@@ -1674,7 +1466,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-mkollt1",
+      "id": "gdelt-i1pbcro",
       "title": "Putin sugere cúpula com Trump e Xi para discutir acordo sobre fim da guerra na Ucrânia",
       "sourceName": "Veja Mundo",
       "sourceUrl": "https://veja.abril.com.br/mundo/",
@@ -1690,7 +1482,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-pwxj8ee",
+      "id": "gdelt-uhzki6o",
       "title": "Janones diz que Flávio quis  se impor pela força  em debate , mas Lula  não entrou na pilha  | Valor Econômico",
       "sourceName": "Valor Econômico",
       "sourceUrl": "https://valor.globo.com/",
@@ -1706,7 +1498,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-fychmdv",
+      "id": "gdelt-lzpx175",
       "title": "Eleio chega à reta final em aberto e 7 % decidirão o vencedor",
       "sourceName": "Valor Econômico",
       "sourceUrl": "https://valor.globo.com/",
@@ -1722,7 +1514,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-0sbwddc",
+      "id": "gdelt-ppdhfoh",
       "title": "França impõe toques de recolher para conter saques e depredaes após fim de semana de protestos",
       "sourceName": "Estadão Internacional",
       "sourceUrl": "https://www.estadao.com.br/internacional/",
@@ -1738,7 +1530,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-5ti6ig8",
+      "id": "gdelt-frcdrun",
       "title": "Avião que voava de Israel para a Áustria faz pouso de emergência após ameaça de bomba",
       "sourceName": "Estadão Internacional",
       "sourceUrl": "https://www.estadao.com.br/internacional/",
@@ -1754,7 +1546,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-2to89gn",
+      "id": "gdelt-zukkibc",
       "title": "Alberta vai às urnas para decidir se faz votação sobre separação do Canadá ; veja o que está em jogo",
       "sourceName": "Estadão Internacional",
       "sourceUrl": "https://www.estadao.com.br/internacional/",
@@ -1770,7 +1562,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-m7ftw0g",
+      "id": "gdelt-vsgz6wh",
       "title": "Protesto fecha Louvre e premiê francês pede toque de recolher após onda de violência",
       "sourceName": "Veja Mundo",
       "sourceUrl": "https://veja.abril.com.br/mundo/",
@@ -1786,7 +1578,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-mdw8f1p",
+      "id": "gdelt-esu9k68",
       "title": "Caso Ana Clara : PM que matou menina de 5 anos foi defendido por Flávio Bolsonaro",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -1802,7 +1594,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-mapqh1c",
+      "id": "gdelt-r580ox9",
       "title": "Dólar volátil : vale antecipar pagamentos ? Veja como empresas podem economizar",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -1818,7 +1610,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-ir6lfs0",
+      "id": "gdelt-rgsu8q2",
       "title": "Na China , produo industrial cresce 5 , 5 % e vendas no varejo sobem 1 , 1 % em setembro",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -1834,7 +1626,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-m35q7mn",
+      "id": "gdelt-5e1l9ne",
       "title": "Lula sobe , mas Flávio segue à frente no 2º turno , indica AtlasIntel",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -1850,7 +1642,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-ya94brz",
+      "id": "gdelt-2fag6od",
       "title": "Agenda dos candidatos : Lula participa de ato em Porto Alegre ; Flávio Bolsonaro vai ao Pará e ao Amazonas",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
