@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-10-20T10:09:15.030Z",
+  "updatedAt": "2026-10-20T15:11:41.709Z",
   "periodUsed": "24h",
-  "count": 103,
+  "count": 145,
   "linkVerificationStats": {
     "checkedThisRun": 40,
     "active": 40,
@@ -10,7 +10,871 @@
   },
   "articles": [
     {
-      "id": "gdelt-i80y8fl",
+      "id": "gdelt-ouc3gl7",
+      "title": "GM supera previsões de lucro e receita no 3º tri e anuncia plano de recompra de aes",
+      "sourceName": "InfoMoney",
+      "sourceUrl": "https://www.infomoney.com.br/",
+      "sourceType": "Imprensa Comercial Brasileira",
+      "sourceEditorial": "Portal especializado em mercados e economia global",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://www.infomoney.com.br/mercados/gm-supera-previsoes-de-lucro-e-receita-no-3o-tri-e-anuncia-plano-de-recompra-de-acoes/",
+      "publishedAtStr": "2026-10-20T14:45:00Z",
+      "publishedAtTs": 1792507500000,
+      "rawContent": "GM supera previsões de lucro e receita no 3º tri e anuncia plano de recompra de aes",
+      "linkStatus": "active",
+      "lastChecked": 1792509080947
+    },
+    {
+      "id": "gdelt-tvhxibf",
+      "title": "Eleies 2026 : O que Lula e Flávio Bolsonaro propõem para reforma tributária",
+      "sourceName": "InfoMoney",
+      "sourceUrl": "https://www.infomoney.com.br/",
+      "sourceType": "Imprensa Comercial Brasileira",
+      "sourceEditorial": "Portal especializado em mercados e economia global",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://www.infomoney.com.br/politica/propostas-lula-flavio-reforma-tributaria/",
+      "publishedAtStr": "2026-10-20T14:45:00Z",
+      "publishedAtTs": 1792507500000,
+      "rawContent": "Eleies 2026 : O que Lula e Flávio Bolsonaro propõem para reforma tributária",
+      "linkStatus": "active",
+      "lastChecked": 1792509080947
+    },
+    {
+      "id": "gdelt-zlqggvc",
+      "title": "Quem é o pastor Paul Mackenzie , líder de seita que forçou 190 crianças a jejuarem até morrer",
+      "sourceName": "Estadão Internacional",
+      "sourceUrl": "https://www.estadao.com.br/internacional/",
+      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
+      "sourceEditorial": "Jornal tradicional de geopolítica - Conteúdo sob assinatura",
+      "country": "Brasil",
+      "paywall": true,
+      "originalUrl": "https://www.estadao.com.br/internacional/quem-e-o-pastor-paul-mackenzie-lider-de-seita-que-forcou-190-criancas-a-jejuarem-ate-morrer-npr/",
+      "publishedAtStr": "2026-10-20T14:15:00Z",
+      "publishedAtTs": 1792505700000,
+      "rawContent": "Quem é o pastor Paul Mackenzie , líder de seita que forçou 190 crianças a jejuarem até morrer",
+      "linkStatus": "active",
+      "lastChecked": 1792509080947
+    },
+    {
+      "id": "gdelt-wkydkbk",
+      "title": "Protestos na França : PM acusa extrema - esquerda de plano insurrecional",
+      "sourceName": "G1 Mundo",
+      "sourceUrl": "https://g1.globo.com/mundo/",
+      "sourceType": "Imprensa Comercial Brasileira",
+      "sourceEditorial": "Portal de notícias mainstream do Grupo Globo",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://g1.globo.com/mundo/noticia/2026/10/20/primeiro-ministro-frances-culpa-grupos-de-extrema-esquerda-por-plano-insurrecional-nos-disturbios-do-fim-de-semana.ghtml",
+      "publishedAtStr": "2026-10-20T14:00:00Z",
+      "publishedAtTs": 1792504800000,
+      "rawContent": "Protestos na França : PM acusa extrema - esquerda de plano insurrecional",
+      "linkStatus": "active",
+      "lastChecked": 1792509080947
+    },
+    {
+      "id": "gdelt-zegv8dx",
+      "title": "Ex - Botafogo , Franclim Carvalho é anunciado como novo técnico do Braga de Portugal",
+      "sourceName": "O Globo Mundo",
+      "sourceUrl": "https://oglobo.globo.com/mundo/",
+      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
+      "sourceEditorial": "Jornal diário (Grupo Globo) - Conteúdo sob assinatura",
+      "country": "Brasil",
+      "paywall": true,
+      "originalUrl": "https://oglobo.globo.com/mundo/epoca/noticia/2026/10/20/franclim-carvalho-sera-o-novo-tecnico-do-braga-de-portugal.ghtml",
+      "publishedAtStr": "2026-10-20T13:30:00Z",
+      "publishedAtTs": 1792503000000,
+      "rawContent": "Ex - Botafogo , Franclim Carvalho é anunciado como novo técnico do Braga de Portugal",
+      "linkStatus": "active",
+      "lastChecked": 1792509080947
+    },
+    {
+      "id": "gdelt-qydlyg9",
+      "title": "Enchentes alagam cidade no sul da França em meio a onda de protestos que levou a toques de recolher ; vídeo",
+      "sourceName": "O Globo Mundo",
+      "sourceUrl": "https://oglobo.globo.com/mundo/",
+      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
+      "sourceEditorial": "Jornal diário (Grupo Globo) - Conteúdo sob assinatura",
+      "country": "Brasil",
+      "paywall": true,
+      "originalUrl": "https://oglobo.globo.com/mundo/epoca/noticia/2026/10/20/enchentes-alagam-cidade-no-sul-da-franca-em-meio-a-onda-de-protestos-que-levou-a-toques-de-recolher.ghtml",
+      "publishedAtStr": "2026-10-20T13:30:00Z",
+      "publishedAtTs": 1792503000000,
+      "rawContent": "Enchentes alagam cidade no sul da França em meio a onda de protestos que levou a toques de recolher ; vídeo",
+      "linkStatus": "active",
+      "lastChecked": 1792509080947
+    },
+    {
+      "id": "gdelt-ep5fici",
+      "title": "Reino Unido anuncia envio de aviões militares para  missões defensiva na Arábia Saudita contra ataques Houthis",
+      "sourceName": "O Globo Mundo",
+      "sourceUrl": "https://oglobo.globo.com/mundo/",
+      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
+      "sourceEditorial": "Jornal diário (Grupo Globo) - Conteúdo sob assinatura",
+      "country": "Brasil",
+      "paywall": true,
+      "originalUrl": "https://oglobo.globo.com/mundo/noticia/2026/10/20/reino-unido-anuncia-envio-de-avioes-militares-para-missoes-defensivas-na-arabia-saudita-contra-ataques-houthis.ghtml",
+      "publishedAtStr": "2026-10-20T13:30:00Z",
+      "publishedAtTs": 1792503000000,
+      "rawContent": "Reino Unido anuncia envio de aviões militares para  missões defensiva na Arábia Saudita contra ataques Houthis",
+      "linkStatus": "active",
+      "lastChecked": 1792509080947
+    },
+    {
+      "id": "gdelt-2mct63n",
+      "title": "Secretário de Queimados , no Rio , morre baleado em abordagem da PM",
+      "sourceName": "CartaCapital",
+      "sourceUrl": "https://www.cartacapital.com.br/",
+      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
+      "sourceEditorial": "Jornalismo progressista - Conteúdo sob assinatura parcial",
+      "country": "Brasil",
+      "paywall": true,
+      "originalUrl": "https://www.cartacapital.com.br/politica/secretario-de-queimados-no-rio-morre-baleado-em-abordagem-da-pm/",
+      "publishedAtStr": "2026-10-20T12:00:00Z",
+      "publishedAtTs": 1792497600000,
+      "rawContent": "Secretário de Queimados , no Rio , morre baleado em abordagem da PM",
+      "linkStatus": "active",
+      "lastChecked": 1792509080947
+    },
+    {
+      "id": "gdelt-btcr96j",
+      "title": "Exército ucraniano faz salvamento inédito de soldado ferido com drone",
+      "sourceName": "G1 Mundo",
+      "sourceUrl": "https://g1.globo.com/mundo/",
+      "sourceType": "Imprensa Comercial Brasileira",
+      "sourceEditorial": "Portal de notícias mainstream do Grupo Globo",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://g1.globo.com/mundo/noticia/2026/10/20/exercito-ucraniano-salvamento-soldado-drone.ghtml",
+      "publishedAtStr": "2026-10-20T11:45:00Z",
+      "publishedAtTs": 1792496700000,
+      "rawContent": "Exército ucraniano faz salvamento inédito de soldado ferido com drone",
+      "linkStatus": "active",
+      "lastChecked": 1792509080947
+    },
+    {
+      "id": "gdelt-dvtzoz7",
+      "title": "Polícia desmantela acampamento pelo direito à moradia em Lisboa",
+      "sourceName": "G1 Mundo",
+      "sourceUrl": "https://g1.globo.com/mundo/",
+      "sourceType": "Imprensa Comercial Brasileira",
+      "sourceEditorial": "Portal de notícias mainstream do Grupo Globo",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://g1.globo.com/mundo/noticia/2026/10/20/policia-desmantela-acampamento-protesto-moradia-lisboa.ghtml",
+      "publishedAtStr": "2026-10-20T11:45:00Z",
+      "publishedAtTs": 1792496700000,
+      "rawContent": "Polícia desmantela acampamento pelo direito à moradia em Lisboa",
+      "linkStatus": "active",
+      "lastChecked": 1792509080947
+    },
+    {
+      "id": "gdelt-tvk50tb",
+      "title": "Petrobras além dos R$ 900 bi de valor ? Até onde ao pode ir após saltar 100 % no ano",
+      "sourceName": "InfoMoney",
+      "sourceUrl": "https://www.infomoney.com.br/",
+      "sourceType": "Imprensa Comercial Brasileira",
+      "sourceEditorial": "Portal especializado em mercados e economia global",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://www.infomoney.com.br/mercados/petrobras-alem-dos-r-900-bi-de-valor-ate-onde-acao-pode-ir-apos-saltar-100-no-ano/",
+      "publishedAtStr": "2026-10-20T11:45:00Z",
+      "publishedAtTs": 1792496700000,
+      "rawContent": "Petrobras além dos R$ 900 bi de valor ? Até onde ao pode ir após saltar 100 % no ano",
+      "linkStatus": "active",
+      "lastChecked": 1792509080947
+    },
+    {
+      "id": "gdelt-qw1z4mm",
+      "title": "Um exército de Claudes : Anthropic diz que ateno humana virou gargalo da IA",
+      "sourceName": "InfoMoney",
+      "sourceUrl": "https://www.infomoney.com.br/",
+      "sourceType": "Imprensa Comercial Brasileira",
+      "sourceEditorial": "Portal especializado em mercados e economia global",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://www.infomoney.com.br/business/global/um-exercito-de-claudes-anthropic-diz-que-atencao-humana-virou-gargalo-da-ia/",
+      "publishedAtStr": "2026-10-20T11:45:00Z",
+      "publishedAtTs": 1792496700000,
+      "rawContent": "Um exército de Claudes : Anthropic diz que ateno humana virou gargalo da IA",
+      "linkStatus": "active",
+      "lastChecked": 1792509080947
+    },
+    {
+      "id": "gdelt-ys8mcta",
+      "title": "Argentina lança programa de demissão voluntária com foco em 20 mil servidores",
+      "sourceName": "InfoMoney",
+      "sourceUrl": "https://www.infomoney.com.br/",
+      "sourceType": "Imprensa Comercial Brasileira",
+      "sourceEditorial": "Portal especializado em mercados e economia global",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://www.infomoney.com.br/mundo/argentina-lanca-programa-de-demissao-voluntaria-com-foco-em-20-mil-servidores/",
+      "publishedAtStr": "2026-10-20T11:45:00Z",
+      "publishedAtTs": 1792496700000,
+      "rawContent": "Argentina lança programa de demissão voluntária com foco em 20 mil servidores",
+      "linkStatus": "active",
+      "lastChecked": 1792509080947
+    },
+    {
+      "id": "gdelt-f29e9ks",
+      "title": "Casan homologa aumento de capital de R$83 , 2 mi mediante subscrio privada de aes",
+      "sourceName": "InfoMoney",
+      "sourceUrl": "https://www.infomoney.com.br/",
+      "sourceType": "Imprensa Comercial Brasileira",
+      "sourceEditorial": "Portal especializado em mercados e economia global",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://www.infomoney.com.br/mercados/casan-homologa-aumento-de-capital-de-r832-mi-mediante-subscricao-privada-de-acoes/",
+      "publishedAtStr": "2026-10-20T11:45:00Z",
+      "publishedAtTs": 1792496700000,
+      "rawContent": "Casan homologa aumento de capital de R$83 , 2 mi mediante subscrio privada de aes",
+      "linkStatus": "active",
+      "lastChecked": 1792509080947
+    },
+    {
+      "id": "gdelt-0vsk6yv",
+      "title": "Ibovespa hoje : acompanhe em tempo real a Bolsa de Valores",
+      "sourceName": "InfoMoney",
+      "sourceUrl": "https://www.infomoney.com.br/",
+      "sourceType": "Imprensa Comercial Brasileira",
+      "sourceEditorial": "Portal especializado em mercados e economia global",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-20102026/",
+      "publishedAtStr": "2026-10-20T11:45:00Z",
+      "publishedAtTs": 1792496700000,
+      "rawContent": "Ibovespa hoje : acompanhe em tempo real a Bolsa de Valores",
+      "linkStatus": "active",
+      "lastChecked": 1792509080947
+    },
+    {
+      "id": "gdelt-6by4ujt",
+      "title": "Real Time Big Data : Flávio tem 48 %; Lula , 45 %",
+      "sourceName": "CartaCapital",
+      "sourceUrl": "https://www.cartacapital.com.br/",
+      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
+      "sourceEditorial": "Jornalismo progressista - Conteúdo sob assinatura parcial",
+      "country": "Brasil",
+      "paywall": true,
+      "originalUrl": "https://www.cartacapital.com.br/politica/real-time-big-data-flavio-tem-48-lula-45/",
+      "publishedAtStr": "2026-10-20T11:45:00Z",
+      "publishedAtTs": 1792496700000,
+      "rawContent": "Real Time Big Data : Flávio tem 48 %; Lula , 45 %",
+      "linkStatus": "active",
+      "lastChecked": 1792509080947
+    },
+    {
+      "id": "gdelt-kl4toix",
+      "title": "Janones anuncia que terá alta hospitalar nesta terça",
+      "sourceName": "CartaCapital",
+      "sourceUrl": "https://www.cartacapital.com.br/",
+      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
+      "sourceEditorial": "Jornalismo progressista - Conteúdo sob assinatura parcial",
+      "country": "Brasil",
+      "paywall": true,
+      "originalUrl": "https://www.cartacapital.com.br/politica/janones-anuncia-que-tera-alta-hospitalar-nesta-terca/",
+      "publishedAtStr": "2026-10-20T11:45:00Z",
+      "publishedAtTs": 1792496700000,
+      "rawContent": "Janones anuncia que terá alta hospitalar nesta terça",
+      "linkStatus": "active",
+      "lastChecked": 1792509080947
+    },
+    {
+      "id": "gdelt-492s303",
+      "title": "Mini - índice ( WINZ26 ): Ibovespa futuro busca direo entre eleio e exterior",
+      "sourceName": "InfoMoney",
+      "sourceUrl": "https://www.infomoney.com.br/",
+      "sourceType": "Imprensa Comercial Brasileira",
+      "sourceEditorial": "Portal especializado em mercados e economia global",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://www.infomoney.com.br/mercados/mini-indice-hoje-futuro-ibovespa-winz26-20102026/",
+      "publishedAtStr": "2026-10-20T11:45:00Z",
+      "publishedAtTs": 1792496700000,
+      "rawContent": "Mini - índice ( WINZ26 ): Ibovespa futuro busca direo entre eleio e exterior",
+      "linkStatus": "active",
+      "lastChecked": 1792509080947
+    },
+    {
+      "id": "gdelt-fms007q",
+      "title": "Day Trade hoje ( 20 ): Ibovespa recua ; veja os próximos suportes e resistências",
+      "sourceName": "InfoMoney",
+      "sourceUrl": "https://www.infomoney.com.br/",
+      "sourceType": "Imprensa Comercial Brasileira",
+      "sourceEditorial": "Portal especializado em mercados e economia global",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://www.infomoney.com.br/mercados/mercados-day-trade-hoje-analistas-20102026/",
+      "publishedAtStr": "2026-10-20T11:45:00Z",
+      "publishedAtTs": 1792496700000,
+      "rawContent": "Day Trade hoje ( 20 ): Ibovespa recua ; veja os próximos suportes e resistências",
+      "linkStatus": "active",
+      "lastChecked": 1792509080947
+    },
+    {
+      "id": "gdelt-98f357a",
+      "title": "Pesquisa eleitoral , petróleo , balanços da Netflix e SpaceX e mais destaques desta 3ª",
+      "sourceName": "InfoMoney",
+      "sourceUrl": "https://www.infomoney.com.br/",
+      "sourceType": "Imprensa Comercial Brasileira",
+      "sourceEditorial": "Portal especializado em mercados e economia global",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://www.infomoney.com.br/mercados/pesquisa-eleitoral-balancos-netflix-spacex-agenda-20102026/",
+      "publishedAtStr": "2026-10-20T11:45:00Z",
+      "publishedAtTs": 1792496700000,
+      "rawContent": "Pesquisa eleitoral , petróleo , balanços da Netflix e SpaceX e mais destaques desta 3ª",
+      "linkStatus": "active",
+      "lastChecked": 1792509080947
+    },
+    {
+      "id": "gdelt-ip20rax",
+      "title": "Flávio Bolsonaro ( PL ) propõe Bolsa Família por até 2 anos para quem arrumar emprego",
+      "sourceName": "InfoMoney",
+      "sourceUrl": "https://www.infomoney.com.br/",
+      "sourceType": "Imprensa Comercial Brasileira",
+      "sourceEditorial": "Portal especializado em mercados e economia global",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://www.infomoney.com.br/politica/flavio-bolsonaro-pl-propoe-bolsa-familia-por-ate-2-anos-para-quem-arrumar-emprego/",
+      "publishedAtStr": "2026-10-20T11:45:00Z",
+      "publishedAtTs": 1792496700000,
+      "rawContent": "Flávio Bolsonaro ( PL ) propõe Bolsa Família por até 2 anos para quem arrumar emprego",
+      "linkStatus": "active",
+      "lastChecked": 1792509080947
+    },
+    {
+      "id": "gdelt-d963m2v",
+      "title": "Gestores ganham até 17 % com eleio e se armam para incerteza da reta final",
+      "sourceName": "InfoMoney",
+      "sourceUrl": "https://www.infomoney.com.br/",
+      "sourceType": "Imprensa Comercial Brasileira",
+      "sourceEditorial": "Portal especializado em mercados e economia global",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://www.infomoney.com.br/onde-investir/multimercados-rendem-ate-17-com-eleicao-e-se-armam-para-incerteza-da-reta-final/",
+      "publishedAtStr": "2026-10-20T11:45:00Z",
+      "publishedAtTs": 1792496700000,
+      "rawContent": "Gestores ganham até 17 % com eleio e se armam para incerteza da reta final",
+      "linkStatus": "active",
+      "lastChecked": 1792509080947
+    },
+    {
+      "id": "gdelt-03jtcyo",
+      "title": "Real Time Big Data : Flávio tem 52 % dos votos válidos e Lula , 48 % no 2º turno",
+      "sourceName": "InfoMoney",
+      "sourceUrl": "https://www.infomoney.com.br/",
+      "sourceType": "Imprensa Comercial Brasileira",
+      "sourceEditorial": "Portal especializado em mercados e economia global",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://www.infomoney.com.br/politica/real-time-big-data-flavio-tem-52-dos-votos-validos-e-lula-48-no-2o-turno/",
+      "publishedAtStr": "2026-10-20T11:45:00Z",
+      "publishedAtTs": 1792496700000,
+      "rawContent": "Real Time Big Data : Flávio tem 52 % dos votos válidos e Lula , 48 % no 2º turno",
+      "linkStatus": "active",
+      "lastChecked": 1792509080947
+    },
+    {
+      "id": "gdelt-d7ucyf3",
+      "title": "Wiz Co assina contrato para alienação de participação na Inter Seguros por R$409 , 5 mi",
+      "sourceName": "InfoMoney",
+      "sourceUrl": "https://www.infomoney.com.br/",
+      "sourceType": "Imprensa Comercial Brasileira",
+      "sourceEditorial": "Portal especializado em mercados e economia global",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://www.infomoney.com.br/mercados/wiz-co-assina-contrato-para-alienacao-de-participacao-na-inter-seguros-por-r4095-mi/",
+      "publishedAtStr": "2026-10-20T11:45:00Z",
+      "publishedAtTs": 1792496700000,
+      "rawContent": "Wiz Co assina contrato para alienação de participação na Inter Seguros por R$409 , 5 mi",
+      "linkStatus": "active",
+      "lastChecked": 1792509080947
+    },
+    {
+      "id": "gdelt-hu2ik57",
+      "title": "Inspirali , da Ânima , firma parceria com o grupo de educação médica do Einstein",
+      "sourceName": "InfoMoney",
+      "sourceUrl": "https://www.infomoney.com.br/",
+      "sourceType": "Imprensa Comercial Brasileira",
+      "sourceEditorial": "Portal especializado em mercados e economia global",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://www.infomoney.com.br/mercados/inspirali-da-anima-firma-parceria-com-o-grupo-de-educacao-medica-do-einstein/",
+      "publishedAtStr": "2026-10-20T11:45:00Z",
+      "publishedAtTs": 1792496700000,
+      "rawContent": "Inspirali , da Ânima , firma parceria com o grupo de educação médica do Einstein",
+      "linkStatus": "active",
+      "lastChecked": 1792509080947
+    },
+    {
+      "id": "gdelt-wr0tkj6",
+      "title": "A 4 dias do 2º turno , Quaest mostrará o que eleitores buscam no próximo presidente",
+      "sourceName": "InfoMoney",
+      "sourceUrl": "https://www.infomoney.com.br/",
+      "sourceType": "Imprensa Comercial Brasileira",
+      "sourceEditorial": "Portal especializado em mercados e economia global",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://www.infomoney.com.br/politica/a-4-dias-do-2o-turno-quaest-mostrara-o-que-eleitores-buscam-no-proximo-presidente/",
+      "publishedAtStr": "2026-10-20T11:45:00Z",
+      "publishedAtTs": 1792496700000,
+      "rawContent": "A 4 dias do 2º turno , Quaest mostrará o que eleitores buscam no próximo presidente",
+      "linkStatus": "active",
+      "lastChecked": 1792509080947
+    },
+    {
+      "id": "gdelt-e9jo976",
+      "title": "Futuros de NY operam mistos com perda de fôlego das aes de IA ; Brent atinge US$ 111",
+      "sourceName": "InfoMoney",
+      "sourceUrl": "https://www.infomoney.com.br/",
+      "sourceType": "Imprensa Comercial Brasileira",
+      "sourceEditorial": "Portal especializado em mercados e economia global",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://www.infomoney.com.br/mercados/futuros-de-ny-operam-mistos-com-perda-de-folego-das-acoes-de-ia-brent-atinge-us-111/",
+      "publishedAtStr": "2026-10-20T11:45:00Z",
+      "publishedAtTs": 1792496700000,
+      "rawContent": "Futuros de NY operam mistos com perda de fôlego das aes de IA ; Brent atinge US$ 111",
+      "linkStatus": "active",
+      "lastChecked": 1792509080947
+    },
+    {
+      "id": "gdelt-b1m2ydy",
+      "title": "Ligação autenticada também pode ser golpe",
+      "sourceName": "InfoMoney",
+      "sourceUrl": "https://www.infomoney.com.br/",
+      "sourceType": "Imprensa Comercial Brasileira",
+      "sourceEditorial": "Portal especializado em mercados e economia global",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://www.infomoney.com.br/colunistas/tiago-guimaraes/ligacao-autenticada-tambem-pode-ser-golpe/",
+      "publishedAtStr": "2026-10-20T11:45:00Z",
+      "publishedAtTs": 1792496700000,
+      "rawContent": "Ligação autenticada também pode ser golpe",
+      "linkStatus": "active",
+      "lastChecked": 1792509080947
+    },
+    {
+      "id": "gdelt-ngfjfub",
+      "title": "Minidólar ( WDOX26 ): veja os níveis decisivos para esta terça - feira",
+      "sourceName": "InfoMoney",
+      "sourceUrl": "https://www.infomoney.com.br/",
+      "sourceType": "Imprensa Comercial Brasileira",
+      "sourceEditorial": "Portal especializado em mercados e economia global",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://www.infomoney.com.br/mercados/minidolar-hoje-futuro-do-dolar-wdox26-20102026/",
+      "publishedAtStr": "2026-10-20T11:45:00Z",
+      "publishedAtTs": 1792496700000,
+      "rawContent": "Minidólar ( WDOX26 ): veja os níveis decisivos para esta terça - feira",
+      "linkStatus": "active",
+      "lastChecked": 1792509080947
+    },
+    {
+      "id": "gdelt-ikgrst1",
+      "title": "Auren ( AURE3 ) aprova recompra de até 1 , 95 milhões de aes",
+      "sourceName": "InfoMoney",
+      "sourceUrl": "https://www.infomoney.com.br/",
+      "sourceType": "Imprensa Comercial Brasileira",
+      "sourceEditorial": "Portal especializado em mercados e economia global",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://www.infomoney.com.br/mercados/auren-aure3-aprova-recompra-de-ate-195-milhoes-de-acoes/",
+      "publishedAtStr": "2026-10-20T11:45:00Z",
+      "publishedAtTs": 1792496700000,
+      "rawContent": "Auren ( AURE3 ) aprova recompra de até 1 , 95 milhões de aes",
+      "linkStatus": "active",
+      "lastChecked": 1792509080947
+    },
+    {
+      "id": "gdelt-mp6o7eu",
+      "title": "Três perguntas que ajudam líderes a decidir melhor em tempos de urgência constante",
+      "sourceName": "InfoMoney",
+      "sourceUrl": "https://www.infomoney.com.br/",
+      "sourceType": "Imprensa Comercial Brasileira",
+      "sourceEditorial": "Portal especializado em mercados e economia global",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://www.infomoney.com.br/business/global/tres-perguntas-que-ajudam-lideres-a-decidir-melhor-em-tempos-de-urgencia-constante/",
+      "publishedAtStr": "2026-10-20T11:45:00Z",
+      "publishedAtTs": 1792496700000,
+      "rawContent": "Três perguntas que ajudam líderes a decidir melhor em tempos de urgência constante",
+      "linkStatus": "active",
+      "lastChecked": 1792509080947
+    },
+    {
+      "id": "gdelt-3v29iqu",
+      "title": "Além do minério de ferro : o que falta para a Vale ( VALE3 ) dobrar a produo de cobre ?",
+      "sourceName": "InfoMoney",
+      "sourceUrl": "https://www.infomoney.com.br/",
+      "sourceType": "Imprensa Comercial Brasileira",
+      "sourceEditorial": "Portal especializado em mercados e economia global",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://www.infomoney.com.br/mercados/alem-do-minerio-de-ferro-o-que-falta-para-a-vale-vale3-dobrar-a-producao-de-cobre/",
+      "publishedAtStr": "2026-10-20T11:45:00Z",
+      "publishedAtTs": 1792496700000,
+      "rawContent": "Além do minério de ferro : o que falta para a Vale ( VALE3 ) dobrar a produo de cobre ?",
+      "linkStatus": "active",
+      "lastChecked": 1792509080947
+    },
+    {
+      "id": "gdelt-qusr012",
+      "title": "Estratégia de Lula para desgastar Flávio pode beneficiar rival , diz professor",
+      "sourceName": "InfoMoney",
+      "sourceUrl": "https://www.infomoney.com.br/",
+      "sourceType": "Imprensa Comercial Brasileira",
+      "sourceEditorial": "Portal especializado em mercados e economia global",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://www.infomoney.com.br/politica/por-que-ataques-sobre-corrupcao-podem-ajudar-mais-flavio-do-que-lula/",
+      "publishedAtStr": "2026-10-20T11:45:00Z",
+      "publishedAtTs": 1792496700000,
+      "rawContent": "Estratégia de Lula para desgastar Flávio pode beneficiar rival , diz professor",
+      "linkStatus": "active",
+      "lastChecked": 1792509080947
+    },
+    {
+      "id": "gdelt-o3v3sjy",
+      "title": "Lula sobre emendas à tarifa zero : disputa com Congresso  faz parte da democracia",
+      "sourceName": "InfoMoney",
+      "sourceUrl": "https://www.infomoney.com.br/",
+      "sourceType": "Imprensa Comercial Brasileira",
+      "sourceEditorial": "Portal especializado em mercados e economia global",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://www.infomoney.com.br/politica/lula-sobre-emendas-a-tarifa-zero-disputa-com-congresso-faz-parte-da-democracia/",
+      "publishedAtStr": "2026-10-20T11:45:00Z",
+      "publishedAtTs": 1792496700000,
+      "rawContent": "Lula sobre emendas à tarifa zero : disputa com Congresso  faz parte da democracia",
+      "linkStatus": "active",
+      "lastChecked": 1792509080947
+    },
+    {
+      "id": "gdelt-nkusxom",
+      "title": "Agenda dos candidatos : Lula visita Maranhão , Pernambuco e Bahia ; Flávio grava propaganda",
+      "sourceName": "CartaCapital",
+      "sourceUrl": "https://www.cartacapital.com.br/",
+      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
+      "sourceEditorial": "Jornalismo progressista - Conteúdo sob assinatura parcial",
+      "country": "Brasil",
+      "paywall": true,
+      "originalUrl": "https://www.cartacapital.com.br/politica/agenda-dos-candidatos-lula-faz-vai-ao-maranhao-pernambuco-e-bahia-flavio-grava-propaganda/",
+      "publishedAtStr": "2026-10-20T11:45:00Z",
+      "publishedAtTs": 1792496700000,
+      "rawContent": "Agenda dos candidatos : Lula visita Maranhão , Pernambuco e Bahia ; Flávio grava propaganda",
+      "linkStatus": "active",
+      "lastChecked": 1792509080947
+    },
+    {
+      "id": "gdelt-of08smn",
+      "title": "CVM aprova pedido de conversão de registro de subsidiária da Raízen Energia",
+      "sourceName": "InfoMoney",
+      "sourceUrl": "https://www.infomoney.com.br/",
+      "sourceType": "Imprensa Comercial Brasileira",
+      "sourceEditorial": "Portal especializado em mercados e economia global",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://www.infomoney.com.br/mercados/cvm-aprova-pedido-de-conversao-de-registro-de-subsidiaria-da-raizen-energia/",
+      "publishedAtStr": "2026-10-20T11:45:00Z",
+      "publishedAtTs": 1792496700000,
+      "rawContent": "CVM aprova pedido de conversão de registro de subsidiária da Raízen Energia",
+      "linkStatus": "active",
+      "lastChecked": 1792509080947
+    },
+    {
+      "id": "gdelt-e46aweo",
+      "title": "Da análise à entrada : Mateus Starterpack levará o trade de abertura à Casa Clear",
+      "sourceName": "InfoMoney",
+      "sourceUrl": "https://www.infomoney.com.br/",
+      "sourceType": "Imprensa Comercial Brasileira",
+      "sourceEditorial": "Portal especializado em mercados e economia global",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://www.infomoney.com.br/mercados/da-analise-entrada-mateus-starterpack-levara-trade-de-abertura-casa-clear/",
+      "publishedAtStr": "2026-10-20T11:45:00Z",
+      "publishedAtTs": 1792496700000,
+      "rawContent": "Da análise à entrada : Mateus Starterpack levará o trade de abertura à Casa Clear",
+      "linkStatus": "active",
+      "lastChecked": 1792509080947
+    },
+    {
+      "id": "gdelt-t3h7c0j",
+      "title": "Por que algoritmo parece colocar o eleitor dentro de bolha política",
+      "sourceName": "CartaCapital",
+      "sourceUrl": "https://www.cartacapital.com.br/",
+      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
+      "sourceEditorial": "Jornalismo progressista - Conteúdo sob assinatura parcial",
+      "country": "Brasil",
+      "paywall": true,
+      "originalUrl": "https://www.cartacapital.com.br/politica/por-que-algoritmo-parece-colocar-o-eleitor-dentro-de-bolha-politica/",
+      "publishedAtStr": "2026-10-20T11:45:00Z",
+      "publishedAtTs": 1792496700000,
+      "rawContent": "Por que algoritmo parece colocar o eleitor dentro de bolha política",
+      "linkStatus": "active",
+      "lastChecked": 1792509080947
+    },
+    {
+      "id": "gdelt-qn5sunz",
+      "title": "Casas Bahia ( BHIA3 ): acionistas aprovam ratificação de pedido de recuperação judicial",
+      "sourceName": "InfoMoney",
+      "sourceUrl": "https://www.infomoney.com.br/",
+      "sourceType": "Imprensa Comercial Brasileira",
+      "sourceEditorial": "Portal especializado em mercados e economia global",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://www.infomoney.com.br/mercados/casas-bahia-bhia3-acionistas-aprovam-ratificacao-de-pedido-de-recuperacao-judicial/",
+      "publishedAtStr": "2026-10-20T11:45:00Z",
+      "publishedAtTs": 1792496700000,
+      "rawContent": "Casas Bahia ( BHIA3 ): acionistas aprovam ratificação de pedido de recuperação judicial",
+      "linkStatus": "active",
+      "lastChecked": 1792509080947
+    },
+    {
+      "id": "gdelt-m5ore00",
+      "title": "Justiça decreta fim da recuperação judicial da Americanas",
+      "sourceName": "CartaCapital",
+      "sourceUrl": "https://www.cartacapital.com.br/",
+      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
+      "sourceEditorial": "Jornalismo progressista - Conteúdo sob assinatura parcial",
+      "country": "Brasil",
+      "paywall": true,
+      "originalUrl": "https://www.cartacapital.com.br/economia/justica-decreta-fim-da-recuperacao-judicial-da-americanas/",
+      "publishedAtStr": "2026-10-20T11:45:00Z",
+      "publishedAtTs": 1792496700000,
+      "rawContent": "Justiça decreta fim da recuperação judicial da Americanas",
+      "linkStatus": "active",
+      "lastChecked": 1792509080947
+    },
+    {
+      "id": "gdelt-k3cbgrm",
+      "title": "Pesquisas eleitorais , debate e fiscal : o que pode mexer com o Ibovespa até 2º turno ?",
+      "sourceName": "InfoMoney",
+      "sourceUrl": "https://www.infomoney.com.br/",
+      "sourceType": "Imprensa Comercial Brasileira",
+      "sourceEditorial": "Portal especializado em mercados e economia global",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://www.infomoney.com.br/mercados/pesquisas-eleitorais-debate-e-fiscal-o-que-pode-mexer-com-o-ibovespa-ate-2o-turno/",
+      "publishedAtStr": "2026-10-20T11:45:00Z",
+      "publishedAtTs": 1792496700000,
+      "rawContent": "Pesquisas eleitorais , debate e fiscal : o que pode mexer com o Ibovespa até 2º turno ?",
+      "linkStatus": "unknown",
+      "lastChecked": null
+    },
+    {
+      "id": "gdelt-rtc48zw",
+      "title": "México suspende importação avícola do Brasil após surto de Newcastle em granja de SC",
+      "sourceName": "InfoMoney",
+      "sourceUrl": "https://www.infomoney.com.br/",
+      "sourceType": "Imprensa Comercial Brasileira",
+      "sourceEditorial": "Portal especializado em mercados e economia global",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://www.infomoney.com.br/mundo/mexico-suspende-importacao-avicola-do-brasil-apos-surto-de-newcastle-em-granja-de-sc/",
+      "publishedAtStr": "2026-10-20T11:45:00Z",
+      "publishedAtTs": 1792496700000,
+      "rawContent": "México suspende importação avícola do Brasil após surto de Newcastle em granja de SC",
+      "linkStatus": "unknown",
+      "lastChecked": null
+    },
+    {
+      "id": "gdelt-ps3ntvj",
+      "title": "Se a empresa cortar sua IA amanhã , você consegue provar que ela vale o que custa ?",
+      "sourceName": "InfoMoney",
+      "sourceUrl": "https://www.infomoney.com.br/",
+      "sourceType": "Imprensa Comercial Brasileira",
+      "sourceEditorial": "Portal especializado em mercados e economia global",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://www.infomoney.com.br/colunistas/interney/se-a-empresa-cortar-sua-ia-amanha-voce-consegue-provar-que-ela-vale-o-que-custa/",
+      "publishedAtStr": "2026-10-20T11:45:00Z",
+      "publishedAtTs": 1792496700000,
+      "rawContent": "Se a empresa cortar sua IA amanhã , você consegue provar que ela vale o que custa ?",
+      "linkStatus": "unknown",
+      "lastChecked": null
+    },
+    {
+      "id": "gdelt-eg0bq75",
+      "title": "Axia Energia ( AXIA3 ) converterá 35 milhões de aes preferenciais em ordinárias",
+      "sourceName": "InfoMoney",
+      "sourceUrl": "https://www.infomoney.com.br/",
+      "sourceType": "Imprensa Comercial Brasileira",
+      "sourceEditorial": "Portal especializado em mercados e economia global",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://www.infomoney.com.br/mercados/axia-energia-axia3-convertera-35-milhoes-de-acoes-preferenciais-em-ordinarias/",
+      "publishedAtStr": "2026-10-20T11:45:00Z",
+      "publishedAtTs": 1792496700000,
+      "rawContent": "Axia Energia ( AXIA3 ) converterá 35 milhões de aes preferenciais em ordinárias",
+      "linkStatus": "unknown",
+      "lastChecked": null
+    },
+    {
+      "id": "gdelt-t1npajw",
+      "title": "Empresa que cresce por desconto está comprando faturamento e vendendo margem",
+      "sourceName": "InfoMoney",
+      "sourceUrl": "https://www.infomoney.com.br/",
+      "sourceType": "Imprensa Comercial Brasileira",
+      "sourceEditorial": "Portal especializado em mercados e economia global",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://www.infomoney.com.br/colunistas/alfredo-soares/empresa-que-cresce-por-desconto-esta-comprando-faturamento-e-vendendo-margem/",
+      "publishedAtStr": "2026-10-20T11:45:00Z",
+      "publishedAtTs": 1792496700000,
+      "rawContent": "Empresa que cresce por desconto está comprando faturamento e vendendo margem",
+      "linkStatus": "unknown",
+      "lastChecked": null
+    },
+    {
+      "id": "gdelt-o5yzv6b",
+      "title": "Azul prevê recuperação mais demorada devido à pressão dos custos com combustível",
+      "sourceName": "InfoMoney",
+      "sourceUrl": "https://www.infomoney.com.br/",
+      "sourceType": "Imprensa Comercial Brasileira",
+      "sourceEditorial": "Portal especializado em mercados e economia global",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://www.infomoney.com.br/mercados/azul-preve-recuperacao-mais-demorada-devido-a-pressao-dos-custos-com-combustivel/",
+      "publishedAtStr": "2026-10-20T11:45:00Z",
+      "publishedAtTs": 1792496700000,
+      "rawContent": "Azul prevê recuperação mais demorada devido à pressão dos custos com combustível",
+      "linkStatus": "unknown",
+      "lastChecked": null
+    },
+    {
+      "id": "gdelt-8kythtp",
+      "title": "Milei diz que Argentina está próxima de produzir 1 mi de barris de petróleo por dia",
+      "sourceName": "InfoMoney",
+      "sourceUrl": "https://www.infomoney.com.br/",
+      "sourceType": "Imprensa Comercial Brasileira",
+      "sourceEditorial": "Portal especializado em mercados e economia global",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://www.infomoney.com.br/mundo/milei-diz-que-argentina-esta-proxima-de-produzir-1-mi-de-barris-de-petroleo-por-dia/",
+      "publishedAtStr": "2026-10-20T11:45:00Z",
+      "publishedAtTs": 1792496700000,
+      "rawContent": "Milei diz que Argentina está próxima de produzir 1 mi de barris de petróleo por dia",
+      "linkStatus": "unknown",
+      "lastChecked": null
+    },
+    {
+      "id": "gdelt-syzurrd",
+      "title": "Debate : o que está por trás da estratégia usada por Flávio Bolsonaro e Trump ?",
+      "sourceName": "BBC News Brasil",
+      "sourceUrl": "https://www.bbc.com/portuguese",
+      "sourceType": "Imprensa Internacional / Pública",
+      "sourceEditorial": "Emissora pública do Reino Unido; jornalismo global independente",
+      "country": "Reino Unido",
+      "paywall": false,
+      "originalUrl": "https://www.bbc.com/portuguese/articles/cme8r43wn7pro",
+      "publishedAtStr": "2026-10-20T10:00:00Z",
+      "publishedAtTs": 1792490400000,
+      "rawContent": "Debate : o que está por trás da estratégia usada por Flávio Bolsonaro e Trump ?",
+      "linkStatus": "unknown",
+      "lastChecked": null
+    },
+    {
+      "id": "gdelt-p4f3fsu",
+      "title": "Província de Alberta rejeita separação e decide permanecer no Canad",
+      "sourceName": "G1 Mundo",
+      "sourceUrl": "https://g1.globo.com/mundo/",
+      "sourceType": "Imprensa Comercial Brasileira",
+      "sourceEditorial": "Portal de notícias mainstream do Grupo Globo",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://g1.globo.com/mundo/noticia/2026/10/20/provincia-de-alberta-rejeita-separacao-e-decide-permanecer-no-canada.ghtml",
+      "publishedAtStr": "2026-10-20T07:15:00Z",
+      "publishedAtTs": 1792480500000,
+      "rawContent": "Província de Alberta rejeita separação e decide permanecer no Canad",
+      "linkStatus": "unknown",
+      "lastChecked": null
+    },
+    {
+      "id": "gdelt-z29w7h4",
+      "title": "O líder de seita apocalíptica que deixou quase 200 crianças morrerem",
+      "sourceName": "G1 Mundo",
+      "sourceUrl": "https://g1.globo.com/mundo/",
+      "sourceType": "Imprensa Comercial Brasileira",
+      "sourceEditorial": "Portal de notícias mainstream do Grupo Globo",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://g1.globo.com/mundo/noticia/2026/10/20/o-lider-de-seita-apocaliptica-que-deixou-quase-200-criancas-morrerem-de-fome.ghtml",
+      "publishedAtStr": "2026-10-20T07:15:00Z",
+      "publishedAtTs": 1792480500000,
+      "rawContent": "O líder de seita apocalíptica que deixou quase 200 crianças morrerem",
+      "linkStatus": "unknown",
+      "lastChecked": null
+    },
+    {
+      "id": "gdelt-mxukqz4",
+      "title": "Zelensky diz que sistema da SpaceX usado na guerra ficou mais lento e afeta tropas ucranianas",
+      "sourceName": "G1 Mundo",
+      "sourceUrl": "https://g1.globo.com/mundo/",
+      "sourceType": "Imprensa Comercial Brasileira",
+      "sourceEditorial": "Portal de notícias mainstream do Grupo Globo",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://g1.globo.com/mundo/noticia/2026/10/20/zelensky-diz-que-sistema-da-spacex-usado-na-guerra-ficou-mais-lento.ghtml",
+      "publishedAtStr": "2026-10-20T04:45:00Z",
+      "publishedAtTs": 1792471500000,
+      "rawContent": "Zelensky diz que sistema da SpaceX usado na guerra ficou mais lento e afeta tropas ucranianas",
+      "linkStatus": "unknown",
+      "lastChecked": null
+    },
+    {
+      "id": "gdelt-4wnsq36",
+      "title": "França : como protesto levou 500 mil às ruas e mergulhou Paris no caos",
+      "sourceName": "G1 Mundo",
+      "sourceUrl": "https://g1.globo.com/mundo/",
+      "sourceType": "Imprensa Comercial Brasileira",
+      "sourceEditorial": "Portal de notícias mainstream do Grupo Globo",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://g1.globo.com/mundo/noticia/2026/10/20/como-protesto-estudantil-evoluiu-na-franca-levou-500-mil-as-ruas-e-mergulhou-paris-no-caos.ghtml",
+      "publishedAtStr": "2026-10-20T03:45:00Z",
+      "publishedAtTs": 1792467900000,
+      "rawContent": "França : como protesto levou 500 mil às ruas e mergulhou Paris no caos",
+      "linkStatus": "unknown",
+      "lastChecked": null
+    },
+    {
+      "id": "gdelt-58rwnzy",
+      "title": "Zelensky diz que limitações no sistema de satélites Starshield prejudicam suas tropas ; entenda",
+      "sourceName": "O Globo Mundo",
+      "sourceUrl": "https://oglobo.globo.com/mundo/",
+      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
+      "sourceEditorial": "Jornal diário (Grupo Globo) - Conteúdo sob assinatura",
+      "country": "Brasil",
+      "paywall": true,
+      "originalUrl": "https://oglobo.globo.com/mundo/noticia/2026/10/20/zelensky-diz-que-limitacoes-no-sistema-de-satelites-starshield-prejudicam-suas-tropas-entenda.ghtml",
+      "publishedAtStr": "2026-10-20T03:45:00Z",
+      "publishedAtTs": 1792467900000,
+      "rawContent": "Zelensky diz que limitações no sistema de satélites Starshield prejudicam suas tropas ; entenda",
+      "linkStatus": "unknown",
+      "lastChecked": null
+    },
+    {
+      "id": "gdelt-h4dtonh",
+      "title": "Gerao Z : perguntamos a 10 jovens como eles decidem o voto",
+      "sourceName": "BBC News Brasil",
+      "sourceUrl": "https://www.bbc.com/portuguese",
+      "sourceType": "Imprensa Internacional / Pública",
+      "sourceEditorial": "Emissora pública do Reino Unido; jornalismo global independente",
+      "country": "Reino Unido",
+      "paywall": false,
+      "originalUrl": "https://www.bbc.com/portuguese/articles/cr4g197e8l52o",
+      "publishedAtStr": "2026-10-20T03:45:00Z",
+      "publishedAtTs": 1792467900000,
+      "rawContent": "Gerao Z : perguntamos a 10 jovens como eles decidem o voto",
+      "linkStatus": "unknown",
+      "lastChecked": null
+    },
+    {
+      "id": "gdelt-q5q9sdh",
       "title": "Coordenadores de Flávio e Lula divergem sobre contas públicas e tentativa de golpe",
       "sourceName": "Valor Econômico",
       "sourceUrl": "https://valor.globo.com/",
@@ -26,7 +890,7 @@
       "lastChecked": 1792473479955
     },
     {
-      "id": "gdelt-sjsoyee",
+      "id": "gdelt-zoxwqcq",
       "title": "Brasil precisará de quase mil novos aviões para atender demanda até 2045 , diz Airbus",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -42,7 +906,7 @@
       "lastChecked": 1792473479955
     },
     {
-      "id": "gdelt-r1z9loi",
+      "id": "gdelt-v5rvulx",
       "title": "Quadro de Janones é estável e alta pode ocorrer nas próximas 48h , diz boletim médico",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -58,7 +922,7 @@
       "lastChecked": 1792473479955
     },
     {
-      "id": "gdelt-3ze17qs",
+      "id": "gdelt-8up0vb4",
       "title": "Flávio Bolsonaro promete regularizar terras no Pará e rever restrições ambientais",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -74,7 +938,7 @@
       "lastChecked": 1792473479955
     },
     {
-      "id": "gdelt-mfqxk7e",
+      "id": "gdelt-4sks0fn",
       "title": "ASSISTA : Lula x Flávio : o que está em jogo na última semana antes do segundo turno ?",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -90,7 +954,7 @@
       "lastChecked": 1792473479955
     },
     {
-      "id": "gdelt-cpxhqmu",
+      "id": "gdelt-zuhbica",
       "title": "Nasdaq sobe mais de 1 % com recuperação de parte das perdas por temores com IA",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -106,7 +970,7 @@
       "lastChecked": 1792473479955
     },
     {
-      "id": "gdelt-bjlglv6",
+      "id": "gdelt-7gobb9w",
       "title": "Dona de Gol e Avianca evita expansão agressiva e aposta em parcerias para crescer",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -122,7 +986,7 @@
       "lastChecked": 1792473479955
     },
     {
-      "id": "gdelt-9ad2t15",
+      "id": "gdelt-p4oqp9l",
       "title": "Trump diz que Zelensky deveria deixar negociações sobre guerra na Ucrânia",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -138,7 +1002,7 @@
       "lastChecked": 1792473479955
     },
     {
-      "id": "gdelt-nt9suds",
+      "id": "gdelt-h0p8eg1",
       "title": "Petróleo cai calibrando guerra no Oriente Médio e alívio de sanes à Rússia",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -154,7 +1018,7 @@
       "lastChecked": 1792473479955
     },
     {
-      "id": "gdelt-tnzeqw5",
+      "id": "gdelt-bpuhcet",
       "title": "Por que Alberta , província mais rica do Canadá , pode se separar do país ? Entenda",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -170,7 +1034,7 @@
       "lastChecked": 1792473479955
     },
     {
-      "id": "gdelt-zlrcw1g",
+      "id": "gdelt-x267nao",
       "title": "Zanin pede informações ao TSE em ao que o PSD contesta eleio de Douglas Ruas",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -186,7 +1050,7 @@
       "lastChecked": 1792473479955
     },
     {
-      "id": "gdelt-kgt6d5n",
+      "id": "gdelt-k2fqpj0",
       "title": "Anthropic reforça aposta em data centers e negocia contrato de US$ 45 bilhões",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -202,7 +1066,7 @@
       "lastChecked": 1792473479955
     },
     {
-      "id": "gdelt-swycpuz",
+      "id": "gdelt-mr31tze",
       "title": "PGR se manifesta contra investigação de Mendonça por abuso de autoridade",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -218,7 +1082,7 @@
       "lastChecked": 1792473479955
     },
     {
-      "id": "gdelt-3a50qvl",
+      "id": "gdelt-lrxc118",
       "title": "MP aciona TSE para que eleitor seja avisado por WhatsApp sobre locais de votação",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -234,7 +1098,7 @@
       "lastChecked": 1792473479955
     },
     {
-      "id": "gdelt-syvg0kl",
+      "id": "gdelt-h1i688z",
       "title": "Balança comercial registra superávit de US$ 2 , 661 bilhões na 3ª semana de outubro",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -250,7 +1114,7 @@
       "lastChecked": 1792473479955
     },
     {
-      "id": "gdelt-3jvrvs0",
+      "id": "gdelt-38kfkxm",
       "title": "Brasil registra foco de Doença de Newcastle em perus em Santa Catarina",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -266,7 +1130,7 @@
       "lastChecked": 1792473479955
     },
     {
-      "id": "gdelt-hjlgjxg",
+      "id": "gdelt-vk66vw8",
       "title": "Acordo com China prevê autoembargo brasileiro em caso de Newcastle , diz ABPA",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -282,7 +1146,7 @@
       "lastChecked": 1792473479955
     },
     {
-      "id": "gdelt-rjf7pxu",
+      "id": "gdelt-9xftm9l",
       "title": "Ri Happy : o que muda para o consumidor após o pedido de recuperação extrajudicial ?",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -298,7 +1162,7 @@
       "lastChecked": 1792473479955
     },
     {
-      "id": "gdelt-v95ky3h",
+      "id": "gdelt-abdwgaz",
       "title": "MBRF3 cai 4 % e JBS cai 1 % após registro de doença em perus em SC : qual real impacto ?",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -314,7 +1178,7 @@
       "lastChecked": 1792473479955
     },
     {
-      "id": "gdelt-9k4qatc",
+      "id": "gdelt-1qej0pq",
       "title": "AMER3 : Justiça do RJ aprova fim de recuperação judicial da Americanas",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -330,7 +1194,7 @@
       "lastChecked": 1792473479955
     },
     {
-      "id": "gdelt-w2rh8ty",
+      "id": "gdelt-dbpe0ql",
       "title": "Ataque russo contra parque na Ucrânia deixa seis mortos , incluindo três crianças",
       "sourceName": "Veja Mundo",
       "sourceUrl": "https://veja.abril.com.br/mundo/",
@@ -346,7 +1210,7 @@
       "lastChecked": 1792473479955
     },
     {
-      "id": "gdelt-0rqk9su",
+      "id": "gdelt-7o1zlge",
       "title": "Jornalista Christiane Amanpour anuncia que deixará a CNN após 43 anos",
       "sourceName": "Estadão Internacional",
       "sourceUrl": "https://www.estadao.com.br/internacional/",
@@ -362,7 +1226,7 @@
       "lastChecked": 1792473479955
     },
     {
-      "id": "gdelt-mjji3rh",
+      "id": "gdelt-s8wxdmi",
       "title": "Deslizamento de terra em mina de ouro ilegal na Colômbia deixa nove mortos",
       "sourceName": "Estadão Internacional",
       "sourceUrl": "https://www.estadao.com.br/internacional/",
@@ -378,7 +1242,7 @@
       "lastChecked": 1792473479955
     },
     {
-      "id": "gdelt-an5b8sb",
+      "id": "gdelt-kr6kv3t",
       "title": "Ameaça de bomba obriga voo que partiu de Israel a realizar pouso de emergência na Bulgária",
       "sourceName": "Veja Mundo",
       "sourceUrl": "https://veja.abril.com.br/mundo/",
@@ -394,7 +1258,7 @@
       "lastChecked": 1792473479955
     },
     {
-      "id": "gdelt-uk4y53p",
+      "id": "gdelt-lrp5wmj",
       "title": "A última pesquisa AtlasIntel antes do 2º turno entre Lula e Flávio Bolsonaro",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -410,7 +1274,7 @@
       "lastChecked": 1792473479955
     },
     {
-      "id": "gdelt-9pz2qht",
+      "id": "gdelt-drsnlmq",
       "title": "Deputada do PSOL pede cassação de Marcelo Aguiar após disparo em balada",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -426,7 +1290,7 @@
       "lastChecked": 1792473479955
     },
     {
-      "id": "gdelt-b4rz6xc",
+      "id": "gdelt-a1s366c",
       "title": "Papa pede que Zelenski coopere com Putin para garantir ajuda a cidade ucraniana sob controle russo",
       "sourceName": "Estadão Internacional",
       "sourceUrl": "https://www.estadao.com.br/internacional/",
@@ -442,7 +1306,7 @@
       "lastChecked": 1792473479955
     },
     {
-      "id": "gdelt-q7vc0px",
+      "id": "gdelt-x5z0toe",
       "title": "Seguro no hipismo : entenda como funciona a proteo para cavalos que valem milhões",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -458,7 +1322,7 @@
       "lastChecked": 1792473479955
     },
     {
-      "id": "gdelt-vexnjw4",
+      "id": "gdelt-9x1y3kc",
       "title": "Filipinas convocam embaixador da China após declarações que transmitem  ameaça",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -474,7 +1338,7 @@
       "lastChecked": 1792473479955
     },
     {
-      "id": "gdelt-p1hmwg6",
+      "id": "gdelt-9qrj3qw",
       "title": "Ibovespa : incerteza eleitoral e petróleo ofuscam alta de NY e índice registra queda",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -490,7 +1354,7 @@
       "lastChecked": 1792473479955
     },
     {
-      "id": "gdelt-bcwv61j",
+      "id": "gdelt-hshwxj6",
       "title": "PF prende mãe e irmão de Oruam em operação contra o Comando Vermelho no RJ",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -506,7 +1370,7 @@
       "lastChecked": 1792473479955
     },
     {
-      "id": "gdelt-m9j0wwt",
+      "id": "gdelt-tvjpy22",
       "title": "Mineração e siderurgia no 3º tri de 2026 : o que esperar dos balanços ?",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -522,7 +1386,7 @@
       "lastChecked": 1792473479955
     },
     {
-      "id": "gdelt-jdec28z",
+      "id": "gdelt-kgmrehx",
       "title": "Paris impõe restrições de circulação na Champs - Élysées , Arco do Triunfo e Notre - Dame",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -538,7 +1402,7 @@
       "lastChecked": 1792473479955
     },
     {
-      "id": "gdelt-pbc5976",
+      "id": "gdelt-osh3qxo",
       "title": "Como anda a Argentina de Milei ? Veja índices de inflação , pobreza e desemprego",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -554,7 +1418,7 @@
       "lastChecked": 1792473479955
     },
     {
-      "id": "gdelt-4dz0c8u",
+      "id": "gdelt-75yyaqr",
       "title": "Como buscar uma renda extra mensal sem mudar sua rotina de trabalho",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -570,7 +1434,7 @@
       "lastChecked": 1792473479955
     },
     {
-      "id": "gdelt-x28r9g7",
+      "id": "gdelt-74giery",
       "title": "Varejo deve ter 3º trimestre fraco , mas bancos veem oportunidades em aes para 2027",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -586,7 +1450,7 @@
       "lastChecked": 1792473479955
     },
     {
-      "id": "gdelt-wx8i47n",
+      "id": "gdelt-9nf0a6s",
       "title": "Tiro durante confusão em bar com deputado atinge apresentador Fred Bruno , da TV Globo",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -602,7 +1466,7 @@
       "lastChecked": 1792490938046
     },
     {
-      "id": "gdelt-450mufr",
+      "id": "gdelt-v9s7pz7",
       "title": "Bolsa da Indonésia afunda ao menor nível desde 2020 após alerta da MSCI",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -618,7 +1482,7 @@
       "lastChecked": 1792490938046
     },
     {
-      "id": "gdelt-2i5vz3h",
+      "id": "gdelt-fvd3rff",
       "title": "Trump está pressionando a Ucrânia a se render à Rússia , diz Zelenski",
       "sourceName": "Estadão Internacional",
       "sourceUrl": "https://www.estadao.com.br/internacional/",
@@ -634,7 +1498,7 @@
       "lastChecked": 1792490938046
     },
     {
-      "id": "gdelt-tcto5u3",
+      "id": "gdelt-7ujpbs7",
       "title": "Governo antecipa pagamento do Bolsa Família e todos os beneficiários receberão antes da eleio",
       "sourceName": "Valor Econômico",
       "sourceUrl": "https://valor.globo.com/",
@@ -650,7 +1514,7 @@
       "lastChecked": 1792490938046
     },
     {
-      "id": "gdelt-clljygq",
+      "id": "gdelt-9brglj6",
       "title": "Calor extremo e chuva forte marcam a semana no Centro - Oeste",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -666,7 +1530,7 @@
       "lastChecked": 1792490938046
     },
     {
-      "id": "gdelt-k5eljtk",
+      "id": "gdelt-nahutdo",
       "title": "Skoda libera modelos 3D gratuitos para acessórios internos dos carros",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -682,7 +1546,7 @@
       "lastChecked": 1792490938046
     },
     {
-      "id": "gdelt-6nn5ad2",
+      "id": "gdelt-midl09z",
       "title": "As Meninas da Garagem Secreta  estreia no Gloob e no Globoplay",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -698,7 +1562,7 @@
       "lastChecked": 1792490938046
     },
     {
-      "id": "gdelt-0tiyotr",
+      "id": "gdelt-74rtkpd",
       "title": "A Noiva da Presilha Dourada , drama de época chinês , chega à Netflix nesta segunda 19",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -714,7 +1578,7 @@
       "lastChecked": 1792490938046
     },
     {
-      "id": "gdelt-ylfnnr6",
+      "id": "gdelt-lad8tqu",
       "title": "Imprensa não pode manter lorota de  escolha difícil  após debate da  Band , avalia Marcos Coimbra",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -730,7 +1594,7 @@
       "lastChecked": 1792490938046
     },
     {
-      "id": "gdelt-we5ct59",
+      "id": "gdelt-ibyx4ll",
       "title": "Economia cresce em agosto e chega a 1 , 8 % em 12 meses , aponta FGV",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -746,7 +1610,7 @@
       "lastChecked": 1792490938046
     },
     {
-      "id": "gdelt-jq6n0o7",
+      "id": "gdelt-a6py4aa",
       "title": "Em clima de  já ganhou , bolsonarismo negocia divisão de poder no Congresso",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -762,7 +1626,7 @@
       "lastChecked": 1792490938046
     },
     {
-      "id": "gdelt-5ri965y",
+      "id": "gdelt-k5yi7hx",
       "title": "Calor passa dos 35°C no Norte ; Acre e Rondônia têm alerta de tempestades",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -778,7 +1642,7 @@
       "lastChecked": 1792490938046
     },
     {
-      "id": "gdelt-v45tv8m",
+      "id": "gdelt-n98avpd",
       "title": "Operação da PF mira ex - servidor do STJ por vazar informações a advogado ligado a Flávio Bolsonaro",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -794,7 +1658,7 @@
       "lastChecked": 1792490938046
     },
     {
-      "id": "gdelt-4gcdd0t",
+      "id": "gdelt-xiq6nsq",
       "title": "Frente fria muda o tempo no Sul e traz chuva para o fim de semana",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -810,7 +1674,7 @@
       "lastChecked": 1792490938046
     },
     {
-      "id": "gdelt-m040xcg",
+      "id": "gdelt-g0rgila",
       "title": "André Janones é internado na UTI após arritmia cardíaca",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -826,7 +1690,7 @@
       "lastChecked": 1792490938046
     },
     {
-      "id": "gdelt-llsijhq",
+      "id": "gdelt-gisi09h",
       "title": "A disputa entre Lula e Flávio a 6 dias da eleio , segundo pesquisa Futura",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -842,7 +1706,7 @@
       "lastChecked": 1792490938046
     },
     {
-      "id": "gdelt-o8qku79",
+      "id": "gdelt-7zdhidy",
       "title": "Ato na sede da Meta em São Paulo denuncia interferência na eleio",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -858,7 +1722,7 @@
       "lastChecked": 1792490938046
     },
     {
-      "id": "gdelt-h8j0i7a",
+      "id": "gdelt-o8ugn21",
       "title": "Cardápio saudável : 5 receitas proteicas e fáceis de fazer para o almoço da semana",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -874,7 +1738,7 @@
       "lastChecked": 1792490938046
     },
     {
-      "id": "gdelt-gu86nyt",
+      "id": "gdelt-pf7ttoq",
       "title": "Estupro  corresponde a 2 , 8 % dos atos infracionais de adolescentes internados no Brasil",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -890,7 +1754,7 @@
       "lastChecked": 1792490938046
     },
     {
-      "id": "gdelt-g70hwmk",
+      "id": "gdelt-mlurdm6",
       "title": "Autor de inesquecíveis sambas abolerados , Benito di Paula deixa marca indelével na música",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -906,7 +1770,7 @@
       "lastChecked": 1792490938046
     },
     {
-      "id": "gdelt-galijfc",
+      "id": "gdelt-5x8zrfb",
       "title": "Anvisa proíbe lotes de medicamento para tratar câncer",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -922,7 +1786,7 @@
       "lastChecked": 1792490938046
     },
     {
-      "id": "gdelt-w23hcpx",
+      "id": "gdelt-tcutb1k",
       "title": "PF prende mãe e irmão de Oruam em operação contra o Comando Vermelho",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -938,7 +1802,7 @@
       "lastChecked": 1792490938046
     },
     {
-      "id": "gdelt-t24jtr5",
+      "id": "gdelt-g7d8tzt",
       "title": "Lula reforça desafio a Flávio Bolsonaro :  Abra seus sigilos",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -954,7 +1818,7 @@
       "lastChecked": 1792490938046
     },
     {
-      "id": "gdelt-mom7s5a",
+      "id": "gdelt-ac9ojeu",
       "title": "Sol e calor marcam o início da semana no Sudeste",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -970,7 +1834,7 @@
       "lastChecked": 1792490938046
     },
     {
-      "id": "gdelt-4juydpm",
+      "id": "gdelt-c5rwskh",
       "title": "Debate 2º turno : quando será o próximo embate entre Lula e Flávio Bolsonaro ?",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -986,7 +1850,7 @@
       "lastChecked": 1792490938046
     },
     {
-      "id": "gdelt-4s2715n",
+      "id": "gdelt-0zxuyde",
       "title": "Lula mira absteno , Flávio aposta em aliados : as estratégias da última semana",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -1002,7 +1866,7 @@
       "lastChecked": 1792490938046
     },
     {
-      "id": "gdelt-2qs7lxa",
+      "id": "gdelt-k43utkw",
       "title": "Fleury ( FLRY3 ) testa novas máximas ; Vale ( VALE3 ) pode cair ainda mais ?",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -1018,7 +1882,7 @@
       "lastChecked": 1792490938046
     },
     {
-      "id": "gdelt-zec9apc",
+      "id": "gdelt-7yt7ktn",
       "title": "Dólar hoje recua com novas pesquisas eleitorais no radar",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -1034,7 +1898,7 @@
       "lastChecked": 1792490938046
     },
     {
-      "id": "gdelt-5rzussn",
+      "id": "gdelt-3vjdwgy",
       "title": "Dexco encerra produo de louças sanitárias em unidade em Pernambuco",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -1050,7 +1914,7 @@
       "lastChecked": 1792490938046
     },
     {
-      "id": "gdelt-kcwslhc",
+      "id": "gdelt-ihiujfp",
       "title": "Como os americanos se sentem em relação ao socialismo ?",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -1066,7 +1930,7 @@
       "lastChecked": 1792490938046
     },
     {
-      "id": "gdelt-lz1o4h4",
+      "id": "gdelt-l0om2rc",
       "title": "S & P 500 e Nasdaq sobem com recuperação de aes ligadas à IA antes de balanços",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -1082,7 +1946,7 @@
       "lastChecked": 1792490938046
     },
     {
-      "id": "gdelt-eyu8puu",
+      "id": "gdelt-6y78r92",
       "title": "Fed vê IA pressionar inflação , mas outros podem ter que arcar com o remédio",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -1098,7 +1962,7 @@
       "lastChecked": 1792490938046
     },
     {
-      "id": "gdelt-f4h8eik",
+      "id": "gdelt-c8jicbz",
       "title": "TSE dá 24 horas para Meta cumprir decisão sobre campanhas de Lula e Flávio",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -1114,7 +1978,7 @@
       "lastChecked": 1792490938046
     },
     {
-      "id": "gdelt-t5gn6uq",
+      "id": "gdelt-o88uy0h",
       "title": "Deputado do PL é detido após disparo de arma em bar de São Paulo e acaba liberado",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -1130,7 +1994,7 @@
       "lastChecked": 1792490938046
     },
     {
-      "id": "gdelt-r1v6emj",
+      "id": "gdelt-xipbw0o",
       "title": "Setor de saúde terá melhora operacional ou trimestre mais fraco no 3T ; veja análises",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -1146,7 +2010,7 @@
       "lastChecked": 1792490938046
     },
     {
-      "id": "gdelt-bhfz7sp",
+      "id": "gdelt-4txnbjb",
       "title": "Cafés abertos e ruas em chamas : os dois mundos na noite  surrealista  de Paris",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -1162,7 +2026,7 @@
       "lastChecked": 1792490938046
     },
     {
-      "id": "gdelt-f27iran",
+      "id": "gdelt-dn2ac4c",
       "title": "Volkswagen planeja congelar salários até 2030 , afirma conselho de trabalhadores",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -1178,7 +2042,7 @@
       "lastChecked": 1792490938046
     },
     {
-      "id": "gdelt-83yv6io",
+      "id": "gdelt-lx42fro",
       "title": "Títulos da França caem após distúrbios aumentarem pressão sobre o governo",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -1194,7 +2058,7 @@
       "lastChecked": 1792490938046
     },
     {
-      "id": "gdelt-n832itt",
+      "id": "gdelt-gsvwij8",
       "title": "A 5 dias da eleio , Real Time mede transferência de votos entre Lula e Flávio",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -1210,7 +2074,7 @@
       "lastChecked": 1792490938046
     },
     {
-      "id": "gdelt-hqgb0sa",
+      "id": "gdelt-0xzb1nk",
       "title": "Lula x Bolsonaro : o que diziam as pesquisas a uma semana do 2º turno de 2022 ?",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -1226,7 +2090,7 @@
       "lastChecked": 1792490938046
     },
     {
-      "id": "gdelt-0e6tpm9",
+      "id": "gdelt-bn7o7b6",
       "title": "Eleições podem levar o Ibovespa aos 230 mil pontos ou ampliar a correo ?",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -1242,7 +2106,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-0jgtyed",
+      "id": "gdelt-vm7jw7k",
       "title": "Quem é Marcelo Aguiar , deputado do PL e cantor gospel detido após disparar arma em SP",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -1258,7 +2122,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-k7zb0s4",
+      "id": "gdelt-lsj7luq",
       "title": "Renda Fixa Hoje : confira as taxas de CDBs , LCIs e LCAs na XP nesta segunda - feira ( 19 )",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -1274,7 +2138,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-excd12s",
+      "id": "gdelt-psczddf",
       "title": "Onde estamos ? Dominância Política ?",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -1290,7 +2154,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-9y375mh",
+      "id": "gdelt-x8s8bp7",
       "title": "Lindt demite CEO após resultados ruins e revisões para baixo nas perspectivas",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -1306,7 +2170,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-q0a5pf8",
+      "id": "gdelt-zlh7wic",
       "title": "Férias de 1 noite e viagens góticas ? As tendências que dominarão 2027",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -1322,7 +2186,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-kkj856q",
+      "id": "gdelt-rxvhhfi",
       "title": "Taxas dos DIs caem após novas pesquisas eleitorais e debate entre Flávio e Lula",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -1338,7 +2202,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-mvwt1gw",
+      "id": "gdelt-2g6xchl",
       "title": "TCE - RJ suspende contrato em plataforma por suspeita de irregularidades de Castro",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -1354,7 +2218,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-17q0jyu",
+      "id": "gdelt-pvx23k0",
       "title": "Empresas estudam pontos para  carros voadores  em SP",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -1370,7 +2234,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-b03z6mo",
+      "id": "gdelt-eu3a8v8",
       "title": "O que é o Ministério da Prosperidade , promessa de Flávio Bolsonaro se eleito ?",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -1386,7 +2250,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-5wl7fn3",
+      "id": "gdelt-f50w0v3",
       "title": "Decepcionante , triste , vergonhoso , infeliz : eleitores analisam o debate presidencial",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -1402,7 +2266,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-mtvgpld",
+      "id": "gdelt-rn5lsvq",
       "title": "Rede DOr ( RDOR3 ): novo acordo de controladores reforça sucessão e agrada a analistas",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -1418,7 +2282,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-oqhs36q",
+      "id": "gdelt-3j8bpww",
       "title": "Imprensa estrangeira pontua ataques e poucas propostas em debate entre Lula e Flávio",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -1434,7 +2298,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-7506x6d",
+      "id": "gdelt-5lwa43c",
       "title": "De olho na sucessão de Macron , direita radical fala em  lei e ordem  contra protestos na França",
       "sourceName": "Estadão Internacional",
       "sourceUrl": "https://www.estadao.com.br/internacional/",
@@ -1450,7 +2314,7 @@
       "lastChecked": null
     },
     {
-      "id": "gdelt-vrc4quj",
+      "id": "gdelt-rv7ombk",
       "title": "Protestos na França se espalham para Itália , Portugal e Albânia ; Meloni convoca reunião de segurança",
       "sourceName": "Estadão Internacional",
       "sourceUrl": "https://www.estadao.com.br/internacional/",
@@ -1462,198 +2326,6 @@
       "publishedAtStr": "2026-10-19T16:00:00Z",
       "publishedAtTs": 1792425600000,
       "rawContent": "Protestos na França se espalham para Itália , Portugal e Albânia ; Meloni convoca reunião de segurança",
-      "linkStatus": "unknown",
-      "lastChecked": null
-    },
-    {
-      "id": "gdelt-i1pbcro",
-      "title": "Putin sugere cúpula com Trump e Xi para discutir acordo sobre fim da guerra na Ucrânia",
-      "sourceName": "Veja Mundo",
-      "sourceUrl": "https://veja.abril.com.br/mundo/",
-      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
-      "sourceEditorial": "Revista semanal - Conteúdo sob assinatura parcial",
-      "country": "Brasil",
-      "paywall": true,
-      "originalUrl": "https://veja.abril.com.br/mundo/putin-sugere-cupula-com-trump-e-xi-para-discutir-acordo-de-paz-com-ucrania/",
-      "publishedAtStr": "2026-10-19T15:15:00Z",
-      "publishedAtTs": 1792422900000,
-      "rawContent": "Putin sugere cúpula com Trump e Xi para discutir acordo sobre fim da guerra na Ucrânia",
-      "linkStatus": "unknown",
-      "lastChecked": null
-    },
-    {
-      "id": "gdelt-uhzki6o",
-      "title": "Janones diz que Flávio quis  se impor pela força  em debate , mas Lula  não entrou na pilha  | Valor Econômico",
-      "sourceName": "Valor Econômico",
-      "sourceUrl": "https://valor.globo.com/",
-      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
-      "sourceEditorial": "Jornal diário financeiro - Conteúdo sob assinatura",
-      "country": "Brasil",
-      "paywall": true,
-      "originalUrl": "https://valor.globo.com/noticia/2026/10/19/janones-diz-que-flvio-quis-se-impor-pela-fora-em-debate-mas-lula-no-entrou-na-pilha.ghtml",
-      "publishedAtStr": "2026-10-19T14:45:00Z",
-      "publishedAtTs": 1792421100000,
-      "rawContent": "Janones diz que Flávio quis  se impor pela força  em debate , mas Lula  não entrou na pilha  | Valor Econômico",
-      "linkStatus": "unknown",
-      "lastChecked": null
-    },
-    {
-      "id": "gdelt-lzpx175",
-      "title": "Eleio chega à reta final em aberto e 7 % decidirão o vencedor",
-      "sourceName": "Valor Econômico",
-      "sourceUrl": "https://valor.globo.com/",
-      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
-      "sourceEditorial": "Jornal diário financeiro - Conteúdo sob assinatura",
-      "country": "Brasil",
-      "paywall": true,
-      "originalUrl": "https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/19/eleicao-chega-a-reta-final-em-aberto-e-7-decidirao-o-vencedor.ghtml",
-      "publishedAtStr": "2026-10-19T14:45:00Z",
-      "publishedAtTs": 1792421100000,
-      "rawContent": "Eleio chega à reta final em aberto e 7 % decidirão o vencedor",
-      "linkStatus": "unknown",
-      "lastChecked": null
-    },
-    {
-      "id": "gdelt-ppdhfoh",
-      "title": "França impõe toques de recolher para conter saques e depredaes após fim de semana de protestos",
-      "sourceName": "Estadão Internacional",
-      "sourceUrl": "https://www.estadao.com.br/internacional/",
-      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
-      "sourceEditorial": "Jornal tradicional de geopolítica - Conteúdo sob assinatura",
-      "country": "Brasil",
-      "paywall": true,
-      "originalUrl": "https://www.estadao.com.br/internacional/franca-anuncia-toques-de-recolher-apos-protestos-npr/",
-      "publishedAtStr": "2026-10-19T14:15:00Z",
-      "publishedAtTs": 1792419300000,
-      "rawContent": "França impõe toques de recolher para conter saques e depredaes após fim de semana de protestos",
-      "linkStatus": "unknown",
-      "lastChecked": null
-    },
-    {
-      "id": "gdelt-frcdrun",
-      "title": "Avião que voava de Israel para a Áustria faz pouso de emergência após ameaça de bomba",
-      "sourceName": "Estadão Internacional",
-      "sourceUrl": "https://www.estadao.com.br/internacional/",
-      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
-      "sourceEditorial": "Jornal tradicional de geopolítica - Conteúdo sob assinatura",
-      "country": "Brasil",
-      "paywall": true,
-      "originalUrl": "https://www.estadao.com.br/internacional/aviao-que-voava-de-israel-para-a-austria-faz-pouso-de-emergencia-apos-ameaca-de-bomba-npr/",
-      "publishedAtStr": "2026-10-19T14:15:00Z",
-      "publishedAtTs": 1792419300000,
-      "rawContent": "Avião que voava de Israel para a Áustria faz pouso de emergência após ameaça de bomba",
-      "linkStatus": "unknown",
-      "lastChecked": null
-    },
-    {
-      "id": "gdelt-zukkibc",
-      "title": "Alberta vai às urnas para decidir se faz votação sobre separação do Canadá ; veja o que está em jogo",
-      "sourceName": "Estadão Internacional",
-      "sourceUrl": "https://www.estadao.com.br/internacional/",
-      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
-      "sourceEditorial": "Jornal tradicional de geopolítica - Conteúdo sob assinatura",
-      "country": "Brasil",
-      "paywall": true,
-      "originalUrl": "https://www.estadao.com.br/internacional/alberta-vai-as-urnas-para-decidir-se-faz-votacao-sobre-separacao-do-canada-veja-o-que-esta-em-jogo-npr/",
-      "publishedAtStr": "2026-10-19T14:15:00Z",
-      "publishedAtTs": 1792419300000,
-      "rawContent": "Alberta vai às urnas para decidir se faz votação sobre separação do Canadá ; veja o que está em jogo",
-      "linkStatus": "unknown",
-      "lastChecked": null
-    },
-    {
-      "id": "gdelt-vsgz6wh",
-      "title": "Protesto fecha Louvre e premiê francês pede toque de recolher após onda de violência",
-      "sourceName": "Veja Mundo",
-      "sourceUrl": "https://veja.abril.com.br/mundo/",
-      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
-      "sourceEditorial": "Revista semanal - Conteúdo sob assinatura parcial",
-      "country": "Brasil",
-      "paywall": true,
-      "originalUrl": "https://veja.abril.com.br/mundo/protesto-fecha-louvre-e-premie-frances-pede-toque-de-recolher-apos-onda-de-violencia/",
-      "publishedAtStr": "2026-10-19T13:30:00Z",
-      "publishedAtTs": 1792416600000,
-      "rawContent": "Protesto fecha Louvre e premiê francês pede toque de recolher após onda de violência",
-      "linkStatus": "unknown",
-      "lastChecked": null
-    },
-    {
-      "id": "gdelt-esu9k68",
-      "title": "Caso Ana Clara : PM que matou menina de 5 anos foi defendido por Flávio Bolsonaro",
-      "sourceName": "CartaCapital",
-      "sourceUrl": "https://www.cartacapital.com.br/",
-      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
-      "sourceEditorial": "Jornalismo progressista - Conteúdo sob assinatura parcial",
-      "country": "Brasil",
-      "paywall": true,
-      "originalUrl": "https://www.cartacapital.com.br/politica/caso-ana-clara-pm-que-matou-menina-de-5-anos-foi-defendido-por-flavio-bolsonaro/",
-      "publishedAtStr": "2026-10-19T13:15:00Z",
-      "publishedAtTs": 1792415700000,
-      "rawContent": "Caso Ana Clara : PM que matou menina de 5 anos foi defendido por Flávio Bolsonaro",
-      "linkStatus": "unknown",
-      "lastChecked": null
-    },
-    {
-      "id": "gdelt-r580ox9",
-      "title": "Dólar volátil : vale antecipar pagamentos ? Veja como empresas podem economizar",
-      "sourceName": "InfoMoney",
-      "sourceUrl": "https://www.infomoney.com.br/",
-      "sourceType": "Imprensa Comercial Brasileira",
-      "sourceEditorial": "Portal especializado em mercados e economia global",
-      "country": "Brasil",
-      "paywall": false,
-      "originalUrl": "https://www.infomoney.com.br/minhas-financas/dolar-volatil-vale-antecipar-pagamentos-veja-como-empresas-podem-economizar/",
-      "publishedAtStr": "2026-10-19T12:00:00Z",
-      "publishedAtTs": 1792411200000,
-      "rawContent": "Dólar volátil : vale antecipar pagamentos ? Veja como empresas podem economizar",
-      "linkStatus": "unknown",
-      "lastChecked": null
-    },
-    {
-      "id": "gdelt-rgsu8q2",
-      "title": "Na China , produo industrial cresce 5 , 5 % e vendas no varejo sobem 1 , 1 % em setembro",
-      "sourceName": "InfoMoney",
-      "sourceUrl": "https://www.infomoney.com.br/",
-      "sourceType": "Imprensa Comercial Brasileira",
-      "sourceEditorial": "Portal especializado em mercados e economia global",
-      "country": "Brasil",
-      "paywall": false,
-      "originalUrl": "https://www.infomoney.com.br/economia/na-china-producao-industrial-cresce-55-e-vendas-no-varejo-sobem-11-em-setembro/",
-      "publishedAtStr": "2026-10-19T12:00:00Z",
-      "publishedAtTs": 1792411200000,
-      "rawContent": "Na China , produo industrial cresce 5 , 5 % e vendas no varejo sobem 1 , 1 % em setembro",
-      "linkStatus": "unknown",
-      "lastChecked": null
-    },
-    {
-      "id": "gdelt-5e1l9ne",
-      "title": "Lula sobe , mas Flávio segue à frente no 2º turno , indica AtlasIntel",
-      "sourceName": "CartaCapital",
-      "sourceUrl": "https://www.cartacapital.com.br/",
-      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
-      "sourceEditorial": "Jornalismo progressista - Conteúdo sob assinatura parcial",
-      "country": "Brasil",
-      "paywall": true,
-      "originalUrl": "https://www.cartacapital.com.br/politica/lula-sobe-mas-flavio-segue-a-frente-no-2o-turno-indica-atlasintel/",
-      "publishedAtStr": "2026-10-19T11:45:00Z",
-      "publishedAtTs": 1792410300000,
-      "rawContent": "Lula sobe , mas Flávio segue à frente no 2º turno , indica AtlasIntel",
-      "linkStatus": "unknown",
-      "lastChecked": null
-    },
-    {
-      "id": "gdelt-2fag6od",
-      "title": "Agenda dos candidatos : Lula participa de ato em Porto Alegre ; Flávio Bolsonaro vai ao Pará e ao Amazonas",
-      "sourceName": "CartaCapital",
-      "sourceUrl": "https://www.cartacapital.com.br/",
-      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
-      "sourceEditorial": "Jornalismo progressista - Conteúdo sob assinatura parcial",
-      "country": "Brasil",
-      "paywall": true,
-      "originalUrl": "https://www.cartacapital.com.br/politica/agenda-dos-candidatos-lula-participa-de-ato-em-porto-alegre-flavio-bolsonaro-vai-ao-para-e-ao-amazonas/",
-      "publishedAtStr": "2026-10-19T11:45:00Z",
-      "publishedAtTs": 1792410300000,
-      "rawContent": "Agenda dos candidatos : Lula participa de ato em Porto Alegre ; Flávio Bolsonaro vai ao Pará e ao Amazonas",
       "linkStatus": "unknown",
       "lastChecked": null
     }
