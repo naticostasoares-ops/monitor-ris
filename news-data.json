@@ -1,16 +1,32 @@
 {
-  "updatedAt": "2026-10-22T20:54:52.412Z",
+  "updatedAt": "2026-10-22T23:58:20.139Z",
   "periodUsed": "24h",
-  "count": 18,
+  "count": 17,
   "linkVerificationStats": {
-    "checkedThisRun": 4,
-    "active": 4,
+    "checkedThisRun": 1,
+    "active": 1,
     "broken": 0,
     "unknown": 0
   },
   "articles": [
     {
-      "id": "gdelt-pves8oh",
+      "id": "gdelt-8yxqrjb",
+      "title": "Datafolha : Lula e Flávio Bolsonaro empatam com 50 %",
+      "sourceName": "DW Brasil",
+      "sourceUrl": "https://www.dw.com/pt-br/",
+      "sourceType": "Imprensa Internacional / Pública",
+      "sourceEditorial": "Emissora pública da Alemanha; foco em diplomacia e direitos humanos",
+      "country": "Alemanha",
+      "paywall": false,
+      "originalUrl": "https://www.dw.com/pt-br/datafolha-lula-e-fl%C3%A1vio-bolsonaro-aparecem-empatados-com-50/live-78393402",
+      "publishedAtStr": "2026-10-22T23:00:00Z",
+      "publishedAtTs": 1792710000000,
+      "rawContent": "Datafolha : Lula e Flávio Bolsonaro empatam com 50 %",
+      "linkStatus": "active",
+      "lastChecked": 1792713499202
+    },
+    {
+      "id": "gdelt-ld282g1",
       "title": "Governo Trump sanciona 61 autoridades e ex - integrantes de governos da Bolívia e da Colômbia",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -26,7 +42,7 @@
       "lastChecked": 1792702488265
     },
     {
-      "id": "gdelt-qbf6p8w",
+      "id": "gdelt-iiyljst",
       "title": "Rinoceronte - branco do zoológico de Paris é transferido para o México para preservar a diversidade genética da espécie ; entenda",
       "sourceName": "O Globo Mundo",
       "sourceUrl": "https://oglobo.globo.com/mundo/",
@@ -42,7 +58,7 @@
       "lastChecked": 1792702488265
     },
     {
-      "id": "gdelt-af6bnrm",
+      "id": "gdelt-cv9vfys",
       "title": "França prende 217 pessoas após onda de distúrbios , e julgamentos acelerados provocam críticas de advogados",
       "sourceName": "O Globo Mundo",
       "sourceUrl": "https://oglobo.globo.com/mundo/",
@@ -58,7 +74,7 @@
       "lastChecked": 1792702488265
     },
     {
-      "id": "gdelt-w04yiz2",
+      "id": "gdelt-mhyym3l",
       "title": "Justiça libera protesto em Paris após proibio da polícia",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -74,7 +90,7 @@
       "lastChecked": 1792702488265
     },
     {
-      "id": "gdelt-ri0w8af",
+      "id": "gdelt-m2p73rk",
       "title": "Flávio fez festa com lobistas e prostitutas na pandemia",
       "sourceName": "DW Brasil",
       "sourceUrl": "https://www.dw.com/pt-br/",
@@ -90,7 +106,7 @@
       "lastChecked": 1792690713314
     },
     {
-      "id": "gdelt-18pyegr",
+      "id": "gdelt-56dl9ip",
       "title": "Estudo mapeia pedidos de voto em igrejas pelo Brasil",
       "sourceName": "DW Brasil",
       "sourceUrl": "https://www.dw.com/pt-br/",
@@ -106,7 +122,7 @@
       "lastChecked": 1792690713314
     },
     {
-      "id": "gdelt-5mgv4zv",
+      "id": "gdelt-mykg8mc",
       "title": "Etiópia pode ter tido um  arranha - céu  há quase 3 mil anos",
       "sourceName": "DW Brasil",
       "sourceUrl": "https://www.dw.com/pt-br/",
@@ -122,7 +138,7 @@
       "lastChecked": 1792690713314
     },
     {
-      "id": "gdelt-z8mtrjy",
+      "id": "gdelt-om0wrcy",
       "title": "Hóspede de Airbnb não terá mais que lavar louça e tirar lixo",
       "sourceName": "DW Brasil",
       "sourceUrl": "https://www.dw.com/pt-br/",
@@ -138,7 +154,7 @@
       "lastChecked": 1792690713314
     },
     {
-      "id": "gdelt-fc9m02t",
+      "id": "gdelt-6ghhno3",
       "title": "Democratas dizem que Rússia faz campanha de desinformação nas midterms",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -154,7 +170,7 @@
       "lastChecked": 1792690713314
     },
     {
-      "id": "gdelt-anmdx89",
+      "id": "gdelt-9ov4wex",
       "title": "Sem combustível para bombas hidráulicas , cubanos perfuram poços para enfrentar escassez de água na ilha :  É a luta cotidiana",
       "sourceName": "O Globo Mundo",
       "sourceUrl": "https://oglobo.globo.com/mundo/",
@@ -170,7 +186,7 @@
       "lastChecked": 1792672493714
     },
     {
-      "id": "gdelt-0s42bk3",
+      "id": "gdelt-wihvgix",
       "title": "Como é o ritual filipino que fez dois agricultores morrerem afogados em disputa por terras na frente de multidão",
       "sourceName": "O Globo Mundo",
       "sourceUrl": "https://oglobo.globo.com/mundo/",
@@ -186,7 +202,7 @@
       "lastChecked": 1792672493714
     },
     {
-      "id": "gdelt-4eoufb3",
+      "id": "gdelt-hk6xv9n",
       "title": "Como está a aprovação de Trump a menos de duas semanas das midterms",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -202,7 +218,7 @@
       "lastChecked": 1792672493714
     },
     {
-      "id": "gdelt-4irirhi",
+      "id": "gdelt-0tc3ls1",
       "title": "Eleições de meio de mandato nos EUA : quando serão as midterms ?",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -218,7 +234,7 @@
       "lastChecked": 1792672493714
     },
     {
-      "id": "gdelt-tl1oe6r",
+      "id": "gdelt-kaynnfx",
       "title": "É surreal : astronautas da Artemis II relatam experiência de observar o lado oculto da Lua",
       "sourceName": "O Globo Mundo",
       "sourceUrl": "https://oglobo.globo.com/mundo/",
@@ -234,7 +250,7 @@
       "lastChecked": 1792672493714
     },
     {
-      "id": "gdelt-nj4hxl8",
+      "id": "gdelt-efs1kcy",
       "title": "Ucrânia terá acesso a agência da Otan para comprar armas , diz jornal",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -250,7 +266,7 @@
       "lastChecked": 1792672493714
     },
     {
-      "id": "gdelt-yu8tv98",
+      "id": "gdelt-0i1u6dz",
       "title": "Egito , onde Malévola ficou presa , tem leis contra  ato escandaloso  na rua e  publicação de material imoral ; entenda",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -262,38 +278,6 @@
       "publishedAtStr": "2026-10-22T04:45:00Z",
       "publishedAtTs": 1792644300000,
       "rawContent": "Egito , onde Malévola ficou presa , tem leis contra  ato escandaloso  na rua e  publicação de material imoral ; entenda",
-      "linkStatus": "active",
-      "lastChecked": 1792672493714
-    },
-    {
-      "id": "gdelt-49wyn7a",
-      "title": "Checagem do X falhou em detectar mentiras sobre eleições nos EUA , incluindo posts de Musk , diz estudo",
-      "sourceName": "O Globo Mundo",
-      "sourceUrl": "https://oglobo.globo.com/mundo/",
-      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
-      "sourceEditorial": "Jornal diário (Grupo Globo) - Conteúdo sob assinatura",
-      "country": "Brasil",
-      "paywall": true,
-      "originalUrl": "https://oglobo.globo.com/mundo/noticia/2026/10/22/checagem-do-x-falhou-em-detectar-mentiras-sobre-eleicoes-nos-eua-incluindo-posts-de-musk-diz-estudo.ghtml",
-      "publishedAtStr": "2026-10-22T04:45:00Z",
-      "publishedAtTs": 1792644300000,
-      "rawContent": "Checagem do X falhou em detectar mentiras sobre eleições nos EUA , incluindo posts de Musk , diz estudo",
-      "linkStatus": "active",
-      "lastChecked": 1792672493714
-    },
-    {
-      "id": "gdelt-1ejz9tq",
-      "title": "Prefeito de Nova York chama fim da escala 6x1 de  passo histórico  no Brasil",
-      "sourceName": "G1 Mundo",
-      "sourceUrl": "https://g1.globo.com/mundo/",
-      "sourceType": "Imprensa Comercial Brasileira",
-      "sourceEditorial": "Portal de notícias mainstream do Grupo Globo",
-      "country": "Brasil",
-      "paywall": false,
-      "originalUrl": "https://g1.globo.com/mundo/noticia/2026/10/21/prefeito-de-nova-york-chama-fim-da-escala-6x1-de-passo-historico-no-brasil.ghtml",
-      "publishedAtStr": "2026-10-22T03:15:00Z",
-      "publishedAtTs": 1792638900000,
-      "rawContent": "Prefeito de Nova York chama fim da escala 6x1 de  passo histórico  no Brasil",
       "linkStatus": "active",
       "lastChecked": 1792672493714
     }
