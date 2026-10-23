@@ -1,48 +1,16 @@
 {
-  "updatedAt": "2026-10-23T18:26:35.359Z",
+  "updatedAt": "2026-10-23T21:38:47.411Z",
   "periodUsed": "24h",
-  "count": 46,
+  "count": 31,
   "linkVerificationStats": {
-    "checkedThisRun": 5,
-    "active": 5,
+    "checkedThisRun": 0,
+    "active": 0,
     "broken": 0,
     "unknown": 0
   },
   "articles": [
     {
-      "id": "gdelt-3hw3g6z",
-      "title": "Segundo turno : o que o eleitor precisa saber para votar",
-      "sourceName": "DW Brasil",
-      "sourceUrl": "https://www.dw.com/pt-br/",
-      "sourceType": "Imprensa Internacional / Pública",
-      "sourceEditorial": "Emissora pública da Alemanha; foco em diplomacia e direitos humanos",
-      "country": "Alemanha",
-      "paywall": false,
-      "originalUrl": "https://www.dw.com/pt-br/segundo-turno-tudo-o-que-voc%C3%AA-precisa-saber-para-votar-domingo/a-79737619",
-      "publishedAtStr": "2026-10-23T15:00:00Z",
-      "publishedAtTs": 1792767600000,
-      "rawContent": "Segundo turno : o que o eleitor precisa saber para votar",
-      "linkStatus": "active",
-      "lastChecked": 1792779991027
-    },
-    {
-      "id": "gdelt-3ulvgn3",
-      "title": "Premier de Israel ordena  fechamento total  da Cisjordânia após ataque a tiros matar dois soldados ; veja vídeo",
-      "sourceName": "O Globo Mundo",
-      "sourceUrl": "https://oglobo.globo.com/mundo/",
-      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
-      "sourceEditorial": "Jornal diário (Grupo Globo) - Conteúdo sob assinatura",
-      "country": "Brasil",
-      "paywall": true,
-      "originalUrl": "https://oglobo.globo.com/mundo/noticia/2026/10/23/premier-de-israel-ordena-fechamento-total-da-cisjordania-apos-ataque-a-tiros-com-cinco-feridos-atiradores-foram-mortos.ghtml",
-      "publishedAtStr": "2026-10-23T13:30:00Z",
-      "publishedAtTs": 1792762200000,
-      "rawContent": "Premier de Israel ordena  fechamento total  da Cisjordânia após ataque a tiros matar dois soldados ; veja vídeo",
-      "linkStatus": "active",
-      "lastChecked": 1792764849549
-    },
-    {
-      "id": "gdelt-yeq90wp",
+      "id": "gdelt-bvu4uc8",
       "title": "TSE dá 24 horas para Meta e X explicarem distribuio de conteúdos políticos",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -58,7 +26,7 @@
       "lastChecked": 1792764849549
     },
     {
-      "id": "gdelt-1nq0ctd",
+      "id": "gdelt-ib334xc",
       "title": "Fantasy Bra usado por Kylie Jenner vai à leilão ; peça é avaliada em R$ 250 milhões",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -74,7 +42,7 @@
       "lastChecked": 1792764849549
     },
     {
-      "id": "gdelt-uupll3k",
+      "id": "gdelt-skyfvmo",
       "title": "Ataque a tiros deixa um morto e quatro feridos em cidades nos arredores de Paris",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -90,7 +58,7 @@
       "lastChecked": 1792764849549
     },
     {
-      "id": "gdelt-wq7ko0x",
+      "id": "gdelt-evjkuff",
       "title": "O avanço dos eletrificados muda a conta do varejo automotivo",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -106,7 +74,7 @@
       "lastChecked": 1792764849549
     },
     {
-      "id": "gdelt-8s2i7vc",
+      "id": "gdelt-fg4t2tb",
       "title": "SK Hynix suspende IPO da unidade de chips nos EUA após Seul manifestar preocupações",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -122,55 +90,7 @@
       "lastChecked": 1792764849549
     },
     {
-      "id": "gdelt-pdevwm9",
-      "title": "Não votei no 1º turno . Posso votar no 2º ? Veja como votar nas eleies 2026",
-      "sourceName": "BBC News Brasil",
-      "sourceUrl": "https://www.bbc.com/portuguese",
-      "sourceType": "Imprensa Internacional / Pública",
-      "sourceEditorial": "Emissora pública do Reino Unido; jornalismo global independente",
-      "country": "Reino Unido",
-      "paywall": false,
-      "originalUrl": "https://www.bbc.com/portuguese/articles/cm62ydz9vzjeo",
-      "publishedAtStr": "2026-10-23T13:00:00Z",
-      "publishedAtTs": 1792760400000,
-      "rawContent": "Não votei no 1º turno . Posso votar no 2º ? Veja como votar nas eleies 2026",
-      "linkStatus": "active",
-      "lastChecked": 1792764849549
-    },
-    {
-      "id": "gdelt-oip4gre",
-      "title": "Meghan Markle :  abalada  com acusações de abuso infantil contra o pai",
-      "sourceName": "G1 Mundo",
-      "sourceUrl": "https://g1.globo.com/mundo/",
-      "sourceType": "Imprensa Comercial Brasileira",
-      "sourceEditorial": "Portal de notícias mainstream do Grupo Globo",
-      "country": "Brasil",
-      "paywall": false,
-      "originalUrl": "https://g1.globo.com/mundo/noticia/2026/10/23/meghan-markle-se-diz-profundamente-angustiada-com-acusacoes-de-abuso-infantil-contra-o-pai.ghtml",
-      "publishedAtStr": "2026-10-23T12:00:00Z",
-      "publishedAtTs": 1792756800000,
-      "rawContent": "Meghan Markle :  abalada  com acusações de abuso infantil contra o pai",
-      "linkStatus": "active",
-      "lastChecked": 1792764849549
-    },
-    {
-      "id": "gdelt-1qshsuu",
-      "title": "Rússia anuncia negociações trilaterais com Ucrânia e EUA em novembro",
-      "sourceName": "G1 Mundo",
-      "sourceUrl": "https://g1.globo.com/mundo/",
-      "sourceType": "Imprensa Comercial Brasileira",
-      "sourceEditorial": "Portal de notícias mainstream do Grupo Globo",
-      "country": "Brasil",
-      "paywall": false,
-      "originalUrl": "https://g1.globo.com/mundo/noticia/2026/10/23/russia-anuncia-negociacoes-trilaterais-com-ucrania-e-eua-em-novembro-nos-emirados-arabes.ghtml",
-      "publishedAtStr": "2026-10-23T12:00:00Z",
-      "publishedAtTs": 1792756800000,
-      "rawContent": "Rússia anuncia negociações trilaterais com Ucrânia e EUA em novembro",
-      "linkStatus": "active",
-      "lastChecked": 1792764849549
-    },
-    {
-      "id": "gdelt-n53tgpf",
+      "id": "gdelt-varbl3r",
       "title": "O que aconteceu com a Bolsa e dólar após o segundo turno , nas últimas eleições ?",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -186,7 +106,7 @@
       "lastChecked": 1792764849549
     },
     {
-      "id": "gdelt-q7krvn0",
+      "id": "gdelt-eao8hai",
       "title": "Nasdaq futuro sobe após pior queda desde junho em meio a temores com IA",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -202,7 +122,7 @@
       "lastChecked": 1792764849549
     },
     {
-      "id": "gdelt-sjcva75",
+      "id": "gdelt-x5jaw04",
       "title": "A nova pesquisa Real Time para a presidência , a dois dias da votao em segundo turno",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -218,7 +138,7 @@
       "lastChecked": 1792764849549
     },
     {
-      "id": "gdelt-7ph0uey",
+      "id": "gdelt-lukndg2",
       "title": "Mini - índice ( WINZ26 ): inflao e debate eleitoral prometem forte volatilidade",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -234,7 +154,7 @@
       "lastChecked": 1792764849549
     },
     {
-      "id": "gdelt-f9jdzly",
+      "id": "gdelt-zi8vcxg",
       "title": "Day Trade hoje ( 23 ): Ibovespa amplia perdas ; alta ainda pode voltar ?",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -250,7 +170,7 @@
       "lastChecked": 1792764849549
     },
     {
-      "id": "gdelt-cljhcuo",
+      "id": "gdelt-kik0ym3",
       "title": "Nova reforma da Previdência ? Presidente eleito terá desafio de reequilibrar o INSS",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -266,7 +186,7 @@
       "lastChecked": 1792764849549
     },
     {
-      "id": "gdelt-0wz41hi",
+      "id": "gdelt-6glcmz6",
       "title": "Debates podem decidir eleições ? Relembre os confrontos mais marcantes",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -282,7 +202,7 @@
       "lastChecked": 1792764849549
     },
     {
-      "id": "gdelt-kguou85",
+      "id": "gdelt-zo55bi8",
       "title": "O que prometem Lula e Flávio para a saúde pública em 2027 ?",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -298,7 +218,7 @@
       "lastChecked": 1792764849549
     },
     {
-      "id": "gdelt-3oz2a5r",
+      "id": "gdelt-sg6ew2b",
       "title": "Por que quem hesita em liderar pode ser a melhor escolha para o cargo",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -314,7 +234,7 @@
       "lastChecked": 1792764849549
     },
     {
-      "id": "gdelt-dvzpmue",
+      "id": "gdelt-44mpw3l",
       "title": "Datafolha : Flávio Bolsonaro tem 47 %, e Lula , 46 %, a três dias do 2º turno",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -330,7 +250,7 @@
       "lastChecked": 1792764849549
     },
     {
-      "id": "gdelt-162ddkl",
+      "id": "gdelt-c7l929o",
       "title": "O que Lula e Flávio terão de enfrentar para equilibrar as contas públicas",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -346,7 +266,7 @@
       "lastChecked": 1792764849549
     },
     {
-      "id": "gdelt-5ejr1cd",
+      "id": "gdelt-z344gwi",
       "title": "Minidólar ( WDOX26 ): veja os níveis decisivos para operar nesta sexta - feira",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -362,7 +282,7 @@
       "lastChecked": 1792764849549
     },
     {
-      "id": "gdelt-fgta5v7",
+      "id": "gdelt-hy50fyj",
       "title": "Netanyahu ordena  fechamento total  da Cisjordânia após ataque armado",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -378,7 +298,7 @@
       "lastChecked": 1792764849549
     },
     {
-      "id": "gdelt-p7m19yp",
+      "id": "gdelt-j9wd3qg",
       "title": "Lula é preparado para não responder a provocações de Flávio em focar propostas",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -394,7 +314,7 @@
       "lastChecked": 1792764849549
     },
     {
-      "id": "gdelt-qyluu8e",
+      "id": "gdelt-nfj6ofk",
       "title": "Ganhos de até 22 %: veja os FIIs que mais subiram no rali eleitoral",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -410,7 +330,7 @@
       "lastChecked": 1792764849549
     },
     {
-      "id": "gdelt-d2jnh0q",
+      "id": "gdelt-ar8cwmn",
       "title": "Preparado para Flávio ou Lula ? O que fazer na última chance de calibrar investimentos",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -426,7 +346,7 @@
       "lastChecked": 1792764849549
     },
     {
-      "id": "gdelt-taiuv7z",
+      "id": "gdelt-fg4g097",
       "title": "Eleições , debate na Globo , IPCA - 15 e mais destaques desta sexta",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -442,7 +362,7 @@
       "lastChecked": 1792764849549
     },
     {
-      "id": "gdelt-q9vj984",
+      "id": "gdelt-ipvxkgq",
       "title": "Como aes de estatais se comportaram durante as eleições e depois do 2º turno ?",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -458,7 +378,7 @@
       "lastChecked": 1792764849549
     },
     {
-      "id": "gdelt-764i6ek",
+      "id": "gdelt-meb1p0q",
       "title": "Mais um teste de sobrevivência para Benjamin Netanyahu",
       "sourceName": "Veja Mundo",
       "sourceUrl": "https://veja.abril.com.br/mundo/",
@@ -474,7 +394,7 @@
       "lastChecked": 1792764849549
     },
     {
-      "id": "gdelt-ddhmz4g",
+      "id": "gdelt-9oemjrs",
       "title": "Europa em chamas : como o caldo de insatisfação dos jovens da geração Z se espalha pelo continente",
       "sourceName": "Veja Mundo",
       "sourceUrl": "https://veja.abril.com.br/mundo/",
@@ -490,23 +410,7 @@
       "lastChecked": 1792764849549
     },
     {
-      "id": "gdelt-y7w7rc3",
-      "title": "Ladrões roubam joias de casa na Romênia , mas deixam passar pedra de âmbar avaliada em R$ 5 , 6 milhões",
-      "sourceName": "O Globo Mundo",
-      "sourceUrl": "https://oglobo.globo.com/mundo/",
-      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
-      "sourceEditorial": "Jornal diário (Grupo Globo) - Conteúdo sob assinatura",
-      "country": "Brasil",
-      "paywall": true,
-      "originalUrl": "https://oglobo.globo.com/mundo/epoca/noticia/2026/10/23/ladroes-roubam-joias-de-casa-na-romenia-mas-deixam-passar-pedra-de-ambar-avaliada-em-r-56-milhoes.ghtml",
-      "publishedAtStr": "2026-10-23T09:15:00Z",
-      "publishedAtTs": 1792746900000,
-      "rawContent": "Ladrões roubam joias de casa na Romênia , mas deixam passar pedra de âmbar avaliada em R$ 5 , 6 milhões",
-      "linkStatus": "active",
-      "lastChecked": 1792764849549
-    },
-    {
-      "id": "gdelt-ficxz0u",
+      "id": "gdelt-q7it1so",
       "title": "Governo intensifica reforços para combater incêndios no Pará",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -522,7 +426,7 @@
       "lastChecked": 1792764849549
     },
     {
-      "id": "gdelt-jow85rj",
+      "id": "gdelt-68bsgxu",
       "title": "Nova York proíbe passeios de carruagem no Central Park após 20 anos de debate",
       "sourceName": "Estadão Internacional",
       "sourceUrl": "https://www.estadao.com.br/internacional/",
@@ -538,7 +442,7 @@
       "lastChecked": 1792764849549
     },
     {
-      "id": "gdelt-ha6idmr",
+      "id": "gdelt-nc4xaiw",
       "title": "Nova York pode proibir passeios de carruagem no Central Park após morte de adolescente",
       "sourceName": "Estadão Internacional",
       "sourceUrl": "https://www.estadao.com.br/internacional/",
@@ -554,23 +458,7 @@
       "lastChecked": 1792764849549
     },
     {
-      "id": "gdelt-phsmfb7",
-      "title": "Datafolha : Lula e Flávio Bolsonaro empatam com 50 %",
-      "sourceName": "DW Brasil",
-      "sourceUrl": "https://www.dw.com/pt-br/",
-      "sourceType": "Imprensa Internacional / Pública",
-      "sourceEditorial": "Emissora pública da Alemanha; foco em diplomacia e direitos humanos",
-      "country": "Alemanha",
-      "paywall": false,
-      "originalUrl": "https://www.dw.com/pt-br/datafolha-lula-e-fl%C3%A1vio-bolsonaro-aparecem-empatados-com-50/live-78393402",
-      "publishedAtStr": "2026-10-22T23:00:00Z",
-      "publishedAtTs": 1792710000000,
-      "rawContent": "Datafolha : Lula e Flávio Bolsonaro empatam com 50 %",
-      "linkStatus": "active",
-      "lastChecked": 1792745772423
-    },
-    {
-      "id": "gdelt-dfbuff1",
+      "id": "gdelt-ocn38na",
       "title": "Moedas Globais : dólar cai forte ante iene com petróleo , IA e protestos na Europa",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -586,7 +474,7 @@
       "lastChecked": 1792764849549
     },
     {
-      "id": "gdelt-arlxv0x",
+      "id": "gdelt-71my70r",
       "title": "Datafolha : No 2º turno , Celina Leão tem 54 % e Leandro Grass 37 % no DF",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -602,7 +490,7 @@
       "lastChecked": 1792764849549
     },
     {
-      "id": "gdelt-e3n8qen",
+      "id": "gdelt-d44191z",
       "title": "Juíza ordena que Trump compareça para depor em seu processo contra a BBC até 11 de dezembro",
       "sourceName": "Estadão Internacional",
       "sourceUrl": "https://www.estadao.com.br/internacional/",
@@ -616,134 +504,6 @@
       "rawContent": "Juíza ordena que Trump compareça para depor em seu processo contra a BBC até 11 de dezembro",
       "linkStatus": "active",
       "lastChecked": 1792764849549
-    },
-    {
-      "id": "gdelt-q8xjjq6",
-      "title": "Ucrânia manda famílias fugirem de Kramatorsk e Sloviansk , seus dois últimos redutos no leste",
-      "sourceName": "Veja Mundo",
-      "sourceUrl": "https://veja.abril.com.br/mundo/",
-      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
-      "sourceEditorial": "Revista semanal - Conteúdo sob assinatura parcial",
-      "country": "Brasil",
-      "paywall": true,
-      "originalUrl": "https://veja.abril.com.br/mundo/ucrania-manda-familias-fugirem-de-kramatorsk-e-sloviansk-seus-dois-ultimos-redutos-no-leste/",
-      "publishedAtStr": "2026-10-22T21:15:00Z",
-      "publishedAtTs": 1792703700000,
-      "rawContent": "Ucrânia manda famílias fugirem de Kramatorsk e Sloviansk , seus dois últimos redutos no leste",
-      "linkStatus": "active",
-      "lastChecked": 1792764849549
-    },
-    {
-      "id": "gdelt-nteulio",
-      "title": "TV Globo  limita circulação de Lula e Flávio Bolsonaro em debate",
-      "sourceName": "CartaCapital",
-      "sourceUrl": "https://www.cartacapital.com.br/",
-      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
-      "sourceEditorial": "Jornalismo progressista - Conteúdo sob assinatura parcial",
-      "country": "Brasil",
-      "paywall": true,
-      "originalUrl": "https://www.cartacapital.com.br/politica/tv-globo-limita-circulacao-de-lula-e-flavio-bolsonaro-em-debate/",
-      "publishedAtStr": "2026-10-22T20:15:00Z",
-      "publishedAtTs": 1792700100000,
-      "rawContent": "TV Globo  limita circulação de Lula e Flávio Bolsonaro em debate",
-      "linkStatus": "active",
-      "lastChecked": 1792764849549
-    },
-    {
-      "id": "gdelt-sb18ble",
-      "title": "Veja as regras do último debate entre Lula e Flávio Bolsonaro",
-      "sourceName": "CartaCapital",
-      "sourceUrl": "https://www.cartacapital.com.br/",
-      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
-      "sourceEditorial": "Jornalismo progressista - Conteúdo sob assinatura parcial",
-      "country": "Brasil",
-      "paywall": true,
-      "originalUrl": "https://www.cartacapital.com.br/politica/veja-as-regras-do-ultimo-debate-entre-lula-e-flavio-bolsonaro/",
-      "publishedAtStr": "2026-10-22T20:15:00Z",
-      "publishedAtTs": 1792700100000,
-      "rawContent": "Veja as regras do último debate entre Lula e Flávio Bolsonaro",
-      "linkStatus": "active",
-      "lastChecked": 1792764849549
-    },
-    {
-      "id": "gdelt-yrb5lcx",
-      "title": "Trajetória acidentada",
-      "sourceName": "CartaCapital",
-      "sourceUrl": "https://www.cartacapital.com.br/",
-      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
-      "sourceEditorial": "Jornalismo progressista - Conteúdo sob assinatura parcial",
-      "country": "Brasil",
-      "paywall": true,
-      "originalUrl": "https://www.cartacapital.com.br/cultura/trajetoria-acidentada/",
-      "publishedAtStr": "2026-10-22T20:15:00Z",
-      "publishedAtTs": 1792700100000,
-      "rawContent": "Trajetória acidentada",
-      "linkStatus": "active",
-      "lastChecked": 1792764849549
-    },
-    {
-      "id": "gdelt-etc82d7",
-      "title": "Ficha corrida",
-      "sourceName": "CartaCapital",
-      "sourceUrl": "https://www.cartacapital.com.br/",
-      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
-      "sourceEditorial": "Jornalismo progressista - Conteúdo sob assinatura parcial",
-      "country": "Brasil",
-      "paywall": true,
-      "originalUrl": "https://www.cartacapital.com.br/carta-capital/ficha-corrida/",
-      "publishedAtStr": "2026-10-22T20:15:00Z",
-      "publishedAtTs": 1792700100000,
-      "rawContent": "Ficha corrida",
-      "linkStatus": "active",
-      "lastChecked": 1792779991027
-    },
-    {
-      "id": "gdelt-oancc62",
-      "title": "ANM destina R$ 10 , 38 milhões à modernização da fiscalização de barragens",
-      "sourceName": "InfoMoney",
-      "sourceUrl": "https://www.infomoney.com.br/",
-      "sourceType": "Imprensa Comercial Brasileira",
-      "sourceEditorial": "Portal especializado em mercados e economia global",
-      "country": "Brasil",
-      "paywall": false,
-      "originalUrl": "https://www.infomoney.com.br/mercados/anm-destina-r-1038-milhoes-a-modernizacao-da-fiscalizacao-de-barragens/",
-      "publishedAtStr": "2026-10-22T20:00:00Z",
-      "publishedAtTs": 1792699200000,
-      "rawContent": "ANM destina R$ 10 , 38 milhões à modernização da fiscalização de barragens",
-      "linkStatus": "active",
-      "lastChecked": 1792779991027
-    },
-    {
-      "id": "gdelt-s3vow9e",
-      "title": "Bitcoin cai abaixo de US$ 82 mil com aversão ao risco e tensão no Oriente Médio",
-      "sourceName": "InfoMoney",
-      "sourceUrl": "https://www.infomoney.com.br/",
-      "sourceType": "Imprensa Comercial Brasileira",
-      "sourceEditorial": "Portal especializado em mercados e economia global",
-      "country": "Brasil",
-      "paywall": false,
-      "originalUrl": "https://www.infomoney.com.br/mercados/bitcoin-cai-abaixo-de-us-82-mil-com-aversao-ao-risco-e-tensao-no-oriente-medio/",
-      "publishedAtStr": "2026-10-22T20:00:00Z",
-      "publishedAtTs": 1792699200000,
-      "rawContent": "Bitcoin cai abaixo de US$ 82 mil com aversão ao risco e tensão no Oriente Médio",
-      "linkStatus": "active",
-      "lastChecked": 1792779991027
-    },
-    {
-      "id": "gdelt-1h1w834",
-      "title": "Seu ouro ficará seguro : golpe faz vítimas esconderem barras em florestas na Noruega",
-      "sourceName": "InfoMoney",
-      "sourceUrl": "https://www.infomoney.com.br/",
-      "sourceType": "Imprensa Comercial Brasileira",
-      "sourceEditorial": "Portal especializado em mercados e economia global",
-      "country": "Brasil",
-      "paywall": false,
-      "originalUrl": "https://www.infomoney.com.br/mundo/seu-ouro-ficara-seguro-golpe-faz-vitimas-esconderem-barras-em-florestas-na-noruega/",
-      "publishedAtStr": "2026-10-22T20:00:00Z",
-      "publishedAtTs": 1792699200000,
-      "rawContent": "Seu ouro ficará seguro : golpe faz vítimas esconderem barras em florestas na Noruega",
-      "linkStatus": "active",
-      "lastChecked": 1792779991027
     }
   ]
 }
