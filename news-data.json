@@ -1,16 +1,32 @@
 {
-  "updatedAt": "2026-10-25T01:47:46.377Z",
+  "updatedAt": "2026-10-25T07:01:07.505Z",
   "periodUsed": "24h",
-  "count": 12,
+  "count": 11,
   "linkVerificationStats": {
-    "checkedThisRun": 12,
-    "active": 12,
+    "checkedThisRun": 1,
+    "active": 1,
     "broken": 0,
     "unknown": 0
   },
   "articles": [
     {
-      "id": "gdelt-m27xuh8",
+      "id": "gdelt-5f73krv",
+      "title": "Quase mil pessoas são presas após confrontos em mais um dia de protestos em massa na França",
+      "sourceName": "BBC News Brasil",
+      "sourceUrl": "https://www.bbc.com/portuguese",
+      "sourceType": "Imprensa Internacional / Pública",
+      "sourceEditorial": "Emissora pública do Reino Unido; jornalismo global independente",
+      "country": "Reino Unido",
+      "paywall": false,
+      "originalUrl": "https://www.bbc.com/portuguese/articles/cmgr8dw92n78o",
+      "publishedAtStr": "2026-10-25T03:30:00Z",
+      "publishedAtTs": 1792899000000,
+      "rawContent": "Quase mil pessoas são presas após confrontos em mais um dia de protestos em massa na França",
+      "linkStatus": "active",
+      "lastChecked": 1792911667086
+    },
+    {
+      "id": "gdelt-1okfzdj",
       "title": "Protesto em Barcelona termina com 100 presos , lojas saqueadas e incêndios",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -26,7 +42,7 @@
       "lastChecked": 1792892855978
     },
     {
-      "id": "gdelt-9s2f6qt",
+      "id": "gdelt-1p41csp",
       "title": "Milhares de pessoas protestam em Madri em defesa das aposentadorias",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -42,7 +58,7 @@
       "lastChecked": 1792892855978
     },
     {
-      "id": "gdelt-p21vu7s",
+      "id": "gdelt-hkjlwkg",
       "title": "Protestos na Bélgica e na Albânia têm confrontos",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -58,7 +74,7 @@
       "lastChecked": 1792892855978
     },
     {
-      "id": "gdelt-k4flf2v",
+      "id": "gdelt-pjg8caw",
       "title": "Ataques sauditas no Iêmen deixam ao menos 10 mortos , diz emissora",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -74,7 +90,7 @@
       "lastChecked": 1792892855978
     },
     {
-      "id": "gdelt-vdkvbcq",
+      "id": "gdelt-sfaqsbx",
       "title": "Eduardo diz que Flávio vai deixar o Brasil se perder",
       "sourceName": "DW Brasil",
       "sourceUrl": "https://www.dw.com/pt-br/",
@@ -90,7 +106,7 @@
       "lastChecked": 1792892855978
     },
     {
-      "id": "gdelt-14p6rdx",
+      "id": "gdelt-vv05j4t",
       "title": "Moraes determina bloqueio de até R$ 6 bi de Willer Tomaz",
       "sourceName": "DW Brasil",
       "sourceUrl": "https://www.dw.com/pt-br/",
@@ -106,7 +122,7 @@
       "lastChecked": 1792892855978
     },
     {
-      "id": "gdelt-8t0brht",
+      "id": "gdelt-zhhipdg",
       "title": "BBC : anúncios pagos à Meta espalham desinformação em eleio na Sérvia",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -122,7 +138,7 @@
       "lastChecked": 1792892855978
     },
     {
-      "id": "gdelt-0rgjz9d",
+      "id": "gdelt-r1o00d3",
       "title": "Vilarejo japonês ameaçado de desaparecer busca jovens moradores no Peru ; entenda",
       "sourceName": "O Globo Mundo",
       "sourceUrl": "https://oglobo.globo.com/mundo/",
@@ -138,7 +154,7 @@
       "lastChecked": 1792892855978
     },
     {
-      "id": "gdelt-bubknj0",
+      "id": "gdelt-oyvrtza",
       "title": "EUA convocam cubanos a trabalhar com a CIA para derrubar o governo local e  criar mudança positiva",
       "sourceName": "O Globo Mundo",
       "sourceUrl": "https://oglobo.globo.com/mundo/",
@@ -154,7 +170,7 @@
       "lastChecked": 1792892855978
     },
     {
-      "id": "gdelt-tjyoj0h",
+      "id": "gdelt-osrpjd9",
       "title": "Chamas consomem retiro de Hitler na Alemanha ; polícia prende suspeito de crime",
       "sourceName": "O Globo Mundo",
       "sourceUrl": "https://oglobo.globo.com/mundo/",
@@ -166,38 +182,6 @@
       "publishedAtStr": "2026-10-24T10:00:00Z",
       "publishedAtTs": 1792836000000,
       "rawContent": "Chamas consomem retiro de Hitler na Alemanha ; polícia prende suspeito de crime",
-      "linkStatus": "active",
-      "lastChecked": 1792892855978
-    },
-    {
-      "id": "gdelt-2h93zd2",
-      "title": "Deu match ! Zoológico australiano vira cupido para aves gigantes , que põem ovos ( verde - neon ) após 34 anos de jejum ; veja",
-      "sourceName": "O Globo Mundo",
-      "sourceUrl": "https://oglobo.globo.com/mundo/",
-      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
-      "sourceEditorial": "Jornal diário (Grupo Globo) - Conteúdo sob assinatura",
-      "country": "Brasil",
-      "paywall": true,
-      "originalUrl": "https://oglobo.globo.com/mundo/noticia/2026/10/24/deu-match-zoologico-australiano-vira-cupido-para-aves-gigantes-que-poem-ovos-verde-neon-apos-34-anos-de-jejum-veja.ghtml",
-      "publishedAtStr": "2026-10-24T05:00:00Z",
-      "publishedAtTs": 1792818000000,
-      "rawContent": "Deu match ! Zoológico australiano vira cupido para aves gigantes , que põem ovos ( verde - neon ) após 34 anos de jejum ; veja",
-      "linkStatus": "active",
-      "lastChecked": 1792892855978
-    },
-    {
-      "id": "gdelt-62mbqtl",
-      "title": "Duas explosões atingem capital da Arábia Saudita após alerta de ataque aéreo",
-      "sourceName": "O Globo Mundo",
-      "sourceUrl": "https://oglobo.globo.com/mundo/",
-      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
-      "sourceEditorial": "Jornal diário (Grupo Globo) - Conteúdo sob assinatura",
-      "country": "Brasil",
-      "paywall": true,
-      "originalUrl": "https://oglobo.globo.com/mundo/noticia/2026/10/23/duas-explosoes-atingem-capital-da-arabia-saudita-apos-alerta-de-ataque-aereo.ghtml",
-      "publishedAtStr": "2026-10-24T03:00:00Z",
-      "publishedAtTs": 1792810800000,
-      "rawContent": "Duas explosões atingem capital da Arábia Saudita após alerta de ataque aéreo",
       "linkStatus": "active",
       "lastChecked": 1792892855978
     }
