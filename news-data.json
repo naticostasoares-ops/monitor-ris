@@ -1,16 +1,16 @@
 {
-  "updatedAt": "2026-10-25T12:27:27.856Z",
+  "updatedAt": "2026-10-25T16:47:11.380Z",
   "periodUsed": "24h",
-  "count": 9,
+  "count": 5,
   "linkVerificationStats": {
-    "checkedThisRun": 2,
-    "active": 1,
+    "checkedThisRun": 0,
+    "active": 0,
     "broken": 0,
-    "unknown": 1
+    "unknown": 0
   },
   "articles": [
     {
-      "id": "gdelt-2ygs0ab",
+      "id": "gdelt-5l17ins",
       "title": "Brasileiros encaram chuva e frio para votar em Berlim",
       "sourceName": "DW Brasil",
       "sourceUrl": "https://www.dw.com/pt-br/",
@@ -26,7 +26,7 @@
       "lastChecked": 1792931245539
     },
     {
-      "id": "gdelt-7afgj4l",
+      "id": "gdelt-b3l2mbo",
       "title": "Jogo que simula invasão norte - coreana lidera vendas na Coreia do Sul",
       "sourceName": "O Globo Mundo",
       "sourceUrl": "https://oglobo.globo.com/mundo/",
@@ -42,7 +42,7 @@
       "lastChecked": 1792931245539
     },
     {
-      "id": "gdelt-t8n9ny7",
+      "id": "gdelt-jwy9kfk",
       "title": "Quase mil pessoas são presas após confrontos em mais um dia de protestos em massa na França",
       "sourceName": "BBC News Brasil",
       "sourceUrl": "https://www.bbc.com/portuguese",
@@ -58,7 +58,7 @@
       "lastChecked": 1792911667086
     },
     {
-      "id": "gdelt-wnkx722",
+      "id": "gdelt-5j8vtmi",
       "title": "Protesto em Barcelona termina com 100 presos , lojas saqueadas e incêndios",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -74,7 +74,7 @@
       "lastChecked": 1792892855978
     },
     {
-      "id": "gdelt-6ovzx50",
+      "id": "gdelt-mv41rub",
       "title": "Milhares de pessoas protestam em Madri em defesa das aposentadorias",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -86,70 +86,6 @@
       "publishedAtStr": "2026-10-24T18:00:00Z",
       "publishedAtTs": 1792864800000,
       "rawContent": "Milhares de pessoas protestam em Madri em defesa das aposentadorias",
-      "linkStatus": "active",
-      "lastChecked": 1792892855978
-    },
-    {
-      "id": "gdelt-uafn4rc",
-      "title": "Protestos na Bélgica e na Albânia têm confrontos",
-      "sourceName": "G1 Mundo",
-      "sourceUrl": "https://g1.globo.com/mundo/",
-      "sourceType": "Imprensa Comercial Brasileira",
-      "sourceEditorial": "Portal de notícias mainstream do Grupo Globo",
-      "country": "Brasil",
-      "paywall": false,
-      "originalUrl": "https://g1.globo.com/mundo/noticia/2026/10/24/protestos-na-belgica-e-na-albania-tem-confronto-entre-manifestantes-e-policiais.ghtml",
-      "publishedAtStr": "2026-10-24T16:00:00Z",
-      "publishedAtTs": 1792857600000,
-      "rawContent": "Protestos na Bélgica e na Albânia têm confrontos",
-      "linkStatus": "active",
-      "lastChecked": 1792892855978
-    },
-    {
-      "id": "gdelt-h2e1z1a",
-      "title": "Ataques sauditas no Iêmen deixam ao menos 10 mortos , diz emissora",
-      "sourceName": "G1 Mundo",
-      "sourceUrl": "https://g1.globo.com/mundo/",
-      "sourceType": "Imprensa Comercial Brasileira",
-      "sourceEditorial": "Portal de notícias mainstream do Grupo Globo",
-      "country": "Brasil",
-      "paywall": false,
-      "originalUrl": "https://g1.globo.com/mundo/noticia/2026/10/24/ataques-arabia-saudita-iemen.ghtml",
-      "publishedAtStr": "2026-10-24T15:00:00Z",
-      "publishedAtTs": 1792854000000,
-      "rawContent": "Ataques sauditas no Iêmen deixam ao menos 10 mortos , diz emissora",
-      "linkStatus": "active",
-      "lastChecked": 1792892855978
-    },
-    {
-      "id": "gdelt-1q47box",
-      "title": "Eduardo diz que Flávio vai deixar o Brasil se perder",
-      "sourceName": "DW Brasil",
-      "sourceUrl": "https://www.dw.com/pt-br/",
-      "sourceType": "Imprensa Internacional / Pública",
-      "sourceEditorial": "Emissora pública da Alemanha; foco em diplomacia e direitos humanos",
-      "country": "Alemanha",
-      "paywall": false,
-      "originalUrl": "https://www.dw.com/pt-br/eduardo-defende-interven%C3%A7%C3%A3o-militar-americana-e-que-fl%C3%A1vio-deixe-o-pa%C3%ADs-em-caso-de-derrota/a-79750458",
-      "publishedAtStr": "2026-10-24T13:45:00Z",
-      "publishedAtTs": 1792849500000,
-      "rawContent": "Eduardo diz que Flávio vai deixar o Brasil se perder",
-      "linkStatus": "active",
-      "lastChecked": 1792892855978
-    },
-    {
-      "id": "gdelt-sga667b",
-      "title": "Moraes determina bloqueio de até R$ 6 bi de Willer Tomaz",
-      "sourceName": "DW Brasil",
-      "sourceUrl": "https://www.dw.com/pt-br/",
-      "sourceType": "Imprensa Internacional / Pública",
-      "sourceEditorial": "Emissora pública da Alemanha; foco em diplomacia e direitos humanos",
-      "country": "Alemanha",
-      "paywall": false,
-      "originalUrl": "https://www.dw.com/pt-br/moraes-determina-bloqueio-e-quebra-de-sigilo-de-contas-de-willer-tomaz-aliado-de-fl%C3%A1vio-bolsonaro/a-79749556",
-      "publishedAtStr": "2026-10-24T12:30:00Z",
-      "publishedAtTs": 1792845000000,
-      "rawContent": "Moraes determina bloqueio de até R$ 6 bi de Willer Tomaz",
       "linkStatus": "active",
       "lastChecked": 1792892855978
     }
