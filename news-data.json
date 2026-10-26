@@ -1,61 +1,12 @@
 {
-  "updatedAt": "2026-10-26T17:12:07.733Z",
+  "updatedAt": "2026-10-26T21:57:42.158Z",
   "periodUsed": "24h",
-  "count": 3,
+  "count": 0,
   "linkVerificationStats": {
-    "checkedThisRun": 3,
-    "active": 3,
+    "checkedThisRun": 0,
+    "active": 0,
     "broken": 0,
     "unknown": 0
   },
-  "articles": [
-    {
-      "id": "gdelt-tw8enyy",
-      "title": "Lula 4 . 0 x Trump 2 . 0 : Desafio do brasileiro é incrementar laços com EUA mesmo com uma Secretaria de Estado hostil",
-      "sourceName": "O Globo Mundo",
-      "sourceUrl": "https://oglobo.globo.com/mundo/",
-      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
-      "sourceEditorial": "Jornal diário (Grupo Globo) - Conteúdo sob assinatura",
-      "country": "Brasil",
-      "paywall": true,
-      "originalUrl": "https://oglobo.globo.com/mundo/noticia/2026/10/26/lula-40-x-trump-20-desafio-do-brasileiro-e-incrementar-lacos-com-eua-mesmo-com-uma-secretaria-de-estado-hostil.ghtml",
-      "publishedAtStr": "2026-10-26T05:00:00Z",
-      "publishedAtTs": 1792990800000,
-      "rawContent": "Lula 4 . 0 x Trump 2 . 0 : Desafio do brasileiro é incrementar laços com EUA mesmo com uma Secretaria de Estado hostil",
-      "linkStatus": "active",
-      "lastChecked": 1793034725446
-    },
-    {
-      "id": "gdelt-xh3ekh3",
-      "title": "Flávio Bolsonaro vota no 2º turno das eleies",
-      "sourceName": "BBC News Brasil",
-      "sourceUrl": "https://www.bbc.com/portuguese",
-      "sourceType": "Imprensa Internacional / Pública",
-      "sourceEditorial": "Emissora pública do Reino Unido; jornalismo global independente",
-      "country": "Reino Unido",
-      "paywall": false,
-      "originalUrl": "https://www.bbc.com/portuguese/articles/cm62ywz1gjwyo",
-      "publishedAtStr": "2026-10-25T18:00:00Z",
-      "publishedAtTs": 1792951200000,
-      "rawContent": "Flávio Bolsonaro vota no 2º turno das eleies",
-      "linkStatus": "active",
-      "lastChecked": 1793034725446
-    },
-    {
-      "id": "gdelt-p5z9swm",
-      "title": "Lula vota no segundo turno da eleio - BBC News Brasil",
-      "sourceName": "BBC News Brasil",
-      "sourceUrl": "https://www.bbc.com/portuguese",
-      "sourceType": "Imprensa Internacional / Pública",
-      "sourceEditorial": "Emissora pública do Reino Unido; jornalismo global independente",
-      "country": "Reino Unido",
-      "paywall": false,
-      "originalUrl": "https://www.bbc.com/portuguese/articles/cmp3g7xk06xgo",
-      "publishedAtStr": "2026-10-25T18:00:00Z",
-      "publishedAtTs": 1792951200000,
-      "rawContent": "Lula vota no segundo turno da eleio - BBC News Brasil",
-      "linkStatus": "active",
-      "lastChecked": 1793034725446
-    }
-  ]
+  "articles": []
 }
