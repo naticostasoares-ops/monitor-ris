@@ -1,16 +1,16 @@
 {
-  "updatedAt": "2026-10-31T18:55:36.060Z",
+  "updatedAt": "2026-10-31T22:24:39.487Z",
   "periodUsed": "7d",
-  "count": 11,
+  "count": 6,
   "linkVerificationStats": {
-    "checkedThisRun": 5,
+    "checkedThisRun": 6,
     "active": 5,
     "broken": 0,
-    "unknown": 0
+    "unknown": 1
   },
   "articles": [
     {
-      "id": "gdelt-p1b1w7r",
+      "id": "gdelt-hiaedd5",
       "title": "Lula 4 . 0 x Trump 2 . 0 : Desafio do brasileiro é incrementar laços com EUA mesmo com uma Secretaria de Estado hostil",
       "sourceName": "O Globo Mundo",
       "sourceUrl": "https://oglobo.globo.com/mundo/",
@@ -23,10 +23,10 @@
       "publishedAtTs": 1792990800000,
       "rawContent": "Lula 4 . 0 x Trump 2 . 0 : Desafio do brasileiro é incrementar laços com EUA mesmo com uma Secretaria de Estado hostil",
       "linkStatus": "active",
-      "lastChecked": 1793386734416
+      "lastChecked": 1793485474404
     },
     {
-      "id": "gdelt-12y0lwq",
+      "id": "gdelt-pt87j58",
       "title": "Flávio Bolsonaro vota no 2º turno das eleies",
       "sourceName": "BBC News Brasil",
       "sourceUrl": "https://www.bbc.com/portuguese",
@@ -39,10 +39,10 @@
       "publishedAtTs": 1792951200000,
       "rawContent": "Flávio Bolsonaro vota no 2º turno das eleies",
       "linkStatus": "active",
-      "lastChecked": 1793386734416
+      "lastChecked": 1793485474404
     },
     {
-      "id": "gdelt-3nsslca",
+      "id": "gdelt-iowd233",
       "title": "Lula vota no segundo turno da eleio - BBC News Brasil",
       "sourceName": "BBC News Brasil",
       "sourceUrl": "https://www.bbc.com/portuguese",
@@ -55,10 +55,10 @@
       "publishedAtTs": 1792951200000,
       "rawContent": "Lula vota no segundo turno da eleio - BBC News Brasil",
       "linkStatus": "active",
-      "lastChecked": 1793386734416
+      "lastChecked": 1793485474404
     },
     {
-      "id": "gdelt-3l640io",
+      "id": "gdelt-ihlfuvd",
       "title": "Brasileiros encaram chuva e frio para votar em Berlim",
       "sourceName": "DW Brasil",
       "sourceUrl": "https://www.dw.com/pt-br/",
@@ -71,26 +71,10 @@
       "publishedAtTs": 1792926900000,
       "rawContent": "Brasileiros encaram chuva e frio para votar em Berlim",
       "linkStatus": "unknown",
-      "lastChecked": 1793386734416
+      "lastChecked": 1793485474404
     },
     {
-      "id": "gdelt-rprbb91",
-      "title": "Votação no exterior : confira os resultados em diferentes países",
-      "sourceName": "CartaCapital",
-      "sourceUrl": "https://www.cartacapital.com.br/",
-      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
-      "sourceEditorial": "Jornalismo progressista - Conteúdo sob assinatura parcial",
-      "country": "Brasil",
-      "paywall": true,
-      "originalUrl": "https://www.cartacapital.com.br/politica/votacao-no-exterior-confira-os-resultados-em-diferentes-paises/",
-      "publishedAtStr": "2026-10-25T11:00:00Z",
-      "publishedAtTs": 1792926000000,
-      "rawContent": "Votação no exterior : confira os resultados em diferentes países",
-      "linkStatus": "active",
-      "lastChecked": 1793472934300
-    },
-    {
-      "id": "gdelt-gc5v100",
+      "id": "gdelt-g2kg01k",
       "title": "Jogo que simula invasão norte - coreana lidera vendas na Coreia do Sul",
       "sourceName": "O Globo Mundo",
       "sourceUrl": "https://oglobo.globo.com/mundo/",
@@ -103,10 +87,10 @@
       "publishedAtTs": 1792919700000,
       "rawContent": "Jogo que simula invasão norte - coreana lidera vendas na Coreia do Sul",
       "linkStatus": "active",
-      "lastChecked": 1793386734416
+      "lastChecked": 1793485474404
     },
     {
-      "id": "gdelt-zgad3lp",
+      "id": "gdelt-w44dr3h",
       "title": "Quase mil pessoas são presas após confrontos em mais um dia de protestos em massa na França",
       "sourceName": "BBC News Brasil",
       "sourceUrl": "https://www.bbc.com/portuguese",
@@ -119,71 +103,7 @@
       "publishedAtTs": 1792899000000,
       "rawContent": "Quase mil pessoas são presas após confrontos em mais um dia de protestos em massa na França",
       "linkStatus": "active",
-      "lastChecked": 1793386734416
-    },
-    {
-      "id": "gdelt-dgs3hx1",
-      "title": "Assange elogia Lula e chama Flávio e Jair Bolsonaro de  vendidos",
-      "sourceName": "CartaCapital",
-      "sourceUrl": "https://www.cartacapital.com.br/",
-      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
-      "sourceEditorial": "Jornalismo progressista - Conteúdo sob assinatura parcial",
-      "country": "Brasil",
-      "paywall": true,
-      "originalUrl": "https://www.cartacapital.com.br/cartaexpressa/assange-elogia-lula-e-chama-flavio-e-jair-bolsonaro-de-vendidos/",
-      "publishedAtStr": "2026-10-24T19:15:00Z",
-      "publishedAtTs": 1792869300000,
-      "rawContent": "Assange elogia Lula e chama Flávio e Jair Bolsonaro de  vendidos",
-      "linkStatus": "active",
-      "lastChecked": 1793472934300
-    },
-    {
-      "id": "gdelt-c770xyr",
-      "title": "Veja imagens do comício de Lula no Rio na véspera do 2º turno",
-      "sourceName": "CartaCapital",
-      "sourceUrl": "https://www.cartacapital.com.br/",
-      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
-      "sourceEditorial": "Jornalismo progressista - Conteúdo sob assinatura parcial",
-      "country": "Brasil",
-      "paywall": true,
-      "originalUrl": "https://www.cartacapital.com.br/cartaexpressa/veja-imagens-do-comicio-de-lula-no-rio-na-vespera-do-2o-turno/",
-      "publishedAtStr": "2026-10-24T19:15:00Z",
-      "publishedAtTs": 1792869300000,
-      "rawContent": "Veja imagens do comício de Lula no Rio na véspera do 2º turno",
-      "linkStatus": "active",
-      "lastChecked": 1793472934300
-    },
-    {
-      "id": "gdelt-qydqdke",
-      "title": "STF torna réu o blogueiro Oswaldo Eustáquio por envolvimento no 8 de Janeiro",
-      "sourceName": "CartaCapital",
-      "sourceUrl": "https://www.cartacapital.com.br/",
-      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
-      "sourceEditorial": "Jornalismo progressista - Conteúdo sob assinatura parcial",
-      "country": "Brasil",
-      "paywall": true,
-      "originalUrl": "https://www.cartacapital.com.br/justica/stf-torna-reu-o-blogueiro-oswaldo-eustaquio-por-envolvimento-no-8-de-janeiro/",
-      "publishedAtStr": "2026-10-24T19:15:00Z",
-      "publishedAtTs": 1792869300000,
-      "rawContent": "STF torna réu o blogueiro Oswaldo Eustáquio por envolvimento no 8 de Janeiro",
-      "linkStatus": "active",
-      "lastChecked": 1793472934300
-    },
-    {
-      "id": "gdelt-0ebc3wt",
-      "title": "Propaganda eleitoral acaba às 22h deste sábado",
-      "sourceName": "CartaCapital",
-      "sourceUrl": "https://www.cartacapital.com.br/",
-      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
-      "sourceEditorial": "Jornalismo progressista - Conteúdo sob assinatura parcial",
-      "country": "Brasil",
-      "paywall": true,
-      "originalUrl": "https://www.cartacapital.com.br/politica/propaganda-eleitoral-acaba-as-22h-deste-sabado/",
-      "publishedAtStr": "2026-10-24T19:15:00Z",
-      "publishedAtTs": 1792869300000,
-      "rawContent": "Propaganda eleitoral acaba às 22h deste sábado",
-      "linkStatus": "active",
-      "lastChecked": 1793472934300
+      "lastChecked": 1793485474404
     }
   ]
 }
