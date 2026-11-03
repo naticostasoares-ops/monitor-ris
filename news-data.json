@@ -1,29 +1,12 @@
 {
-  "updatedAt": "2026-11-03T17:32:35.313Z",
-  "periodUsed": "7d",
-  "count": 1,
+  "updatedAt": "2026-11-03T22:45:59.487Z",
+  "periodUsed": "24h",
+  "count": 0,
   "linkVerificationStats": {
-    "checkedThisRun": 1,
-    "active": 1,
+    "checkedThisRun": 0,
+    "active": 0,
     "broken": 0,
     "unknown": 0
   },
-  "articles": [
-    {
-      "id": "gdelt-64g9rkh",
-      "title": "Estados Unidos atacam ilha do Irã horas após Trump elogiar avanços diplomáticos com Teerã",
-      "sourceName": "Veja Mundo",
-      "sourceUrl": "https://veja.abril.com.br/mundo/",
-      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
-      "sourceEditorial": "Revista semanal - Conteúdo sob assinatura parcial",
-      "country": "Brasil",
-      "paywall": true,
-      "originalUrl": "https://veja.abril.com.br/mundo/estados-unidos-atacam-ilha-do-ira-horas-apos-trump-elogiar-avancos-diplomaticos-com-teera/",
-      "publishedAtStr": "2026-11-03T11:15:00Z",
-      "publishedAtTs": 1793704500000,
-      "rawContent": "Estados Unidos atacam ilha do Irã horas após Trump elogiar avanços diplomáticos com Teerã",
-      "linkStatus": "active",
-      "lastChecked": 1793727154791
-    }
-  ]
+  "articles": []
 }
