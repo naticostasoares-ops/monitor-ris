@@ -1,16 +1,64 @@
 {
-  "updatedAt": "2026-11-06T20:40:52.640Z",
+  "updatedAt": "2026-11-07T00:27:27.278Z",
   "periodUsed": "24h",
-  "count": 22,
+  "count": 19,
   "linkVerificationStats": {
-    "checkedThisRun": 0,
-    "active": 0,
+    "checkedThisRun": 3,
+    "active": 3,
     "broken": 0,
     "unknown": 0
   },
   "articles": [
     {
-      "id": "gdelt-evh5bcn",
+      "id": "gdelt-ftgcb4p",
+      "title": "Com novos alertas nesta sexta , grupo reivindica autoria de ameaças de bomba na Europa",
+      "sourceName": "O Globo Mundo",
+      "sourceUrl": "https://oglobo.globo.com/mundo/",
+      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
+      "sourceEditorial": "Jornal diário (Grupo Globo) - Conteúdo sob assinatura",
+      "country": "Brasil",
+      "paywall": true,
+      "originalUrl": "https://oglobo.globo.com/mundo/noticia/2026/11/06/e-apenas-o-comeco-diz-grupo-que-reivindica-autoria-de-ameacas-de-bomba-na-europa-nova-onda-e-registrada-nesta-sexta.ghtml",
+      "publishedAtStr": "2026-11-07T00:00:00Z",
+      "publishedAtTs": 1794009600000,
+      "rawContent": "Com novos alertas nesta sexta , grupo reivindica autoria de ameaças de bomba na Europa",
+      "linkStatus": "active",
+      "lastChecked": 1794011243282
+    },
+    {
+      "id": "gdelt-8eox1po",
+      "title": "Trump troca chefe de Gabinete após derrota republicana e nomeia linha - dura da migração para o cargo",
+      "sourceName": "O Globo Mundo",
+      "sourceUrl": "https://oglobo.globo.com/mundo/",
+      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
+      "sourceEditorial": "Jornal diário (Grupo Globo) - Conteúdo sob assinatura",
+      "country": "Brasil",
+      "paywall": true,
+      "originalUrl": "https://oglobo.globo.com/mundo/noticia/2026/11/06/trump-troca-chefe-de-gabinete-apos-derrota-republicana-e-nomeia-linha-dura-da-migracao-para-o-cargo.ghtml",
+      "publishedAtStr": "2026-11-07T00:00:00Z",
+      "publishedAtTs": 1794009600000,
+      "rawContent": "Trump troca chefe de Gabinete após derrota republicana e nomeia linha - dura da migração para o cargo",
+      "linkStatus": "active",
+      "lastChecked": 1794011243282
+    },
+    {
+      "id": "gdelt-3na0yhe",
+      "title": "Vice de Peña é empossado presidente do Paraguai e promete aes imediatas para ressarcir vítimas de crise bancária",
+      "sourceName": "O Globo Mundo",
+      "sourceUrl": "https://oglobo.globo.com/mundo/",
+      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
+      "sourceEditorial": "Jornal diário (Grupo Globo) - Conteúdo sob assinatura",
+      "country": "Brasil",
+      "paywall": true,
+      "originalUrl": "https://oglobo.globo.com/mundo/noticia/2026/11/06/congresso-do-paraguai-empossa-pedro-alliana-como-presidente-apos-impeachment-de-santiago-pena.ghtml",
+      "publishedAtStr": "2026-11-07T00:00:00Z",
+      "publishedAtTs": 1794009600000,
+      "rawContent": "Vice de Peña é empossado presidente do Paraguai e promete aes imediatas para ressarcir vítimas de crise bancária",
+      "linkStatus": "active",
+      "lastChecked": 1794011243282
+    },
+    {
+      "id": "gdelt-6dgalxx",
       "title": "Novas ameaças de bomba afetam voos na Europa ; mais de 30 incidentes foram registrados nesta semana",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -26,7 +74,7 @@
       "lastChecked": 1793976693033
     },
     {
-      "id": "gdelt-bfmdzth",
+      "id": "gdelt-cj4nbar",
       "title": "Juíza veta  arco do triunfo  de Trump horas após comissão liberar projeto",
       "sourceName": "O Globo Mundo",
       "sourceUrl": "https://oglobo.globo.com/mundo/",
@@ -42,7 +90,7 @@
       "lastChecked": 1793976693033
     },
     {
-      "id": "gdelt-uuqqs63",
+      "id": "gdelt-sv1uyf8",
       "title": "Acidente com navio em 1992 espalhou 28 mil patinhos de borracha pelo oceano ; entenda por que brinquedos viraram objeto de estudo científico",
       "sourceName": "O Globo Mundo",
       "sourceUrl": "https://oglobo.globo.com/mundo/",
@@ -58,7 +106,7 @@
       "lastChecked": 1793976693033
     },
     {
-      "id": "gdelt-uycgqlm",
+      "id": "gdelt-eedxxi6",
       "title": "Papa Leão XIV começa viagem de 11 dias pela América Latina : Brasil está na agenda ? Saiba quais países estão no roteiro",
       "sourceName": "O Globo Mundo",
       "sourceUrl": "https://oglobo.globo.com/mundo/",
@@ -74,7 +122,7 @@
       "lastChecked": 1793976693033
     },
     {
-      "id": "gdelt-000g0uz",
+      "id": "gdelt-m6ds9ff",
       "title": "Homem de 97 anos morre em sua própria festa de aniversário momentos depois de dançar  Stayin  Alive , dos Bee Gees",
       "sourceName": "O Globo Mundo",
       "sourceUrl": "https://oglobo.globo.com/mundo/",
@@ -90,7 +138,7 @@
       "lastChecked": 1793976693033
     },
     {
-      "id": "gdelt-ys90a7f",
+      "id": "gdelt-cqckwpe",
       "title": "Trump prevê acordo  muito grande  com a Rússia enquanto Melania pede trégua  duradoura  na Ucrânia",
       "sourceName": "O Globo Mundo",
       "sourceUrl": "https://oglobo.globo.com/mundo/",
@@ -106,7 +154,7 @@
       "lastChecked": 1793976693033
     },
     {
-      "id": "gdelt-qq87z21",
+      "id": "gdelt-20r4pbk",
       "title": "Ministro do Interior do Paraguai renuncia e volta ao Senado para julgar impeachment de Peña , diz imprensa paraguaia",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -122,7 +170,7 @@
       "lastChecked": 1793948165580
     },
     {
-      "id": "gdelt-i8rm672",
+      "id": "gdelt-w3hhy0q",
       "title": "Estado dos EUA elege rifle famoso em filmes de faroeste arma oficial",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -138,7 +186,7 @@
       "lastChecked": 1793948165580
     },
     {
-      "id": "gdelt-kyjdgo9",
+      "id": "gdelt-7exv62x",
       "title": "Justiça da Colômbia ordena que primeira - dama preste contas sobre doações para vítimas de terremoto",
       "sourceName": "O Globo Mundo",
       "sourceUrl": "https://oglobo.globo.com/mundo/",
@@ -154,7 +202,7 @@
       "lastChecked": 1793948165580
     },
     {
-      "id": "gdelt-uythbhl",
+      "id": "gdelt-4k9vpnx",
       "title": "Secretário de Estado americano , Marco Rubio nega planos de deixar cargo para se candidatar à presidência",
       "sourceName": "O Globo Mundo",
       "sourceUrl": "https://oglobo.globo.com/mundo/",
@@ -170,7 +218,7 @@
       "lastChecked": 1793948165580
     },
     {
-      "id": "gdelt-df0xo4m",
+      "id": "gdelt-q7pj6l7",
       "title": "Paraguai retoma nesta sexta julgamento de impeachment contra Peña",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -186,7 +234,7 @@
       "lastChecked": 1793948165580
     },
     {
-      "id": "gdelt-9rluib3",
+      "id": "gdelt-x682biz",
       "title": "Papa Leão XIV começa visita na América Latina",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -202,7 +250,7 @@
       "lastChecked": 1793948165580
     },
     {
-      "id": "gdelt-2t950lm",
+      "id": "gdelt-uzppzd8",
       "title": "Veja a cronologia da crise no Paraguai que ameaça derrubar presidente",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -218,7 +266,7 @@
       "lastChecked": 1793948165580
     },
     {
-      "id": "gdelt-m8iqazk",
+      "id": "gdelt-c9fuc9z",
       "title": "Crise no Paraguai : empresário perde R$ 200 mil com quebra de banco",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -234,7 +282,7 @@
       "lastChecked": 1793948165580
     },
     {
-      "id": "gdelt-fhbo8gj",
+      "id": "gdelt-64s71tq",
       "title": "NYT revela conversa telefônica com Trump durante a derrota esmagadora na noite das eleies nos EUA",
       "sourceName": "O Globo Mundo",
       "sourceUrl": "https://oglobo.globo.com/mundo/",
@@ -250,7 +298,7 @@
       "lastChecked": 1793948165580
     },
     {
-      "id": "gdelt-k43eq8z",
+      "id": "gdelt-fycpcwz",
       "title": "Governo Lula vê renúncia de Peña como revés para alinhamento a Trump na região , mas teme instabilidade no Paraguai",
       "sourceName": "O Globo Mundo",
       "sourceUrl": "https://oglobo.globo.com/mundo/",
@@ -262,102 +310,6 @@
       "publishedAtStr": "2026-11-06T00:30:00Z",
       "publishedAtTs": 1793925000000,
       "rawContent": "Governo Lula vê renúncia de Peña como revés para alinhamento a Trump na região , mas teme instabilidade no Paraguai",
-      "linkStatus": "active",
-      "lastChecked": 1793948165580
-    },
-    {
-      "id": "gdelt-919ysiz",
-      "title": "Quem é Santiago Peña , aliado de Trump no Paraguai que renunciou em meio a escândalo envolvendo banco Ueno",
-      "sourceName": "BBC News Brasil",
-      "sourceUrl": "https://www.bbc.com/portuguese",
-      "sourceType": "Imprensa Internacional / Pública",
-      "sourceEditorial": "Emissora pública do Reino Unido; jornalismo global independente",
-      "country": "Reino Unido",
-      "paywall": false,
-      "originalUrl": "https://www.bbc.com/portuguese/articles/c620rl0d9wplo",
-      "publishedAtStr": "2026-11-05T23:30:00Z",
-      "publishedAtTs": 1793921400000,
-      "rawContent": "Quem é Santiago Peña , aliado de Trump no Paraguai que renunciou em meio a escândalo envolvendo banco Ueno",
-      "linkStatus": "active",
-      "lastChecked": 1793948165580
-    },
-    {
-      "id": "gdelt-1wc58q6",
-      "title": "Flávio diz a jornal americano que fugiu sozinho do Brasil",
-      "sourceName": "DW Brasil",
-      "sourceUrl": "https://www.dw.com/pt-br/",
-      "sourceType": "Imprensa Internacional / Pública",
-      "sourceEditorial": "Emissora pública da Alemanha; foco em diplomacia e direitos humanos",
-      "country": "Alemanha",
-      "paywall": false,
-      "originalUrl": "https://www.dw.com/pt-br/fl%C3%A1vio-bolsonaro-diz-a-jornal-americano-que-fugiu-sozinho-do-brasil/a-79871184",
-      "publishedAtStr": "2026-11-05T23:30:00Z",
-      "publishedAtTs": 1793921400000,
-      "rawContent": "Flávio diz a jornal americano que fugiu sozinho do Brasil",
-      "linkStatus": "active",
-      "lastChecked": 1793948165580
-    },
-    {
-      "id": "gdelt-bjbepdj",
-      "title": "TSE aceita ao que pode levar à cassao de Lula",
-      "sourceName": "DW Brasil",
-      "sourceUrl": "https://www.dw.com/pt-br/",
-      "sourceType": "Imprensa Internacional / Pública",
-      "sourceEditorial": "Emissora pública da Alemanha; foco em diplomacia e direitos humanos",
-      "country": "Alemanha",
-      "paywall": false,
-      "originalUrl": "https://www.dw.com/pt-br/tse-aceita-a%C3%A7%C3%A3o-contra-lula-e-alckmin-por-abuso-de-poder-pol%C3%ADtico/a-79871343",
-      "publishedAtStr": "2026-11-05T23:30:00Z",
-      "publishedAtTs": 1793921400000,
-      "rawContent": "TSE aceita ao que pode levar à cassao de Lula",
-      "linkStatus": "active",
-      "lastChecked": 1793948165580
-    },
-    {
-      "id": "gdelt-bfswjzd",
-      "title": "O vídeo de renúncia do presidente do Paraguai",
-      "sourceName": "BBC News Brasil",
-      "sourceUrl": "https://www.bbc.com/portuguese",
-      "sourceType": "Imprensa Internacional / Pública",
-      "sourceEditorial": "Emissora pública do Reino Unido; jornalismo global independente",
-      "country": "Reino Unido",
-      "paywall": false,
-      "originalUrl": "https://www.bbc.com/portuguese/watch/cw0k008g8076o",
-      "publishedAtStr": "2026-11-05T23:30:00Z",
-      "publishedAtTs": 1793921400000,
-      "rawContent": "O vídeo de renúncia do presidente do Paraguai",
-      "linkStatus": "active",
-      "lastChecked": 1793948165580
-    },
-    {
-      "id": "gdelt-1rkty3h",
-      "title": "Derrota de Trump coloca em xeque relação histórica dos EUA com Israel",
-      "sourceName": "Agência Brasil",
-      "sourceUrl": "https://agenciabrasil.ebc.com.br/internacional",
-      "sourceType": "Agência Estatal",
-      "sourceEditorial": "Agência pública de notícias da EBC (Governo Federal)",
-      "country": "Brasil",
-      "paywall": false,
-      "originalUrl": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-11/derrota-de-trump-coloca-em-xeque-relacao-historica-dos-eua-com-israel",
-      "publishedAtStr": "2026-11-05T22:30:00Z",
-      "publishedAtTs": 1793917800000,
-      "rawContent": "Derrota de Trump coloca em xeque relação histórica dos EUA com Israel",
-      "linkStatus": "active",
-      "lastChecked": 1793948165580
-    },
-    {
-      "id": "gdelt-5lt1vrk",
-      "title": "Após culpar guerra por  onda azul , Trump diz que  talvez  tenha que destruir o Irã",
-      "sourceName": "G1 Mundo",
-      "sourceUrl": "https://g1.globo.com/mundo/",
-      "sourceType": "Imprensa Comercial Brasileira",
-      "sourceEditorial": "Portal de notícias mainstream do Grupo Globo",
-      "country": "Brasil",
-      "paywall": false,
-      "originalUrl": "https://g1.globo.com/mundo/noticia/2026/11/05/apos-culpar-guerra-por-onda-azul-trump-diz-que-talvez-tenha-que-destruir-o-ira.ghtml",
-      "publishedAtStr": "2026-11-05T22:00:00Z",
-      "publishedAtTs": 1793916000000,
-      "rawContent": "Após culpar guerra por  onda azul , Trump diz que  talvez  tenha que destruir o Irã",
       "linkStatus": "active",
       "lastChecked": 1793948165580
     }
