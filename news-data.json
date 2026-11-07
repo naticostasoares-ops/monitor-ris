@@ -1,16 +1,32 @@
 {
-  "updatedAt": "2026-11-07T13:30:00.792Z",
+  "updatedAt": "2026-11-07T18:16:10.145Z",
   "periodUsed": "24h",
-  "count": 8,
+  "count": 9,
   "linkVerificationStats": {
-    "checkedThisRun": 2,
-    "active": 2,
+    "checkedThisRun": 1,
+    "active": 1,
     "broken": 0,
     "unknown": 0
   },
   "articles": [
     {
-      "id": "gdelt-f76kyax",
+      "id": "gdelt-rcth5xi",
+      "title": "Atirador deixa 5 mortos e mais de 10 feridos em praça no centro da Cracóvia , na Polônia ; o que se sabe",
+      "sourceName": "BBC News Brasil",
+      "sourceUrl": "https://www.bbc.com/portuguese",
+      "sourceType": "Imprensa Internacional / Pública",
+      "sourceEditorial": "Emissora pública do Reino Unido; jornalismo global independente",
+      "country": "Reino Unido",
+      "paywall": false,
+      "originalUrl": "https://www.bbc.com/portuguese/articles/cm5yn1gyv07no",
+      "publishedAtStr": "2026-11-07T16:00:00Z",
+      "publishedAtTs": 1794067200000,
+      "rawContent": "Atirador deixa 5 mortos e mais de 10 feridos em praça no centro da Cracóvia , na Polônia ; o que se sabe",
+      "linkStatus": "active",
+      "lastChecked": 1794075369715
+    },
+    {
+      "id": "gdelt-ll8zskk",
       "title": "Meghan Markle já mantinha os filhos afastados do avô antes da prisão de Thomas Markle ; entenda",
       "sourceName": "O Globo Mundo",
       "sourceUrl": "https://oglobo.globo.com/mundo/",
@@ -26,7 +42,7 @@
       "lastChecked": 1794058198565
     },
     {
-      "id": "gdelt-cmecnps",
+      "id": "gdelt-sknfbjk",
       "title": "Trinta anos em jaulas : a odisseia de seis macacos usados em experimentos clínicos para alcançar a liberdade",
       "sourceName": "O Globo Mundo",
       "sourceUrl": "https://oglobo.globo.com/mundo/",
@@ -42,7 +58,7 @@
       "lastChecked": 1794058198565
     },
     {
-      "id": "gdelt-05cr2fq",
+      "id": "gdelt-zzy9gqg",
       "title": "Com derrota dos republicanos nos EUA , a  intimidação  na negociação climática  vai embora , diz presidente da COP30",
       "sourceName": "O Globo Mundo",
       "sourceUrl": "https://oglobo.globo.com/mundo/",
@@ -58,7 +74,7 @@
       "lastChecked": 1794032796133
     },
     {
-      "id": "gdelt-q81u4fs",
+      "id": "gdelt-ao0yfwm",
       "title": "Serviço Secreto prende homem por ameaçar matar Trump nos entornos da Casa Branca ; suspeito tinha até fuzil",
       "sourceName": "O Globo Mundo",
       "sourceUrl": "https://oglobo.globo.com/mundo/",
@@ -74,7 +90,7 @@
       "lastChecked": 1794032796133
     },
     {
-      "id": "gdelt-9xxp7bw",
+      "id": "gdelt-vfmy13n",
       "title": "EUA oferecem recompensa de US$ 20 milhões por informações sobre o programa nuclear iraniano",
       "sourceName": "O Globo Mundo",
       "sourceUrl": "https://oglobo.globo.com/mundo/",
@@ -90,7 +106,7 @@
       "lastChecked": 1794032796133
     },
     {
-      "id": "gdelt-ncelwz3",
+      "id": "gdelt-v4doy5s",
       "title": "Com novos alertas nesta sexta , grupo reivindica autoria de ameaças de bomba na Europa",
       "sourceName": "O Globo Mundo",
       "sourceUrl": "https://oglobo.globo.com/mundo/",
@@ -106,7 +122,7 @@
       "lastChecked": 1794011243282
     },
     {
-      "id": "gdelt-njl5zzd",
+      "id": "gdelt-tmg90wl",
       "title": "Trump troca chefe de Gabinete após derrota republicana e nomeia linha - dura da migração para o cargo",
       "sourceName": "O Globo Mundo",
       "sourceUrl": "https://oglobo.globo.com/mundo/",
@@ -122,7 +138,7 @@
       "lastChecked": 1794011243282
     },
     {
-      "id": "gdelt-oyfwtd6",
+      "id": "gdelt-lsqrlj9",
       "title": "Vice de Peña é empossado presidente do Paraguai e promete aes imediatas para ressarcir vítimas de crise bancária",
       "sourceName": "O Globo Mundo",
       "sourceUrl": "https://oglobo.globo.com/mundo/",
