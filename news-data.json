@@ -1,32 +1,16 @@
 {
-  "updatedAt": "2026-11-12T16:51:43.160Z",
+  "updatedAt": "2026-11-12T22:40:07.420Z",
   "periodUsed": "24h",
-  "count": 4,
+  "count": 2,
   "linkVerificationStats": {
-    "checkedThisRun": 2,
-    "active": 2,
+    "checkedThisRun": 0,
+    "active": 0,
     "broken": 0,
     "unknown": 0
   },
   "articles": [
     {
-      "id": "gdelt-rraxw4i",
-      "title": "Casa Branca diz que investigar governo Trump pode ser crime",
-      "sourceName": "G1 Mundo",
-      "sourceUrl": "https://g1.globo.com/mundo/",
-      "sourceType": "Imprensa Comercial Brasileira",
-      "sourceEditorial": "Portal de notícias mainstream do Grupo Globo",
-      "country": "Brasil",
-      "paywall": false,
-      "originalUrl": "https://g1.globo.com/mundo/noticia/2026/11/12/casa-branca-diz-que-investigar-governo-trump-pode-ser-crime-e-ameaca-democratas.ghtml",
-      "publishedAtStr": "2026-11-12T05:30:00Z",
-      "publishedAtTs": 1794461400000,
-      "rawContent": "Casa Branca diz que investigar governo Trump pode ser crime",
-      "linkStatus": "active",
-      "lastChecked": 1794470935118
-    },
-    {
-      "id": "gdelt-qyaj68s",
+      "id": "gdelt-dzx9zgw",
       "title": "BB traz decepo generalizada e coloca recuperação em xeque : como mercado leu o 3T",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -42,23 +26,7 @@
       "lastChecked": 1794502302194
     },
     {
-      "id": "gdelt-4ub2lp5",
-      "title": "Prisões de imigrantes continuam nos EUA após derrota republicana nas midterms , apesar de críticas de Trump",
-      "sourceName": "G1 Mundo",
-      "sourceUrl": "https://g1.globo.com/mundo/",
-      "sourceType": "Imprensa Comercial Brasileira",
-      "sourceEditorial": "Portal de notícias mainstream do Grupo Globo",
-      "country": "Brasil",
-      "paywall": false,
-      "originalUrl": "https://g1.globo.com/mundo/noticia/2026/11/12/prisoes-de-imigrantes-continuam-nos-eua-apos-derrota-republicana-nas-midterms-apesar-de-criticas-de-trump.ghtml",
-      "publishedAtStr": "2026-11-12T03:45:00Z",
-      "publishedAtTs": 1794455100000,
-      "rawContent": "Prisões de imigrantes continuam nos EUA após derrota republicana nas midterms , apesar de críticas de Trump",
-      "linkStatus": "active",
-      "lastChecked": 1794470935118
-    },
-    {
-      "id": "gdelt-cq1ca5m",
+      "id": "gdelt-3a8jdvk",
       "title": "O papel de Delcy Rodríguez na reconstruo de pontes com o Brasil",
       "sourceName": "Veja Mundo",
       "sourceUrl": "https://veja.abril.com.br/mundo/",
