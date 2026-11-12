@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-11-12T08:08:59.009Z",
+  "updatedAt": "2026-11-12T16:51:43.160Z",
   "periodUsed": "24h",
-  "count": 2,
+  "count": 4,
   "linkVerificationStats": {
     "checkedThisRun": 2,
     "active": 2,
@@ -10,7 +10,7 @@
   },
   "articles": [
     {
-      "id": "gdelt-s5zjl6y",
+      "id": "gdelt-rraxw4i",
       "title": "Casa Branca diz que investigar governo Trump pode ser crime",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -26,7 +26,23 @@
       "lastChecked": 1794470935118
     },
     {
-      "id": "gdelt-zy44pf4",
+      "id": "gdelt-qyaj68s",
+      "title": "BB traz decepo generalizada e coloca recuperação em xeque : como mercado leu o 3T",
+      "sourceName": "InfoMoney",
+      "sourceUrl": "https://www.infomoney.com.br/",
+      "sourceType": "Imprensa Comercial Brasileira",
+      "sourceEditorial": "Portal especializado em mercados e economia global",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://www.infomoney.com.br/mercados/banco-do-brasil-bbas3-traz-decepcao-generalizada-alertas-e-coloca-recuperacao-em-xeque-como-mercado-leu-o-3t/",
+      "publishedAtStr": "2026-11-12T05:30:00Z",
+      "publishedAtTs": 1794461400000,
+      "rawContent": "BB traz decepo generalizada e coloca recuperação em xeque : como mercado leu o 3T",
+      "linkStatus": "active",
+      "lastChecked": 1794502302194
+    },
+    {
+      "id": "gdelt-4ub2lp5",
       "title": "Prisões de imigrantes continuam nos EUA após derrota republicana nas midterms , apesar de críticas de Trump",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -40,6 +56,22 @@
       "rawContent": "Prisões de imigrantes continuam nos EUA após derrota republicana nas midterms , apesar de críticas de Trump",
       "linkStatus": "active",
       "lastChecked": 1794470935118
+    },
+    {
+      "id": "gdelt-cq1ca5m",
+      "title": "O papel de Delcy Rodríguez na reconstruo de pontes com o Brasil",
+      "sourceName": "Veja Mundo",
+      "sourceUrl": "https://veja.abril.com.br/mundo/",
+      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
+      "sourceEditorial": "Revista semanal - Conteúdo sob assinatura parcial",
+      "country": "Brasil",
+      "paywall": true,
+      "originalUrl": "https://veja.abril.com.br/mundo/o-papel-de-delcy-rodriguez-na-reconstrucao-das-pontes-com-o-brasil/",
+      "publishedAtStr": "2026-11-12T03:00:00Z",
+      "publishedAtTs": 1794452400000,
+      "rawContent": "O papel de Delcy Rodríguez na reconstruo de pontes com o Brasil",
+      "linkStatus": "active",
+      "lastChecked": 1794502302194
     }
   ]
 }
