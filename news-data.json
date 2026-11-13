@@ -1,16 +1,16 @@
 {
-  "updatedAt": "2026-11-13T02:59:20.266Z",
+  "updatedAt": "2026-11-13T10:40:35.720Z",
   "periodUsed": "24h",
-  "count": 5,
+  "count": 1,
   "linkVerificationStats": {
-    "checkedThisRun": 3,
-    "active": 3,
+    "checkedThisRun": 0,
+    "active": 0,
     "broken": 0,
     "unknown": 0
   },
   "articles": [
     {
-      "id": "gdelt-dgapdly",
+      "id": "gdelt-fiqgk73",
       "title": "Corpo de brasileiro - palestino morto em prisão de Israel é sepultado na Cisjordânia após 20 meses",
       "sourceName": "Estadão Internacional",
       "sourceUrl": "https://www.estadao.com.br/internacional/",
@@ -24,70 +24,6 @@
       "rawContent": "Corpo de brasileiro - palestino morto em prisão de Israel é sepultado na Cisjordânia após 20 meses",
       "linkStatus": "active",
       "lastChecked": 1794538757570
-    },
-    {
-      "id": "gdelt-fe82guw",
-      "title": "Casa Branca diz que investigar governo Trump pode ser crime",
-      "sourceName": "G1 Mundo",
-      "sourceUrl": "https://g1.globo.com/mundo/",
-      "sourceType": "Imprensa Comercial Brasileira",
-      "sourceEditorial": "Portal de notícias mainstream do Grupo Globo",
-      "country": "Brasil",
-      "paywall": false,
-      "originalUrl": "https://g1.globo.com/mundo/noticia/2026/11/12/casa-branca-diz-que-investigar-governo-trump-pode-ser-crime-e-ameaca-democratas.ghtml",
-      "publishedAtStr": "2026-11-12T05:30:00Z",
-      "publishedAtTs": 1794461400000,
-      "rawContent": "Casa Branca diz que investigar governo Trump pode ser crime",
-      "linkStatus": "active",
-      "lastChecked": 1794538757570
-    },
-    {
-      "id": "gdelt-0e6cyud",
-      "title": "BB traz decepo generalizada e coloca recuperação em xeque : como mercado leu o 3T",
-      "sourceName": "InfoMoney",
-      "sourceUrl": "https://www.infomoney.com.br/",
-      "sourceType": "Imprensa Comercial Brasileira",
-      "sourceEditorial": "Portal especializado em mercados e economia global",
-      "country": "Brasil",
-      "paywall": false,
-      "originalUrl": "https://www.infomoney.com.br/mercados/banco-do-brasil-bbas3-traz-decepcao-generalizada-alertas-e-coloca-recuperacao-em-xeque-como-mercado-leu-o-3t/",
-      "publishedAtStr": "2026-11-12T05:30:00Z",
-      "publishedAtTs": 1794461400000,
-      "rawContent": "BB traz decepo generalizada e coloca recuperação em xeque : como mercado leu o 3T",
-      "linkStatus": "active",
-      "lastChecked": 1794502302194
-    },
-    {
-      "id": "gdelt-eirqczp",
-      "title": "Prisões de imigrantes continuam nos EUA após derrota republicana nas midterms , apesar de críticas de Trump",
-      "sourceName": "G1 Mundo",
-      "sourceUrl": "https://g1.globo.com/mundo/",
-      "sourceType": "Imprensa Comercial Brasileira",
-      "sourceEditorial": "Portal de notícias mainstream do Grupo Globo",
-      "country": "Brasil",
-      "paywall": false,
-      "originalUrl": "https://g1.globo.com/mundo/noticia/2026/11/12/prisoes-de-imigrantes-continuam-nos-eua-apos-derrota-republicana-nas-midterms-apesar-de-criticas-de-trump.ghtml",
-      "publishedAtStr": "2026-11-12T03:45:00Z",
-      "publishedAtTs": 1794455100000,
-      "rawContent": "Prisões de imigrantes continuam nos EUA após derrota republicana nas midterms , apesar de críticas de Trump",
-      "linkStatus": "active",
-      "lastChecked": 1794538757570
-    },
-    {
-      "id": "gdelt-ussy2po",
-      "title": "O papel de Delcy Rodríguez na reconstruo de pontes com o Brasil",
-      "sourceName": "Veja Mundo",
-      "sourceUrl": "https://veja.abril.com.br/mundo/",
-      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
-      "sourceEditorial": "Revista semanal - Conteúdo sob assinatura parcial",
-      "country": "Brasil",
-      "paywall": true,
-      "originalUrl": "https://veja.abril.com.br/mundo/o-papel-de-delcy-rodriguez-na-reconstrucao-das-pontes-com-o-brasil/",
-      "publishedAtStr": "2026-11-12T03:00:00Z",
-      "publishedAtTs": 1794452400000,
-      "rawContent": "O papel de Delcy Rodríguez na reconstruo de pontes com o Brasil",
-      "linkStatus": "active",
-      "lastChecked": 1794502302194
     }
   ]
 }
