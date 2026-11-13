@@ -1,16 +1,48 @@
 {
-  "updatedAt": "2026-11-13T18:12:05.123Z",
+  "updatedAt": "2026-11-13T23:38:29.503Z",
   "periodUsed": "24h",
-  "count": 1,
+  "count": 3,
   "linkVerificationStats": {
-    "checkedThisRun": 0,
-    "active": 0,
+    "checkedThisRun": 2,
+    "active": 2,
     "broken": 0,
     "unknown": 0
   },
   "articles": [
     {
-      "id": "gdelt-qb5arpq",
+      "id": "gdelt-d5xllpn",
+      "title": "Venezuela retoma diálogo político sem a presença de María Corina Machado",
+      "sourceName": "Veja Mundo",
+      "sourceUrl": "https://veja.abril.com.br/mundo/",
+      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
+      "sourceEditorial": "Revista semanal - Conteúdo sob assinatura parcial",
+      "country": "Brasil",
+      "paywall": true,
+      "originalUrl": "https://veja.abril.com.br/mundo/venezuela-retoma-dialogo-politico-sem-a-presenca-de-maria-corina-machado/",
+      "publishedAtStr": "2026-11-13T18:00:00Z",
+      "publishedAtTs": 1794592800000,
+      "rawContent": "Venezuela retoma diálogo político sem a presença de María Corina Machado",
+      "linkStatus": "active",
+      "lastChecked": 1794613108633
+    },
+    {
+      "id": "gdelt-t9hb3kc",
+      "title": "Lula chega às Filipinas em busca de ampliar comércio com o Sudeste Asiático",
+      "sourceName": "Veja Mundo",
+      "sourceUrl": "https://veja.abril.com.br/mundo/",
+      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
+      "sourceEditorial": "Revista semanal - Conteúdo sob assinatura parcial",
+      "country": "Brasil",
+      "paywall": true,
+      "originalUrl": "https://veja.abril.com.br/mundo/lula-chega-as-filipinas-em-busca-de-ampliar-comercio-com-o-sudeste-asiatico/",
+      "publishedAtStr": "2026-11-13T18:00:00Z",
+      "publishedAtTs": 1794592800000,
+      "rawContent": "Lula chega às Filipinas em busca de ampliar comércio com o Sudeste Asiático",
+      "linkStatus": "active",
+      "lastChecked": 1794613108633
+    },
+    {
+      "id": "gdelt-chogh4m",
       "title": "Corpo de brasileiro - palestino morto em prisão de Israel é sepultado na Cisjordânia após 20 meses",
       "sourceName": "Estadão Internacional",
       "sourceUrl": "https://www.estadao.com.br/internacional/",
