@@ -1,16 +1,48 @@
 {
-  "updatedAt": "2026-11-12T22:40:07.420Z",
+  "updatedAt": "2026-11-13T02:59:20.266Z",
   "periodUsed": "24h",
-  "count": 2,
+  "count": 5,
   "linkVerificationStats": {
-    "checkedThisRun": 0,
-    "active": 0,
+    "checkedThisRun": 3,
+    "active": 3,
     "broken": 0,
     "unknown": 0
   },
   "articles": [
     {
-      "id": "gdelt-dzx9zgw",
+      "id": "gdelt-dgapdly",
+      "title": "Corpo de brasileiro - palestino morto em prisão de Israel é sepultado na Cisjordânia após 20 meses",
+      "sourceName": "Estadão Internacional",
+      "sourceUrl": "https://www.estadao.com.br/internacional/",
+      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
+      "sourceEditorial": "Jornal tradicional de geopolítica - Conteúdo sob assinatura",
+      "country": "Brasil",
+      "paywall": true,
+      "originalUrl": "https://www.estadao.com.br/internacional/corpo-brasileiro-palestino-morto-prisao-israel-sepultado-cisjordania-apos-20-meses-npr/",
+      "publishedAtStr": "2026-11-13T00:45:00Z",
+      "publishedAtTs": 1794530700000,
+      "rawContent": "Corpo de brasileiro - palestino morto em prisão de Israel é sepultado na Cisjordânia após 20 meses",
+      "linkStatus": "active",
+      "lastChecked": 1794538757570
+    },
+    {
+      "id": "gdelt-fe82guw",
+      "title": "Casa Branca diz que investigar governo Trump pode ser crime",
+      "sourceName": "G1 Mundo",
+      "sourceUrl": "https://g1.globo.com/mundo/",
+      "sourceType": "Imprensa Comercial Brasileira",
+      "sourceEditorial": "Portal de notícias mainstream do Grupo Globo",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://g1.globo.com/mundo/noticia/2026/11/12/casa-branca-diz-que-investigar-governo-trump-pode-ser-crime-e-ameaca-democratas.ghtml",
+      "publishedAtStr": "2026-11-12T05:30:00Z",
+      "publishedAtTs": 1794461400000,
+      "rawContent": "Casa Branca diz que investigar governo Trump pode ser crime",
+      "linkStatus": "active",
+      "lastChecked": 1794538757570
+    },
+    {
+      "id": "gdelt-0e6cyud",
       "title": "BB traz decepo generalizada e coloca recuperação em xeque : como mercado leu o 3T",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -26,7 +58,23 @@
       "lastChecked": 1794502302194
     },
     {
-      "id": "gdelt-3a8jdvk",
+      "id": "gdelt-eirqczp",
+      "title": "Prisões de imigrantes continuam nos EUA após derrota republicana nas midterms , apesar de críticas de Trump",
+      "sourceName": "G1 Mundo",
+      "sourceUrl": "https://g1.globo.com/mundo/",
+      "sourceType": "Imprensa Comercial Brasileira",
+      "sourceEditorial": "Portal de notícias mainstream do Grupo Globo",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://g1.globo.com/mundo/noticia/2026/11/12/prisoes-de-imigrantes-continuam-nos-eua-apos-derrota-republicana-nas-midterms-apesar-de-criticas-de-trump.ghtml",
+      "publishedAtStr": "2026-11-12T03:45:00Z",
+      "publishedAtTs": 1794455100000,
+      "rawContent": "Prisões de imigrantes continuam nos EUA após derrota republicana nas midterms , apesar de críticas de Trump",
+      "linkStatus": "active",
+      "lastChecked": 1794538757570
+    },
+    {
+      "id": "gdelt-ussy2po",
       "title": "O papel de Delcy Rodríguez na reconstruo de pontes com o Brasil",
       "sourceName": "Veja Mundo",
       "sourceUrl": "https://veja.abril.com.br/mundo/",
