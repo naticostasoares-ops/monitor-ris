@@ -1,48 +1,32 @@
 {
-  "updatedAt": "2026-11-22T22:09:18.222Z",
+  "updatedAt": "2026-11-23T02:50:23.872Z",
   "periodUsed": "24h",
-  "count": 9,
+  "count": 10,
   "linkVerificationStats": {
-    "checkedThisRun": 9,
-    "active": 9,
+    "checkedThisRun": 1,
+    "active": 1,
     "broken": 0,
     "unknown": 0
   },
   "articles": [
     {
-      "id": "gdelt-vrnayv2",
-      "title": "Falha em sistema atrasa todos os voos da Delta em Atlanta , EUA",
-      "sourceName": "InfoMoney",
-      "sourceUrl": "https://www.infomoney.com.br/",
-      "sourceType": "Imprensa Comercial Brasileira",
-      "sourceEditorial": "Portal especializado em mercados e economia global",
+      "id": "gdelt-itss531",
+      "title": "Mexicanos são presos pelo ICE em aeroporto dos EUA :  Assustador , diz governador",
+      "sourceName": "Estadão Internacional",
+      "sourceUrl": "https://www.estadao.com.br/internacional/",
+      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
+      "sourceEditorial": "Jornal tradicional de geopolítica - Conteúdo sob assinatura",
       "country": "Brasil",
-      "paywall": false,
-      "originalUrl": "https://www.infomoney.com.br/business/global/pane-trava-voos-da-delta-em-atlanta-e-a-3a-falha-no-setor-aereo-dos-eua/",
-      "publishedAtStr": "2026-11-22T21:30:00Z",
-      "publishedAtTs": 1795383000000,
-      "rawContent": "Falha em sistema atrasa todos os voos da Delta em Atlanta , EUA",
+      "paywall": true,
+      "originalUrl": "https://www.estadao.com.br/internacional/mexicanos-sao-presos-pelo-ice-em-aeroporto-dos-eua-assustador-diz-governador/",
+      "publishedAtStr": "2026-11-22T22:30:00Z",
+      "publishedAtTs": 1795386600000,
+      "rawContent": "Mexicanos são presos pelo ICE em aeroporto dos EUA :  Assustador , diz governador",
       "linkStatus": "active",
-      "lastChecked": 1795385354716
+      "lastChecked": 1795402223143
     },
     {
-      "id": "gdelt-sa5p7ce",
-      "title": "Uma minoria pode descarrilar tudo : UE explica por que rejeitou acordo da COP31",
-      "sourceName": "InfoMoney",
-      "sourceUrl": "https://www.infomoney.com.br/",
-      "sourceType": "Imprensa Comercial Brasileira",
-      "sourceEditorial": "Portal especializado em mercados e economia global",
-      "country": "Brasil",
-      "paywall": false,
-      "originalUrl": "https://www.infomoney.com.br/mundo/uma-minoria-pode-descarrilar-tudo-ue-explica-por-que-rejeitou-acordo-da-cop31/",
-      "publishedAtStr": "2026-11-22T21:30:00Z",
-      "publishedAtTs": 1795383000000,
-      "rawContent": "Uma minoria pode descarrilar tudo : UE explica por que rejeitou acordo da COP31",
-      "linkStatus": "active",
-      "lastChecked": 1795385354716
-    },
-    {
-      "id": "gdelt-d6w6uvt",
+      "id": "gdelt-awgflq5",
       "title": "Chile tem maior tombo do PIB desde 2020 , e BC vê recuperação mais lenta",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -58,7 +42,7 @@
       "lastChecked": 1795385354716
     },
     {
-      "id": "gdelt-ihr3kg0",
+      "id": "gdelt-oycpn55",
       "title": "Chitãozinho e Xororó anunciam aposentadoria dos palcos – mas não do agro",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -74,7 +58,7 @@
       "lastChecked": 1795385354716
     },
     {
-      "id": "gdelt-ljn2mrb",
+      "id": "gdelt-9qct9qc",
       "title": "Voos , bancos e e - mail fora do ar : EUA admitem que vem mais pane por aí",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -90,7 +74,7 @@
       "lastChecked": 1795385354716
     },
     {
-      "id": "gdelt-m788ymd",
+      "id": "gdelt-3vxlxka",
       "title": "Estrondos de madrugada assustam moradores de Barretos ( SP ); USP investiga causa",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -106,7 +90,7 @@
       "lastChecked": 1795385354716
     },
     {
-      "id": "gdelt-59ulj9k",
+      "id": "gdelt-s1sxkuc",
       "title": "Bolsas chinesas flexibilizam requisitos para operações com margem",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -122,7 +106,39 @@
       "lastChecked": 1795385354716
     },
     {
-      "id": "gdelt-xzyz66a",
+      "id": "gdelt-6ne4ptg",
+      "title": "Falha em sistema atrasa todos os voos da Delta em Atlanta , EUA",
+      "sourceName": "InfoMoney",
+      "sourceUrl": "https://www.infomoney.com.br/",
+      "sourceType": "Imprensa Comercial Brasileira",
+      "sourceEditorial": "Portal especializado em mercados e economia global",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://www.infomoney.com.br/business/global/pane-trava-voos-da-delta-em-atlanta-e-a-3a-falha-no-setor-aereo-dos-eua/",
+      "publishedAtStr": "2026-11-22T21:30:00Z",
+      "publishedAtTs": 1795383000000,
+      "rawContent": "Falha em sistema atrasa todos os voos da Delta em Atlanta , EUA",
+      "linkStatus": "active",
+      "lastChecked": 1795385354716
+    },
+    {
+      "id": "gdelt-gmrkcu7",
+      "title": "Uma minoria pode descarrilar tudo : UE explica por que rejeitou acordo da COP31",
+      "sourceName": "InfoMoney",
+      "sourceUrl": "https://www.infomoney.com.br/",
+      "sourceType": "Imprensa Comercial Brasileira",
+      "sourceEditorial": "Portal especializado em mercados e economia global",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://www.infomoney.com.br/mundo/uma-minoria-pode-descarrilar-tudo-ue-explica-por-que-rejeitou-acordo-da-cop31/",
+      "publishedAtStr": "2026-11-22T21:30:00Z",
+      "publishedAtTs": 1795383000000,
+      "rawContent": "Uma minoria pode descarrilar tudo : UE explica por que rejeitou acordo da COP31",
+      "linkStatus": "active",
+      "lastChecked": 1795385354716
+    },
+    {
+      "id": "gdelt-5ubgikw",
       "title": "Black Friday ? As 10 aes com maior queda de um dos múltiplos mais usados no mercado",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -138,7 +154,7 @@
       "lastChecked": 1795385354716
     },
     {
-      "id": "gdelt-n7lc3j2",
+      "id": "gdelt-eea4fj3",
       "title": "Moraes manda retirar tornozeleira de Bolsonaro enquanto ele estiver na UTI",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
