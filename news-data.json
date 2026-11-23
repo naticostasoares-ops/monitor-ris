@@ -1,16 +1,64 @@
 {
-  "updatedAt": "2026-11-23T02:50:23.872Z",
+  "updatedAt": "2026-11-23T11:54:50.101Z",
   "periodUsed": "24h",
-  "count": 10,
+  "count": 13,
   "linkVerificationStats": {
-    "checkedThisRun": 1,
-    "active": 1,
+    "checkedThisRun": 3,
+    "active": 3,
     "broken": 0,
     "unknown": 0
   },
   "articles": [
     {
-      "id": "gdelt-itss531",
+      "id": "gdelt-h104xk6",
+      "title": "Dez anos depois do  Pizzagate , teorias da conspiração permeiam o meio político dos EUA , com o aval de Trump",
+      "sourceName": "O Globo Mundo",
+      "sourceUrl": "https://oglobo.globo.com/mundo/",
+      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
+      "sourceEditorial": "Jornal diário (Grupo Globo) - Conteúdo sob assinatura",
+      "country": "Brasil",
+      "paywall": true,
+      "originalUrl": "https://oglobo.globo.com/mundo/noticia/2026/11/23/dez-anos-depois-do-pizzagate-teorias-da-conspiracao-permeiam-o-meio-politico-dos-eua-com-o-aval-de-trump.ghtml",
+      "publishedAtStr": "2026-11-23T03:30:00Z",
+      "publishedAtTs": 1795404600000,
+      "rawContent": "Dez anos depois do  Pizzagate , teorias da conspiração permeiam o meio político dos EUA , com o aval de Trump",
+      "linkStatus": "active",
+      "lastChecked": 1795434887320
+    },
+    {
+      "id": "gdelt-e4ze801",
+      "title": "Bombardeios russos deixam dez mortos na região de Kiev",
+      "sourceName": "O Globo Mundo",
+      "sourceUrl": "https://oglobo.globo.com/mundo/",
+      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
+      "sourceEditorial": "Jornal diário (Grupo Globo) - Conteúdo sob assinatura",
+      "country": "Brasil",
+      "paywall": true,
+      "originalUrl": "https://oglobo.globo.com/mundo/noticia/2026/11/22/bombardeios-russos-deixam-dez-mortos-na-regiao-de-kiev.ghtml",
+      "publishedAtStr": "2026-11-23T03:30:00Z",
+      "publishedAtTs": 1795404600000,
+      "rawContent": "Bombardeios russos deixam dez mortos na região de Kiev",
+      "linkStatus": "active",
+      "lastChecked": 1795434887320
+    },
+    {
+      "id": "gdelt-tdfqg2g",
+      "title": "Kim Jong - Un diz que Coreia do Norte busca segurança , não supremacia , e fala em  desenvolver relações exteriores",
+      "sourceName": "O Globo Mundo",
+      "sourceUrl": "https://oglobo.globo.com/mundo/",
+      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
+      "sourceEditorial": "Jornal diário (Grupo Globo) - Conteúdo sob assinatura",
+      "country": "Brasil",
+      "paywall": true,
+      "originalUrl": "https://oglobo.globo.com/mundo/noticia/2026/11/22/kim-jong-un-diz-que-coreia-do-norte-busca-seguranca-nao-supremacia-e-fala-em-desenvolver-relacoes-exteriores.ghtml",
+      "publishedAtStr": "2026-11-23T03:30:00Z",
+      "publishedAtTs": 1795404600000,
+      "rawContent": "Kim Jong - Un diz que Coreia do Norte busca segurança , não supremacia , e fala em  desenvolver relações exteriores",
+      "linkStatus": "active",
+      "lastChecked": 1795434887320
+    },
+    {
+      "id": "gdelt-kji4l01",
       "title": "Mexicanos são presos pelo ICE em aeroporto dos EUA :  Assustador , diz governador",
       "sourceName": "Estadão Internacional",
       "sourceUrl": "https://www.estadao.com.br/internacional/",
@@ -26,7 +74,7 @@
       "lastChecked": 1795402223143
     },
     {
-      "id": "gdelt-awgflq5",
+      "id": "gdelt-0q11pbu",
       "title": "Chile tem maior tombo do PIB desde 2020 , e BC vê recuperação mais lenta",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -42,7 +90,7 @@
       "lastChecked": 1795385354716
     },
     {
-      "id": "gdelt-oycpn55",
+      "id": "gdelt-28khaew",
       "title": "Chitãozinho e Xororó anunciam aposentadoria dos palcos – mas não do agro",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -58,7 +106,7 @@
       "lastChecked": 1795385354716
     },
     {
-      "id": "gdelt-9qct9qc",
+      "id": "gdelt-8xy4n4c",
       "title": "Voos , bancos e e - mail fora do ar : EUA admitem que vem mais pane por aí",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -74,7 +122,7 @@
       "lastChecked": 1795385354716
     },
     {
-      "id": "gdelt-3vxlxka",
+      "id": "gdelt-kq8c45e",
       "title": "Estrondos de madrugada assustam moradores de Barretos ( SP ); USP investiga causa",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -90,7 +138,7 @@
       "lastChecked": 1795385354716
     },
     {
-      "id": "gdelt-s1sxkuc",
+      "id": "gdelt-gm4wher",
       "title": "Bolsas chinesas flexibilizam requisitos para operações com margem",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -106,7 +154,7 @@
       "lastChecked": 1795385354716
     },
     {
-      "id": "gdelt-6ne4ptg",
+      "id": "gdelt-q87mgex",
       "title": "Falha em sistema atrasa todos os voos da Delta em Atlanta , EUA",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -122,7 +170,7 @@
       "lastChecked": 1795385354716
     },
     {
-      "id": "gdelt-gmrkcu7",
+      "id": "gdelt-cpwe1jk",
       "title": "Uma minoria pode descarrilar tudo : UE explica por que rejeitou acordo da COP31",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -138,7 +186,7 @@
       "lastChecked": 1795385354716
     },
     {
-      "id": "gdelt-5ubgikw",
+      "id": "gdelt-pcg6mb3",
       "title": "Black Friday ? As 10 aes com maior queda de um dos múltiplos mais usados no mercado",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
@@ -154,7 +202,7 @@
       "lastChecked": 1795385354716
     },
     {
-      "id": "gdelt-eea4fj3",
+      "id": "gdelt-hquic1d",
       "title": "Moraes manda retirar tornozeleira de Bolsonaro enquanto ele estiver na UTI",
       "sourceName": "InfoMoney",
       "sourceUrl": "https://www.infomoney.com.br/",
