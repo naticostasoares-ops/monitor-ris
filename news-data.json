@@ -1,16 +1,128 @@
 {
-  "updatedAt": "2026-11-26T13:47:54.741Z",
+  "updatedAt": "2026-11-26T22:43:20.148Z",
   "periodUsed": "24h",
-  "count": 10,
+  "count": 17,
   "linkVerificationStats": {
-    "checkedThisRun": 10,
-    "active": 10,
+    "checkedThisRun": 7,
+    "active": 7,
     "broken": 0,
     "unknown": 0
   },
   "articles": [
     {
-      "id": "gdelt-jfkmr0w",
+      "id": "gdelt-k3g8bng",
+      "title": "Cotado para premiê de Israel , Eisenkot anuncia acordo de coalizão com partido de esquerda",
+      "sourceName": "Veja Mundo",
+      "sourceUrl": "https://veja.abril.com.br/mundo/",
+      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
+      "sourceEditorial": "Revista semanal - Conteúdo sob assinatura parcial",
+      "country": "Brasil",
+      "paywall": true,
+      "originalUrl": "https://veja.abril.com.br/mundo/cotado-para-premie-de-israel-eisenkot-anuncia-acordo-de-coalizao-com-partido-de-esquerda/",
+      "publishedAtStr": "2026-11-26T22:15:00Z",
+      "publishedAtTs": 1795731300000,
+      "rawContent": "Cotado para premiê de Israel , Eisenkot anuncia acordo de coalizão com partido de esquerda",
+      "linkStatus": "active",
+      "lastChecked": 1795732996010
+    },
+    {
+      "id": "gdelt-jsrbh9n",
+      "title": "Queda da Bolsa abre espaço para dividendos de até 20 % ao ano , vê XP Asset",
+      "sourceName": "InfoMoney",
+      "sourceUrl": "https://www.infomoney.com.br/",
+      "sourceType": "Imprensa Comercial Brasileira",
+      "sourceEditorial": "Portal especializado em mercados e economia global",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://www.infomoney.com.br/onde-investir/queda-da-bolsa-abre-espaco-para-dividendos-de-ate-20-ao-ano-ve-xp-asset/",
+      "publishedAtStr": "2026-11-26T20:45:00Z",
+      "publishedAtTs": 1795725900000,
+      "rawContent": "Queda da Bolsa abre espaço para dividendos de até 20 % ao ano , vê XP Asset",
+      "linkStatus": "active",
+      "lastChecked": 1795732996010
+    },
+    {
+      "id": "gdelt-5tcrnj3",
+      "title": "Líder do PT diz que Trabuco  pode não ser a melhor opo  para Fazenda",
+      "sourceName": "InfoMoney",
+      "sourceUrl": "https://www.infomoney.com.br/",
+      "sourceType": "Imprensa Comercial Brasileira",
+      "sourceEditorial": "Portal especializado em mercados e economia global",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://www.infomoney.com.br/politica/lider-do-pt-diz-que-trabuco-pode-nao-ser-a-melhor-opcao-para-fazenda/",
+      "publishedAtStr": "2026-11-26T20:45:00Z",
+      "publishedAtTs": 1795725900000,
+      "rawContent": "Líder do PT diz que Trabuco  pode não ser a melhor opo  para Fazenda",
+      "linkStatus": "active",
+      "lastChecked": 1795732996010
+    },
+    {
+      "id": "gdelt-2oywvwm",
+      "title": "12 papéis sobem mais de 6 % em dia de euforia na Bolsa , com alívio dos juros futuros",
+      "sourceName": "InfoMoney",
+      "sourceUrl": "https://www.infomoney.com.br/",
+      "sourceType": "Imprensa Comercial Brasileira",
+      "sourceEditorial": "Portal especializado em mercados e economia global",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://www.infomoney.com.br/mercados/12-papeis-sobem-mais-de-6-em-dia-de-euforia-na-bolsa-bbas3-mrve3/",
+      "publishedAtStr": "2026-11-26T20:45:00Z",
+      "publishedAtTs": 1795725900000,
+      "rawContent": "12 papéis sobem mais de 6 % em dia de euforia na Bolsa , com alívio dos juros futuros",
+      "linkStatus": "active",
+      "lastChecked": 1795732996010
+    },
+    {
+      "id": "gdelt-lcq80a3",
+      "title": "IPCA - 15 surpreende para baixo e reforça aposta em Selic  parada  por mais tempo",
+      "sourceName": "InfoMoney",
+      "sourceUrl": "https://www.infomoney.com.br/",
+      "sourceType": "Imprensa Comercial Brasileira",
+      "sourceEditorial": "Portal especializado em mercados e economia global",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://www.infomoney.com.br/economia/ipca-15-surpreende-para-baixo-e-reforca-aposta-em-selic-parada-por-mais-tempo/",
+      "publishedAtStr": "2026-11-26T14:45:00Z",
+      "publishedAtTs": 1795704300000,
+      "rawContent": "IPCA - 15 surpreende para baixo e reforça aposta em Selic  parada  por mais tempo",
+      "linkStatus": "active",
+      "lastChecked": 1795732996010
+    },
+    {
+      "id": "gdelt-rxkgx4d",
+      "title": "Fora do Brasil , Flávio Bolsonaro indica R$ 79 milhões em emendas para 2027",
+      "sourceName": "InfoMoney",
+      "sourceUrl": "https://www.infomoney.com.br/",
+      "sourceType": "Imprensa Comercial Brasileira",
+      "sourceEditorial": "Portal especializado em mercados e economia global",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://www.infomoney.com.br/politica/fora-do-brasil-flavio-bolsonaro-indica-r-79-milhoes-em-emendas-para-2027/",
+      "publishedAtStr": "2026-11-26T14:45:00Z",
+      "publishedAtTs": 1795704300000,
+      "rawContent": "Fora do Brasil , Flávio Bolsonaro indica R$ 79 milhões em emendas para 2027",
+      "linkStatus": "active",
+      "lastChecked": 1795732996010
+    },
+    {
+      "id": "gdelt-lg10gaf",
+      "title": "São Martinho : JPMorgan corta recomendação para venda após balanço ; ao cai",
+      "sourceName": "InfoMoney",
+      "sourceUrl": "https://www.infomoney.com.br/",
+      "sourceType": "Imprensa Comercial Brasileira",
+      "sourceEditorial": "Portal especializado em mercados e economia global",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://www.infomoney.com.br/mercados/sao-martinho-jpmorgan-corta-recomendacao-para-venda-apos-balanco-acao-cai/",
+      "publishedAtStr": "2026-11-26T14:45:00Z",
+      "publishedAtTs": 1795704300000,
+      "rawContent": "São Martinho : JPMorgan corta recomendação para venda após balanço ; ao cai",
+      "linkStatus": "active",
+      "lastChecked": 1795732996010
+    },
+    {
+      "id": "gdelt-vqdke6y",
       "title": "Quem são as mulheres cotadas para uma indicação de Lula ao STF",
       "sourceName": "Valor Econômico",
       "sourceUrl": "https://valor.globo.com/",
@@ -26,7 +138,7 @@
       "lastChecked": 1795700870365
     },
     {
-      "id": "gdelt-zjyrf4i",
+      "id": "gdelt-3akeecs",
       "title": "Austrália aprova lei que impõe multas a empresas de tecnologia por conteúdo prejudicial",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -42,7 +154,7 @@
       "lastChecked": 1795700870365
     },
     {
-      "id": "gdelt-96xy6x9",
+      "id": "gdelt-ttz0hem",
       "title": "PGR denuncia Gustavo Gayer por desvio de verba da Câmara",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -58,7 +170,7 @@
       "lastChecked": 1795700870365
     },
     {
-      "id": "gdelt-vgnqbem",
+      "id": "gdelt-kiasuwu",
       "title": "Toffoli suspende julgamento no STF sobre a privatização da Celepar",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -74,7 +186,7 @@
       "lastChecked": 1795700870365
     },
     {
-      "id": "gdelt-k9ktgga",
+      "id": "gdelt-yztbnk7",
       "title": "TCU retira multas de Dilma Rousseff e ex - auxiliares por gestão fiscal de 2014",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -90,7 +202,7 @@
       "lastChecked": 1795700870365
     },
     {
-      "id": "gdelt-317k3t2",
+      "id": "gdelt-l81w8jm",
       "title": "Amcham participará de consulta dos EUA sobre tarifas ao Brasil",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -106,7 +218,7 @@
       "lastChecked": 1795700870365
     },
     {
-      "id": "gdelt-oq6amkj",
+      "id": "gdelt-op70pns",
       "title": "Câmara aprova marco do ensino integral com jornada mínima de 7 horas",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -122,7 +234,7 @@
       "lastChecked": 1795700870365
     },
     {
-      "id": "gdelt-tyua9ct",
+      "id": "gdelt-x61iqa0",
       "title": "Senado aprova formalização da Força Nacional do SUS ; texto vai à sano",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -138,7 +250,7 @@
       "lastChecked": 1795700870365
     },
     {
-      "id": "gdelt-z9nw7bs",
+      "id": "gdelt-oaqbsum",
       "title": "A reao do governo Lula ao possível novo tarifaço dos EUA",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
@@ -154,7 +266,7 @@
       "lastChecked": 1795700870365
     },
     {
-      "id": "gdelt-0tqe3ej",
+      "id": "gdelt-gy08b9y",
       "title": "Moraes concede autorizao excepcional a  Débora do Batom",
       "sourceName": "CartaCapital",
       "sourceUrl": "https://www.cartacapital.com.br/",
