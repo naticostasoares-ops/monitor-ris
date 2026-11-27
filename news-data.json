@@ -1,16 +1,32 @@
 {
-  "updatedAt": "2026-11-27T14:28:44.911Z",
-  "periodUsed": "24h",
-  "count": 4,
+  "updatedAt": "2026-11-27T23:03:38.733Z",
+  "periodUsed": "7d",
+  "count": 6,
   "linkVerificationStats": {
-    "checkedThisRun": 1,
-    "active": 1,
+    "checkedThisRun": 2,
+    "active": 2,
     "broken": 0,
     "unknown": 0
   },
   "articles": [
     {
-      "id": "gdelt-04hqbk4",
+      "id": "gdelt-0qtubcw",
+      "title": "Líder da seita do jejum é considerado culpado por 123 mortes",
+      "sourceName": "G1 Mundo",
+      "sourceUrl": "https://g1.globo.com/mundo/",
+      "sourceType": "Imprensa Comercial Brasileira",
+      "sourceEditorial": "Portal de notícias mainstream do Grupo Globo",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://g1.globo.com/mundo/noticia/2026/11/27/lider-da-seita-do-jejum-e-considerado-culpado-pela-morte-de-123-pessoas-no-quenia.ghtml",
+      "publishedAtStr": "2026-11-27T20:30:00Z",
+      "publishedAtTs": 1795811400000,
+      "rawContent": "Líder da seita do jejum é considerado culpado por 123 mortes",
+      "linkStatus": "active",
+      "lastChecked": 1795820617015
+    },
+    {
+      "id": "gdelt-039e5iz",
       "title": "Os golpistas que criaram até reality show com vítima para enganá - la",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -26,7 +42,7 @@
       "lastChecked": 1795789723715
     },
     {
-      "id": "gdelt-t5ns8oy",
+      "id": "gdelt-e1ggx67",
       "title": "Partido de oposio na Espanha gera polêmica ao usar IA para trocar camisa de Pedro Sánchez pela de Marrocos",
       "sourceName": "O Globo Mundo",
       "sourceUrl": "https://oglobo.globo.com/mundo/",
@@ -42,7 +58,7 @@
       "lastChecked": 1795754389301
     },
     {
-      "id": "gdelt-u4mmuoy",
+      "id": "gdelt-c4dsbc7",
       "title": "Venezuela revogará lei que tornava opositores inelegíveis pelo resto da vida , diz chefe do Parlamento",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -58,7 +74,7 @@
       "lastChecked": 1795754389301
     },
     {
-      "id": "gdelt-4ss3lri",
+      "id": "gdelt-apfb2yf",
       "title": "Inundação em mina ilegal de ouro deixa 13 mortos na Indonésia ; outras 13 pessoas estão desaparecidas",
       "sourceName": "O Globo Mundo",
       "sourceUrl": "https://oglobo.globo.com/mundo/",
@@ -72,6 +88,22 @@
       "rawContent": "Inundação em mina ilegal de ouro deixa 13 mortos na Indonésia ; outras 13 pessoas estão desaparecidas",
       "linkStatus": "active",
       "lastChecked": 1795754389301
+    },
+    {
+      "id": "gdelt-x761ei2",
+      "title": "Imigrante ganha na loteria e é preso pelo ICE uma semana depois",
+      "sourceName": "G1 Mundo",
+      "sourceUrl": "https://g1.globo.com/mundo/",
+      "sourceType": "Imprensa Comercial Brasileira",
+      "sourceEditorial": "Portal de notícias mainstream do Grupo Globo",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://g1.globo.com/mundo/noticia/2026/11/26/uma-semana-apos-ganhar-us-1-milhao-na-loteria-imigrante-e-preso-pelo-ice-nos-eua.ghtml",
+      "publishedAtStr": "2026-11-26T03:30:00Z",
+      "publishedAtTs": 1795663800000,
+      "rawContent": "Imigrante ganha na loteria e é preso pelo ICE uma semana depois",
+      "linkStatus": "active",
+      "lastChecked": 1795820617015
     }
   ]
 }
