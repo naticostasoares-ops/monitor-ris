@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-11-27T23:03:38.733Z",
-  "periodUsed": "7d",
-  "count": 6,
+  "updatedAt": "2026-11-28T04:38:46.141Z",
+  "periodUsed": "24h",
+  "count": 4,
   "linkVerificationStats": {
     "checkedThisRun": 2,
     "active": 2,
@@ -10,7 +10,39 @@
   },
   "articles": [
     {
-      "id": "gdelt-0qtubcw",
+      "id": "gdelt-tykaf7x",
+      "title": "Aviões comerciais batem enquanto se preparavam para decolar nos EUA",
+      "sourceName": "G1 Mundo",
+      "sourceUrl": "https://g1.globo.com/mundo/",
+      "sourceType": "Imprensa Comercial Brasileira",
+      "sourceEditorial": "Portal de notícias mainstream do Grupo Globo",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://g1.globo.com/mundo/noticia/2026/11/27/avioes-comerciais-batem-enquanto-se-preparavam-para-decolar-no-aeroporto-de-washington-nos-eua.ghtml",
+      "publishedAtStr": "2026-11-28T00:15:00Z",
+      "publishedAtTs": 1795824900000,
+      "rawContent": "Aviões comerciais batem enquanto se preparavam para decolar nos EUA",
+      "linkStatus": "active",
+      "lastChecked": 1795840723381
+    },
+    {
+      "id": "gdelt-w5x5mqh",
+      "title": "Ministério Público do Canadá pede 25 anos de prisão para homem suspeito de colaborar com 93 suicídios",
+      "sourceName": "G1 Mundo",
+      "sourceUrl": "https://g1.globo.com/mundo/",
+      "sourceType": "Imprensa Comercial Brasileira",
+      "sourceEditorial": "Portal de notícias mainstream do Grupo Globo",
+      "country": "Brasil",
+      "paywall": false,
+      "originalUrl": "https://g1.globo.com/mundo/noticia/2026/11/27/ministerio-publico-do-canada-pede-25-anos-de-prisao-para-homem-suspeito-de-colaborar-com-93-suicidios.ghtml",
+      "publishedAtStr": "2026-11-27T22:45:00Z",
+      "publishedAtTs": 1795819500000,
+      "rawContent": "Ministério Público do Canadá pede 25 anos de prisão para homem suspeito de colaborar com 93 suicídios",
+      "linkStatus": "active",
+      "lastChecked": 1795840723381
+    },
+    {
+      "id": "gdelt-b84c0gt",
       "title": "Líder da seita do jejum é considerado culpado por 123 mortes",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -26,7 +58,7 @@
       "lastChecked": 1795820617015
     },
     {
-      "id": "gdelt-039e5iz",
+      "id": "gdelt-au8leig",
       "title": "Os golpistas que criaram até reality show com vítima para enganá - la",
       "sourceName": "G1 Mundo",
       "sourceUrl": "https://g1.globo.com/mundo/",
@@ -40,70 +72,6 @@
       "rawContent": "Os golpistas que criaram até reality show com vítima para enganá - la",
       "linkStatus": "active",
       "lastChecked": 1795789723715
-    },
-    {
-      "id": "gdelt-e1ggx67",
-      "title": "Partido de oposio na Espanha gera polêmica ao usar IA para trocar camisa de Pedro Sánchez pela de Marrocos",
-      "sourceName": "O Globo Mundo",
-      "sourceUrl": "https://oglobo.globo.com/mundo/",
-      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
-      "sourceEditorial": "Jornal diário (Grupo Globo) - Conteúdo sob assinatura",
-      "country": "Brasil",
-      "paywall": true,
-      "originalUrl": "https://oglobo.globo.com/mundo/noticia/2026/11/26/partido-de-oposicao-na-espanha-gera-polemica-ao-usar-ia-para-trocar-camisa-de-pedro-sanchez-pela-de-marrocos.ghtml",
-      "publishedAtStr": "2026-11-27T01:45:00Z",
-      "publishedAtTs": 1795743900000,
-      "rawContent": "Partido de oposio na Espanha gera polêmica ao usar IA para trocar camisa de Pedro Sánchez pela de Marrocos",
-      "linkStatus": "active",
-      "lastChecked": 1795754389301
-    },
-    {
-      "id": "gdelt-c4dsbc7",
-      "title": "Venezuela revogará lei que tornava opositores inelegíveis pelo resto da vida , diz chefe do Parlamento",
-      "sourceName": "G1 Mundo",
-      "sourceUrl": "https://g1.globo.com/mundo/",
-      "sourceType": "Imprensa Comercial Brasileira",
-      "sourceEditorial": "Portal de notícias mainstream do Grupo Globo",
-      "country": "Brasil",
-      "paywall": false,
-      "originalUrl": "https://g1.globo.com/mundo/noticia/2026/11/26/venezuela-revogara-lei-que-torna-opositores-inelegiveis-pelo-resto-da-vida-diz-chefe-do-parlamento.ghtml",
-      "publishedAtStr": "2026-11-26T22:30:00Z",
-      "publishedAtTs": 1795732200000,
-      "rawContent": "Venezuela revogará lei que tornava opositores inelegíveis pelo resto da vida , diz chefe do Parlamento",
-      "linkStatus": "active",
-      "lastChecked": 1795754389301
-    },
-    {
-      "id": "gdelt-apfb2yf",
-      "title": "Inundação em mina ilegal de ouro deixa 13 mortos na Indonésia ; outras 13 pessoas estão desaparecidas",
-      "sourceName": "O Globo Mundo",
-      "sourceUrl": "https://oglobo.globo.com/mundo/",
-      "sourceType": "Imprensa Comercial (Assinatura/Paywall)",
-      "sourceEditorial": "Jornal diário (Grupo Globo) - Conteúdo sob assinatura",
-      "country": "Brasil",
-      "paywall": true,
-      "originalUrl": "https://oglobo.globo.com/mundo/noticia/2026/11/26/inundacao-em-mina-ilegal-de-ouro-deixa-13-mortos-na-indonesia-outras-13-pessoas-estao-desaparecidas.ghtml",
-      "publishedAtStr": "2026-11-26T20:45:00Z",
-      "publishedAtTs": 1795725900000,
-      "rawContent": "Inundação em mina ilegal de ouro deixa 13 mortos na Indonésia ; outras 13 pessoas estão desaparecidas",
-      "linkStatus": "active",
-      "lastChecked": 1795754389301
-    },
-    {
-      "id": "gdelt-x761ei2",
-      "title": "Imigrante ganha na loteria e é preso pelo ICE uma semana depois",
-      "sourceName": "G1 Mundo",
-      "sourceUrl": "https://g1.globo.com/mundo/",
-      "sourceType": "Imprensa Comercial Brasileira",
-      "sourceEditorial": "Portal de notícias mainstream do Grupo Globo",
-      "country": "Brasil",
-      "paywall": false,
-      "originalUrl": "https://g1.globo.com/mundo/noticia/2026/11/26/uma-semana-apos-ganhar-us-1-milhao-na-loteria-imigrante-e-preso-pelo-ice-nos-eua.ghtml",
-      "publishedAtStr": "2026-11-26T03:30:00Z",
-      "publishedAtTs": 1795663800000,
-      "rawContent": "Imigrante ganha na loteria e é preso pelo ICE uma semana depois",
-      "linkStatus": "active",
-      "lastChecked": 1795820617015
     }
   ]
 }
